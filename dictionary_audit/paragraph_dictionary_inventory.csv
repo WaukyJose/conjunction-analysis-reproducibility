@@ -1,0 +1,777 @@
+level,macro_category,subcategory,relation,taxis,connector
+inter_paragraph,Elaboration,Appositive,,,in other words
+inter_paragraph,Elaboration,Appositive,,,that is
+inter_paragraph,Elaboration,Appositive,,,this is
+inter_paragraph,Elaboration,Appositive,,,i.e.
+inter_paragraph,Elaboration,Appositive,,,viz.
+inter_paragraph,Elaboration,Appositive,,,to put it another way
+inter_paragraph,Elaboration,Appositive,,,to rephrase
+inter_paragraph,Elaboration,Appositive,,,that is to say
+inter_paragraph,Elaboration,Appositive,,,namely
+inter_paragraph,Elaboration,Appositive,,,in plain terms
+inter_paragraph,Elaboration,Appositive,,,to clarify
+inter_paragraph,Elaboration,Appositive,,,to spell out
+inter_paragraph,Elaboration,Appositive,,,meaning
+inter_paragraph,Elaboration,Appositive,,,as in
+inter_paragraph,Elaboration,Appositive,,,in essence
+inter_paragraph,Elaboration,Appositive,,,that
+inter_paragraph,Elaboration,Appositive,,,in other terms
+inter_paragraph,Elaboration,Appositive,,,put differently
+inter_paragraph,Elaboration,Appositive,,,to put it simply
+inter_paragraph,Elaboration,Appositive,,,simply put
+inter_paragraph,Elaboration,Appositive,,,in simpler terms
+inter_paragraph,Elaboration,Appositive,,,to put it bluntly
+inter_paragraph,Elaboration,Appositive,,,in short
+inter_paragraph,Elaboration,Appositive,,,in brief
+inter_paragraph,Elaboration,Appositive,,,essentially
+inter_paragraph,Elaboration,Appositive,,,fundamentally
+inter_paragraph,Elaboration,Appositive,,,at its core
+inter_paragraph,Elaboration,Appositive,,,to summarise
+inter_paragraph,Elaboration,Appositive,,,to restate
+inter_paragraph,Elaboration,Appositive,,,stated differently
+inter_paragraph,Elaboration,Appositive,,,put another way
+inter_paragraph,Elaboration,Appositive,,,in effect
+inter_paragraph,Elaboration,Exemplifying,,,for example
+inter_paragraph,Elaboration,Exemplifying,,,e.g.
+inter_paragraph,Elaboration,Exemplifying,,,for instance
+inter_paragraph,Elaboration,Exemplifying,,,to illustrate
+inter_paragraph,Elaboration,Exemplifying,,,as an example
+inter_paragraph,Elaboration,Exemplifying,,,by way of illustration
+inter_paragraph,Elaboration,Exemplifying,,,a case in point
+inter_paragraph,Elaboration,Exemplifying,,,take the case of
+inter_paragraph,Elaboration,Exemplifying,,,consider
+inter_paragraph,Elaboration,Exemplifying,,,notably
+inter_paragraph,Elaboration,Exemplifying,,,including
+inter_paragraph,Elaboration,Exemplifying,,,such as
+inter_paragraph,Elaboration,Exemplifying,,,among others
+inter_paragraph,Elaboration,Exemplifying,,,to name a few
+inter_paragraph,Elaboration,Exemplifying,,,specifically
+inter_paragraph,Elaboration,Exemplifying,,,chiefly
+inter_paragraph,Elaboration,Exemplifying,,,principally
+inter_paragraph,Elaboration,Exemplifying,,,as an illustration
+inter_paragraph,Elaboration,Exemplifying,,,as shown by
+inter_paragraph,Elaboration,Exemplifying,,,to give an example
+inter_paragraph,Elaboration,Exemplifying,,,to give a concrete example
+inter_paragraph,Elaboration,Exemplifying,,,as evidence
+inter_paragraph,Elaboration,Exemplifying,,,to illustrate this further
+inter_paragraph,Elaboration,Exemplifying,,,as demonstrated by
+inter_paragraph,Elaboration,Exemplifying,,,as evidenced by
+inter_paragraph,Elaboration,Exemplifying,,,consider the following
+inter_paragraph,Elaboration,Exemplifying,,,"take, for example"
+inter_paragraph,Elaboration,Exemplifying,,,"take, for instance"
+inter_paragraph,Elaboration,Exemplifying,,,in particular
+inter_paragraph,Elaboration,Exemplifying,,,most notably
+inter_paragraph,Elaboration,Exemplifying,,,specifically speaking
+inter_paragraph,Elaboration,Exemplifying,,,especially
+inter_paragraph,Elaboration,Exemplifying,,,as reflected in
+inter_paragraph,Elaboration,Clarifying,Corrective,,or rather
+inter_paragraph,Elaboration,Clarifying,Corrective,,at least
+inter_paragraph,Elaboration,Clarifying,Corrective,,to be more precise
+inter_paragraph,Elaboration,Clarifying,Corrective,,strictly speaking
+inter_paragraph,Elaboration,Clarifying,Corrective,,technically
+inter_paragraph,Elaboration,Clarifying,Corrective,,more accurately
+inter_paragraph,Elaboration,Clarifying,Corrective,,properly speaking
+inter_paragraph,Elaboration,Clarifying,Corrective,,in strict terms
+inter_paragraph,Elaboration,Clarifying,Corrective,,maybe
+inter_paragraph,Elaboration,Clarifying,Corrective,,perhaps
+inter_paragraph,Elaboration,Clarifying,Corrective,,rather
+inter_paragraph,Elaboration,Clarifying,Corrective,,more precisely
+inter_paragraph,Elaboration,Clarifying,Corrective,,to be exact
+inter_paragraph,Elaboration,Clarifying,Corrective,,more specifically
+inter_paragraph,Elaboration,Clarifying,Corrective,,more strictly speaking
+inter_paragraph,Elaboration,Clarifying,Corrective,,to be technical
+inter_paragraph,Elaboration,Clarifying,Corrective,,put more accurately
+inter_paragraph,Elaboration,Clarifying,Corrective,,to be clear
+inter_paragraph,Elaboration,Clarifying,Corrective,,to be completely accurate
+inter_paragraph,Elaboration,Clarifying,Corrective,,to clarify further
+inter_paragraph,Elaboration,Clarifying,Corrective,,to remove ambiguity
+inter_paragraph,Elaboration,Clarifying,Corrective,,to refine this point
+inter_paragraph,Elaboration,Clarifying,Distractive,,by the way
+inter_paragraph,Elaboration,Clarifying,Distractive,,incidentally
+inter_paragraph,Elaboration,Clarifying,Distractive,,parenthetically
+inter_paragraph,Elaboration,Clarifying,Distractive,,tangentially
+inter_paragraph,Elaboration,Clarifying,Distractive,,on a side note
+inter_paragraph,Elaboration,Clarifying,Distractive,,while we’re on the subject
+inter_paragraph,Elaboration,Clarifying,Distractive,,not unrelatedly
+inter_paragraph,Elaboration,Clarifying,Distractive,,as a side note
+inter_paragraph,Elaboration,Clarifying,Distractive,,as an aside
+inter_paragraph,Elaboration,Clarifying,Distractive,,on another note
+inter_paragraph,Elaboration,Clarifying,Distractive,,to digress briefly
+inter_paragraph,Elaboration,Clarifying,Distractive,,before I move on
+inter_paragraph,Elaboration,Clarifying,Distractive,,in passing
+inter_paragraph,Elaboration,Clarifying,Distractive,,it is worth mentioning in passing
+inter_paragraph,Elaboration,Clarifying,Dismissive,,in any case
+inter_paragraph,Elaboration,Clarifying,Dismissive,,anyway
+inter_paragraph,Elaboration,Clarifying,Dismissive,,anyhow
+inter_paragraph,Elaboration,Clarifying,Dismissive,,leaving that aside
+inter_paragraph,Elaboration,Clarifying,Dismissive,,regardless
+inter_paragraph,Elaboration,Clarifying,Dismissive,,be that as it may
+inter_paragraph,Elaboration,Clarifying,Dismissive,,at any rate
+inter_paragraph,Elaboration,Clarifying,Dismissive,,come what may
+inter_paragraph,Elaboration,Clarifying,Dismissive,,no matter what
+inter_paragraph,Elaboration,Clarifying,Dismissive,,whatever
+inter_paragraph,Elaboration,Clarifying,Dismissive,,in any event
+inter_paragraph,Elaboration,Clarifying,Dismissive,,even so
+inter_paragraph,Elaboration,Clarifying,Dismissive,,despite that
+inter_paragraph,Elaboration,Clarifying,Dismissive,,setting that aside
+inter_paragraph,Elaboration,Clarifying,Dismissive,,irrespective of that
+inter_paragraph,Elaboration,Clarifying,Dismissive,,all the same
+inter_paragraph,Elaboration,Clarifying,Dismissive,,in spite of that
+inter_paragraph,Elaboration,Clarifying,Dismissive,,whatever the case
+inter_paragraph,Elaboration,Clarifying,Dismissive,,notwithstanding
+inter_paragraph,Elaboration,Clarifying,Dismissive,,as things stand
+inter_paragraph,Elaboration,Clarifying,Particularizing,,in particular
+inter_paragraph,Elaboration,Clarifying,Particularizing,,more especially
+inter_paragraph,Elaboration,Clarifying,Particularizing,,not least
+inter_paragraph,Elaboration,Clarifying,Particularizing,,above all
+inter_paragraph,Elaboration,Clarifying,Particularizing,,chiefly
+inter_paragraph,Elaboration,Clarifying,Particularizing,,mainly
+inter_paragraph,Elaboration,Clarifying,Particularizing,,primarily
+inter_paragraph,Elaboration,Clarifying,Particularizing,,specifically
+inter_paragraph,Elaboration,Clarifying,Particularizing,,particularly
+inter_paragraph,Elaboration,Clarifying,Particularizing,,especially important
+inter_paragraph,Elaboration,Clarifying,Particularizing,,most notably
+inter_paragraph,Elaboration,Clarifying,Particularizing,,of particular relevance
+inter_paragraph,Elaboration,Clarifying,Particularizing,,of particular importance
+inter_paragraph,Elaboration,Clarifying,Particularizing,,crucially
+inter_paragraph,Elaboration,Clarifying,Particularizing,,importantly
+inter_paragraph,Elaboration,Clarifying,Particularizing,,most importantly
+inter_paragraph,Elaboration,Clarifying,Particularizing,,significantly
+inter_paragraph,Elaboration,Clarifying,Particularizing,,notably
+inter_paragraph,Elaboration,Clarifying,Particularizing,,particularly relevant
+inter_paragraph,Elaboration,Clarifying,Particularizing,,especially relevant
+inter_paragraph,Elaboration,Clarifying,Particularizing,,worth highlighting
+inter_paragraph,Elaboration,Clarifying,Particularizing,,worth noting
+inter_paragraph,Elaboration,Clarifying,Resumptive,,as I was saying
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to resume
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to return to the point
+inter_paragraph,Elaboration,Clarifying,Resumptive,,getting back to
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to circle back
+inter_paragraph,Elaboration,Clarifying,Resumptive,,revisiting
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to recap
+inter_paragraph,Elaboration,Clarifying,Resumptive,,picking up the thread
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to continue
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to return to my earlier point
+inter_paragraph,Elaboration,Clarifying,Resumptive,,getting back to the main point
+inter_paragraph,Elaboration,Clarifying,Resumptive,,circling back
+inter_paragraph,Elaboration,Clarifying,Resumptive,,returning to the earlier discussion
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to recap briefly
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to sum up where we were
+inter_paragraph,Elaboration,Clarifying,Resumptive,,to pick up where we left off
+inter_paragraph,Elaboration,Clarifying,Resumptive,,resuming the previous line of thought
+inter_paragraph,Elaboration,Clarifying,Summative,,after all
+inter_paragraph,Elaboration,Clarifying,Summative,,in short
+inter_paragraph,Elaboration,Clarifying,Summative,,to sum up
+inter_paragraph,Elaboration,Clarifying,Summative,,in conclusion
+inter_paragraph,Elaboration,Clarifying,Summative,,briefly
+inter_paragraph,Elaboration,Clarifying,Summative,,in a nutshell
+inter_paragraph,Elaboration,Clarifying,Summative,,to summarize
+inter_paragraph,Elaboration,Clarifying,Summative,,all in all
+inter_paragraph,Elaboration,Clarifying,Summative,,in summary
+inter_paragraph,Elaboration,Clarifying,Summative,,ultimately
+inter_paragraph,Elaboration,Clarifying,Summative,,in the final analysis
+inter_paragraph,Elaboration,Clarifying,Summative,,when all is said and done
+inter_paragraph,Elaboration,Clarifying,Summative,,summation
+inter_paragraph,Elaboration,Clarifying,Summative,,in sum
+inter_paragraph,Elaboration,Clarifying,Summative,,overall
+inter_paragraph,Elaboration,Clarifying,Summative,,finally
+inter_paragraph,Elaboration,Clarifying,Summative,,to conclude
+inter_paragraph,Elaboration,Clarifying,Summative,,to conclude briefly
+inter_paragraph,Elaboration,Clarifying,Summative,,to bring this together
+inter_paragraph,Elaboration,Clarifying,Summative,,to round off
+inter_paragraph,Elaboration,Clarifying,Summative,,to summarise the key point
+inter_paragraph,Elaboration,Clarifying,Summative,,in closing
+inter_paragraph,Elaboration,Clarifying,Summative,,in drawing things together
+inter_paragraph,Elaboration,Clarifying,Summative,,to wrap up
+inter_paragraph,Elaboration,Clarifying,Summative,,"overall, then"
+inter_paragraph,Elaboration,Clarifying,Summative,,to finalise
+inter_paragraph,Elaboration,Clarifying,Summative,,to close the discussion
+inter_paragraph,Elaboration,Clarifying,Summative,,to bring the discussion to a close
+inter_paragraph,Elaboration,Clarifying,Summative,,to sum the argument
+inter_paragraph,Elaboration,Clarifying,Summative,,taken together
+inter_paragraph,Elaboration,Clarifying,Summative,,viewed collectively
+inter_paragraph,Elaboration,Clarifying,Summative,,as a final point
+inter_paragraph,Elaboration,Clarifying,Verificative,,actually
+inter_paragraph,Elaboration,Clarifying,Verificative,,as a matter of fact
+inter_paragraph,Elaboration,Clarifying,Verificative,,in fact
+inter_paragraph,Elaboration,Clarifying,Verificative,,indeed
+inter_paragraph,Elaboration,Clarifying,Verificative,,truthfully
+inter_paragraph,Elaboration,Clarifying,Verificative,,really
+inter_paragraph,Elaboration,Clarifying,Verificative,,to tell the truth
+inter_paragraph,Elaboration,Clarifying,Verificative,,frankly
+inter_paragraph,Elaboration,Clarifying,Verificative,,in reality
+inter_paragraph,Elaboration,Clarifying,Verificative,,if truth be told
+inter_paragraph,Elaboration,Clarifying,Verificative,,admittedly
+inter_paragraph,Elaboration,Clarifying,Verificative,,in truth
+inter_paragraph,Elaboration,Clarifying,Verificative,,truly
+inter_paragraph,Elaboration,Clarifying,Verificative,,in point of fact
+inter_paragraph,Elaboration,Clarifying,Verificative,,undeniably
+inter_paragraph,Elaboration,Clarifying,Verificative,,unquestionably
+inter_paragraph,Elaboration,Clarifying,Verificative,,unquestionably true
+inter_paragraph,Elaboration,Clarifying,Verificative,,unambiguously
+inter_paragraph,Elaboration,Clarifying,Verificative,,undoubtedly
+inter_paragraph,Elaboration,Clarifying,Verificative,,to be fair
+inter_paragraph,Elaboration,Clarifying,Verificative,,to be perfectly honest
+inter_paragraph,Elaboration,Clarifying,Verificative,,in actual fact
+inter_paragraph,Elaboration,Clarifying,Verificative,,the reality is
+inter_paragraph,Elaboration,Clarifying,Verificative,,to be sure
+inter_paragraph,Elaboration,Clarifying,Verificative,,certifiably
+inter_paragraph,Elaboration,Clarifying,Verificative,,without a doubt
+inter_paragraph,Extension,Addition,Positive,,another
+inter_paragraph,Extension,Addition,Positive,,and
+inter_paragraph,Extension,Addition,Positive,,also
+inter_paragraph,Extension,Addition,Positive,,furthermore
+inter_paragraph,Extension,Addition,Positive,,further
+inter_paragraph,Extension,Addition,Positive,,moreover
+inter_paragraph,Extension,Addition,Positive,,in addition
+inter_paragraph,Extension,Addition,Positive,,additionally
+inter_paragraph,Extension,Addition,Positive,,besides
+inter_paragraph,Extension,Addition,Positive,,not to mention
+inter_paragraph,Extension,Addition,Positive,,let alone
+inter_paragraph,Extension,Addition,Positive,,plus
+inter_paragraph,Extension,Addition,Positive,,coupled with
+inter_paragraph,Extension,Addition,Positive,,alongside
+inter_paragraph,Extension,Addition,Positive,,equally
+inter_paragraph,Extension,Addition,Positive,,likewise
+inter_paragraph,Extension,Addition,Positive,,similarly
+inter_paragraph,Extension,Addition,Positive,,by the same token
+inter_paragraph,Extension,Addition,Positive,,what’s more
+inter_paragraph,Extension,Addition,Positive,,into the bargain
+inter_paragraph,Extension,Addition,Positive,,too
+inter_paragraph,Extension,Addition,Positive,,what is more
+inter_paragraph,Extension,Addition,Positive,,not only...but also
+inter_paragraph,Extension,Addition,Positive,,on top of that
+inter_paragraph,Extension,Addition,Positive,,in the same way
+inter_paragraph,Extension,Addition,Positive,,as well as
+inter_paragraph,Extension,Addition,Positive,,in like manner
+inter_paragraph,Extension,Addition,Positive,,in addition to this
+inter_paragraph,Extension,Addition,Positive,,to cap it all
+inter_paragraph,Extension,Addition,Positive,,to add to this
+inter_paragraph,Extension,Addition,Positive,,furthermore to that
+inter_paragraph,Extension,Addition,Positive,,as a further point
+inter_paragraph,Extension,Addition,Positive,,equally important
+inter_paragraph,Extension,Addition,Positive,,not only that
+inter_paragraph,Extension,Addition,Positive,,to say nothing of
+inter_paragraph,Extension,Addition,Positive,,apart from that
+inter_paragraph,Extension,Addition,Positive,,what is even more
+inter_paragraph,Extension,Addition,Positive,,an additional point is
+inter_paragraph,Extension,Addition,Positive,,a further example is
+inter_paragraph,Extension,Addition,Positive,,correspondingly
+inter_paragraph,Extension,Addition,Positive,,in similar fashion
+inter_paragraph,Extension,Addition,Negative,,nor
+inter_paragraph,Extension,Addition,Negative,,neither
+inter_paragraph,Extension,Addition,Negative,,no more
+inter_paragraph,Extension,Addition,Negative,,not either
+inter_paragraph,Extension,Addition,Negative,,and not
+inter_paragraph,Extension,Addition,Negative,,nor yet
+inter_paragraph,Extension,Addition,Negative,,never
+inter_paragraph,Extension,Addition,Negative,,not once
+inter_paragraph,Extension,Addition,Negative,,not anymore
+inter_paragraph,Extension,Addition,Negative,,not in addition
+inter_paragraph,Extension,Addition,Negative,,nor indeed
+inter_paragraph,Extension,Addition,Negative,,neither...nor
+inter_paragraph,Extension,Addition,Negative,,not only...not
+inter_paragraph,Extension,Addition,Negative,,not to mention that not
+inter_paragraph,Extension,Addition,Negative,,on no account
+inter_paragraph,Extension,Addition,Negative,,under no circumstances
+inter_paragraph,Extension,Addition,Negative,,in no way
+inter_paragraph,Extension,Addition,Negative,,by no means
+inter_paragraph,Extension,Addition,Negative,,at no point
+inter_paragraph,Extension,Addition,Negative,,in none of these cases
+inter_paragraph,Extension,Adversative,,,but
+inter_paragraph,Extension,Adversative,,,yet
+inter_paragraph,Extension,Adversative,,,however
+inter_paragraph,Extension,Adversative,,,nevertheless
+inter_paragraph,Extension,Adversative,,,nonetheless
+inter_paragraph,Extension,Adversative,,,still
+inter_paragraph,Extension,Adversative,,,though
+inter_paragraph,Extension,Adversative,,,although
+inter_paragraph,Extension,Adversative,,,even though
+inter_paragraph,Extension,Adversative,,,whereas
+inter_paragraph,Extension,Adversative,,,while
+inter_paragraph,Extension,Adversative,,,whilst
+inter_paragraph,Extension,Adversative,,,on the other hand
+inter_paragraph,Extension,Adversative,,,conversely
+inter_paragraph,Extension,Adversative,,,in contrast
+inter_paragraph,Extension,Adversative,,,contrarily
+inter_paragraph,Extension,Adversative,,,oppositely
+inter_paragraph,Extension,Adversative,,,that said
+inter_paragraph,Extension,Adversative,,,having said that
+inter_paragraph,Extension,Adversative,,,despite this
+inter_paragraph,Extension,Adversative,,,be that as it may
+inter_paragraph,Extension,Adversative,,,alternatively
+inter_paragraph,Extension,Adversative,,,on the contrary
+inter_paragraph,Extension,Adversative,,,even so
+inter_paragraph,Extension,Adversative,,,having said this
+inter_paragraph,Extension,Adversative,,,in any event
+inter_paragraph,Extension,Adversative,,,by contrast
+inter_paragraph,Extension,Adversative,,,in spite of this
+inter_paragraph,Extension,Adversative,,,despite that
+inter_paragraph,Extension,Adversative,,,even then
+inter_paragraph,Extension,Adversative,,,all the same
+inter_paragraph,Extension,Adversative,,,still and all
+inter_paragraph,Extension,Adversative,,,at the same time
+inter_paragraph,Extension,Adversative,,,for all that
+inter_paragraph,Extension,Adversative,,,notwithstanding this
+inter_paragraph,Extension,Stance_Markers,,,alas
+inter_paragraph,Extension,Stance_Markers,,,unfortunately
+inter_paragraph,Extension,Stance_Markers,,,sadly
+inter_paragraph,Extension,Stance_Markers,,,regrettably
+inter_paragraph,Extension,Stance_Markers,,,ironically
+inter_paragraph,Extension,Stance_Markers,,,thankfully
+inter_paragraph,Extension,Stance_Markers,,,surprisingly
+inter_paragraph,Extension,Variation,Replacive,,on the contrary
+inter_paragraph,Extension,Variation,Replacive,,instead
+inter_paragraph,Extension,Variation,Replacive,,rather
+inter_paragraph,Extension,Variation,Replacive,,alternatively
+inter_paragraph,Extension,Variation,Replacive,,as a substitute
+inter_paragraph,Extension,Variation,Replacive,,in lieu of
+inter_paragraph,Extension,Variation,Replacive,,as opposed to
+inter_paragraph,Extension,Variation,Replacive,,contrariwise
+inter_paragraph,Extension,Variation,Replacive,,in reverse
+inter_paragraph,Extension,Variation,Replacive,,in place of
+inter_paragraph,Extension,Variation,Replacive,,in substitution for
+inter_paragraph,Extension,Variation,Replacive,,instead of
+inter_paragraph,Extension,Variation,Replacive,,in preference to
+inter_paragraph,Extension,Variation,Replacive,,in exchange for
+inter_paragraph,Extension,Variation,Replacive,,in its place
+inter_paragraph,Extension,Variation,Replacive,,in their place
+inter_paragraph,Extension,Variation,Replacive,,by way of replacement
+inter_paragraph,Extension,Variation,Replacive,,as an alternative to
+inter_paragraph,Extension,Variation,Replacive,,in return for
+inter_paragraph,Extension,Variation,Replacive,,in offset to
+inter_paragraph,Extension,Variation,Replacive,,in contradistinction to
+inter_paragraph,Extension,Variation,Replacive,,to substitute for
+inter_paragraph,Extension,Variation,Subtractive,,apart from
+inter_paragraph,Extension,Variation,Subtractive,,apart from that
+inter_paragraph,Extension,Variation,Subtractive,,except for that
+inter_paragraph,Extension,Variation,Subtractive,,except for
+inter_paragraph,Extension,Variation,Subtractive,,save for
+inter_paragraph,Extension,Variation,Subtractive,,barring
+inter_paragraph,Extension,Variation,Subtractive,,excluding
+inter_paragraph,Extension,Variation,Subtractive,,omitting
+inter_paragraph,Extension,Variation,Subtractive,,other than
+inter_paragraph,Extension,Variation,Subtractive,,outside of
+inter_paragraph,Extension,Variation,Subtractive,,aside from
+inter_paragraph,Extension,Variation,Subtractive,,but for
+inter_paragraph,Extension,Variation,Subtractive,,with the exception of
+inter_paragraph,Extension,Variation,Subtractive,,excepting
+inter_paragraph,Extension,Variation,Subtractive,,except that
+inter_paragraph,Extension,Variation,Subtractive,,except in cases where
+inter_paragraph,Extension,Variation,Subtractive,,to the exclusion of
+inter_paragraph,Extension,Variation,Subtractive,,to the exception of
+inter_paragraph,Extension,Variation,Subtractive,,exclusive of
+inter_paragraph,Extension,Variation,Subtractive,,leaving aside
+inter_paragraph,Extension,Variation,Subtractive,,setting aside
+inter_paragraph,Extension,Variation,Subtractive,,save that
+inter_paragraph,Extension,Variation,Subtractive,,save when
+inter_paragraph,Extension,Variation,Subtractive,,save in cases where
+inter_paragraph,Extension,Variation,Subtractive,,short of
+inter_paragraph,Extension,Variation,Subtractive,,minus
+inter_paragraph,Extension,Variation,Subtractive,,beyond that
+inter_paragraph,Extension,Variation,Subtractive,,apart from these
+inter_paragraph,Extension,Variation,Subtractive,,other than this
+inter_paragraph,Extension,Variation,Alternative,,or
+inter_paragraph,Extension,Variation,Alternative,,either...or
+inter_paragraph,Extension,Variation,Alternative,,whether...or
+inter_paragraph,Extension,Variation,Alternative,,else
+inter_paragraph,Extension,Variation,Alternative,,otherwise
+inter_paragraph,Extension,Variation,Alternative,,if not
+inter_paragraph,Extension,Variation,Alternative,,failing that
+inter_paragraph,Extension,Variation,Alternative,,as another option
+inter_paragraph,Extension,Variation,Alternative,,in the alternative
+inter_paragraph,Extension,Variation,Alternative,,alternatively speaking
+inter_paragraph,Extension,Variation,Alternative,,if not that
+inter_paragraph,Extension,Variation,Alternative,,or else
+inter_paragraph,Extension,Variation,Alternative,,alternatively
+inter_paragraph,Extension,Variation,Alternative,,as an alternative
+inter_paragraph,Extension,Variation,Alternative,,in other circumstances
+inter_paragraph,Extension,Variation,Alternative,,another possibility is
+inter_paragraph,Extension,Variation,Alternative,,another option is
+inter_paragraph,Extension,Variation,Alternative,,one alternative is
+inter_paragraph,Extension,Variation,Alternative,,a different option is
+inter_paragraph,Extension,Variation,Alternative,,in that case
+inter_paragraph,Extension,Variation,Alternative,,if that’s not possible
+inter_paragraph,Extension,Variation,Alternative,,in other cases
+inter_paragraph,Extension,Variation,Alternative,,failing which
+inter_paragraph,Extension,Variation,Alternative,,or failing that
+inter_paragraph,Extension,Variation,Alternative,,or alternatively
+inter_paragraph,Enhancement,Manner,Means,,thus
+inter_paragraph,Enhancement,Manner,Means,,thereby
+inter_paragraph,Enhancement,Manner,Means,,by this means
+inter_paragraph,Enhancement,Manner,Means,,via
+inter_paragraph,Enhancement,Manner,Means,,through
+inter_paragraph,Enhancement,Manner,Means,,using
+inter_paragraph,Enhancement,Manner,Means,,with
+inter_paragraph,Enhancement,Manner,Means,,by way of
+inter_paragraph,Enhancement,Manner,Means,,by virtue of
+inter_paragraph,Enhancement,Manner,Means,,by means of
+inter_paragraph,Enhancement,Manner,Means,,in the manner of
+inter_paragraph,Enhancement,Manner,Means,,in the way of
+inter_paragraph,Enhancement,Manner,Means,,in the fashion of
+inter_paragraph,Enhancement,Manner,Means,,in the style of
+inter_paragraph,Enhancement,Manner,Means,,in the form of
+inter_paragraph,Enhancement,Manner,Means,,in the guise of
+inter_paragraph,Enhancement,Manner,Means,,in the shape of
+inter_paragraph,Enhancement,Manner,Means,,in the likeness of
+inter_paragraph,Enhancement,Manner,Means,,in accordance with
+inter_paragraph,Enhancement,Manner,Means,,in doing so
+inter_paragraph,Enhancement,Manner,Means,,as a result of this
+inter_paragraph,Enhancement,Manner,Means,,through this process
+inter_paragraph,Enhancement,Manner,Means,,via this means
+inter_paragraph,Enhancement,Manner,Means,,by means
+inter_paragraph,Enhancement,Manner,Means,,by the use of
+inter_paragraph,Enhancement,Manner,Means,,by making use of
+inter_paragraph,Enhancement,Manner,Means,,by employing
+inter_paragraph,Enhancement,Manner,Means,,by applying
+inter_paragraph,Enhancement,Manner,Means,,by adopting
+inter_paragraph,Enhancement,Manner,Means,,through the use of
+inter_paragraph,Enhancement,Manner,Means,,through employing
+inter_paragraph,Enhancement,Manner,Means,,through applying
+inter_paragraph,Enhancement,Manner,Means,,through adopting
+inter_paragraph,Enhancement,Manner,Means,,through utilising
+inter_paragraph,Enhancement,Manner,Means,,via the use of
+inter_paragraph,Enhancement,Manner,Means,,by utilising
+inter_paragraph,Enhancement,Manner,Means,,by way of employing
+inter_paragraph,Enhancement,Manner,Means,,by way of applying
+inter_paragraph,Enhancement,Manner,Means,,by leveraging
+inter_paragraph,Enhancement,Manner,Means,,by harnessing
+inter_paragraph,Enhancement,Manner,Means,,in employing this method
+inter_paragraph,Enhancement,Manner,Means,,in applying this approach
+inter_paragraph,Enhancement,Manner,Means,,using this method
+inter_paragraph,Enhancement,Manner,Means,,using this procedure
+inter_paragraph,Enhancement,Manner,Means,,using this approach
+inter_paragraph,Enhancement,Manner,Means,,with this method
+inter_paragraph,Enhancement,Manner,Means,,with this procedure
+inter_paragraph,Enhancement,Manner,Means,,with this approach
+inter_paragraph,Enhancement,Manner,Means,,by following this procedure
+inter_paragraph,Enhancement,Manner,Means,,through following this procedure
+inter_paragraph,Enhancement,Manner,Means,,in this manner
+inter_paragraph,Enhancement,Manner,Means,,in this way
+inter_paragraph,Enhancement,Manner,Means,,in that manner
+inter_paragraph,Enhancement,Manner,Means,,in that way
+inter_paragraph,Enhancement,Manner,Means,,in such a way
+inter_paragraph,Enhancement,Manner,Means,,thereby achieving
+inter_paragraph,Enhancement,Manner,Means,,thereby producing
+inter_paragraph,Enhancement,Manner,Means,,thereby enabling
+inter_paragraph,Enhancement,Manner,Means,,thereby facilitating
+inter_paragraph,Enhancement,Causal-Conditional,General,,so
+inter_paragraph,Enhancement,Causal-Conditional,General,,therefore
+inter_paragraph,Enhancement,Causal-Conditional,General,,thus
+inter_paragraph,Enhancement,Causal-Conditional,General,,hence
+inter_paragraph,Enhancement,Causal-Conditional,General,,consequently
+inter_paragraph,Enhancement,Causal-Conditional,General,,accordingly
+inter_paragraph,Enhancement,Causal-Conditional,General,,ergo
+inter_paragraph,Enhancement,Causal-Conditional,General,,for this reason
+inter_paragraph,Enhancement,Causal-Conditional,General,,as a result
+inter_paragraph,Enhancement,Causal-Conditional,General,,that being the case
+inter_paragraph,Enhancement,Causal-Conditional,General,,under the circumstances
+inter_paragraph,Enhancement,Causal-Conditional,General,,for that reason
+inter_paragraph,Enhancement,Causal-Conditional,General,,as such
+inter_paragraph,Enhancement,Causal-Conditional,General,,henceforth
+inter_paragraph,Enhancement,Causal-Conditional,General,,for these reasons
+inter_paragraph,Enhancement,Causal-Conditional,General,,for all these reasons
+inter_paragraph,Enhancement,Causal-Conditional,General,,in consequence
+inter_paragraph,Enhancement,Causal-Conditional,General,,in turn
+inter_paragraph,Enhancement,Causal-Conditional,General,,in effect
+inter_paragraph,Enhancement,Causal-Conditional,General,,in that case
+inter_paragraph,Enhancement,Causal-Conditional,General,,in which case
+inter_paragraph,Enhancement,Causal-Conditional,General,,as a consequence
+inter_paragraph,Enhancement,Causal-Conditional,General,,as a consequence of this
+inter_paragraph,Enhancement,Causal-Conditional,General,,for this very reason
+inter_paragraph,Enhancement,Causal-Conditional,General,,because of this
+inter_paragraph,Enhancement,Causal-Conditional,General,,due to this
+inter_paragraph,Enhancement,Causal-Conditional,General,,stemming from this
+inter_paragraph,Enhancement,Causal-Conditional,General,,arising from this
+inter_paragraph,Enhancement,Causal-Conditional,General,,following this
+inter_paragraph,Enhancement,Causal-Conditional,General,,as a direct result
+inter_paragraph,Enhancement,Causal-Conditional,General,,as a logical result
+inter_paragraph,Enhancement,Causal-Conditional,General,,as a natural result
+inter_paragraph,Enhancement,Causal-Conditional,General,,from this it follows that
+inter_paragraph,Enhancement,Causal-Conditional,General,,it follows that
+inter_paragraph,Enhancement,Causal-Conditional,General,,therefore it follows that
+inter_paragraph,Enhancement,Causal-Conditional,General,,accordingly it follows
+inter_paragraph,Enhancement,Causal-Conditional,General,,by extension
+inter_paragraph,Enhancement,Causal-Conditional,General,,by implication
+inter_paragraph,Enhancement,Causal-Conditional,General,,consequently enough
+inter_paragraph,Enhancement,Causal-Conditional,General,,thus enough
+inter_paragraph,Enhancement,Causal-Conditional,General,,so then
+inter_paragraph,Enhancement,Causal-Conditional,General,,then
+inter_paragraph,Enhancement,Causal-Conditional,General,,that’s why
+inter_paragraph,Enhancement,Causal-Conditional,General,,which is why
+inter_paragraph,Enhancement,Causal-Conditional,General,,hence therefore
+inter_paragraph,Enhancement,Causal-Conditional,General,,hence thus
+inter_paragraph,Enhancement,Causal-Conditional,General,,thus consequently
+inter_paragraph,Enhancement,Causal-Conditional,General,,for that very reason
+inter_paragraph,Enhancement,Causal-Conditional,Result,,in consequence
+inter_paragraph,Enhancement,Causal-Conditional,Result,,as a consequence
+inter_paragraph,Enhancement,Causal-Conditional,Result,,resultantly
+inter_paragraph,Enhancement,Causal-Conditional,Result,,inevitably
+inter_paragraph,Enhancement,Causal-Conditional,Result,,necessarily
+inter_paragraph,Enhancement,Causal-Conditional,Result,,followingly
+inter_paragraph,Enhancement,Causal-Conditional,Result,,subsequently
+inter_paragraph,Enhancement,Causal-Conditional,Result,,result
+inter_paragraph,Enhancement,Causal-Conditional,Result,,results
+inter_paragraph,Enhancement,Causal-Conditional,Result,,as a result of this
+inter_paragraph,Enhancement,Causal-Conditional,Result,,so that the result is
+inter_paragraph,Enhancement,Causal-Conditional,Result,,with the outcome that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,as a result
+inter_paragraph,Enhancement,Causal-Conditional,Result,,consequently
+inter_paragraph,Enhancement,Causal-Conditional,Result,,"thus, the outcome is"
+inter_paragraph,Enhancement,Causal-Conditional,Result,,thus the result is
+inter_paragraph,Enhancement,Causal-Conditional,Result,,the result is that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,the effect is that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,with the result that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,with the effect that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,thereby causing
+inter_paragraph,Enhancement,Causal-Conditional,Result,,thereby leading to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,thereby producing
+inter_paragraph,Enhancement,Causal-Conditional,Result,,thereby resulting in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,hence the outcome
+inter_paragraph,Enhancement,Causal-Conditional,Result,,"accordingly, the result is"
+inter_paragraph,Enhancement,Causal-Conditional,Result,,"in effect, this leads to"
+inter_paragraph,Enhancement,Causal-Conditional,Result,,in turn leading to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,in turn resulting in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,which led to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,which leads to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,which resulted in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,which results in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,ultimately resulting in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,ultimately leading to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,this results in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,this leads to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,this produced
+inter_paragraph,Enhancement,Causal-Conditional,Result,,this created
+inter_paragraph,Enhancement,Causal-Conditional,Result,,this caused
+inter_paragraph,Enhancement,Causal-Conditional,Result,,creating a situation where
+inter_paragraph,Enhancement,Causal-Conditional,Result,,creating conditions that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,yielding
+inter_paragraph,Enhancement,Causal-Conditional,Result,,yielding the result that
+inter_paragraph,Enhancement,Causal-Conditional,Result,,giving rise to
+inter_paragraph,Enhancement,Causal-Conditional,Result,,giving as a result
+inter_paragraph,Enhancement,Causal-Conditional,Result,,giving as an outcome
+inter_paragraph,Enhancement,Causal-Conditional,Result,,ending in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,culminating in
+inter_paragraph,Enhancement,Causal-Conditional,Result,,culminating with
+inter_paragraph,Enhancement,Causal-Conditional,Result,,bringing about
+inter_paragraph,Enhancement,Causal-Conditional,Result,,bringing this about
+inter_paragraph,Enhancement,Causal-Conditional,Result,,producing the effect that
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,because
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,because of
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,since
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,as
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,for
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,in that
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,seeing that
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,considering that
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,given that
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,on account of
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,owing to
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,due to
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,thanks to
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,for fear that
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,for that reason
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,consequently
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,given this
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,for this cause
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,thanks to this
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,as a consequence of
+inter_paragraph,Enhancement,Causal-Conditional,Reason,,seeing as
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,so that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,in order that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,lest
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,for the purpose of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,with the aim of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,to the end that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,with this in mind
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,for fear of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,so as to
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,with the intention of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,to this end
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,with the objective of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,because of this
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,due to this fact
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,owing to this
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,in view of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,in light of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,in light of the fact that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,given the fact that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,given the circumstances
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,considering
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,considering this
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,inasmuch as
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,insofar as
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,by reason of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,by virtue of
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,on the grounds that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,on these grounds
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,for the simple reason that
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,partly because
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,largely because
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,mainly because
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,especially because
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,chiefly because
+inter_paragraph,Enhancement,Causal-Conditional,Purpose,,primarily because
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,although
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,though
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,even though
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,while
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,whilst
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,whereas
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,much as
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,albeit
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,notwithstanding
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,despite
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,in spite of
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,even so
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,all the same
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,nevertheless
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,nonetheless
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,admittedly
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,even if
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,still though
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,despite that
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,however
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,at any rate
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,even then
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,for all that
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,be that as it may
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,notwithstanding this
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,notwithstanding that
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,in any case
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,in any event
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,at the same time
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,yet
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,and yet
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,still
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,"still, however"
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,even at that
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,even at this
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,however much
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,no matter what
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,no matter how
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,no matter who
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,no matter when
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,no matter where
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,no matter whether
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,regardless of
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,regardless of the fact that
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,despite all this
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,despite everything
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,in spite of everything
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,notwithstanding the fact that
+inter_paragraph,Enhancement,Causal-Conditional,Concessive,,notwithstanding the circumstances
+inter_paragraph,Enhancement,Matter,Positive,,here
+inter_paragraph,Enhancement,Matter,Positive,,there
+inter_paragraph,Enhancement,Matter,Positive,,as to that
+inter_paragraph,Enhancement,Matter,Positive,,in that respect
+inter_paragraph,Enhancement,Matter,Positive,,regarding this
+inter_paragraph,Enhancement,Matter,Positive,,concerning
+inter_paragraph,Enhancement,Matter,Positive,,with reference to
+inter_paragraph,Enhancement,Matter,Positive,,on the topic of
+inter_paragraph,Enhancement,Matter,Positive,,in relation to
+inter_paragraph,Enhancement,Matter,Positive,,about this
+inter_paragraph,Enhancement,Matter,Positive,,with regard to
+inter_paragraph,Enhancement,Matter,Positive,,as for that
+inter_paragraph,Enhancement,Matter,Positive,,pertaining to
+inter_paragraph,Enhancement,Matter,Positive,,regarding
+inter_paragraph,Enhancement,Matter,Positive,,with respect to
+inter_paragraph,Enhancement,Matter,Positive,,with regard to this point
+inter_paragraph,Enhancement,Matter,Positive,,with respect to this issue
+inter_paragraph,Enhancement,Matter,Positive,,with respect to that
+inter_paragraph,Enhancement,Matter,Positive,,as for this
+inter_paragraph,Enhancement,Matter,Positive,,as for the matter
+inter_paragraph,Enhancement,Matter,Positive,,as for the issue
+inter_paragraph,Enhancement,Matter,Positive,,in this respect
+inter_paragraph,Enhancement,Matter,Positive,,in that regard
+inter_paragraph,Enhancement,Matter,Positive,,in this regard
+inter_paragraph,Enhancement,Matter,Positive,,in respect of
+inter_paragraph,Enhancement,Matter,Positive,,in respect to
+inter_paragraph,Enhancement,Matter,Positive,,relating to
+inter_paragraph,Enhancement,Matter,Positive,,related to
+inter_paragraph,Enhancement,Matter,Positive,,as far as this is concerned
+inter_paragraph,Enhancement,Matter,Positive,,as far as that is concerned
+inter_paragraph,Enhancement,Matter,Positive,,as concerns
+inter_paragraph,Enhancement,Matter,Positive,,as it concerns
+inter_paragraph,Enhancement,Matter,Positive,,as it relates to
+inter_paragraph,Enhancement,Matter,Positive,,on this matter
+inter_paragraph,Enhancement,Matter,Positive,,on that matter
+inter_paragraph,Enhancement,Matter,Positive,,on this issue
+inter_paragraph,Enhancement,Matter,Positive,,on that issue
+inter_paragraph,Enhancement,Matter,Positive,,on the matter of
+inter_paragraph,Enhancement,Matter,Positive,,on the issue of
+inter_paragraph,Enhancement,Matter,Positive,,when it comes to
+inter_paragraph,Enhancement,Matter,Positive,,when considering
+inter_paragraph,Enhancement,Matter,Positive,,in terms of
+inter_paragraph,Enhancement,Matter,Positive,,in the context of
+inter_paragraph,Enhancement,Matter,Positive,,in the case of
+inter_paragraph,Enhancement,Matter,Positive,,in the area of
+inter_paragraph,Enhancement,Matter,Positive,,in the domain of
+inter_paragraph,Enhancement,Matter,Positive,,in the field of
+inter_paragraph,Enhancement,Matter,Positive,,in the subject of
+inter_paragraph,Enhancement,Matter,Positive,,regarding the question of
+inter_paragraph,Enhancement,Matter,Positive,,with respect to the matter of
+inter_paragraph,Enhancement,Matter,Positive,,from the perspective of
+inter_paragraph,Enhancement,Matter,Positive,,from the standpoint of
+inter_paragraph,Enhancement,Matter,Positive,,from the viewpoint of
+inter_paragraph,Enhancement,Matter,Positive,,speaking of
+inter_paragraph,Enhancement,Matter,Positive,,speaking about
+inter_paragraph,Enhancement,Matter,Positive,,touching on
+inter_paragraph,Enhancement,Matter,Positive,,touching upon
+inter_paragraph,Enhancement,Matter,Positive,,as touching
+inter_paragraph,Enhancement,Matter,Positive,,as pertains to
+inter_paragraph,Enhancement,Matter,Negative,,in other respects
+inter_paragraph,Enhancement,Matter,Negative,,elsewhere
+inter_paragraph,Enhancement,Matter,Negative,,apart from this
+inter_paragraph,Enhancement,Matter,Negative,,outside of this
+inter_paragraph,Enhancement,Matter,Negative,,not regarding
+inter_paragraph,Enhancement,Matter,Negative,,irrespective of
+inter_paragraph,Enhancement,Matter,Negative,,independent of
+inter_paragraph,Enhancement,Matter,Negative,,off topic
+inter_paragraph,Enhancement,Matter,Negative,,without regard to
+inter_paragraph,Enhancement,Matter,Negative,,not concerning
+inter_paragraph,Enhancement,Matter,Negative,,apart from that topic
+inter_paragraph,Enhancement,Matter,Negative,,in no other respect
+inter_paragraph,Enhancement,Matter,Negative,,in no respect
+inter_paragraph,Enhancement,Matter,Negative,,in no way related to
+inter_paragraph,Enhancement,Matter,Negative,,unrelated to
+inter_paragraph,Enhancement,Matter,Negative,,not related to
+inter_paragraph,Enhancement,Matter,Negative,,not relevant to
+inter_paragraph,Enhancement,Matter,Negative,,irrelevant to
+inter_paragraph,Enhancement,Matter,Negative,,irrespective of this topic
+inter_paragraph,Enhancement,Matter,Negative,,irrespective of that issue
+inter_paragraph,Enhancement,Matter,Negative,,irrespective of the matter
+inter_paragraph,Enhancement,Matter,Negative,,separate from this
+inter_paragraph,Enhancement,Matter,Negative,,separate from that
+inter_paragraph,Enhancement,Matter,Negative,,distinct from this
+inter_paragraph,Enhancement,Matter,Negative,,distinct from that
+inter_paragraph,Enhancement,Matter,Negative,,removed from this issue
+inter_paragraph,Enhancement,Matter,Negative,,removed from that domain
+inter_paragraph,Enhancement,Matter,Negative,,outside the scope of
+inter_paragraph,Enhancement,Matter,Negative,,beyond the scope of
+inter_paragraph,Enhancement,Matter,Negative,,outside the bounds of
+inter_paragraph,Enhancement,Matter,Negative,,beyond these bounds
+inter_paragraph,Enhancement,Matter,Negative,,beyond this issue
+inter_paragraph,Enhancement,Matter,Negative,,beyond the matter of
+inter_paragraph,Enhancement,Matter,Negative,,beyond consideration of
+inter_paragraph,Enhancement,Matter,Negative,,aside from this issue
+inter_paragraph,Enhancement,Matter,Negative,,aside from that issue
+inter_paragraph,Enhancement,Matter,Negative,,aside from this matter
+inter_paragraph,Enhancement,Matter,Negative,,aside from that matter
+inter_paragraph,Enhancement,Matter,Negative,,apart from the question of
+inter_paragraph,Enhancement,Matter,Negative,,independent from this
+inter_paragraph,Enhancement,Matter,Negative,,independent from that
+inter_paragraph,Enhancement,Matter,Negative,,unrelated to this issue
+inter_paragraph,Enhancement,Matter,Negative,,unrelated to that issue
+inter_paragraph,Enhancement,Matter,Negative,,irrelevant in this respect
+inter_paragraph,Enhancement,Matter,Negative,,irrelevant in that respect
+inter_paragraph,Enhancement,Matter,Negative,,nothing to do with
+inter_paragraph,Enhancement,Matter,Negative,,having nothing to do with
+inter_paragraph,Enhancement,Matter,Negative,,disconnected from
+inter_paragraph,Enhancement,Matter,Negative,,detached from
+inter_paragraph,Enhancement,Matter,Negative,,not within the domain of
+inter_paragraph,Enhancement,Matter,Negative,,not within the field of
+inter_paragraph,Enhancement,Matter,Negative,,not within the context of
+inter_paragraph,Enhancement,Matter,Negative,,not in the area of
+inter_paragraph,Enhancement,Matter,Negative,,not in this respect
+inter_paragraph,Enhancement,Matter,Negative,,not in that respect

@@ -1,0 +1,4 @@
+text_id,analysis_level,detected_item,feature_code,macro_category,path_2,path_3,path_4,path_5,taxis,raw_count,per_1000,word_count_text,word_count_source
+synthetic_intra_text,intra_sentential_supported_v2,because,intra_enh_caus_reason_hypo,Enhancement,Causal-Conditional,Reason,hypotactic,,hypotactic,1,30.303030303030305,33,parser_full_text
+synthetic_intra_text,intra_sentential_supported_v2,but,intra_ext_var_subtr_para,Extension,Variation,Subtractive,paratactic,,paratactic,1,30.303030303030305,33,parser_full_text
+synthetic_intra_text,intra_sentential_supported_v2,while,intra_enh_temp_sim_hypo,Enhancement,Temporal,Simultaneous,hypotactic,,hypotactic,1,30.303030303030305,33,parser_full_text

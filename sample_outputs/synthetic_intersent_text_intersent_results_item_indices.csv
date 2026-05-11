@@ -1,0 +1,4 @@
+text_id,analysis_level,detected_item,feature_code,macro_category,path_2,path_3,path_4,path_5,taxis,raw_count,per_1000,word_count_text,word_count_source
+synthetic_intersent_text,inter_sentential_v2,however,intersent_ext_adv,Extension,Adversative,,,,,1,24.390243902439025,41,parser_full_text
+synthetic_intersent_text,inter_sentential_v2,then,intersent_enh_spatio_temporal_simple_following,Enhancement,Spatio-temporal,Simple,Following,,,1,24.390243902439025,41,parser_full_text
+synthetic_intersent_text,inter_sentential_v2,therefore,intersent_enh_caus_general,Enhancement,Causal-Conditional,General,,,,1,24.390243902439025,41,parser_full_text

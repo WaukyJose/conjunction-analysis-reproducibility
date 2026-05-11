@@ -1,0 +1,4 @@
+text_id,group,sentence_index,previous_sentence,current_sentence,detected_item,macro_category,path_2,path_3,path_4,path_5,sentence_start_cleaned,analysis_level,word_count_text,sentence_count_text
+synthetic_intersent_text,,1,The students arrived early for the workshop.,"However, the computer lab was still closed.",however,Extension,Adversative,,,,"However, the computer lab was still closed.",inter_sentential_v2,41,6
+synthetic_intersent_text,,3,The teacher prepared a short activity.,"Then, the students worked in pairs and discussed their answers.",then,Enhancement,Spatio-temporal,Simple,Following,,"Then, the students worked in pairs and discussed their answers.",inter_sentential_v2,41,6
+synthetic_intersent_text,,5,The task was difficult.,"Therefore, the class reviewed the examples together.",therefore,Enhancement,Causal-Conditional,General,,,"Therefore, the class reviewed the examples together.",inter_sentential_v2,41,6

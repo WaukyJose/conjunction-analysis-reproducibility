@@ -1,0 +1,286 @@
+level,macro_category,subcategory,relation,taxis,connector
+inter_sentential,Elaboration,Appositive,,,in other words
+inter_sentential,Elaboration,Appositive,,,that is
+inter_sentential,Elaboration,Appositive,,,that is
+inter_sentential,Elaboration,Appositive,,,this is
+inter_sentential,Elaboration,Appositive,,,i.e.
+inter_sentential,Elaboration,Appositive,,,viz.
+inter_sentential,Elaboration,Appositive,,,to put it another way
+inter_sentential,Elaboration,Appositive,,,to rephrase
+inter_sentential,Elaboration,Appositive,,,that is to say
+inter_sentential,Elaboration,Appositive,,,namely
+inter_sentential,Elaboration,Appositive,,,in plain terms
+inter_sentential,Elaboration,Appositive,,,to clarify
+inter_sentential,Elaboration,Appositive,,,to spell out
+inter_sentential,Elaboration,Appositive,,,meaning
+inter_sentential,Elaboration,Appositive,,,as in
+inter_sentential,Elaboration,Appositive,,,in essence
+inter_sentential,Elaboration,Appositive,,,that
+inter_sentential,Elaboration,Exemplifying,,,for example
+inter_sentential,Elaboration,Exemplifying,,,e.g.
+inter_sentential,Elaboration,Exemplifying,,,for instance
+inter_sentential,Elaboration,Exemplifying,,,to illustrate
+inter_sentential,Elaboration,Exemplifying,,,as an example
+inter_sentential,Elaboration,Exemplifying,,,by way of illustration
+inter_sentential,Elaboration,Exemplifying,,,a case in point
+inter_sentential,Elaboration,Exemplifying,,,take the case of
+inter_sentential,Elaboration,Exemplifying,,,consider
+inter_sentential,Elaboration,Exemplifying,,,notably
+inter_sentential,Elaboration,Exemplifying,,,including
+inter_sentential,Elaboration,Exemplifying,,,such as
+inter_sentential,Elaboration,Exemplifying,,,among others
+inter_sentential,Elaboration,Exemplifying,,,to name a few
+inter_sentential,Elaboration,Exemplifying,,,specifically
+inter_sentential,Elaboration,Exemplifying,,,chiefly
+inter_sentential,Elaboration,Exemplifying,,,principally
+inter_sentential,Elaboration,Clarifying,Corrective,,or rather
+inter_sentential,Elaboration,Clarifying,Corrective,,at least
+inter_sentential,Elaboration,Clarifying,Corrective,,to be more precise
+inter_sentential,Elaboration,Clarifying,Corrective,,strictly speaking
+inter_sentential,Elaboration,Clarifying,Corrective,,technically
+inter_sentential,Elaboration,Clarifying,Corrective,,more accurately
+inter_sentential,Elaboration,Clarifying,Corrective,,properly speaking
+inter_sentential,Elaboration,Clarifying,Corrective,,in strict terms
+inter_sentential,Elaboration,Clarifying,Corrective,,maybe
+inter_sentential,Elaboration,Clarifying,Corrective,,perhaps
+inter_sentential,Elaboration,Clarifying,Corrective,,rather
+inter_sentential,Elaboration,Clarifying,Distractive,,by the way
+inter_sentential,Elaboration,Clarifying,Distractive,,incidentally
+inter_sentential,Elaboration,Clarifying,Distractive,,parenthetically
+inter_sentential,Elaboration,Clarifying,Distractive,,tangentially
+inter_sentential,Elaboration,Clarifying,Distractive,,on a side note
+inter_sentential,Elaboration,Clarifying,Distractive,,while we’re on the subject
+inter_sentential,Elaboration,Clarifying,Distractive,,not unrelatedly
+inter_sentential,Elaboration,Clarifying,Dismissive,,in any case
+inter_sentential,Elaboration,Clarifying,Dismissive,,anyway
+inter_sentential,Elaboration,Clarifying,Dismissive,,anyhow
+inter_sentential,Elaboration,Clarifying,Dismissive,,leaving that aside
+inter_sentential,Elaboration,Clarifying,Dismissive,,regardless
+inter_sentential,Elaboration,Clarifying,Dismissive,,be that as it may
+inter_sentential,Elaboration,Clarifying,Dismissive,,at any rate
+inter_sentential,Elaboration,Clarifying,Dismissive,,come what may
+inter_sentential,Elaboration,Clarifying,Dismissive,,no matter what
+inter_sentential,Elaboration,Clarifying,Dismissive,,whatever
+inter_sentential,Elaboration,Clarifying,Particularizing,,in particular
+inter_sentential,Elaboration,Clarifying,Particularizing,,more especially
+inter_sentential,Elaboration,Clarifying,Particularizing,,not least
+inter_sentential,Elaboration,Clarifying,Particularizing,,above all
+inter_sentential,Elaboration,Clarifying,Particularizing,,chiefly
+inter_sentential,Elaboration,Clarifying,Particularizing,,mainly
+inter_sentential,Elaboration,Clarifying,Particularizing,,primarily
+inter_sentential,Elaboration,Clarifying,Particularizing,,specifically
+inter_sentential,Elaboration,Clarifying,Resumptive,,as I was saying
+inter_sentential,Elaboration,Clarifying,Resumptive,,to resume
+inter_sentential,Elaboration,Clarifying,Resumptive,,to return to the point
+inter_sentential,Elaboration,Clarifying,Resumptive,,getting back to
+inter_sentential,Elaboration,Clarifying,Resumptive,,to circle back
+inter_sentential,Elaboration,Clarifying,Resumptive,,revisiting
+inter_sentential,Elaboration,Clarifying,Resumptive,,to recap
+inter_sentential,Elaboration,Clarifying,Summative,,after all
+inter_sentential,Elaboration,Clarifying,Summative,,in short
+inter_sentential,Elaboration,Clarifying,Summative,,to sum up
+inter_sentential,Elaboration,Clarifying,Summative,,in conclusion
+inter_sentential,Elaboration,Clarifying,Summative,,briefly
+inter_sentential,Elaboration,Clarifying,Summative,,in a nutshell
+inter_sentential,Elaboration,Clarifying,Summative,,to summarize
+inter_sentential,Elaboration,Clarifying,Summative,,all in all
+inter_sentential,Elaboration,Clarifying,Summative,,in summary
+inter_sentential,Elaboration,Clarifying,Summative,,ultimately
+inter_sentential,Elaboration,Clarifying,Summative,,in the final analysis
+inter_sentential,Elaboration,Clarifying,Summative,,when all is said and done
+inter_sentential,Elaboration,Clarifying,Summative,,summation
+inter_sentential,Elaboration,Clarifying,Verificative,,actually
+inter_sentential,Elaboration,Clarifying,Verificative,,as a matter of fact
+inter_sentential,Elaboration,Clarifying,Verificative,,in fact
+inter_sentential,Elaboration,Clarifying,Verificative,,indeed
+inter_sentential,Elaboration,Clarifying,Verificative,,truthfully
+inter_sentential,Elaboration,Clarifying,Verificative,,really
+inter_sentential,Elaboration,Clarifying,Verificative,,to tell the truth
+inter_sentential,Elaboration,Clarifying,Verificative,,frankly
+inter_sentential,Elaboration,Clarifying,Verificative,,in reality
+inter_sentential,Elaboration,Clarifying,Verificative,,if truth be told
+inter_sentential,Elaboration,Clarifying,Verificative,,admittedly
+inter_sentential,Extension,Addition,Positive,,anotherand
+inter_sentential,Extension,Addition,Positive,,also
+inter_sentential,Extension,Addition,Positive,,furthermore
+inter_sentential,Extension,Addition,Positive,,further
+inter_sentential,Extension,Addition,Positive,,moreover
+inter_sentential,Extension,Addition,Positive,,in addition
+inter_sentential,Extension,Addition,Positive,,additionally
+inter_sentential,Extension,Addition,Positive,,besides
+inter_sentential,Extension,Addition,Positive,,not to mention
+inter_sentential,Extension,Addition,Positive,,let alone
+inter_sentential,Extension,Addition,Positive,,plus
+inter_sentential,Extension,Addition,Positive,,coupled with
+inter_sentential,Extension,Addition,Positive,,alongside
+inter_sentential,Extension,Addition,Positive,,equally
+inter_sentential,Extension,Addition,Positive,,likewise
+inter_sentential,Extension,Addition,Positive,,similarly
+inter_sentential,Extension,Addition,Positive,,by the same token
+inter_sentential,Extension,Addition,Positive,,what’s more
+inter_sentential,Extension,Addition,Positive,,into the bargain
+inter_sentential,Extension,Addition,Positive,,too
+inter_sentential,Extension,Addition,Negative,,nor
+inter_sentential,Extension,Addition,Negative,,neither
+inter_sentential,Extension,Addition,Negative,,no more
+inter_sentential,Extension,Addition,Negative,,not either
+inter_sentential,Extension,Addition,Negative,,and not
+inter_sentential,Extension,Addition,Negative,,nor yet
+inter_sentential,Extension,Addition,Negative,,never
+inter_sentential,Extension,Addition,Negative,,not once
+inter_sentential,Extension,Adversative,,,but
+inter_sentential,Extension,Adversative,,,yet
+inter_sentential,Extension,Adversative,,,however
+inter_sentential,Extension,Adversative,,,nevertheless
+inter_sentential,Extension,Adversative,,,nonetheless
+inter_sentential,Extension,Adversative,,,still
+inter_sentential,Extension,Adversative,,,though
+inter_sentential,Extension,Adversative,,,although
+inter_sentential,Extension,Adversative,,,even though
+inter_sentential,Extension,Adversative,,,whereas
+inter_sentential,Extension,Adversative,,,while
+inter_sentential,Extension,Adversative,,,whilst
+inter_sentential,Extension,Adversative,,,on the other hand
+inter_sentential,Extension,Adversative,,,conversely
+inter_sentential,Extension,Adversative,,,in contrast
+inter_sentential,Extension,Adversative,,,contrarily
+inter_sentential,Extension,Adversative,,,oppositely
+inter_sentential,Extension,Adversative,,,that said
+inter_sentential,Extension,Adversative,,,having said that
+inter_sentential,Extension,Adversative,,,despite this
+inter_sentential,Extension,Adversative,,,be that as it may
+inter_sentential,Extension,Adversative,,,alternatively
+inter_sentential,Extension,Adversative,,,on the contrary
+inter_sentential,Extension,Variation,Replacive,,on the contrary
+inter_sentential,Extension,Variation,Replacive,,instead
+inter_sentential,Extension,Variation,Replacive,,rather
+inter_sentential,Extension,Variation,Replacive,,alternatively
+inter_sentential,Extension,Variation,Replacive,,as a substitute
+inter_sentential,Extension,Variation,Replacive,,in lieu of
+inter_sentential,Extension,Variation,Replacive,,as opposed to
+inter_sentential,Extension,Variation,Replacive,,contrariwise
+inter_sentential,Extension,Variation,Replacive,,in reverse
+inter_sentential,Extension,Variation,Subtractive,,apart from
+inter_sentential,Extension,Variation,Subtractive,,apart from that
+inter_sentential,Extension,Variation,Subtractive,,except for that
+inter_sentential,Extension,Variation,Subtractive,,except for
+inter_sentential,Extension,Variation,Subtractive,,save for
+inter_sentential,Extension,Variation,Subtractive,,barring
+inter_sentential,Extension,Variation,Subtractive,,excluding
+inter_sentential,Extension,Variation,Subtractive,,omitting
+inter_sentential,Extension,Variation,Subtractive,,other than
+inter_sentential,Extension,Variation,Subtractive,,outside of
+inter_sentential,Extension,Variation,Alternative,,or
+inter_sentential,Extension,Variation,Alternative,,either...or
+inter_sentential,Extension,Variation,Alternative,,whether...or
+inter_sentential,Extension,Variation,Alternative,,else
+inter_sentential,Extension,Variation,Alternative,,otherwise
+inter_sentential,Extension,Variation,Alternative,,if not
+inter_sentential,Extension,Variation,Alternative,,failing that
+inter_sentential,Extension,Variation,Alternative,,as another option
+inter_sentential,Extension,Variation,Alternative,,in the alternative
+inter_sentential,Enhancement,Manner,Means,,thus
+inter_sentential,Enhancement,Manner,Means,,thereby
+inter_sentential,Enhancement,Manner,Means,,by this means
+inter_sentential,Enhancement,Manner,Means,,via
+inter_sentential,Enhancement,Manner,Means,,through
+inter_sentential,Enhancement,Manner,Means,,using
+inter_sentential,Enhancement,Manner,Means,,with
+inter_sentential,Enhancement,Manner,Means,,by way of
+inter_sentential,Enhancement,Manner,Means,,by virtue of
+inter_sentential,Enhancement,Manner,Means,,by means of
+inter_sentential,Enhancement,Manner,Means,,in the manner of
+inter_sentential,Enhancement,Manner,Means,,in the way of
+inter_sentential,Enhancement,Manner,Means,,in the fashion of
+inter_sentential,Enhancement,Manner,Means,,in the style of
+inter_sentential,Enhancement,Manner,Means,,in the form of
+inter_sentential,Enhancement,Manner,Means,,in the guise of
+inter_sentential,Enhancement,Manner,Means,,in the shape of
+inter_sentential,Enhancement,Manner,Means,,in the likeness of
+inter_sentential,Enhancement,Manner,Means,,in accordance with
+inter_sentential,Enhancement,Causal-Conditional,General,,so
+inter_sentential,Enhancement,Causal-Conditional,General,,therefore
+inter_sentential,Enhancement,Causal-Conditional,General,,thus
+inter_sentential,Enhancement,Causal-Conditional,General,,hence
+inter_sentential,Enhancement,Causal-Conditional,General,,consequently
+inter_sentential,Enhancement,Causal-Conditional,General,,accordingly
+inter_sentential,Enhancement,Causal-Conditional,General,,ergo
+inter_sentential,Enhancement,Causal-Conditional,General,,for this reason
+inter_sentential,Enhancement,Causal-Conditional,General,,as a result
+inter_sentential,Enhancement,Causal-Conditional,General,,that being the case
+inter_sentential,Enhancement,Causal-Conditional,General,,under the circumstances
+inter_sentential,Enhancement,Causal-Conditional,Result,,in consequence
+inter_sentential,Enhancement,Causal-Conditional,Result,,as a consequence
+inter_sentential,Enhancement,Causal-Conditional,Result,,resultantly
+inter_sentential,Enhancement,Causal-Conditional,Result,,inevitably
+inter_sentential,Enhancement,Causal-Conditional,Result,,necessarily
+inter_sentential,Enhancement,Causal-Conditional,Result,,followingly
+inter_sentential,Enhancement,Causal-Conditional,Result,,subsequently
+inter_sentential,Enhancement,Causal-Conditional,Result,,result
+inter_sentential,Enhancement,Causal-Conditional,Result,,results
+inter_sentential,Enhancement,Causal-Conditional,Reason,,because
+inter_sentential,Enhancement,Causal-Conditional,Reason,,because of
+inter_sentential,Enhancement,Causal-Conditional,Reason,,since
+inter_sentential,Enhancement,Causal-Conditional,Reason,,as
+inter_sentential,Enhancement,Causal-Conditional,Reason,,for
+inter_sentential,Enhancement,Causal-Conditional,Reason,,in that
+inter_sentential,Enhancement,Causal-Conditional,Reason,,seeing that
+inter_sentential,Enhancement,Causal-Conditional,Reason,,considering that
+inter_sentential,Enhancement,Causal-Conditional,Reason,,given that
+inter_sentential,Enhancement,Causal-Conditional,Reason,,on account of
+inter_sentential,Enhancement,Causal-Conditional,Reason,,owing to
+inter_sentential,Enhancement,Causal-Conditional,Reason,,due to
+inter_sentential,Enhancement,Causal-Conditional,Reason,,thanks to
+inter_sentential,Enhancement,Causal-Conditional,Reason,,for fear that
+inter_sentential,Enhancement,Causal-Conditional,Reason,,for that reason
+inter_sentential,Enhancement,Causal-Conditional,Reason,,as a result
+inter_sentential,Enhancement,Causal-Conditional,Reason,,consequently
+inter_sentential,Enhancement,Causal-Conditional,Reason,,therefore
+inter_sentential,Enhancement,Causal-Conditional,Reason,,thus
+inter_sentential,Enhancement,Causal-Conditional,Reason,,hence
+inter_sentential,Enhancement,Causal-Conditional,Reason,,accordingly
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,so that
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,in order that
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,lest
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,for the purpose of
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,with the aim of
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,to the end that
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,with this in mind
+inter_sentential,Enhancement,Causal-Conditional,Purpose,,for fear of
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,although
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,though
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,even though
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,while
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,whilst
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,whereas
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,much as
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,albeit
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,notwithstanding
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,despite
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,in spite of
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,regardless
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,even so
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,all the same
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,nevertheless
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,nonetheless
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,regrettably
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,fortunately
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,unfortunately
+inter_sentential,Enhancement,Causal-Conditional,Concessive,,admittedly
+inter_sentential,Enhancement,Matter,Positive,,here
+inter_sentential,Enhancement,Matter,Positive,,there
+inter_sentential,Enhancement,Matter,Positive,,as to that
+inter_sentential,Enhancement,Matter,Positive,,in that respect
+inter_sentential,Enhancement,Matter,Positive,,regarding this
+inter_sentential,Enhancement,Matter,Positive,,concerning
+inter_sentential,Enhancement,Matter,Positive,,with reference to
+inter_sentential,Enhancement,Matter,Positive,,on the topic of
+inter_sentential,Enhancement,Matter,Positive,,in relation to
+inter_sentential,Enhancement,Matter,Negative,,in other respects
+inter_sentential,Enhancement,Matter,Negative,,elsewhere
+inter_sentential,Enhancement,Matter,Negative,,apart from this
+inter_sentential,Enhancement,Matter,Negative,,outside of this
+inter_sentential,Enhancement,Matter,Negative,,not regarding
+inter_sentential,Enhancement,Matter,Negative,,irrespective of
+inter_sentential,Enhancement,Matter,Negative,,independent of
+inter_sentential,Enhancement,Matter,Negative,,off topic

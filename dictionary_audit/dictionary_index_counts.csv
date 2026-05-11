@@ -1,0 +1,4 @@
+level,n_rows,n_unique_connectors,n_macro_categories,macro_categories,n_subcategories,n_relations,n_taxis_values,taxis_values
+intra_sentential,142,129,3,Elaboration; Enhancement; Extension,10,15,2,hypotactic; paratactic
+inter_sentential,285,261,3,Elaboration; Enhancement; Extension,9,18,0,
+inter_paragraph,776,722,3,Elaboration; Enhancement; Extension,10,18,0,

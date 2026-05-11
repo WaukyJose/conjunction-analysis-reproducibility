@@ -1,0 +1,5394 @@
+text_id,detected_item,n_cases
+cn_wr_a1_24_11_14_jw,later,1
+cn_wr_a2_19_10_14_y,but,2
+cn_wr_a2_19_10_14_y,later,1
+cn_wr_a2_20_12_14_lyl,but,1
+cn_wr_a2_20_12_14_lyl,then,1
+cn_wr_a2_23_17_14_d,but,1
+cn_wr_a2_23_17_14_d,so,2
+cn_wr_a2_23_17_14_xdm,finally,1
+cn_wr_a2_23_9_14_hyn,but,1
+cn_wr_a2_23_9_14_hyn,in the end,1
+cn_wr_a2_24_10_14_jwt,next,1
+cn_wr_a2_24_14_14_jz,but,1
+cn_wr_a2_24_14_14_jz,finally,1
+cn_wr_a2_24_14_14_jz,so,1
+cn_wr_a2_25_21_14_zw,after,1
+cn_wr_a2_25_21_14_zw,at last,1
+cn_wr_a2_25_21_14_zw,but,1
+cn_wr_b1_19_12_14_zxy,at last,1
+cn_wr_b1_19_12_14_zxy,then,2
+cn_wr_b1_20_11_14_pjy,but,1
+cn_wr_b1_20_11_14_pjy,in the end,1
+cn_wr_b1_20_11_14_pjy,so,4
+cn_wr_b1_21_17_14_jlh,at the same time,1
+cn_wr_b1_21_17_14_jlh,but,1
+cn_wr_b1_21_17_14_jlh,then,1
+cn_wr_b1_21_18_14_myc,in the end,1
+cn_wr_b1_21_18_14_myc,then,1
+cn_wr_b1_21_8_14_gyw,but,1
+cn_wr_b1_21_8_14_gyw,so,3
+cn_wr_b1_22_13_14_cxy,after,1
+cn_wr_b1_22_13_14_cxy,later,1
+cn_wr_b1_22_14_14_hym,after,1
+cn_wr_b1_22_14_14_hym,but,2
+cn_wr_b1_22_14_14_hym,coincidentally,1
+cn_wr_b1_22_14_14_hym,so,2
+cn_wr_b1_22_14_14_hym,then,1
+cn_wr_b1_23_17_14_cjx,after a while,1
+cn_wr_b1_23_17_14_cjx,at the same time,1
+cn_wr_b1_23_17_14_cjx,however,1
+cn_wr_b1_23_17_14_cjx,then,1
+cn_wr_b1_23_17_14_cjx,unfortunately,1
+cn_wr_b1_23_17_14_tan,also,1
+cn_wr_b1_23_17_14_tan,but,2
+cn_wr_b1_23_17_14_tan,finally,1
+cn_wr_b1_23_17_14_tan,meanwhile,1
+cn_wr_b1_24_10_14_jy,after,1
+cn_wr_b1_24_10_14_jy,but,2
+cn_wr_b1_24_10_14_jy,so,2
+cn_wr_b1_24_10_14_jy,while,1
+cn_wr_b1_24_14_14_zy,lastly,1
+cn_wr_b1_24_15_14_yd,so,1
+cn_wr_b1_24_15_14_yd,then,1
+cn_wr_b1_25_12_14_gj,but,1
+cn_wr_b1_25_12_14_gj,finally,1
+cn_wr_b1_25_12_14_gj,while,1
+cn_wr_b1_28_14_14_yxy,however,1
+cn_wr_b1_30_10_14_zqm,but,1
+cn_wr_b1_30_10_14_zqm,in the end,1
+cn_wr_b1_30_10_14_zqm,so,2
+cn_wr_b1_30_12_14_hyw,at last,1
+cn_wr_b1_30_27_14_wyh,so,1
+cn_wr_b1_31_21_14_w,but,1
+cn_wr_b1_31_21_14_w,finally,1
+cn_wr_b1_31_21_14_w,so,1
+cn_wr_b1_32_14_14_sh,but,2
+cn_wr_b1_32_14_14_sh,in the end,1
+cn_wr_b1_32_14_14_sh,so,2
+cn_wr_b1_34_8_14_gy,then,1
+cn_wr_b2_16_8_14_s,in the end,1
+cn_wr_b2_20_11_14_wj,at the same time,1
+cn_wr_b2_20_11_14_wj,however,1
+cn_wr_b2_20_11_14_wj,in the end,1
+cn_wr_b2_20_8_14_lx,afterwards,1
+cn_wr_b2_20_8_14_lx,but,1
+cn_wr_b2_20_8_14_lx,finally,1
+cn_wr_b2_20_8_14_lx,later,1
+cn_wr_b2_20_8_14_lx,so,2
+cn_wr_b2_20_9_14_czr,after,1
+cn_wr_b2_20_9_14_czr,at last,1
+cn_wr_b2_21_11_14_yn,but,1
+cn_wr_b2_21_11_14_yn,first,1
+cn_wr_b2_21_11_14_yn,then,1
+cn_wr_b2_21_14_14_ly,finally,1
+cn_wr_b2_22_18_14_yj,but,1
+cn_wr_b2_22_18_14_yj,first,1
+cn_wr_b2_23_14_14_zhb,after,1
+cn_wr_b2_24_12_14_shy,in the end,1
+cn_wr_b2_24_12_14_shy,then,1
+cn_wr_b2_24_15_14_wh,but,1
+cn_wr_b2_24_15_14_wh,then,1
+cn_wr_b2_24_17_14_yz,first,1
+cn_wr_b2_24_17_14_yz,however,1
+cn_wr_b2_24_17_14_yz,so,1
+cn_wr_b2_24_17_14_yz,then,1
+cn_wr_b2_24_18_14_qhs,after,1
+cn_wr_b2_24_18_14_qhs,finally,1
+cn_wr_b2_24_8_14_lsx,finally,1
+cn_wr_b2_24_8_14_lsx,later,1
+cn_wr_b2_26_17_14_js,seeing that,1
+cn_wr_b2_26_7_14_el,after,1
+cn_wr_b2_26_7_14_el,in the end,1
+cn_wr_b2_26_7_14_el,then,1
+cn_wr_b2_27_17_14_xy,after,2
+cn_wr_b2_27_17_14_xy,while,1
+cn_wr_b2_28_15_14_zkh,finally,1
+cn_wr_b2_29_20_14_xh,after,1
+cn_wr_b2_29_20_14_xh,so,1
+cn_wr_b2_29_20_14_xh,then,1
+cn_wr_b2_29_9_14_zrx,after a while,1
+cn_wr_b2_29_9_14_zrx,finally,1
+cn_wr_b2_29_9_14_zrx,so,1
+cn_wr_b2_30_22_14_mh,at the same time,1
+cn_wr_b2_30_22_14_mh,once,1
+cn_wr_b2_34_17_14_ww,however,1
+cn_wr_b2_34_17_14_ww,just then,1
+cn_wr_b2_34_17_14_ww,so,2
+cn_wr_c1_20_13_14_lc,after,1
+cn_wr_c1_20_13_14_lc,however,1
+cn_wr_c1_20_13_14_lc,nevertheless,1
+cn_wr_c1_21_15_14_cyw,after,1
+cn_wr_c1_21_15_14_cyw,however,1
+cn_wr_c1_21_15_14_cyw,that is,1
+cn_wr_c1_21_15_14_cyw,then,1
+cn_wr_c1_21_15_14_cyw,therefore,1
+cn_wr_c1_21_9_14_hx,however,1
+cn_wr_c1_21_9_14_hx,in that,1
+cn_wr_c1_21_9_14_hx,then,1
+cn_wr_c1_22_16_14_ihs,after,1
+cn_wr_c1_22_16_14_ihs,again,1
+cn_wr_c1_22_16_14_ihs,meanwhile,1
+cn_wr_c1_22_16_14_ihs,simultaneously,1
+cn_wr_c1_22_17_14_cq,finally,1
+cn_wr_c1_23_17_14_lc,finally,1
+cn_wr_c1_23_17_14_lc,however,2
+cn_wr_c1_24_18_14_ws,however,1
+cn_wr_c1_27_17_14_rlt,after,1
+cn_wr_c1_27_17_14_rlt,finally,1
+cn_wr_c1_27_17_14_rlt,then,1
+cn_wr_c1_27_17_14_rlt,without,1
+cn_wr_c1_32_10_14_cc,at last,1
+cn_wr_c1_32_10_14_cc,at the same time,1
+cn_wr_c1_32_10_14_cc,meanwhile,1
+cn_wr_c1_32_10_14_cc,unfortunately,1
+cn_wr_c1_32_10_14_ln,another time,1
+cn_wr_c1_32_10_14_ln,at last,1
+cn_wr_c1_32_10_14_ln,then,1
+cn_wr_c1_32_19_14_hp,however,2
+cn_wr_c1_32_22_14_hg,although,1
+cn_wr_c1_32_22_14_hg,at the same time,1
+cn_wr_c1_32_22_14_hg,but,2
+cn_wr_c1_32_22_14_hg,so,2
+cn_wr_c1_32_22_14_xt,at this moment,3
+cn_wr_c1_32_22_14_xt,so,1
+cn_wr_c1_32_22_14_xt,then,3
+cn_wr_c1_32_24_14_ly,then,2
+cn_wr_c1_32_25_14_wyy,at the same time,1
+cn_wr_c1_32_25_14_wyy,but,3
+cn_wr_c1_32_25_14_wyy,finally,1
+cn_wr_c1_32_25_14_wyy,however,1
+cn_wr_c1_32_25_14_wyy,meanwhile,1
+cn_wr_c1_32_25_14_wyy,so,2
+cn_wr_c2_23_10_14_sw,after,1
+cn_wr_c2_23_10_14_sw,but,1
+cn_wr_c2_23_10_14_sw,finally,1
+cn_wr_c2_23_10_14_sw,then,1
+cn_wr_c2_27_19_14_ez,in the end,1
+cn_wr_c2_31_25_14_ll,however,1
+cn_wr_c2_31_25_14_ll,meanwhile,1
+cz_wr_a2_18_10_14_mh,after,3
+cz_wr_a2_18_14_14_svvv,after,2
+cz_wr_a2_18_14_14_svvv,but,2
+cz_wr_a2_18_8.5_14_al,after,1
+cz_wr_a2_18_8.5_14_al,then,1
+cz_wr_a2_18_9_14_ap,but,4
+cz_wr_a2_18_9_14_ap,first,1
+cz_wr_a2_18_9_14_ap,so,5
+cz_wr_a2_18_9_14_ap,then,2
+cz_wr_a2_18_9_14_kz,in the end,1
+cz_wr_a2_18_9_14_kz,so,1
+cz_wr_a2_18_9_14_kz,then,2
+cz_wr_a2_19_10_14_dr,but,1
+cz_wr_a2_19_10_14_dr,next,1
+cz_wr_a2_19_10_14_dr,then,1
+cz_wr_a2_19_13_14_mh,after,1
+cz_wr_a2_19_13_14_vv,after,2
+cz_wr_a2_19_13_14_vv,at this moment,1
+cz_wr_a2_19_13_14_vv,but,1
+cz_wr_a2_19_13_14_vv,so,1
+cz_wr_a2_19_13_14_vv,then,2
+cz_wr_a2_19_9_14_lh,first,1
+cz_wr_a2_19_9_14_lh,so,1
+cz_wr_b1_18_10.5_14_mp,afterwards,3
+cz_wr_b1_18_10.5_14_mp,although,1
+cz_wr_b1_18_10.5_14_mp,but,2
+cz_wr_b1_18_10.5_14_mp,however,1
+cz_wr_b1_18_10.5_14_mp,so,3
+cz_wr_b1_18_10.5_14_mp,then,1
+cz_wr_b1_18_10_14_tr,in the end,1
+cz_wr_b1_18_10_14_tr,then,1
+cz_wr_b1_18_14_14_kn,after,2
+cz_wr_b1_18_3_14_vpk,later,1
+cz_wr_b1_18_3_14_vpk,then,1
+cz_wr_b1_18_9.5_14_kc,then,3
+cz_wr_b1_18_9.5_14_kc,while,2
+cz_wr_b1_19_10_14_am,maybe,1
+cz_wr_b1_19_10_14_mb,after,1
+cz_wr_b1_19_10_14_mb,but,5
+cz_wr_b1_19_10_14_mb,so,1
+cz_wr_b1_20_14_14_at,after a while,1
+cz_wr_b1_20_14_14_at,but,1
+cz_wr_b1_20_14_14_at,first,1
+cz_wr_b1_34_5_14_lk,then,1
+cz_wr_b1_47_4_14_vh,but,1
+cz_wr_b1_47_4_14_vh,meanwhile,1
+cz_wr_b1_47_4_14_vh,so,2
+cz_wr_b1_62_5_14_bk,but,2
+cz_wr_b2_18_10_14_ar,but,1
+cz_wr_b2_18_10_14_ar,then,1
+cz_wr_b2_18_10_14_ms,in the end,1
+cz_wr_b2_18_10_14_ms,then,2
+cz_wr_b2_18_11_14_ld,after a while,1
+cz_wr_b2_18_11_14_ld,however,1
+cz_wr_b2_18_11_14_ld,then,2
+cz_wr_b2_18_12_14_jf,after,1
+cz_wr_b2_18_12_14_jf,although,1
+cz_wr_b2_18_12_14_jf,however,1
+cz_wr_b2_18_12_14_jf,in the end,1
+cz_wr_b2_18_12_14_jf,later,1
+cz_wr_b2_18_12_14_jf,once,1
+cz_wr_b2_18_12_14_jf,then,2
+cz_wr_b2_18_12_14_jf,therefore,1
+cz_wr_b2_18_15.5_14_os,in the end,1
+cz_wr_b2_18_8_14_dn,but,1
+cz_wr_b2_18_8_14_dn,meanwhile,1
+cz_wr_b2_18_8_14_dn,so,1
+cz_wr_b2_18_8_14_nd,but,1
+cz_wr_b2_18_8_14_nd,however,1
+cz_wr_b2_18_8_14_nd,so,2
+cz_wr_b2_19_11_14_tv,in the end,1
+cz_wr_b2_19_13_14_jch,however,1
+cz_wr_b2_22_18_14_lg,first,1
+cz_wr_b2_22_18_14_lg,however,1
+cz_wr_b2_24_17_14_kp,after,1
+cz_wr_b2_24_17_14_kp,but,3
+cz_wr_b2_24_17_14_kp,so,1
+cz_wr_b2_26_16_14_ab,finally,1
+cz_wr_b2_26_16_14_ab,then,1
+cz_wr_b2_28_19_14_pm,unfortunately,1
+cz_wr_b2_29_17_14_ts,finally,1
+cz_wr_b2_29_17_14_ts,in the end,1
+cz_wr_b2_30_10_14_jv,after,1
+cz_wr_b2_30_10_14_jv,in the end,2
+cz_wr_b2_30_10_14_jv,so,1
+cz_wr_b2_31_21_14_ml,but,1
+cz_wr_b2_33_17_14_vk,so,1
+cz_wr_b2_33_17_14_vk,then,1
+cz_wr_b2_34_22_14_kh,later,1
+cz_wr_b2_34_22_14_kh,unfortunately,1
+cz_wr_b2_35_32_14_mk,first,1
+cz_wr_b2_44_30_14_kb,so,1
+cz_wr_c1_18_14_14_bf,but,1
+cz_wr_c1_18_14_14_bf,so,1
+cz_wr_c1_18_14_14_bf,then,1
+cz_wr_c1_18_14_14_bf,while,1
+cz_wr_c1_18_9_14_cp,after,1
+cz_wr_c1_18_9_14_cp,but,5
+cz_wr_c1_18_9_14_cp,so,10
+cz_wr_c1_18_9_14_cp,still,1
+cz_wr_c1_18_9_14_cp,then,13
+cz_wr_c1_18_9_14_cp,while,2
+cz_wr_c1_18_9_14_nk,but,1
+cz_wr_c1_18_9_14_nk,in the end,1
+cz_wr_c1_18_9_14_nk,so,1
+cz_wr_c1_18_9_14_nk,unfortunately,1
+cz_wr_c1_19_10_14_fb,meanwhile,1
+cz_wr_c1_19_10_14_fb,so,1
+cz_wr_c1_19_10_14_fb,then,1
+cz_wr_c1_19_14_14_vaz,after a while,1
+cz_wr_c1_19_14_14_vaz,but,2
+cz_wr_c1_19_14_14_vaz,so,1
+cz_wr_c1_19_14_14_vaz,then,1
+cz_wr_c1_20_10_14_bv,but,1
+cz_wr_c1_20_10_14_bv,first,1
+cz_wr_c1_20_10_14_bv,in the end,1
+cz_wr_c1_24_14_14_as,first,1
+cz_wr_c1_33_16_14_sr,then,1
+cz_wr_c1_33_30_14_jp,after,1
+cz_wr_c1_33_30_14_jp,so,1
+cz_wr_c1_38_28_14_jp,so,1
+cz_wr_c1_38_28_14_jp,then,1
+cz_wr_c1_44_32_14_lm,after a while,1
+cz_wr_c1_44_32_14_lm,but,1
+cz_wr_c1_44_32_14_lm,however,2
+cz_wr_c1_44_32_14_lm,then,1
+cz_wr_c1_47_37_14_tch,after a while,1
+cz_wr_c1_47_37_14_tch,further,1
+cz_wr_c1_47_37_14_tch,unfortunately,1
+cz_wr_c2_19_11_14_aa,however,1
+cz_wr_c2_19_11_14_aa,so,1
+cz_wr_c2_19_12.5_14_vk,in the end,1
+cz_wr_c2_19_12.5_14_vk,ultimately,1
+cz_wr_c2_19_12.5_14_vk,unfortunately,1
+cz_wr_c2_21_15_14_af,after,2
+cz_wr_c2_21_15_14_af,once,2
+cz_wr_c2_21_15_14_af,since,1
+cz_wr_c2_21_15_14_af,while,2
+cz_wr_c2_23_15_14_ks,after,2
+cz_wr_c2_23_15_14_ks,after a while,1
+cz_wr_c2_23_15_14_ks,subsequently,1
+cz_wr_c2_23_17_14_pl,however,1
+cz_wr_c2_23_17_14_pl,instead,1
+cz_wr_c2_23_17_14_pl,while,1
+cz_wr_c2_23_19_14_vz,after,1
+cz_wr_c2_23_19_14_vz,because,1
+cz_wr_c2_23_19_14_vz,while,1
+cz_wr_c2_24_13_14_mv,after,1
+cz_wr_c2_24_13_14_mv,however,1
+cz_wr_c2_24_15_14_sv,after,1
+cz_wr_c2_24_15_14_sv,first,1
+cz_wr_c2_24_15_14_sv,then,1
+cz_wr_c2_24_15_14_sv,while,1
+cz_wr_c2_24_17_14_tr,however,1
+cz_wr_c2_24_20_14_vr,after,2
+cz_wr_c2_25_17_14_ss,after,1
+cz_wr_c2_25_17_14_ss,first,1
+cz_wr_c2_25_17_14_ss,then,1
+cz_wr_c2_26_17_14_ks,unfortunately,1
+cz_wr_c2_27_23_14_vj,however,1
+cz_wr_c2_27_23_14_vj,instead,2
+cz_wr_c2_27_23_14_vj,unfortunately,1
+cz_wr_c2_38_20_14_tt,so,1
+cz_wr_c2_43_31_14_jm,so,2
+de_wr_b1_19_11_13_rn,afterwards,1
+de_wr_b1_19_11_13_rn,then,1
+de_wr_b1_21_12_13_se,after all,1
+de_wr_b1_21_12_13_se,later,1
+de_wr_b1_21_12_13_se,while,1
+de_wr_b1_22_11_13_ls,while,1
+de_wr_b1_22_15_13_lf,but,2
+de_wr_b1_22_15_13_lf,so,1
+de_wr_b1_22_15_13_lf,yet,1
+de_wr_b1_24_16_14_mw,after,1
+de_wr_b1_26_13_13_tm,but,1
+de_wr_b1_26_13_13_tm,in the morning,1
+de_wr_b1_26_13_13_tm,while,1
+de_wr_b1_33_10_14_jr,after,1
+de_wr_b1_33_10_14_jr,finally,1
+de_wr_b2_18_10_14_pm,afterwards,1
+de_wr_b2_18_10_14_pm,meanwhile,1
+de_wr_b2_18_10_14_pm,so,1
+de_wr_b2_18_10_14_pm,unfortunately,1
+de_wr_b2_18_16_14_ln,after,2
+de_wr_b2_18_9_14_tb,after,1
+de_wr_b2_18_9_14_tb,so,2
+de_wr_b2_19_10_14_al,while,1
+de_wr_b2_19_10_14_alk,after,1
+de_wr_b2_19_10_14_alk,meanwhile,1
+de_wr_b2_19_10_14_alk,while,1
+de_wr_b2_19_10_14_ar,first,1
+de_wr_b2_19_10_14_ar,nevertheless,1
+de_wr_b2_19_10_14_ar,throughout,1
+de_wr_b2_19_10_14_ea,after,2
+de_wr_b2_19_10_14_ea,in that,1
+de_wr_b2_19_10_14_ea,later,1
+de_wr_b2_19_10_14_ea,so,4
+de_wr_b2_19_10_14_ea,that is,1
+de_wr_b2_19_10_14_ea,while,2
+de_wr_b2_19_10_14_lg,after,1
+de_wr_b2_19_10_14_vj,but,1
+de_wr_b2_19_10_14_vj,so,3
+de_wr_b2_19_11_13_ks,but,1
+de_wr_b2_19_11_14_gd,afterwards,1
+de_wr_b2_19_11_14_gd,finally,1
+de_wr_b2_19_11_14_gd,while,1
+de_wr_b2_19_9_13_ia,after,1
+de_wr_b2_19_9_13_ia,after a while,1
+de_wr_b2_19_9_13_ia,however,2
+de_wr_b2_19_9_13_ia,the next day,1
+de_wr_b2_19_9_13_ia,therefore,1
+de_wr_b2_19_9_13_ia,while,1
+de_wr_b2_20_10.5_13_gd,but,2
+de_wr_b2_20_10.5_13_gd,so,1
+de_wr_b2_20_10.5_13_gd,then,1
+de_wr_b2_20_10.5_14_ad,after,2
+de_wr_b2_20_10.5_14_ad,while,2
+de_wr_b2_20_10_13_mg,afterwards,1
+de_wr_b2_20_10_13_mg,then,1
+de_wr_b2_20_10_14_sa,but,1
+de_wr_b2_20_10_14_sa,then,2
+de_wr_b2_20_12_13_at,therefore,1
+de_wr_b2_20_12_13_lh,as a consequence,1
+de_wr_b2_20_12_13_lh,finally,1
+de_wr_b2_20_12_13_lh,unfortunately,1
+de_wr_b2_20_12_13_vk,in the morning,1
+de_wr_b2_20_12_13_vk,or,1
+de_wr_b2_20_12_13_vk,since,2
+de_wr_b2_20_12_13_vk,while,1
+de_wr_b2_20_12_14_ck,so,1
+de_wr_b2_20_12_14_eb,while,3
+de_wr_b2_20_13_14_cf,but,3
+de_wr_b2_20_13_14_cf,immediately,1
+de_wr_b2_20_13_14_cf,next,3
+de_wr_b2_20_13_14_cf,so,1
+de_wr_b2_20_13_14_sc,again,1
+de_wr_b2_20_13_14_sc,then,1
+de_wr_b2_20_16_14_pc,after,2
+de_wr_b2_20_16_14_pc,but,1
+de_wr_b2_20_16_14_pc,first,1
+de_wr_b2_20_16_14_pc,while,1
+de_wr_b2_20_8_13_ja,after,1
+de_wr_b2_20_9_13_lr,but,1
+de_wr_b2_20_9_13_lr,finally,1
+de_wr_b2_20_9_13_lr,unfortunately,1
+de_wr_b2_21_11_13_js,later,1
+de_wr_b2_21_11_13_js,then,1
+de_wr_b2_21_11_14_ng,after,1
+de_wr_b2_21_11_14_ng,before,1
+de_wr_b2_21_11_14_ng,meanwhile,1
+de_wr_b2_21_11_14_ng,next,1
+de_wr_b2_21_11_14_ng,while,4
+de_wr_b2_21_13_13_ck,after,2
+de_wr_b2_21_13_14_ds,afterwards,1
+de_wr_b2_21_13_14_ds,but,1
+de_wr_b2_21_13_14_ds,finally,1
+de_wr_b2_21_13_14_ds,without,1
+de_wr_b2_21_13_14_ts,once,1
+de_wr_b2_21_13_14_ts,thus,1
+de_wr_b2_21_19_14_ns,after a while,1
+de_wr_b2_21_19_14_ns,but,1
+de_wr_b2_21_19_14_ns,finally,1
+de_wr_b2_21_19_14_ns,first,1
+de_wr_b2_21_19_14_ns,in fact,1
+de_wr_b2_21_8_13_ls,in the morning,1
+de_wr_b2_21_9_14_ar,after,1
+de_wr_b2_21_9_14_ar,so,1
+de_wr_b2_21_9_14_ar,then,2
+de_wr_b2_22_11_13_jm,but,1
+de_wr_b2_22_11_13_jm,so,2
+de_wr_b2_22_11_14_ak,as a consequence,1
+de_wr_b2_22_11_14_ak,but,1
+de_wr_b2_22_11_14_ak,once more,1
+de_wr_b2_22_11_14_ak,so,1
+de_wr_b2_22_13.5_14_ps,after,1
+de_wr_b2_22_13.5_14_ps,at last,1
+de_wr_b2_22_13.5_14_ps,first,1
+de_wr_b2_22_13.5_14_ps,then,1
+de_wr_b2_22_15_14_lso,in the end,1
+de_wr_b2_23_12_13_am,all day,1
+de_wr_b2_23_12_13_am,but,2
+de_wr_b2_23_12_13_am,so,2
+de_wr_b2_23_12_13_sa,finally,1
+de_wr_b2_23_12_13_sa,in the morning,1
+de_wr_b2_23_12_13_sa,later,1
+de_wr_b2_23_12_13_sa,nevertheless,1
+de_wr_b2_23_12_13_sa,so,1
+de_wr_b2_23_12_13_sa,while,1
+de_wr_b2_23_14_14_ct,after,1
+de_wr_b2_23_14_14_ct,as a result,1
+de_wr_b2_23_14_14_ct,since,2
+de_wr_b2_23_14_14_gz,since,1
+de_wr_b2_23_16_14_aq,after a while,1
+de_wr_b2_23_16_14_aq,however,1
+de_wr_b2_23_16_14_ls,after,1
+de_wr_b2_23_16_14_ls,again,1
+de_wr_b2_23_16_14_ls,next,1
+de_wr_b2_23_21_13_lb,but,1
+de_wr_b2_23_21_13_lb,first,1
+de_wr_b2_23_21_13_lb,so,1
+de_wr_b2_23_21_13_lb,then,1
+de_wr_b2_23_21_13_lb,while,1
+de_wr_b2_24_11_13_lt,in the morning,1
+de_wr_b2_24_17_13_rs,finally,1
+de_wr_b2_24_17_13_rs,so,1
+de_wr_b2_24_17_13_rs,still,1
+de_wr_b2_25_14_13_gp,nevertheless,1
+de_wr_b2_25_14_13_gp,without,1
+de_wr_b2_25_19_14_arb,after,1
+de_wr_b2_25_19_14_arb,but,2
+de_wr_b2_26_12_13_ss,so,1
+de_wr_b2_26_12_13_ss,then,1
+de_wr_b2_27_16_13_kk,after a while,2
+de_wr_b2_27_16_13_kk,but,3
+de_wr_b2_27_16_13_kk,so,1
+de_wr_b2_27_16_13_kk,while,1
+de_wr_b2_29_20_14_er,due to,1
+de_wr_b2_29_20_14_er,further,1
+de_wr_b2_29_20_14_er,furthermore,1
+de_wr_b2_31_12_14_pl,finally,1
+de_wr_b2_31_12_14_pl,so,2
+de_wr_b2_31_12_14_pl,that is,1
+de_wr_b2_31_12_14_pl,while,1
+de_wr_b2_52_11_13_re,so,1
+de_wr_b2_52_11_13_re,the next day,1
+de_wr_b2_52_11_13_re,unfortunately,1
+de_wr_c1_17_8.5_14_ak,finally,1
+de_wr_c1_17_8.5_14_ak,however,1
+de_wr_c1_18_10_14_hm,after,2
+de_wr_c1_18_10_14_hm,in the end,1
+de_wr_c1_18_10_14_hm,so,1
+de_wr_c1_18_10_14_hm,then,1
+de_wr_c1_18_11_14_ak,after,1
+de_wr_c1_18_11_14_ak,however,1
+de_wr_c1_18_11_14_jj,after,5
+de_wr_c1_18_11_14_jj,afterwards,1
+de_wr_c1_18_11_14_jj,then,3
+de_wr_c1_19_10.5_13_ag,at least,1
+de_wr_c1_19_10.5_13_ag,however,1
+de_wr_c1_19_10.5_13_ag,in fact,1
+de_wr_c1_19_10.5_13_ag,so that,1
+de_wr_c1_19_10_13_cd,consequently,1
+de_wr_c1_19_10_13_cd,in fact,1
+de_wr_c1_19_10_13_cd,in the end,1
+de_wr_c1_19_10_13_cd,lastly,1
+de_wr_c1_19_10_13_cd,since,1
+de_wr_c1_19_10_13_dt,after,1
+de_wr_c1_19_10_13_dt,consequently,1
+de_wr_c1_19_10_14_mw,after,1
+de_wr_c1_19_10_14_mw,coincidentally,1
+de_wr_c1_19_11_13_cg,once,1
+de_wr_c1_19_11_13_cg,while,1
+de_wr_c1_19_11_13_mp,after,2
+de_wr_c1_19_11_13_mp,coincidentally,1
+de_wr_c1_19_11_13_mp,neither,1
+de_wr_c1_19_11_13_mp,so,1
+de_wr_c1_19_11_13_mp,therefore,1
+de_wr_c1_19_11_13_mp,yet,1
+de_wr_c1_19_11_14_cs,after,1
+de_wr_c1_19_11_14_cs,in that,1
+de_wr_c1_19_11_14_jb,after,1
+de_wr_c1_19_11_14_jb,but,1
+de_wr_c1_19_11_14_lm,after,2
+de_wr_c1_19_11_14_lm,finally,1
+de_wr_c1_19_11_14_lm,hence,1
+de_wr_c1_19_11_14_lm,once,1
+de_wr_c1_19_11_14_nc,finally,1
+de_wr_c1_19_11_14_nc,unfortunately,1
+de_wr_c1_19_12_14_ed,after,1
+de_wr_c1_19_12_14_ed,while,1
+de_wr_c1_19_12_14_kw,after all,1
+de_wr_c1_19_12_14_kw,but,1
+de_wr_c1_19_12_14_kw,however,2
+de_wr_c1_19_12_14_llb,then,4
+de_wr_c1_19_15_13_fs,but,1
+de_wr_c1_19_15_13_fs,later,1
+de_wr_c1_19_8_14_on,afterwards,1
+de_wr_c1_19_8_14_on,hence,1
+de_wr_c1_19_9_14_ak,after,2
+de_wr_c1_19_9_14_ak,shortly,1
+de_wr_c1_19_9_14_ak,since,1
+de_wr_c1_19_9_14_ak,then,1
+de_wr_c1_20_10_14_mh,then,1
+de_wr_c1_20_10_14_mh,while,1
+de_wr_c1_20_10_14_sb,after,1
+de_wr_c1_20_10_14_sb,finally,1
+de_wr_c1_20_10_14_sb,meanwhile,1
+de_wr_c1_20_11_13_ak,after a while,1
+de_wr_c1_20_11_13_ak,fortunately,1
+de_wr_c1_20_11_13_lk,but,1
+de_wr_c1_20_11_13_lk,neither,1
+de_wr_c1_20_11_13_nl,however,1
+de_wr_c1_20_11_13_nl,so,2
+de_wr_c1_20_11_13_nl,while,1
+de_wr_c1_20_11_14_as,after,2
+de_wr_c1_20_11_14_as,afterwards,1
+de_wr_c1_20_11_14_as,even though,1
+de_wr_c1_20_11_14_as,finally,1
+de_wr_c1_20_11_14_as,meanwhile,1
+de_wr_c1_20_11_14_as,then,2
+de_wr_c1_20_11_14_nsw,after,1
+de_wr_c1_20_12.5_14_jv,afterwards,1
+de_wr_c1_20_12.5_14_jv,therefore,1
+de_wr_c1_20_12_13_mn,however,1
+de_wr_c1_20_12_14_jk,after,3
+de_wr_c1_20_12_14_jk,in the meantime,1
+de_wr_c1_20_12_14_jk,then,1
+de_wr_c1_20_12_14_jo,in the end,1
+de_wr_c1_20_12_14_js,instead,1
+de_wr_c1_20_12_14_jt,after,1
+de_wr_c1_20_12_14_jt,first,1
+de_wr_c1_20_12_14_jt,later,1
+de_wr_c1_20_12_14_jv,after,2
+de_wr_c1_20_12_14_jv,finally,1
+de_wr_c1_20_12_14_jv,first,1
+de_wr_c1_20_12_14_kh,but,1
+de_wr_c1_20_12_14_kh,while,1
+de_wr_c1_20_12_14_khm,while,1
+de_wr_c1_20_12_14_ll,however,1
+de_wr_c1_20_12_14_md,after,1
+de_wr_c1_20_12_14_mdd,also,1
+de_wr_c1_20_12_14_mdd,however,3
+de_wr_c1_20_12_14_mdd,meanwhile,1
+de_wr_c1_20_12_14_nr,but,2
+de_wr_c1_20_12_14_nr,still,1
+de_wr_c1_20_12_14_nr,unfortunately,1
+de_wr_c1_20_12_14_nr,while,1
+de_wr_c1_20_12_14_ns,after,1
+de_wr_c1_20_12_14_sk,after,1
+de_wr_c1_20_12_14_sk,in the end,1
+de_wr_c1_20_12_14_sk,shortly,1
+de_wr_c1_20_12_14_sk,that is,1
+de_wr_c1_20_12_14_sk,then,1
+de_wr_c1_20_12_14_tz,after,1
+de_wr_c1_20_12_14_tz,however,1
+de_wr_c1_20_12_14_vs,after,3
+de_wr_c1_20_12_14_vs,after a while,1
+de_wr_c1_20_12_14_vs,furthermore,1
+de_wr_c1_20_12_14_vs,however,1
+de_wr_c1_20_12_14_vs,meanwhile,1
+de_wr_c1_20_12_14_vs,so,1
+de_wr_c1_20_12_14_vs,while,2
+de_wr_c1_20_15_14_lh,then,1
+de_wr_c1_20_15_14_pj,after,1
+de_wr_c1_20_9_13_as,but,2
+de_wr_c1_20_9_13_as,then,1
+de_wr_c1_20_9_13_as,while,1
+de_wr_c1_21_10_13_sl,but,1
+de_wr_c1_21_10_13_sl,next,1
+de_wr_c1_21_10_13_sl,so,3
+de_wr_c1_21_10_14_ae,in the end,1
+de_wr_c1_21_11.5_14_rd,after,2
+de_wr_c1_21_11_13_at,so,1
+de_wr_c1_21_11_13_at,still,1
+de_wr_c1_21_11_13_fl,finally,1
+de_wr_c1_21_11_13_id,finally,1
+de_wr_c1_21_11_13_id,in the end,1
+de_wr_c1_21_11_13_id,then,1
+de_wr_c1_21_11_13_id,until,1
+de_wr_c1_21_11_13_sh,also,1
+de_wr_c1_21_11_13_sh,but,1
+de_wr_c1_21_11_13_sh,since,1
+de_wr_c1_21_11_13_sh,therefore,1
+de_wr_c1_21_11_13_sh,while,1
+de_wr_c1_21_11_13_ss,afterwards,1
+de_wr_c1_21_11_13_ss,hence,1
+de_wr_c1_21_11_13_ss,thereupon,1
+de_wr_c1_21_11_14_jb,after,1
+de_wr_c1_21_11_14_jb,but,1
+de_wr_c1_21_11_14_jv,after,1
+de_wr_c1_21_11_14_jv,without,1
+de_wr_c1_21_12.5_14_mr,for instance,1
+de_wr_c1_21_12.5_14_mr,therefore,1
+de_wr_c1_21_12.5_14_mr,to conclude,1
+de_wr_c1_21_12.5_14_vld,after,3
+de_wr_c1_21_12_13_jb,so,1
+de_wr_c1_21_12_13_jb,while,1
+de_wr_c1_21_12_13_lj,fortunately,1
+de_wr_c1_21_12_13_lj,the next day,1
+de_wr_c1_21_12_13_lj,then,1
+de_wr_c1_21_12_14_fs,shortly,1
+de_wr_c1_21_12_14_mcn,due to,1
+de_wr_c1_21_12_14_mcn,in that,1
+de_wr_c1_21_13.5_14_tl,after,1
+de_wr_c1_21_13.5_14_tl,later,1
+de_wr_c1_21_13.5_14_tl,the whole time,1
+de_wr_c1_21_13.5_14_tl,then,1
+de_wr_c1_21_13_13_le,but,1
+de_wr_c1_21_13_13_le,in fact,1
+de_wr_c1_21_13_13_le,so,2
+de_wr_c1_21_13_13_le,then,1
+de_wr_c1_21_13_13_le,while,1
+de_wr_c1_21_13_13_ss,because,1
+de_wr_c1_21_13_13_ss,but,2
+de_wr_c1_21_13_13_ss,in the morning,1
+de_wr_c1_21_13_13_ss,maybe,1
+de_wr_c1_21_13_13_ss,so,1
+de_wr_c1_21_13_14_cjk,afterwards,2
+de_wr_c1_21_13_14_cjk,also,1
+de_wr_c1_21_13_14_cjk,first,1
+de_wr_c1_21_13_14_hg,after,2
+de_wr_c1_21_13_14_hg,while,2
+de_wr_c1_21_13_14_lm,hence,1
+de_wr_c1_21_13_14_lm,since,1
+de_wr_c1_21_13_14_lm,unfortunately,1
+de_wr_c1_21_13_14_lr,after,2
+de_wr_c1_21_13_14_lw,but,1
+de_wr_c1_21_13_14_lw,meanwhile,1
+de_wr_c1_21_13_14_lw,while,1
+de_wr_c1_21_13_14_sh,after,1
+de_wr_c1_21_14_13_fk,then,1
+de_wr_c1_21_15_13_rd,but,1
+de_wr_c1_21_15_13_rd,finally,1
+de_wr_c1_21_15_13_rd,however,1
+de_wr_c1_21_15_13_rd,later,1
+de_wr_c1_21_15_14_rs,after,2
+de_wr_c1_21_15_14_rs,but,1
+de_wr_c1_21_15_14_rs,first,1
+de_wr_c1_21_15_14_rs,so,2
+de_wr_c1_21_15_14_rs,while,2
+de_wr_c1_21_16_13_du,after a while,1
+de_wr_c1_21_16_13_du,so,1
+de_wr_c1_21_16_13_du,then,2
+de_wr_c1_21_17_14_ls,so,3
+de_wr_c1_21_9_14_tm,after,4
+de_wr_c1_21_9_14_tm,after a while,1
+de_wr_c1_21_9_14_tm,while,1
+de_wr_c1_22_12_13_ah,but,1
+de_wr_c1_22_12_13_ah,since,1
+de_wr_c1_22_12_13_ah,while,1
+de_wr_c1_22_12_13_ah,yet,1
+de_wr_c1_22_12_13_db,after,1
+de_wr_c1_22_12_13_db,however,1
+de_wr_c1_22_12_13_db,maybe,1
+de_wr_c1_22_14_14_bg,after,2
+de_wr_c1_22_14_14_bg,but,1
+de_wr_c1_22_14_14_bg,in that,1
+de_wr_c1_22_14_14_slk,after,1
+de_wr_c1_22_14_14_slk,in the end,1
+de_wr_c1_22_14_14_slk,then,1
+de_wr_c1_22_15_14_ad,after,2
+de_wr_c1_22_15_14_ad,afterwards,1
+de_wr_c1_22_15_14_ad,consequently,1
+de_wr_c1_22_15_14_ad,shortly,1
+de_wr_c1_22_15_14_ad,while,1
+de_wr_c1_22_15_14_ct,after,2
+de_wr_c1_22_15_14_nb,in the end,1
+de_wr_c1_22_9_13_lv,in the end,1
+de_wr_c1_22_9_13_lv,since,1
+de_wr_c1_22_9_13_lv,therefore,1
+de_wr_c1_23_10_13_sp,then,1
+de_wr_c1_23_11_13_jm,but,1
+de_wr_c1_23_11_13_jm,while,1
+de_wr_c1_23_11_14_jp,after,2
+de_wr_c1_23_11_14_jp,however,1
+de_wr_c1_23_11_14_jp,subsequently,1
+de_wr_c1_23_11_14_jp,thus,1
+de_wr_c1_23_14_14_cr,after,1
+de_wr_c1_23_14_14_cr,at the same time,1
+de_wr_c1_23_14_14_cr,but,1
+de_wr_c1_23_14_14_cr,meanwhile,1
+de_wr_c1_23_14_14_cr,while,1
+de_wr_c1_23_14_14_cr,without,1
+de_wr_c1_23_14_14_kd,after,1
+de_wr_c1_23_14_14_kd,but,2
+de_wr_c1_23_14_14_kd,due to,1
+de_wr_c1_23_14_14_kd,first,1
+de_wr_c1_23_14_14_kd,so,1
+de_wr_c1_23_15_14_pge,after,1
+de_wr_c1_23_15_14_pge,immediately,1
+de_wr_c1_23_15_14_pge,instead,1
+de_wr_c1_23_16_14_mgh,accordingly,1
+de_wr_c1_23_16_14_mgh,again,1
+de_wr_c1_23_16_14_mgh,however,1
+de_wr_c1_23_16_14_mgh,so,1
+de_wr_c1_23_16_14_mgh,thereupon,1
+de_wr_c1_23_18_13_tl,after a while,1
+de_wr_c1_23_18_13_tl,finally,1
+de_wr_c1_23_18_13_tl,whenever,1
+de_wr_c1_23_18_13_tl,while,1
+de_wr_c1_23_18_14_ek,after,2
+de_wr_c1_23_18_14_ek,at the same time,1
+de_wr_c1_23_18_14_ek,instead,1
+de_wr_c1_23_18_14_ek,unfortunately,1
+de_wr_c1_23_18_14_ek,while,1
+de_wr_c1_23_20_14_cb,afterwards,1
+de_wr_c1_23_20_14_cb,but,1
+de_wr_c1_23_20_14_cb,next,1
+de_wr_c1_24_11_13_kh,still,1
+de_wr_c1_24_12_13_sn,after a while,1
+de_wr_c1_24_15_14_la,before,1
+de_wr_c1_24_16_14_cn,finally,1
+de_wr_c1_24_16_14_cn,so,2
+de_wr_c1_24_16_14_cn,then,1
+de_wr_c1_25_10_13_vk,after,1
+de_wr_c1_25_10_13_vk,but,2
+de_wr_c1_25_10_13_vk,so,1
+de_wr_c1_25_10_13_vk,that is,1
+de_wr_c1_25_12_13_am,although,1
+de_wr_c1_25_12_13_am,fortunately,1
+de_wr_c1_25_12_13_os,but,2
+de_wr_c1_25_12_13_os,so,2
+de_wr_c1_25_12_13_os,then,1
+de_wr_c1_25_14.5_14_mm,after,2
+de_wr_c1_25_14.5_14_mm,finally,1
+de_wr_c1_25_14.5_14_mm,however,2
+de_wr_c1_25_14.5_14_mm,instead,1
+de_wr_c1_25_14.5_14_mm,unfortunately,1
+de_wr_c1_26_16.5_14_mn,at the same time,1
+de_wr_c1_26_16.5_14_mn,however,1
+de_wr_c1_26_16.5_14_mn,next,1
+de_wr_c1_26_16.5_14_mn,then,1
+de_wr_c1_26_16_14_rl,after,1
+de_wr_c1_26_16_14_rl,so,1
+de_wr_c1_26_17.5_14_jh,but,2
+de_wr_c1_26_17.5_14_jh,while,1
+de_wr_c1_26_17_14_ap,after,1
+de_wr_c1_27_21_13_aa,while,1
+de_wr_c1_27_7.5_14_plk,at this moment,1
+de_wr_c1_28_19_14_jf,after,1
+de_wr_c1_28_19_14_jf,afterwards,1
+de_wr_c1_32_20_14_md,after,1
+de_wr_c1_34_9_14_nl,after all,1
+de_wr_c1_34_9_14_nl,however,1
+de_wr_c1_34_9_14_nl,so,1
+de_wr_c1_34_9_14_nl,then,1
+de_wr_c1_35_15_14_rb,after,1
+de_wr_c1_46_36_14_ik,in the meantime,1
+de_wr_c1_46_36_14_ik,instead,1
+de_wr_c1_46_36_14_ik,then,1
+de_wr_c1_48_9_14_jgp,after,1
+de_wr_c2_18_12_13_mr,after,1
+de_wr_c2_18_12_13_mr,as a result,1
+de_wr_c2_18_12_13_mr,however,1
+de_wr_c2_18_12_13_mr,in the morning,1
+de_wr_c2_18_9_14_lb,after,3
+de_wr_c2_19_10_13_js,but,1
+de_wr_c2_19_10_13_js,so,2
+de_wr_c2_19_10_14_ef,after,1
+de_wr_c2_19_11.5_14_lk,after,2
+de_wr_c2_19_11.5_14_lk,due to,2
+de_wr_c2_19_11.5_14_lk,next,1
+de_wr_c2_19_11_14_ae,however,1
+de_wr_c2_19_11_14_ae,meanwhile,1
+de_wr_c2_19_11_14_ae,then,1
+de_wr_c2_19_11_14_jw,after,1
+de_wr_c2_19_11_14_jw,while,1
+de_wr_c2_19_11_14_sg,after,2
+de_wr_c2_19_11_14_sg,but,1
+de_wr_c2_19_11_14_sg,even though,1
+de_wr_c2_19_11_14_sg,thus,1
+de_wr_c2_19_11_14_sg,unfortunately,1
+de_wr_c2_19_11_14_sg,while,2
+de_wr_c2_19_12.5_14_jw,however,1
+de_wr_c2_19_12_14_jh,after,1
+de_wr_c2_19_12_14_jh,but,1
+de_wr_c2_19_12_14_jh,however,1
+de_wr_c2_19_13_14_ck,assuming that,1
+de_wr_c2_19_13_14_ck,unfortunately,1
+de_wr_c2_19_13_14_ik,after,1
+de_wr_c2_19_13_14_ik,as a consequence,1
+de_wr_c2_19_13_14_ik,coincidentally,1
+de_wr_c2_19_13_14_ik,finally,1
+de_wr_c2_19_13_14_ik,however,1
+de_wr_c2_19_13_14_ik,in the end,1
+de_wr_c2_19_13_14_mj,after,1
+de_wr_c2_19_13_14_mj,in the end,1
+de_wr_c2_19_13_14_nn,after,1
+de_wr_c2_19_13_14_nn,as a result,1
+de_wr_c2_19_13_14_nn,that is,1
+de_wr_c2_20_10_13_mc,unfortunately,1
+de_wr_c2_20_10_14_dk,after,1
+de_wr_c2_20_10_14_dk,again,1
+de_wr_c2_20_10_14_vw,in the end,1
+de_wr_c2_20_11_14_hk,after,2
+de_wr_c2_20_11_14_hk,finally,1
+de_wr_c2_20_11_14_hk,since,1
+de_wr_c2_20_12_13_lb,so,1
+de_wr_c2_20_12_13_lb,then,1
+de_wr_c2_20_12_14_hse,next,1
+de_wr_c2_20_12_14_hse,then,1
+de_wr_c2_20_12_14_js,in the end,1
+de_wr_c2_20_12_14_lg,however,1
+de_wr_c2_20_12_14_lg,in that,1
+de_wr_c2_20_12_14_mi,after,1
+de_wr_c2_20_12_14_mi,but,1
+de_wr_c2_20_12_14_mi,instead,1
+de_wr_c2_20_12_14_np,after,1
+de_wr_c2_20_12_14_np,but,1
+de_wr_c2_20_12_14_np,in the end,1
+de_wr_c2_20_12_14_np,next,1
+de_wr_c2_20_12_14_np,then,1
+de_wr_c2_20_12_14_tb,after,5
+de_wr_c2_20_12_14_tb,afterwards,1
+de_wr_c2_20_12_14_tb,shortly,1
+de_wr_c2_20_13_13_ss,but,3
+de_wr_c2_20_13_13_ss,so,1
+de_wr_c2_20_13_13_ss,still,1
+de_wr_c2_20_13_14_tw,but,1
+de_wr_c2_20_14_14_fb,throughout,1
+de_wr_c2_20_14_14_kh,but,1
+de_wr_c2_20_14_14_kh,while,1
+de_wr_c2_20_14_14_lb,while,1
+de_wr_c2_20_8_14_ms,after,2
+de_wr_c2_20_8_14_ms,afterwards,1
+de_wr_c2_20_8_14_ms,shortly,1
+de_wr_c2_21_11_13_jb,because,1
+de_wr_c2_21_11_13_jb,in that,1
+de_wr_c2_21_11_13_jb,while,1
+de_wr_c2_21_11_14_jt,at the same time,1
+de_wr_c2_21_11_14_jt,but,1
+de_wr_c2_21_11_14_jt,meanwhile,1
+de_wr_c2_21_11_14_jt,next,1
+de_wr_c2_21_11_14_lv,assuming that,1
+de_wr_c2_21_11_14_lv,however,1
+de_wr_c2_21_11_14_lv,next,1
+de_wr_c2_21_12_14_mcs,at least,1
+de_wr_c2_21_12_14_mcs,in the end,1
+de_wr_c2_21_12_14_mcs,while,1
+de_wr_c2_21_12_14_ml,after,1
+de_wr_c2_21_12_14_ml,because,2
+de_wr_c2_21_12_14_ml,meanwhile,1
+de_wr_c2_21_12_14_ml,then,1
+de_wr_c2_21_13_13_lp,in the morning,1
+de_wr_c2_21_13_14_elw,finally,1
+de_wr_c2_21_13_14_elw,however,1
+de_wr_c2_21_13_14_ks,instead,1
+de_wr_c2_21_13_14_ld,after,4
+de_wr_c2_21_13_14_ld,but,1
+de_wr_c2_21_13_14_ld,then,1
+de_wr_c2_21_13_14_mp,after,1
+de_wr_c2_21_13_14_mp,however,1
+de_wr_c2_21_13_14_mp,instead,1
+de_wr_c2_21_13_14_mp,once,1
+de_wr_c2_21_14_14_sh,shortly,1
+de_wr_c2_21_14_14_sh,then,1
+de_wr_c2_21_9_13_mb,finally,1
+de_wr_c2_21_9_13_mb,however,1
+de_wr_c2_21_9_13_mb,so,1
+de_wr_c2_21_9_13_mb,soon,1
+de_wr_c2_21_9_13_mb,while,1
+de_wr_c2_22_10_13_cs,but,1
+de_wr_c2_22_10_13_cs,in the morning,1
+de_wr_c2_22_10_13_jw,but,1
+de_wr_c2_22_10_13_jw,fortunately,1
+de_wr_c2_22_10_13_jw,instead,1
+de_wr_c2_22_10_13_jw,while,1
+de_wr_c2_22_10_13_tz,after,3
+de_wr_c2_22_10_13_tz,finally,1
+de_wr_c2_22_10_13_tz,while,1
+de_wr_c2_22_11_14_ah,after,1
+de_wr_c2_22_11_14_ah,while,1
+de_wr_c2_22_12_13_ak,after,1
+de_wr_c2_22_12_13_ak,but,1
+de_wr_c2_22_12_13_ak,once,1
+de_wr_c2_22_12_13_as,after,1
+de_wr_c2_22_13_14_lf,after,1
+de_wr_c2_22_13_14_lf,however,1
+de_wr_c2_22_13_14_lf,instead,1
+de_wr_c2_22_13_14_lf,that is,2
+de_wr_c2_22_13_14_lf,then,1
+de_wr_c2_22_13_14_lf,while,1
+de_wr_c2_22_14_13_cb,in the morning,1
+de_wr_c2_22_14_14_jlr,after,1
+de_wr_c2_22_14_14_jlr,following this,1
+de_wr_c2_22_14_14_mh,but,1
+de_wr_c2_22_14_14_mh,thus,1
+de_wr_c2_22_14_14_ng,after,2
+de_wr_c2_22_14_14_ng,however,1
+de_wr_c2_22_14_14_ng,while,1
+de_wr_c2_22_14_14_ss,so,1
+de_wr_c2_22_14_14_ss,whilst,1
+de_wr_c2_22_15_14_ip,again,1
+de_wr_c2_22_15_14_ip,however,1
+de_wr_c2_22_15_14_ip,in the end,1
+de_wr_c2_22_15_14_ip,since,1
+de_wr_c2_22_15_14_ip,then,1
+de_wr_c2_22_15_14_ip,while,1
+de_wr_c2_22_16_14_ar,after,1
+de_wr_c2_22_16_14_ar,following this,1
+de_wr_c2_22_16_14_ar,while,1
+de_wr_c2_23_12_13_nh,thus,1
+de_wr_c2_23_12_13_nh,yet,1
+de_wr_c2_23_17_14_jh,afterwards,1
+de_wr_c2_23_17_14_jh,however,1
+de_wr_c2_23_8_13_ks,after,4
+de_wr_c2_23_8_13_ks,in the morning,1
+de_wr_c2_23_8_13_ks,so,1
+de_wr_c2_24_11_13_lh,but,1
+de_wr_c2_24_14_14_jw,after,1
+de_wr_c2_24_14_14_jw,however,1
+de_wr_c2_24_14_14_jw,soon,1
+de_wr_c2_24_14_14_jw,while,2
+de_wr_c2_24_14_14_yo,after,1
+de_wr_c2_24_14_14_yo,finally,1
+de_wr_c2_24_15_14_cb,next,2
+de_wr_c2_24_15_14_th,after,3
+de_wr_c2_24_15_14_th,next,1
+de_wr_c2_24_15_14_th,shortly,1
+de_wr_c2_24_16_14_sm,after,2
+de_wr_c2_24_16_14_sm,because,1
+de_wr_c2_24_16_14_vs,finally,1
+de_wr_c2_24_16_14_vs,since,1
+de_wr_c2_24_9_13_ja,so,1
+de_wr_c2_25_15_14_if,for example,1
+de_wr_c2_25_15_14_if,in the end,1
+de_wr_c2_25_15_14_if,therefore,1
+de_wr_c2_25_15_14_kcf,after,1
+de_wr_c2_25_15_14_kcf,but,2
+de_wr_c2_25_15_14_kcf,coincidentally,1
+de_wr_c2_25_15_14_kcf,due to,1
+de_wr_c2_25_15_14_kcf,in the end,1
+de_wr_c2_27_19_14_jl,next,1
+de_wr_c2_28_17.5_14_nh,at the same time,1
+de_wr_c2_28_17.5_14_nh,but,1
+de_wr_c2_28_17.5_14_nh,in the end,1
+de_wr_c2_28_17.5_14_nh,while,1
+de_wr_c2_28_17_14_sl,after,2
+de_wr_c2_28_17_14_sl,but,2
+de_wr_c2_28_17_14_sl,meanwhile,1
+de_wr_c2_28_18_14_ds,after,1
+de_wr_c2_29_18_13_ig,but,1
+de_wr_c2_29_18_13_ig,however,1
+de_wr_c2_29_18_13_ms,before,1
+de_wr_c2_36_23_14_sts,after,1
+de_wr_c2_36_8_14_jsm,after,1
+de_wr_c2_36_8_14_jsm,still,1
+de_wr_c2_38_15_14_kp,assuming that,1
+de_wr_c2_38_15_14_kp,next,1
+de_wr_c2_38_15_14_kp,thus,1
+de_wr_c2_41_8_13_na,in the end,1
+de_wr_c2_41_8_13_na,instead,1
+de_wr_c2_53_44_14_jr,in that,1
+de_wr_c2_53_44_14_jr,next,1
+de_wr_c2_53_44_14_jr,while,1
+es_wr_a1_12_5_13_fag,but,1
+es_wr_a1_12_5_13_fag,the next day,1
+es_wr_a1_12_6_13_cam,in the morning,1
+es_wr_a1_12_6_13_lrr,finally,1
+es_wr_a1_12_6_13_mlv,in the morning,1
+es_wr_a1_12_7_13_aob,so,1
+es_wr_a1_12_8_13_amrf,after,1
+es_wr_a1_12_8_13_lvb,in the morning,1
+es_wr_a1_12_9_13_cvr,until,1
+es_wr_a1_12_9_13_mmr,in the morning,1
+es_wr_a1_12_9_13_vab,later,1
+es_wr_a1_12_9_13_vab,then,1
+es_wr_a1_12_unknown_13_mpp,but,1
+es_wr_a1_12_unknown_13_mpp,the next day,1
+es_wr_a1_13_10_13_clm,in the morning,1
+es_wr_a1_13_10_13_cre,but,1
+es_wr_a1_13_3_13_crt,while,1
+es_wr_a1_13_3_13_scg,while,1
+es_wr_a1_13_5_13_amm,the next day,1
+es_wr_a1_13_5_13_lmp,in the morning,1
+es_wr_a1_13_6_13_imm,in the morning,1
+es_wr_a1_13_7_13_csm,in the morning,1
+es_wr_a1_13_7_13_ero,the next day,1
+es_wr_a1_13_7_13_scaa,but,2
+es_wr_a1_13_8_13_jsm,later,1
+es_wr_a1_13_9_13_ccl,the next day,1
+es_wr_a1_13_9_13_ccl,then,1
+es_wr_a1_13_9_13_orc,then,2
+es_wr_a1_13_unknown_13_db,later,1
+es_wr_a1_14_11_13_lmn,the next day,1
+es_wr_a1_14_11_13_lmn,then,1
+es_wr_a1_14_7_13_jls,next,2
+es_wr_a1_14_8_13_agn,but,1
+es_wr_a1_14_8_13_ama,however,1
+es_wr_a1_14_9_13_mamg,then,1
+es_wr_a1_14_unknown_13_asc,later,1
+es_wr_a1_15_10_13_aln,next,1
+es_wr_a1_15_12_13_tgt,the next day,1
+es_wr_a1_15_5_2_gsc,however,1
+es_wr_a1_15_9_13_ajmm,after,1
+es_wr_a1_15_9_13_mpb,finally,1
+es_wr_a1_15_9_13_mpb,then,2
+es_wr_a1_16_10_13_esf,the next day,1
+es_wr_a1_16_12_13_itc,next,1
+es_wr_a1_16_6_13_nmg,in the morning,1
+es_wr_a1_16_8_13_anp,the next day,1
+es_wr_a1_17_10_13_emc,the next day,1
+es_wr_a1_17_10_13_mdhg,after,1
+es_wr_a1_17_10_13_mdhg,in the morning,1
+es_wr_a1_17_10_13_mdhg,then,1
+es_wr_a1_17_10_13_mmc,the next day,1
+es_wr_a1_17_10_13_vcm,in the morning,1
+es_wr_a1_17_10_13_vcm,then,1
+es_wr_a1_17_11_13_ase,finally,1
+es_wr_a1_17_11_13_mag,after,1
+es_wr_a1_17_11_13_mag,finally,1
+es_wr_a1_17_11_13_mag,in the morning,1
+es_wr_a1_17_11_13_mag,then,1
+es_wr_a1_17_11_14_mps,finally,1
+es_wr_a1_17_11_14_mps,later,2
+es_wr_a1_17_7_13_aac,while,1
+es_wr_a1_17_7_13_jjg,the next day,1
+es_wr_a1_17_9_13_mag,then,1
+es_wr_a1_17_unknown_13_cmp,finally,1
+es_wr_a1_17_unknown_13_cmp,next,1
+es_wr_a1_18_10_13_barbi,next,1
+es_wr_a1_18_10_13_cmm,after,1
+es_wr_a1_18_11_13_lmej,the next day,1
+es_wr_a1_18_12_13_bbs,while,1
+es_wr_a1_18_12_13_cvg,after,1
+es_wr_a1_18_12_13_cvg,in the morning,1
+es_wr_a1_18_12_14_mgp,later,1
+es_wr_a1_18_13_13_cmm,after,1
+es_wr_a1_18_15_2_mr,but,1
+es_wr_a1_18_15_2_mr,finally,1
+es_wr_a1_18_15_2_mr,so,1
+es_wr_a1_18_1_3_vg,after,1
+es_wr_a1_18_7_13_emp,the next day,1
+es_wr_a1_19_12_13_lfb,in the end,1
+es_wr_a1_19_12_13_lfb,while,1
+es_wr_a1_19_12_13_mch,in the end,1
+es_wr_a1_19_12_13_mch,later,1
+es_wr_a1_19_12_14_aimf,finally,1
+es_wr_a1_19_12_14_etq,finally,1
+es_wr_a1_19_12_14_etq,later,1
+es_wr_a1_19_12_14_etq,then,1
+es_wr_a1_19_12_14_mgg,later,1
+es_wr_a1_19_12_14_nrr,finally,1
+es_wr_a1_19_13_13_ara,in the morning,1
+es_wr_a1_19_13_13_csl,finally,1
+es_wr_a1_19_13_13_esl,in the morning,1
+es_wr_a1_19_13_3_rpr,then,1
+es_wr_a1_19_14_3_dgc,then,1
+es_wr_a1_19_6_3_alg,in the end,1
+es_wr_a1_19_8_13_cps,before,1
+es_wr_a1_19_8_13_mca,the next day,1
+es_wr_a1_19_9_14_mbs,but,1
+es_wr_a1_20_15_3_crs,but,1
+es_wr_a1_20_17_3_mtsg,however,1
+es_wr_a1_20_17_3_mtsg,so,1
+es_wr_a1_21_12_14_af,first,1
+es_wr_a1_21_12_3_agg,finally,1
+es_wr_a1_21_15_3_ada,also,1
+es_wr_a1_21_18_13_vaj,so,1
+es_wr_a1_22_10_14_iad,finally,1
+es_wr_a1_22_10_14_iad,later,1
+es_wr_a1_22_10_14_mbs,finally,1
+es_wr_a1_22_10_14_mbs,while,1
+es_wr_a1_22_11.5_14_fer,however,1
+es_wr_a1_22_11.5_14_fer,moreover,1
+es_wr_a1_22_11.5_14_fer,then,2
+es_wr_a1_22_11.5_14_fer,therefore,1
+es_wr_a1_22_11_14_mro,after,1
+es_wr_a1_22_11_14_mro,finally,1
+es_wr_a1_22_12_14_msmg,finally,1
+es_wr_a1_22_12_14_rle,finally,1
+es_wr_a1_22_12_14_rle,later,1
+es_wr_a1_22_12_14_rle,shortly,1
+es_wr_a1_22_17_14_lp,finally,1
+es_wr_a1_22_17_14_lp,next,1
+es_wr_a1_22_17_14_lp,so that,1
+es_wr_a1_22_18_14_pmg,then,1
+es_wr_a1_22_19_13_pcr,but,1
+es_wr_a1_22_19_13_pcr,in the morning,1
+es_wr_a1_22_5_14_vsc,after,1
+es_wr_a1_22_5_14_vsc,finally,1
+es_wr_a1_22_5_14_vsc,later,1
+es_wr_a1_22_5_14_vsc,so,1
+es_wr_a1_22_5_14_vsc,then,1
+es_wr_a1_23_11_3_arh,after,1
+es_wr_a1_23_12_14_s,finally,1
+es_wr_a1_23_7_3_muf,then,1
+es_wr_a1_24_14_14_vmza,after,1
+es_wr_a1_24_14_14_vmza,however,1
+es_wr_a1_24_14_14_vmza,then,1
+es_wr_a1_24_18_3_jfd,but,1
+es_wr_a1_24_18_3_jfd,so that,1
+es_wr_a1_24_18_3_jfd,thanks to,1
+es_wr_a1_25_17_14_lcu,later,1
+es_wr_a1_25_17_14_lcu,then,1
+es_wr_a1_26_0.6_14_wb,next,1
+es_wr_a1_26_0.6_14_wb,therefore,1
+es_wr_a1_26_13_3_nc,in the end,1
+es_wr_a1_26_1_14_cpb,afterwards,1
+es_wr_a1_26_1_14_cpb,then,2
+es_wr_a1_27_10_14_nr,then,2
+es_wr_a1_27_20_3_agm,also,1
+es_wr_a1_28_10_14_scm,in the end,1
+es_wr_a1_28_10_14_scm,second,1
+es_wr_a1_28_10_14_scm,then,1
+es_wr_a1_28_10_14_scm,therefore,1
+es_wr_a1_28_8_2_ivll,however,1
+es_wr_a1_30_13_3_mipf,however,1
+es_wr_a1_30_22_3_ifr,finally,1
+es_wr_a1_31_12_3_igf,finally,1
+es_wr_a1_31_8_3_m,so,1
+es_wr_a1_35_12_14_pgc,finally,1
+es_wr_a1_36_26_3_amro,however,1
+es_wr_a1_41_8_14_dim,then,1
+es_wr_a1_42_6_3_ecj,if,1
+es_wr_a1_42_7_3_jhs,but,2
+es_wr_a1_42_7_3_jhs,then,1
+es_wr_a1_49_3_14_mtl,then,2
+es_wr_a1_52_14_14_ihc,but,2
+es_wr_a1_52_14_14_ihc,in fact,1
+es_wr_a1_52_5_14_jmff,then,2
+es_wr_a1_58_4_14_jl,after,1
+es_wr_a1_60_10_14_jams,but,1
+es_wr_a1_60_10_14_jams,then,1
+es_wr_a1_60_7_14_jgm,but,1
+es_wr_a1_60_7_14_jgm,later,1
+es_wr_a1_60_7_14_jgm,then,3
+es_wr_a2_12_6_13_asbd,after,1
+es_wr_a2_12_6_13_asbd,in the morning,1
+es_wr_a2_12_6_13_slc,finally,1
+es_wr_a2_12_8_13_agm,but,1
+es_wr_a2_12_8_13_arm,but,1
+es_wr_a2_12_8_13_ldd,in the morning,1
+es_wr_a2_12_8_13_ldd,then,1
+es_wr_a2_12_9_13_mml,the next day,1
+es_wr_a2_12_9_13_mml,then,1
+es_wr_a2_13_10_13_fng,then,2
+es_wr_a2_13_10_13_prg,first,1
+es_wr_a2_13_10_13_prg,in the morning,1
+es_wr_a2_13_10_13_prg,later,3
+es_wr_a2_13_10_13_prg,then,1
+es_wr_a2_13_11_13_lhm,then,1
+es_wr_a2_13_7_13_arl,finally,1
+es_wr_a2_13_7_13_arl,next,1
+es_wr_a2_13_7_13_arl,the next day,1
+es_wr_a2_13_7_13_cav,then,1
+es_wr_a2_13_7_13_mh,the next day,1
+es_wr_a2_13_7_13_slr,but,1
+es_wr_a2_13_7_13_slr,finally,1
+es_wr_a2_13_7_13_slr,then,1
+es_wr_a2_13_8_13_jpa,then,1
+es_wr_a2_13_8_13_mrc,after,1
+es_wr_a2_13_8_13_mrc,but,1
+es_wr_a2_13_8_13_mrc,in the end,1
+es_wr_a2_13_9_13_cgp,first,1
+es_wr_a2_13_9_13_cgp,later,1
+es_wr_a2_13_9_13_dre,the next day,1
+es_wr_a2_13_9_13_dre,then,1
+es_wr_a2_13_9_13_inc,then,1
+es_wr_a2_13_9_13_pol,in the end,1
+es_wr_a2_14_10_13_clv,in the morning,1
+es_wr_a2_14_10_13_eja,but,1
+es_wr_a2_14_10_13_imm,in the morning,1
+es_wr_a2_14_10_13_imm,later,1
+es_wr_a2_14_10_13_imm,then,1
+es_wr_a2_14_11_13_cfr,finally,1
+es_wr_a2_14_11_13_cfr,in the morning,1
+es_wr_a2_14_11_13_cfr,then,1
+es_wr_a2_14_11_13_k,in the morning,1
+es_wr_a2_14_11_13_k,then,3
+es_wr_a2_14_11_13_sgg,but,1
+es_wr_a2_14_11_13_sgg,however,1
+es_wr_a2_14_5_13_fpc,once,1
+es_wr_a2_14_5_13_mjrt,in the morning,1
+es_wr_a2_14_5_13_mjrt,while,1
+es_wr_a2_14_5_13_reo,in the end,1
+es_wr_a2_14_5_13_reo,the next day,1
+es_wr_a2_14_6_13_dgs,after,1
+es_wr_a2_14_6_13_dgs,but,1
+es_wr_a2_14_6_13_dgs,the next day,1
+es_wr_a2_14_6_13_jmc,then,1
+es_wr_a2_14_7_13_jmr,fortunately,1
+es_wr_a2_14_7_13_rgc,after,1
+es_wr_a2_14_7_13_rgc,finally,1
+es_wr_a2_14_8_13_alj,after,1
+es_wr_a2_14_8_13_ammc,finally,1
+es_wr_a2_14_8_13_ammc,later,1
+es_wr_a2_14_8_13_ammc,the next day,1
+es_wr_a2_14_8_13_dsv,but,1
+es_wr_a2_14_8_13_macm,but,1
+es_wr_a2_14_8_13_macm,in the morning,1
+es_wr_a2_14_8_13_mfs,after,1
+es_wr_a2_14_8_13_mfs,first,1
+es_wr_a2_14_8_13_mfs,later,1
+es_wr_a2_14_8_13_pfg,then,1
+es_wr_a2_14_9_13_aqc,then,1
+es_wr_a2_14_9_13_cna,the next day,1
+es_wr_a2_14_9_13_cna,while,1
+es_wr_a2_14_9_13_lgg,after,1
+es_wr_a2_14_9_13_lgg,then,1
+es_wr_a2_14_9_13_zra,next,1
+es_wr_a2_15_10_13_drg,next,1
+es_wr_a2_15_10_13_jmlc,afterwards,1
+es_wr_a2_15_10_13_jmlc,finally,1
+es_wr_a2_15_10_13_jmlc,the next day,1
+es_wr_a2_15_10_13_jmlc,then,1
+es_wr_a2_15_12_13_bma,after,1
+es_wr_a2_15_12_13_crg,finally,1
+es_wr_a2_15_12_13_crg,next,1
+es_wr_a2_15_12_13_lan,finally,1
+es_wr_a2_15_12_13_lan,so,1
+es_wr_a2_15_13_3_egl,also,1
+es_wr_a2_15_13_3_egl,but,1
+es_wr_a2_15_13_3_egl,finally,1
+es_wr_a2_15_13_3_egl,then,1
+es_wr_a2_15_3_13_lfs,because,1
+es_wr_a2_15_7_13_mmq,in the morning,1
+es_wr_a2_15_7_13_mmq,while,2
+es_wr_a2_15_7_13_rlm,finally,1
+es_wr_a2_15_7_13_sac,but,1
+es_wr_a2_15_7_13_sac,first,1
+es_wr_a2_15_7_13_sac,next,1
+es_wr_a2_15_8_13_dga,next,1
+es_wr_a2_15_8_13_dga,then,1
+es_wr_a2_15_8_13_elb,in the morning,1
+es_wr_a2_15_8_13_elb,then,1
+es_wr_a2_15_9_13_anm,then,2
+es_wr_a2_15_9_13_dci,but,1
+es_wr_a2_15_9_13_dci,later,1
+es_wr_a2_15_9_13_dci,next,1
+es_wr_a2_15_9_13_dci,so,2
+es_wr_a2_15_9_13_emb,the next day,1
+es_wr_a2_15_9_13_ipt,in the morning,1
+es_wr_a2_15_9_13_jahn,then,1
+es_wr_a2_15_9_13_jdm,finally,1
+es_wr_a2_15_9_13_jdm,then,1
+es_wr_a2_15_9_13_jsl,but,1
+es_wr_a2_15_9_13_jsl,in the morning,1
+es_wr_a2_15_9_13_jsl,then,1
+es_wr_a2_15_9_13_mc,finally,1
+es_wr_a2_15_9_13_mc,so,1
+es_wr_a2_15_9_13_mgr,the next day,1
+es_wr_a2_15_9_13_rpv,in the end,2
+es_wr_a2_15_9_13_rpv,later,1
+es_wr_a2_15_9_13_rrm,after,1
+es_wr_a2_15_9_13_rrm,afterwards,1
+es_wr_a2_15_9_13_rrm,first,1
+es_wr_a2_15_9_13_sga,but,1
+es_wr_a2_15_9_13_sga,the next day,1
+es_wr_a2_15_9_13_sga,then,2
+es_wr_a2_15_9_13_tpm,but,1
+es_wr_a2_16_10_13_cgd,the next day,1
+es_wr_a2_16_10_13_ipd,finally,1
+es_wr_a2_16_10_13_jm,next,1
+es_wr_a2_16_10_13_lgc,in the morning,1
+es_wr_a2_16_10_13_smr,next,1
+es_wr_a2_16_10_13_stm,but,1
+es_wr_a2_16_10_13_stm,later,1
+es_wr_a2_16_10_13_val,next,1
+es_wr_a2_16_10_13_vmre,then,1
+es_wr_a2_16_12_13_als,fortunately,1
+es_wr_a2_16_12_13_als,then,2
+es_wr_a2_16_12_13_avt,then,1
+es_wr_a2_16_12_13_mbp,finally,1
+es_wr_a2_16_12_13_mbp,next,1
+es_wr_a2_16_13_13_amh,in the morning,1
+es_wr_a2_16_4_13_afs,after,1
+es_wr_a2_16_4_13_afs,finally,1
+es_wr_a2_16_4_13_afs,fortunately,1
+es_wr_a2_16_4_13_afs,then,1
+es_wr_a2_16_5_13_mbpt,the next day,1
+es_wr_a2_16_7_13_jf,finally,1
+es_wr_a2_16_7_13_jf,the next day,1
+es_wr_a2_16_7_13_lecr,the next day,1
+es_wr_a2_16_7_13_sci,finally,1
+es_wr_a2_16_7_13_sci,then,1
+es_wr_a2_16_8_13_apr,but,1
+es_wr_a2_16_8_13_apr,finally,1
+es_wr_a2_16_8_13_fj,in the morning,1
+es_wr_a2_16_8_13_fj,while,1
+es_wr_a2_16_8_13_hro,then,1
+es_wr_a2_16_8_13_jah,but,1
+es_wr_a2_16_8_13_mjm,but,1
+es_wr_a2_16_8_13_mjm,in the morning,1
+es_wr_a2_16_8_13_mjm,later,1
+es_wr_a2_16_8_13_mjm,then,1
+es_wr_a2_16_8_13_nmm,then,1
+es_wr_a2_16_8_13_nqa,the next day,1
+es_wr_a2_16_8_13_pmm,finally,1
+es_wr_a2_16_8_13_pmm,next,1
+es_wr_a2_16_8_13_pmm,so,2
+es_wr_a2_16_8_13_rmo,after,1
+es_wr_a2_16_8_13_vca,finally,1
+es_wr_a2_16_8_13_vca,however,1
+es_wr_a2_16_8_13_yav,the next day,1
+es_wr_a2_16_9_13_aug,next,1
+es_wr_a2_16_9_13_aug,the next day,1
+es_wr_a2_16_9_13_aug2,in the morning,1
+es_wr_a2_16_9_13_aug2,since,2
+es_wr_a2_16_9_13_cja,but,1
+es_wr_a2_16_9_13_cja,while,1
+es_wr_a2_16_9_13_dij,in the morning,1
+es_wr_a2_16_9_13_dij,then,1
+es_wr_a2_16_9_13_jfj,finally,1
+es_wr_a2_16_9_13_jfj,in the morning,1
+es_wr_a2_16_9_13_jfj,then,1
+es_wr_a2_16_9_13_mdb,after,1
+es_wr_a2_16_9_13_mdb,finally,1
+es_wr_a2_16_9_13_mdb,later,1
+es_wr_a2_16_9_13_mdb,next,1
+es_wr_a2_16_9_13_mdb,then,2
+es_wr_a2_16_9_13_mya,later,1
+es_wr_a2_17_10_13_ccl,in the end,1
+es_wr_a2_17_10_13_dgc,later,1
+es_wr_a2_17_10_13_dgc,the next day,1
+es_wr_a2_17_10_13_dms,in addition,1
+es_wr_a2_17_10_13_dms,in the end,1
+es_wr_a2_17_10_13_dms,then,1
+es_wr_a2_17_10_13_klg,later,1
+es_wr_a2_17_10_13_klg,the next day,1
+es_wr_a2_17_10_13_klg,then,1
+es_wr_a2_17_10_13_mpl,next,1
+es_wr_a2_17_10_13_mpl,then,1
+es_wr_a2_17_10_13_prm,finally,1
+es_wr_a2_17_10_13_prm,in the morning,1
+es_wr_a2_17_11_13_anm,after,1
+es_wr_a2_17_11_13_anm,next,1
+es_wr_a2_17_11_13_imr,in the morning,1
+es_wr_a2_17_11_13_mdr,the next day,1
+es_wr_a2_17_11_13_mps,then,1
+es_wr_a2_17_11_13_rcc,after,1
+es_wr_a2_17_11_13_rcc,in the morning,1
+es_wr_a2_17_12_13_jcc,finally,1
+es_wr_a2_17_12_13_jcc,later,1
+es_wr_a2_17_14_13_ehs,but,1
+es_wr_a2_17_14_13_ehs,next,1
+es_wr_a2_17_5_13_jrl,after,1
+es_wr_a2_17_5_13_jrl,finally,1
+es_wr_a2_17_5_13_jrl,in the end,1
+es_wr_a2_17_5_13_jrl,then,1
+es_wr_a2_17_8_13_dma,finally,1
+es_wr_a2_17_8_13_dma,the next day,1
+es_wr_a2_17_8_13_jgm,but,1
+es_wr_a2_17_8_13_jgm,while,1
+es_wr_a2_17_8_13_lmt,then,1
+es_wr_a2_17_9_13_ict,on the other hand,1
+es_wr_a2_17_9_13_iqa,but,1
+es_wr_a2_17_9_13_iqa,finally,1
+es_wr_a2_17_9_13_iqa,next,1
+es_wr_a2_17_9_13_usc,finally,1
+es_wr_a2_18_10_13_jgm,meanwhile,1
+es_wr_a2_18_10_13_jgm,then,1
+es_wr_a2_18_10_3_pgp,so,1
+es_wr_a2_18_11_13_acr,while,2
+es_wr_a2_18_11_13_alm,then,1
+es_wr_a2_18_11_13_nhh,in the end,1
+es_wr_a2_18_11_13_nhh,later,1
+es_wr_a2_18_11_3_imm,finally,1
+es_wr_a2_18_12_13_mgc,next,1
+es_wr_a2_18_12_13_mmp,finally,1
+es_wr_a2_18_12_13_mmp,in the morning,1
+es_wr_a2_18_12_14_iaip,finally,1
+es_wr_a2_18_12_14_iaip,then,1
+es_wr_a2_18_12_14_is,finally,1
+es_wr_a2_18_12_14_is,nevertheless,1
+es_wr_a2_18_12_14_is,then,2
+es_wr_a2_18_12_3_a,finally,1
+es_wr_a2_18_12_3_aj,that is,1
+es_wr_a2_18_12_3_rap,although,1
+es_wr_a2_18_13_14_mdj,because of,1
+es_wr_a2_18_13_14_mdj,finally,1
+es_wr_a2_18_13_14_mdj,later,1
+es_wr_a2_18_13_14_mdj,then,1
+es_wr_a2_18_13_3_dgm,so,1
+es_wr_a2_18_13_3_jmm,so,1
+es_wr_a2_18_13_3_mmc,however,1
+es_wr_a2_18_13_3_rbp,after,1
+es_wr_a2_18_14_3_acs,finally,1
+es_wr_a2_18_14_3_hrtb,moreover,1
+es_wr_a2_18_15_14_imf,after,1
+es_wr_a2_18_15_14_imf,finally,1
+es_wr_a2_18_15_14_imf,first,1
+es_wr_a2_18_15_14_imf,moreover,1
+es_wr_a2_18_15_14_imf,nevertheless,1
+es_wr_a2_18_15_3_pps,to conclude,1
+es_wr_a2_18_15_3_tcs,on the other hand,1
+es_wr_a2_18_3_14_pamm,in the end,1
+es_wr_a2_18_3_14_pamm,then,1
+es_wr_a2_18_7_3_mca,but,1
+es_wr_a2_18_7_3_mca,despite,1
+es_wr_a2_18_7_3_mca,finally,1
+es_wr_a2_18_7_3_mca,if,1
+es_wr_a2_18_8_13_mrm,after,1
+es_wr_a2_18_8_13_mrm,but,1
+es_wr_a2_18_8_13_mrm,finally,1
+es_wr_a2_18_8_13_mrm,first,1
+es_wr_a2_18_8_13_mrm,then,1
+es_wr_a2_18_8_14_ezs,after,1
+es_wr_a2_18_8_14_ezs,while,1
+es_wr_a2_18_8_3_yoe,however,1
+es_wr_a2_18_8_3_yoe,while,1
+es_wr_a2_19_10_14_acg,finally,1
+es_wr_a2_19_10_14_acg,first,1
+es_wr_a2_19_10_14_acg,later,1
+es_wr_a2_19_10_3_ig,at the same time,1
+es_wr_a2_19_10_3_ig,the next day,1
+es_wr_a2_19_10_3_zzb,finally,1
+es_wr_a2_19_10_3_zzb,first,1
+es_wr_a2_19_10_3_zzb,in that,1
+es_wr_a2_19_11_13_mrt,finally,1
+es_wr_a2_19_11_13_mrt,in the morning,1
+es_wr_a2_19_11_13_mrt,then,1
+es_wr_a2_19_11_14_malp,after,1
+es_wr_a2_19_11_14_malp,finally,1
+es_wr_a2_19_11_14_malp,maybe,1
+es_wr_a2_19_11_14_reg,later,1
+es_wr_a2_19_11_3_crh,while,1
+es_wr_a2_19_11_3_sml,finally,1
+es_wr_a2_19_12_13_lpd,after,1
+es_wr_a2_19_12_13_rrr,later,2
+es_wr_a2_19_12_13_rrr,the next day,1
+es_wr_a2_19_12_14_irm,then,1
+es_wr_a2_19_12_3_mst,however,1
+es_wr_a2_19_13_13_vfc,the next day,1
+es_wr_a2_19_13_3_fho,finally,1
+es_wr_a2_19_13_3_fho,later,1
+es_wr_a2_19_13_3_gdr,at the same time,1
+es_wr_a2_19_14_13_mep,next,1
+es_wr_a2_19_14_14_hrma,after,1
+es_wr_a2_19_14_14_hrma,finally,1
+es_wr_a2_19_14_14_hrma,next,1
+es_wr_a2_19_14_14_hrma,then,1
+es_wr_a2_19_14_14_idn,after,2
+es_wr_a2_19_14_14_idn,finally,1
+es_wr_a2_19_14_3_dcv,also,1
+es_wr_a2_19_14_3_eja,because of,1
+es_wr_a2_19_14_3_eja,in addition,2
+es_wr_a2_19_15_3_cpa,however,1
+es_wr_a2_19_15_3_cpa,moreover,1
+es_wr_a2_19_15_3_cqm,moreover,1
+es_wr_a2_19_15_3_cqm,thus,1
+es_wr_a2_19_15_3_mgm,finally,1
+es_wr_a2_19_16_3_ar,meanwhile,1
+es_wr_a2_19_16_3_llr,nevertheless,1
+es_wr_a2_19_16_3_llr,then,2
+es_wr_a2_19_16_3_mgc,also,1
+es_wr_a2_19_16_3_mjig,nevertheless,1
+es_wr_a2_19_17_3_mpm,but,1
+es_wr_a2_19_1_3_jimp,however,1
+es_wr_a2_19_2_13_ero,finally,1
+es_wr_a2_19_2_13_ero,next,1
+es_wr_a2_19_5_3_agj,but,1
+es_wr_a2_19_6_3_lpr,finally,1
+es_wr_a2_19_6_3_lpr,later,1
+es_wr_a2_19_7_3_pm,finally,1
+es_wr_a2_19_7_3_pm,however,1
+es_wr_a2_19_7_3_pm,moreover,1
+es_wr_a2_19_7_3_pm,so,1
+es_wr_a2_19_9_13_rgm,next,1
+es_wr_a2_19_9_13_rgm,then,1
+es_wr_a2_19_9_3_mly,at the same time,1
+es_wr_a2_19_9_3_mly,but,1
+es_wr_a2_19_unknown_3_jgt,then,1
+es_wr_a2_20_10_14_lyl,then,1
+es_wr_a2_20_10_3_cjm,finally,1
+es_wr_a2_20_11_3_jsmp,while,2
+es_wr_a2_20_12_14_acg,but,1
+es_wr_a2_20_12_14_acg,finally,1
+es_wr_a2_20_12_14_nfm,but,2
+es_wr_a2_20_12_14_nfm,then,1
+es_wr_a2_20_12_14_or,however,1
+es_wr_a2_20_13_3_axrc,after,1
+es_wr_a2_20_13_3_axrc,but,1
+es_wr_a2_20_13_3_axrc,finally,1
+es_wr_a2_20_13_3_axrc,however,1
+es_wr_a2_20_13_3_axrc,so,2
+es_wr_a2_20_13_3_axrc,therefore,1
+es_wr_a2_20_13_3_lar,finally,1
+es_wr_a2_20_13_3_mpmp,but,1
+es_wr_a2_20_14_14_sfc,finally,1
+es_wr_a2_20_14_3_agv,after,1
+es_wr_a2_20_14_3_agv,finally,1
+es_wr_a2_20_14_3_agv,later,1
+es_wr_a2_20_14_3_mat,finally,1
+es_wr_a2_20_14_3_mat,then,1
+es_wr_a2_20_14_3_mbd,after,1
+es_wr_a2_20_14_3_mbd,however,1
+es_wr_a2_20_14_3_mbd,in addition,1
+es_wr_a2_20_14_3_mbd,to sum up,1
+es_wr_a2_20_14_3_mdrs,nevertheless,1
+es_wr_a2_20_14_3_shr,finally,1
+es_wr_a2_20_14_3_shr,since,1
+es_wr_a2_20_15_14_lcr,finally,1
+es_wr_a2_20_15_14_lcr,then,1
+es_wr_a2_20_15_3_imc,finally,1
+es_wr_a2_20_15_3_lll,despite,1
+es_wr_a2_20_15_3_lll,finally,1
+es_wr_a2_20_15_3_ltf,so,1
+es_wr_a2_20_16_13_metm,after,1
+es_wr_a2_20_16_13_metm,then,2
+es_wr_a2_20_16_3_itp,finally,1
+es_wr_a2_20_17_14_avm,but,1
+es_wr_a2_20_17_14_lgg,but,1
+es_wr_a2_20_17_3_pmmm,but,1
+es_wr_a2_20_2_3_fphc,but,1
+es_wr_a2_20_2_3_fphc,finally,1
+es_wr_a2_20_3_3_shp,in the end,1
+es_wr_a2_20_4_14_lcg,after,1
+es_wr_a2_20_4_14_lcg,again,1
+es_wr_a2_20_4_14_lcg,at this moment,1
+es_wr_a2_20_4_14_lcg,so,2
+es_wr_a2_20_4_3_bpr,while,1
+es_wr_a2_20_7_3_sgm,finally,1
+es_wr_a2_20_8_3_ljc,but,1
+es_wr_a2_21_10_13_mdcbl,finally,1
+es_wr_a2_21_10_14_rag,finally,1
+es_wr_a2_21_10_3_mcvs,so,1
+es_wr_a2_21_11_3_dma,despite,1
+es_wr_a2_21_12_3_apc,after,1
+es_wr_a2_21_12_3_apc,once,1
+es_wr_a2_21_12_3_egb,once,1
+es_wr_a2_21_12_3_jmc,because,1
+es_wr_a2_21_12_3_jmc,but,1
+es_wr_a2_21_12_3_jmc,then,1
+es_wr_a2_21_12_3_jmc,while,1
+es_wr_a2_21_12_3_mmg,finally,1
+es_wr_a2_21_12_3_mmg,so,1
+es_wr_a2_21_13_3_agg,if,1
+es_wr_a2_21_13_3_jrl,but,1
+es_wr_a2_21_14_14_dmm,after,1
+es_wr_a2_21_14_14_dmm,afterwards,1
+es_wr_a2_21_14_14_dmm,due to,1
+es_wr_a2_21_14_14_dmm,however,1
+es_wr_a2_21_14_14_dmm,then,1
+es_wr_a2_21_14_3_cnhp,in the end,1
+es_wr_a2_21_14_3_mgc,but,1
+es_wr_a2_21_14_3_mgc,finally,1
+es_wr_a2_21_15_13_etg,finally,1
+es_wr_a2_21_15_13_etg,the next day,1
+es_wr_a2_21_15_13_etg,while,1
+es_wr_a2_21_15_14_cm,however,1
+es_wr_a2_21_15_14_cm,since,1
+es_wr_a2_21_15_14_cm,unfortunately,1
+es_wr_a2_21_15_14_mtgg,after,1
+es_wr_a2_21_15_14_mtgg,however,2
+es_wr_a2_21_15_14_mtgg,therefore,1
+es_wr_a2_21_15_3_kbe,finally,1
+es_wr_a2_21_15_3_mcl,also,1
+es_wr_a2_21_15_3_mcl,however,1
+es_wr_a2_21_15_3_peo,for that reason,1
+es_wr_a2_21_15_3_peo,in spite of,1
+es_wr_a2_21_15_3_peo,so,1
+es_wr_a2_21_16_14_bsv,finally,1
+es_wr_a2_21_16_14_bsv,so,2
+es_wr_a2_21_16_14_bsv,then,1
+es_wr_a2_21_16_14_mml,after,1
+es_wr_a2_21_16_14_mml,finally,1
+es_wr_a2_21_16_14_mml,however,1
+es_wr_a2_21_16_14_mml,thus,1
+es_wr_a2_21_16_14_phm,however,1
+es_wr_a2_21_16_3_ace,after,1
+es_wr_a2_21_16_3_ace,finally,1
+es_wr_a2_21_16_3_apc,if,1
+es_wr_a2_21_16_3_lll,besides,1
+es_wr_a2_21_16_3_lll,but,1
+es_wr_a2_21_16_3_lll,in conclusion,1
+es_wr_a2_21_16_3_lll,on the other hand,1
+es_wr_a2_21_17_3_srg,however,1
+es_wr_a2_21_18_3_emap,finally,1
+es_wr_a2_21_18_3_emap,unfortunately,1
+es_wr_a2_21_18_3_rmp,also,1
+es_wr_a2_21_18_3_rmp,besides,1
+es_wr_a2_21_18_3_rmp,first,1
+es_wr_a2_21_18_3_rmp,later,1
+es_wr_a2_21_8_3_ipdc,due to,1
+es_wr_a2_21_8_3_r,because of,1
+es_wr_a2_21_8_3_r,before,1
+es_wr_a2_21_9_3_mcc,however,1
+es_wr_a2_21_9_3_mcc,in the end,1
+es_wr_a2_22_10_14_gug,in the end,1
+es_wr_a2_22_10_14_smc,after,1
+es_wr_a2_22_10_14_smc,then,1
+es_wr_a2_22_12_3_spa,before,1
+es_wr_a2_22_13_14_col,later,1
+es_wr_a2_22_14_3_mna,so,1
+es_wr_a2_22_15_13_bps,then,1
+es_wr_a2_22_15_13_rmv,so,1
+es_wr_a2_22_15_13_rmv,then,1
+es_wr_a2_22_17_3_lmb,for this reason,1
+es_wr_a2_22_5_3_arg,actually,1
+es_wr_a2_22_5_3_arg,also,1
+es_wr_a2_22_6_3_npg,so,1
+es_wr_a2_22_7_3_cfc,finally,1
+es_wr_a2_22_8_3_fnl,after,1
+es_wr_a2_22_8_3_fnl,so,1
+es_wr_a2_22_9_14_srm,finally,1
+es_wr_a2_22_9_3_mfal,also,1
+es_wr_a2_23_10_3_arh,finally,1
+es_wr_a2_23_10_3_arh,in the end,1
+es_wr_a2_23_12_3_mhr,finally,1
+es_wr_a2_23_13_14_msmg,finally,1
+es_wr_a2_23_13_3_md,throughout,1
+es_wr_a2_23_14_2_po,because,2
+es_wr_a2_23_14_2_po,in addition,2
+es_wr_a2_23_15_14_mrz,finally,1
+es_wr_a2_23_15_3_gca,finally,1
+es_wr_a2_23_4_14_b,after,1
+es_wr_a2_23_4_14_b,therefore,1
+es_wr_a2_23_7_3_zlnd,so,1
+es_wr_a2_23_8_3_mah,finally,1
+es_wr_a2_24_10_3_cdr,in the end,1
+es_wr_a2_24_10_3_ctc,ultimately,1
+es_wr_a2_24_15_3_mor,finally,1
+es_wr_a2_24_17_3_jmr,in any case,1
+es_wr_a2_24_17_3_jmr,or,1
+es_wr_a2_24_17_3_nag,then,1
+es_wr_a2_24_18_3_cgsv,then,1
+es_wr_a2_24_8_3_dagr,after,1
+es_wr_a2_24_8_3_dagr,later,1
+es_wr_a2_24_9_3_avc,if,1
+es_wr_a2_25_10_3_fat,however,1
+es_wr_a2_25_10_3_fat,then,1
+es_wr_a2_25_12_3_amc,also,1
+es_wr_a2_25_15_3_svc,finally,1
+es_wr_a2_25_15_3_svc,if,1
+es_wr_a2_25_1_14_ag,also,1
+es_wr_a2_25_1_14_ag,finally,1
+es_wr_a2_25_1_14_ag,first,1
+es_wr_a2_25_1_14_ag,then,1
+es_wr_a2_25_1_14_agm,also,1
+es_wr_a2_25_1_14_agm,finally,1
+es_wr_a2_25_1_14_agm,first,1
+es_wr_a2_25_1_14_agm,then,1
+es_wr_a2_25_7_3_fagl,also,1
+es_wr_a2_25_7_3_fagl,really,1
+es_wr_a2_26_10_14_isj,in the end,1
+es_wr_a2_26_10_14_isj,then,1
+es_wr_a2_26_10_14_jp,finally,1
+es_wr_a2_26_10_3_emam,later,1
+es_wr_a2_26_12_3_jgp,because of,1
+es_wr_a2_26_15_3_prp,finally,1
+es_wr_a2_26_15_3_prp,however,1
+es_wr_a2_26_3_14_sm,after,1
+es_wr_a2_26_3_14_sm,so,1
+es_wr_a2_26_4_3_lv,however,1
+es_wr_a2_26_4_3_lv,once,1
+es_wr_a2_27_10_3_sarm,in the end,1
+es_wr_a2_27_10_3_sarm,while,1
+es_wr_a2_27_6_3_s,even so,1
+es_wr_a2_28_12_3_mgg,but,1
+es_wr_a2_28_6_3_lm,then,1
+es_wr_a2_29_11_13_cg,while,1
+es_wr_a2_29_15_3_jc,so,1
+es_wr_a2_30_24_3_imla,finally,1
+es_wr_a2_30_8_3_pmb,finally,1
+es_wr_a2_30_8_3_pmb,in that,1
+es_wr_a2_31_1_14_lp,next,1
+es_wr_a2_32_10_3_ple,finally,1
+es_wr_a2_32_3_3_omcn,but,1
+es_wr_a2_32_3_3_omcn,unfortunately,1
+es_wr_a2_33_10_3_fab,also,1
+es_wr_a2_33_15_3_doc,because of,1
+es_wr_a2_33_15_3_doc,but,1
+es_wr_a2_33_15_3_doc,finally,1
+es_wr_a2_33_1_3_abg,that is,1
+es_wr_a2_33_20_3_ehq,finally,1
+es_wr_a2_36_20_14_mv,later,1
+es_wr_a2_37_3_14_bes,finally,1
+es_wr_a2_37_3_14_bes,while,2
+es_wr_a2_41_29_3_prr,due to,1
+es_wr_a2_46_unknown_13_pv,in the morning,1
+es_wr_a2_46_unknown_13_pv,then,2
+es_wr_a2_48_20_3_bpr,after,1
+es_wr_a2_48_20_3_bpr,but,1
+es_wr_a2_48_7_14_mg,after,1
+es_wr_a2_48_7_14_mg,but,1
+es_wr_a2_48_7_14_mg,first,1
+es_wr_a2_48_7_14_mg,then,1
+es_wr_a2_48_7_14_mg,while,1
+es_wr_a2_50_3_14_avs,then,1
+es_wr_a2_50_6_14_mjrc,after,1
+es_wr_a2_50_6_14_mjrc,but,1
+es_wr_a2_50_6_14_mjrc,then,1
+es_wr_a2_58_3_3_erb,after,1
+es_wr_a2_59_unknown_14_mab,after,2
+es_wr_a2_59_unknown_14_mab,but,1
+es_wr_a2_59_unknown_14_mab,then,2
+es_wr_a2_60_5_3_iapl,but,1
+es_wr_a2_61_3_3_spg,although,2
+es_wr_a2_61_6_14_yy,after,1
+es_wr_a2_61_6_14_yy,but,1
+es_wr_a2_62_40_14_jrg,but,1
+es_wr_a2_62_40_14_jrg,first,1
+es_wr_a2_62_40_14_jrg,then,1
+es_wr_a2_66_8_3_jmg,as a result,1
+es_wr_a2_66_8_3_jmg,but,2
+es_wr_b1_13_10_13_mcb,in the morning,1
+es_wr_b1_13_10_13_mcb,later,1
+es_wr_b1_13_10_13_vml,next,1
+es_wr_b1_13_7_13_erb,after,1
+es_wr_b1_13_7_13_erb,in the morning,1
+es_wr_b1_13_7_13_erb,then,1
+es_wr_b1_13_7_13_jc,so,1
+es_wr_b1_13_7_13_jc,then,2
+es_wr_b1_13_7_13_jcb,after,1
+es_wr_b1_13_7_13_jcb,in the morning,1
+es_wr_b1_13_7_13_jcb,so,1
+es_wr_b1_13_7_13_jcb,while,1
+es_wr_b1_13_7_13_jmgf,later,1
+es_wr_b1_13_7_13_jmgf,then,1
+es_wr_b1_13_7_13_jrj,in that,2
+es_wr_b1_13_7_13_prl,but,1
+es_wr_b1_13_7_13_prl,then,1
+es_wr_b1_13_8_13_sbf,but,1
+es_wr_b1_14_6_13_crr,so,2
+es_wr_b1_14_6_13_ja,but,2
+es_wr_b1_14_6_13_ja,the next day,1
+es_wr_b1_14_6_13_ja,then,1
+es_wr_b1_14_6_13_pgm,next,1
+es_wr_b1_14_6_13_pgm,then,1
+es_wr_b1_14_6_13_prf,so,1
+es_wr_b1_14_8_13_cmn,in the morning,1
+es_wr_b1_14_8_13_pft,next,1
+es_wr_b1_14_8_13_rbj,after,1
+es_wr_b1_14_8_13_rbj,however,1
+es_wr_b1_14_9_13_jmfl,finally,1
+es_wr_b1_14_9_13_lgs,but,2
+es_wr_b1_14_9_13_pra,but,1
+es_wr_b1_15_10_13_aph,so,1
+es_wr_b1_15_10_13_aph,then,1
+es_wr_b1_15_10_13_aph,while,1
+es_wr_b1_15_10_13_bng,before,1
+es_wr_b1_15_10_13_bng,later,1
+es_wr_b1_15_10_13_mpp,before,1
+es_wr_b1_15_10_13_mrl,also,2
+es_wr_b1_15_10_13_mrl,in the morning,1
+es_wr_b1_15_10_13_mrl,then,2
+es_wr_b1_15_10_13_mrr,but,1
+es_wr_b1_15_10_13_ppv,next,1
+es_wr_b1_15_10_13_ppv,while,1
+es_wr_b1_15_11_13_spa,after,1
+es_wr_b1_15_11_13_spa,in the morning,1
+es_wr_b1_15_12.5_13_lgcm,first,1
+es_wr_b1_15_12.5_13_lgcm,so,1
+es_wr_b1_15_12.5_13_lgcm,then,1
+es_wr_b1_15_5_13_jrr,but,2
+es_wr_b1_15_5_13_jrr,then,1
+es_wr_b1_15_7_13_aagf,however,1
+es_wr_b1_15_7_13_aagf,later,2
+es_wr_b1_15_7_13_aagf,then,1
+es_wr_b1_15_7_13_agp,finally,1
+es_wr_b1_15_7_13_agp,in the morning,1
+es_wr_b1_15_7_13_agp,while,1
+es_wr_b1_15_7_13_mvn,but,1
+es_wr_b1_15_7_13_mvn,finally,1
+es_wr_b1_15_7_13_mvn,so,1
+es_wr_b1_15_7_13_sar,but,1
+es_wr_b1_15_9_13_abg,next,1
+es_wr_b1_15_9_13_api,then,2
+es_wr_b1_15_9_13_eag,after,1
+es_wr_b1_15_9_13_eag,but,1
+es_wr_b1_15_9_13_frs,in the morning,1
+es_wr_b1_15_9_13_frs,then,1
+es_wr_b1_15_9_13_jamc,so,1
+es_wr_b1_15_9_13_jmf,after,1
+es_wr_b1_15_9_13_jmf,then,1
+es_wr_b1_15_9_13_lrr,next,1
+es_wr_b1_15_9_13_mjc,finally,1
+es_wr_b1_15_9_13_mjc,later,1
+es_wr_b1_15_9_13_mjc,the next day,1
+es_wr_b1_15_9_13_mjc,then,1
+es_wr_b1_15_9_13_msm,but,1
+es_wr_b1_15_9_13_msm,in the end,1
+es_wr_b1_15_9_13_msm,then,1
+es_wr_b1_16_10_13_cjlm,finally,1
+es_wr_b1_16_10_13_cjlm,later,1
+es_wr_b1_16_10_13_cjlm,next,1
+es_wr_b1_16_10_13_dab,also,1
+es_wr_b1_16_10_13_dab,but,1
+es_wr_b1_16_10_13_dab,finally,1
+es_wr_b1_16_10_13_dab,so,1
+es_wr_b1_16_10_13_dab,the next day,1
+es_wr_b1_16_10_13_dgs,next,1
+es_wr_b1_16_10_13_dgs,while,1
+es_wr_b1_16_10_13_mdd,next,1
+es_wr_b1_16_10_13_mdd,so,1
+es_wr_b1_16_10_13_mlr,after,1
+es_wr_b1_16_10_13_mlr,finally,1
+es_wr_b1_16_10_13_mlr,first,1
+es_wr_b1_16_10_13_mlr,then,1
+es_wr_b1_16_10_13_rsv,anyway,1
+es_wr_b1_16_10_13_rsv,then,1
+es_wr_b1_16_10_13_rsv,unfortunately,1
+es_wr_b1_16_10_13_vac,finally,1
+es_wr_b1_16_10_13_vac,then,1
+es_wr_b1_16_11_13_egs,after,1
+es_wr_b1_16_11_13_lgch,next,1
+es_wr_b1_16_11_13_lmg,the next day,1
+es_wr_b1_16_11_13_lmg,then,1
+es_wr_b1_16_11_13_lmg,while,1
+es_wr_b1_16_11_13_mpm,in the morning,1
+es_wr_b1_16_11_13_ms,but,1
+es_wr_b1_16_11_13_ms,while,1
+es_wr_b1_16_12_13_aor,so,1
+es_wr_b1_16_13_13_llt,finally,1
+es_wr_b1_16_13_13_llt,then,1
+es_wr_b1_16_13_13_llt,while,1
+es_wr_b1_16_6_13_alr,next,2
+es_wr_b1_16_8_13_ajs,finally,1
+es_wr_b1_16_8_13_ajs,later,1
+es_wr_b1_16_8_13_ajs,then,2
+es_wr_b1_16_9_13_lgch,in the morning,1
+es_wr_b1_16_9_13_lgch,while,1
+es_wr_b1_16_unknown_13_ems,also,1
+es_wr_b1_16_unknown_13_ems,but,1
+es_wr_b1_17_10_14_nca,then,1
+es_wr_b1_17_11_3_psr,after,1
+es_wr_b1_17_11_3_psr,but,1
+es_wr_b1_17_11_3_psr,finally,1
+es_wr_b1_17_11_3_psr,so,1
+es_wr_b1_17_11_3_psr,unfortunately,1
+es_wr_b1_17_11_3_psr,while,1
+es_wr_b1_17_14_13_aod,the next day,1
+es_wr_b1_17_9_13_isr,in the morning,1
+es_wr_b1_17_9_13_isr,so,1
+es_wr_b1_17_9_13_isr,then,1
+es_wr_b1_17_9_13_lcr,so,1
+es_wr_b1_18_10_13_mhf,but,1
+es_wr_b1_18_10_13_mhf,finally,1
+es_wr_b1_18_10_13_mhf,in the end,1
+es_wr_b1_18_10_13_mhf,later,1
+es_wr_b1_18_10_13_mhf,the next day,1
+es_wr_b1_18_10_14_atm,after,2
+es_wr_b1_18_10_14_atm,also,1
+es_wr_b1_18_10_14_atm,while,1
+es_wr_b1_18_10_3_jclm,after,1
+es_wr_b1_18_10_3_jclm,but,1
+es_wr_b1_18_11_14_avr,finally,1
+es_wr_b1_18_11_14_mrc,after,1
+es_wr_b1_18_12.5_3_rgr,in fact,1
+es_wr_b1_18_12_13_lrg,finally,1
+es_wr_b1_18_12_13_lrg,the next day,1
+es_wr_b1_18_12_13_lrg,then,1
+es_wr_b1_18_12_13_lrg,while,1
+es_wr_b1_18_12_13_mbg,first,1
+es_wr_b1_18_12_13_mmg,so,2
+es_wr_b1_18_12_13_mmg,while,1
+es_wr_b1_18_12_13_mtr,but,1
+es_wr_b1_18_12_13_ppm,although,2
+es_wr_b1_18_12_13_ppm,however,1
+es_wr_b1_18_12_13_ppm,then,2
+es_wr_b1_18_12_13_ppm,while,1
+es_wr_b1_18_12_14_ass,then,2
+es_wr_b1_18_12_14_crm,so,1
+es_wr_b1_18_12_14_crm,while,1
+es_wr_b1_18_12_14_ijq,because of,1
+es_wr_b1_18_12_14_ijq,so,2
+es_wr_b1_18_12_14_mgm,again,1
+es_wr_b1_18_12_14_nsc,in the end,1
+es_wr_b1_18_12_14_nsc,then,1
+es_wr_b1_18_12_3_afm,after,1
+es_wr_b1_18_12_3_ms,but,1
+es_wr_b1_18_12_3_ms,thus,1
+es_wr_b1_18_13_13_mps,finally,1
+es_wr_b1_18_13_13_mps,in fact,1
+es_wr_b1_18_13_14_agr,finally,1
+es_wr_b1_18_13_14_agr,to conclude,1
+es_wr_b1_18_13_14_cgg,after,1
+es_wr_b1_18_13_14_ljl,in addition,1
+es_wr_b1_18_13_14_ljl,seeing that,1
+es_wr_b1_18_13_14_mcgn,then,1
+es_wr_b1_18_13_3_acd,for example,1
+es_wr_b1_18_13_3_acd,through,1
+es_wr_b1_18_13_3_apg,because of,1
+es_wr_b1_18_13_3_apg,in fact,1
+es_wr_b1_18_13_3_apg,unfortunately,1
+es_wr_b1_18_13_3_camc,once,1
+es_wr_b1_18_13_3_camc,so,1
+es_wr_b1_18_13_3_iak,but,1
+es_wr_b1_18_13_3_ier,but,1
+es_wr_b1_18_13_3_ier,so,1
+es_wr_b1_18_13_3_jmm,at least,1
+es_wr_b1_18_13_3_jmm,because of,1
+es_wr_b1_18_13_3_jmm,but,1
+es_wr_b1_18_13_3_jmm,but for,1
+es_wr_b1_18_13_3_jmm,for example,1
+es_wr_b1_18_13_3_jmm,moreover,1
+es_wr_b1_18_13_3_jmm,so,1
+es_wr_b1_18_13_3_lcf,after,1
+es_wr_b1_18_13_3_lcf,however,1
+es_wr_b1_18_13_3_mrm,at the same time,1
+es_wr_b1_18_13_3_mrm,however,1
+es_wr_b1_18_14_13_sba,finally,1
+es_wr_b1_18_14_13_sba,so,1
+es_wr_b1_18_14_14_arf,finally,1
+es_wr_b1_18_14_14_arf,next,2
+es_wr_b1_18_14_14_arf,second,1
+es_wr_b1_18_14_14_arf,then,1
+es_wr_b1_18_14_14_lm,however,1
+es_wr_b1_18_14_14_lm,then,1
+es_wr_b1_18_14_14_lm,while,1
+es_wr_b1_18_14_3_cgsb,then,1
+es_wr_b1_18_14_3_lrr,finally,1
+es_wr_b1_18_14_3_lrr,first,1
+es_wr_b1_18_14_3_lrr,if,1
+es_wr_b1_18_14_3_lrr,in addition,1
+es_wr_b1_18_14_3_lrr,so,1
+es_wr_b1_18_14_3_lrr,then,1
+es_wr_b1_18_15_14_cam,then,1
+es_wr_b1_18_15_14_joj,but,1
+es_wr_b1_18_15_14_rvb,after,1
+es_wr_b1_18_15_14_rvb,finally,1
+es_wr_b1_18_15_14_rvb,then,1
+es_wr_b1_18_15_3_alc,also,1
+es_wr_b1_18_15_3_alc,otherwise,1
+es_wr_b1_18_15_3_alc,through,1
+es_wr_b1_18_15_3_ccv,finally,1
+es_wr_b1_18_15_3_lem,after,1
+es_wr_b1_18_15_3_lem,while,1
+es_wr_b1_18_15_3_lrr,in fact,2
+es_wr_b1_18_15_3_lrr,so,1
+es_wr_b1_18_15_3_mrv,finally,1
+es_wr_b1_18_15_3_mrv,so,1
+es_wr_b1_18_15_3_ngg,but,2
+es_wr_b1_18_15_3_ngg,however,1
+es_wr_b1_18_15_3_ngg,since,1
+es_wr_b1_18_15_3_ngg,then,1
+es_wr_b1_18_16_3_ehm,also,1
+es_wr_b1_18_16_3_ehm,so,1
+es_wr_b1_18_5_3_imb,then,1
+es_wr_b1_18_5_3_pmml,regardless,1
+es_wr_b1_18_6_3_asm,finally,1
+es_wr_b1_18_6_3_chm,finally,1
+es_wr_b1_18_6_3_ght,because of,1
+es_wr_b1_18_6_3_ght,finally,1
+es_wr_b1_18_7_3_mtm,while,2
+es_wr_b1_18_8_14_ar,after,1
+es_wr_b1_18_8_14_ar,later,1
+es_wr_b1_18_8_3_avs,finally,1
+es_wr_b1_18_8_3_pbs,then,1
+es_wr_b1_18_9_14_llc,after,1
+es_wr_b1_18_9_14_llc,finally,1
+es_wr_b1_18_9_14_llc,so,1
+es_wr_b1_18_9_14_llc,then,1
+es_wr_b1_19_10_14_mro,finally,1
+es_wr_b1_19_10_14_mro,instantly,1
+es_wr_b1_19_10_14_mro,then,1
+es_wr_b1_19_10_14_mro,without,1
+es_wr_b1_19_10_3_srm,finally,1
+es_wr_b1_19_10_3_srm,meanwhile,1
+es_wr_b1_19_10_3_srm,on the other hand,1
+es_wr_b1_19_11_13_ecl,next,1
+es_wr_b1_19_11_13_ecl,then,1
+es_wr_b1_19_11_13_ecl,too,1
+es_wr_b1_19_11_13_irs,later,1
+es_wr_b1_19_11_14_abpm,then,1
+es_wr_b1_19_11_14_nllb,but,1
+es_wr_b1_19_11_14_nllb,so,3
+es_wr_b1_19_11_3_mgl,also,1
+es_wr_b1_19_11_3_mgl,although,1
+es_wr_b1_19_11_3_mgl,apart from,1
+es_wr_b1_19_12_14_afl,finally,1
+es_wr_b1_19_12_14_afl,then,1
+es_wr_b1_19_12_3_eng,nevertheless,1
+es_wr_b1_19_12_3_lms,furthermore,1
+es_wr_b1_19_12_3_lms,unfortunately,1
+es_wr_b1_19_12_3_zvm,since,1
+es_wr_b1_19_13_13_aep,then,1
+es_wr_b1_19_13_13_mph,nevertheless,1
+es_wr_b1_19_13_13_rem,after,1
+es_wr_b1_19_13_13_rem,but,1
+es_wr_b1_19_13_13_rem,finally,1
+es_wr_b1_19_13_13_rem,in that,1
+es_wr_b1_19_13_14_agj,finally,1
+es_wr_b1_19_13_14_agj,however,1
+es_wr_b1_19_13_14_agj,then,1
+es_wr_b1_19_13_14_am,finally,1
+es_wr_b1_19_13_14_am,however,1
+es_wr_b1_19_13_14_am,later,1
+es_wr_b1_19_13_14_am,so,1
+es_wr_b1_19_13_14_jmr,in the end,1
+es_wr_b1_19_13_14_jmr,then,1
+es_wr_b1_19_13_3_aol,to sum up,1
+es_wr_b1_19_13_3_aom,while,1
+es_wr_b1_19_13_3_cbr,therefore,1
+es_wr_b1_19_13_3_ic,also,1
+es_wr_b1_19_13_3_ic,at the same time,1
+es_wr_b1_19_13_3_ic,finally,1
+es_wr_b1_19_13_3_ic,then,1
+es_wr_b1_19_13_3_imt,through,1
+es_wr_b1_19_13_3_lgv,after,1
+es_wr_b1_19_13_3_lgv,finally,1
+es_wr_b1_19_13_3_maa,moreover,1
+es_wr_b1_19_13_3_rgb,finally,1
+es_wr_b1_19_14_13_mms,finally,1
+es_wr_b1_19_14_13_mms,the next day,1
+es_wr_b1_19_14_14_lrs,finally,1
+es_wr_b1_19_14_3_alp,finally,1
+es_wr_b1_19_14_3_amfv,before,1
+es_wr_b1_19_14_3_cpl,however,1
+es_wr_b1_19_14_3_cpl,if,1
+es_wr_b1_19_14_3_cpl,so,1
+es_wr_b1_19_14_3_log,if,1
+es_wr_b1_19_14_3_mmd,after,1
+es_wr_b1_19_14_3_mmd,in fact,1
+es_wr_b1_19_15_3_ahp,finally,1
+es_wr_b1_19_15_3_ahp,on the other hand,1
+es_wr_b1_19_15_3_lsm,however,1
+es_wr_b1_19_15_3_lsm,nevertheless,1
+es_wr_b1_19_15_3_lsm,then,1
+es_wr_b1_19_15_3_r,however,1
+es_wr_b1_19_15_3_r,moreover,1
+es_wr_b1_19_16_13_arg,finally,1
+es_wr_b1_19_16_13_arg,later,1
+es_wr_b1_19_16_3_apc,after,1
+es_wr_b1_19_16_3_apc,but,1
+es_wr_b1_19_16_3_bdc,finally,1
+es_wr_b1_19_16_3_jclm,but,1
+es_wr_b1_19_16_3_lrs,finally,1
+es_wr_b1_19_16_3_lrs,so,1
+es_wr_b1_19_7_14_emgv,finally,1
+es_wr_b1_19_7_3_dt,finally,1
+es_wr_b1_19_7_3_dt,on the other hand,1
+es_wr_b1_19_8_3_rdr,soon,1
+es_wr_b1_19_8_3_rdr,while,1
+es_wr_b1_20_10_13_ibf,finally,1
+es_wr_b1_20_10_13_ibf,then,1
+es_wr_b1_20_10_14_pps,finally,1
+es_wr_b1_20_10_14_pps,later,1
+es_wr_b1_20_10_14_pps,therefore,1
+es_wr_b1_20_10_3_sle,so,1
+es_wr_b1_20_11_14_fer,after,1
+es_wr_b1_20_11_14_fer,finally,1
+es_wr_b1_20_11_14_fer,however,1
+es_wr_b1_20_11_14_fer,then,1
+es_wr_b1_20_12_14_ds,after,1
+es_wr_b1_20_12_14_ds,finally,1
+es_wr_b1_20_12_14_ds,then,1
+es_wr_b1_20_12_14_jm,fortunately,1
+es_wr_b1_20_12_14_rop,after,1
+es_wr_b1_20_12_14_rop,because of,1
+es_wr_b1_20_12_14_rop,finally,1
+es_wr_b1_20_12_14_rop,however,1
+es_wr_b1_20_12_3_sos,after,1
+es_wr_b1_20_13_3_clg,finally,1
+es_wr_b1_20_13_3_clg,however,1
+es_wr_b1_20_13_3_clg,in addition,1
+es_wr_b1_20_13_3_mjcr,in the end,1
+es_wr_b1_20_13_3_rear,nevertheless,1
+es_wr_b1_20_14_13_mlc,after,1
+es_wr_b1_20_14_13_npg,after,1
+es_wr_b1_20_14_13_npg,but,1
+es_wr_b1_20_14_13_npg,finally,1
+es_wr_b1_20_14_13_npg,furthermore,1
+es_wr_b1_20_14_13_npg,so,1
+es_wr_b1_20_14_14_abt,after,1
+es_wr_b1_20_14_14_abt,then,1
+es_wr_b1_20_14_14_asr,since,1
+es_wr_b1_20_14_14_asr,then,1
+es_wr_b1_20_14_14_brp,finally,1
+es_wr_b1_20_14_14_fmj,after,1
+es_wr_b1_20_14_14_fmj,at this moment,1
+es_wr_b1_20_14_14_fmj,because of,1
+es_wr_b1_20_14_14_fmj,finally,1
+es_wr_b1_20_14_14_fmj,next,1
+es_wr_b1_20_14_14_fmj,then,1
+es_wr_b1_20_14_14_mlv,finally,1
+es_wr_b1_20_14_14_mlv,then,1
+es_wr_b1_20_14_14_mpc,after,1
+es_wr_b1_20_14_14_mpc,for instance,1
+es_wr_b1_20_14_14_mpc,while,1
+es_wr_b1_20_14_14_ocr,while,1
+es_wr_b1_20_14_3_amrs,however,1
+es_wr_b1_20_14_3_amrs,in spite of,1
+es_wr_b1_20_14_3_amrs,in that,1
+es_wr_b1_20_14_3_amrs,so,1
+es_wr_b1_20_14_3_gmp,at least,1
+es_wr_b1_20_14_3_jlmv,because of,1
+es_wr_b1_20_14_3_jlmv,but,1
+es_wr_b1_20_14_3_jlmv,so,1
+es_wr_b1_20_14_3_mam,finally,1
+es_wr_b1_20_14_3_ptp,in the end,1
+es_wr_b1_20_14_3_sqp,so,1
+es_wr_b1_20_14_3_sqp,to sum up,1
+es_wr_b1_20_15_3_alu,in the end,1
+es_wr_b1_20_15_3_arr,although,1
+es_wr_b1_20_15_3_arr,furthermore,1
+es_wr_b1_20_15_3_arr,however,1
+es_wr_b1_20_15_3_arr,thanks to,1
+es_wr_b1_20_15_3_lrv,finally,1
+es_wr_b1_20_15_3_lrv,then,1
+es_wr_b1_20_15_3_lrv,through,1
+es_wr_b1_20_15_3_mhl,although,1
+es_wr_b1_20_15_3_mhl,in conclusion,1
+es_wr_b1_20_15_3_pmr,even though,1
+es_wr_b1_20_15_3_pmr,in conclusion,1
+es_wr_b1_20_15_3_pmr,meanwhile,1
+es_wr_b1_20_15_3_ra,at the same time,1
+es_wr_b1_20_15_3_ra,but,1
+es_wr_b1_20_16_13_asp,after,1
+es_wr_b1_20_16_13_asp,once,1
+es_wr_b1_20_16_13_asp,the next day,1
+es_wr_b1_20_16_14_fgg,after,1
+es_wr_b1_20_17_14_agm,finally,1
+es_wr_b1_20_6_14_rmce,finally,1
+es_wr_b1_20_6_14_rmce,first,1
+es_wr_b1_20_6_3_gbb,after,1
+es_wr_b1_20_6_3_gbb,then,1
+es_wr_b1_20_8_3_cmc,actually,1
+es_wr_b1_20_8_3_jehd,while,1
+es_wr_b1_20_9_3_amb,nevertheless,1
+es_wr_b1_20_9_3_amb,therefore,1
+es_wr_b1_21_0_3_agr,the next day,1
+es_wr_b1_21_10_3_lsm,because of,1
+es_wr_b1_21_11_14_ars,after,1
+es_wr_b1_21_11_14_ars,finally,1
+es_wr_b1_21_11_14_ars,first,1
+es_wr_b1_21_11_14_ars,meanwhile,1
+es_wr_b1_21_11_14_llr,after,2
+es_wr_b1_21_11_14_llr,then,1
+es_wr_b1_21_12_14_sg,later,1
+es_wr_b1_21_12_3_jrr,but,1
+es_wr_b1_21_12_3_sirg,as a result,1
+es_wr_b1_21_12_3_sirg,in addition,1
+es_wr_b1_21_13_13_moc,for this reason,1
+es_wr_b1_21_13_13_moc,hence,1
+es_wr_b1_21_13_13_moc,however,1
+es_wr_b1_21_13_13_moc,nevertheless,1
+es_wr_b1_21_13_13_pjl,finally,1
+es_wr_b1_21_13_13_pjl,so,1
+es_wr_b1_21_13_13_pjl,then,1
+es_wr_b1_21_13_14_acf,finally,1
+es_wr_b1_21_13_14_acf,however,2
+es_wr_b1_21_13_14_acf,later,1
+es_wr_b1_21_13_14_acf,once,1
+es_wr_b1_21_13_14_acf,then,1
+es_wr_b1_21_13_14_acf,whereas,1
+es_wr_b1_21_13_14_alr,after,1
+es_wr_b1_21_13_14_alr,later,1
+es_wr_b1_21_13_14_apt,but,1
+es_wr_b1_21_13_14_apt,first,1
+es_wr_b1_21_13_14_cdlv,in the end,1
+es_wr_b1_21_13_14_cdlv,later,1
+es_wr_b1_21_13_14_egp,finally,1
+es_wr_b1_21_13_14_mcdltg,after,3
+es_wr_b1_21_13_14_mcdltg,again,1
+es_wr_b1_21_13_14_mcdltg,before that,1
+es_wr_b1_21_13_14_mcdltg,however,1
+es_wr_b1_21_13_14_mcdltg,on the other hand,1
+es_wr_b1_21_13_14_mcdltg,simultaneously,1
+es_wr_b1_21_13_3_ajb,that is,1
+es_wr_b1_21_13_3_flcb,so,1
+es_wr_b1_21_13_3_rmce,throughout,1
+es_wr_b1_21_14_14_abpm,finally,1
+es_wr_b1_21_14_3_crl,however,1
+es_wr_b1_21_14_3_crl,in spite of,1
+es_wr_b1_21_14_3_pra,but,1
+es_wr_b1_21_14_3_pra,thanks to,1
+es_wr_b1_21_15_14_arp,finally,1
+es_wr_b1_21_15_14_epf,finally,1
+es_wr_b1_21_15_14_epf,then,1
+es_wr_b1_21_15_14_jhm,but,2
+es_wr_b1_21_15_14_jhm,so,1
+es_wr_b1_21_15_14_jhm,then,1
+es_wr_b1_21_15_3_bsm,but,1
+es_wr_b1_21_15_3_bsm,in spite of,1
+es_wr_b1_21_15_3_jjvr,after,3
+es_wr_b1_21_15_3_lsp,if,1
+es_wr_b1_21_15_3_malo,but,1
+es_wr_b1_21_15_3_malo,so,1
+es_wr_b1_21_15_3_spdlh,as a consequence,1
+es_wr_b1_21_15_3_spdlh,moreover,1
+es_wr_b1_21_16_14_igr,then,1
+es_wr_b1_21_16_14_vag,then,1
+es_wr_b1_21_16_14_vag,unfortunately,1
+es_wr_b1_21_16_3_cmg,even though,1
+es_wr_b1_21_16_3_cns,finally,1
+es_wr_b1_21_16_3_cns,moreover,1
+es_wr_b1_21_16_3_cns,throughout,1
+es_wr_b1_21_16_3_cvm,additionally,1
+es_wr_b1_21_16_3_cvm,however,1
+es_wr_b1_21_16_3_cvm,in conclusion,1
+es_wr_b1_21_16_3_cvm,through,1
+es_wr_b1_21_16_3_jsa,finally,1
+es_wr_b1_21_16_3_mdm,however,1
+es_wr_b1_21_16_3_mdm,in conclusion,1
+es_wr_b1_21_16_3_mdm,nevertheless,1
+es_wr_b1_21_16_3_mnl,consequently,1
+es_wr_b1_21_16_3_mnl,for this reason,1
+es_wr_b1_21_16_3_mnl,furthermore,1
+es_wr_b1_21_16_3_mnl,however,1
+es_wr_b1_21_16_3_ybg,but,1
+es_wr_b1_21_16_3_ybg,later,1
+es_wr_b1_21_17_13_al,but,1
+es_wr_b1_21_17_13_al,finally,1
+es_wr_b1_21_17_13_al,perhaps,1
+es_wr_b1_21_17_3_aqs,however,1
+es_wr_b1_21_17_3_arg,so,1
+es_wr_b1_21_17_3_art,after,1
+es_wr_b1_21_17_3_art,fortunately,1
+es_wr_b1_21_17_3_art,in fact,1
+es_wr_b1_21_17_3_art,perhaps,1
+es_wr_b1_21_17_3_fpj,however,1
+es_wr_b1_21_17_3_imm,but,1
+es_wr_b1_21_17_3_imm,so,1
+es_wr_b1_21_17_3_mdm,but,1
+es_wr_b1_21_17_3_nnf,after,1
+es_wr_b1_21_18_14_ccm,but,1
+es_wr_b1_21_18_14_ccm,finally,1
+es_wr_b1_21_18_14_ccm,later,1
+es_wr_b1_21_18_14_ccm,once,1
+es_wr_b1_21_18_14_ccm,then,1
+es_wr_b1_21_18_14_pjl,finally,1
+es_wr_b1_21_18_14_pjl,so,1
+es_wr_b1_21_18_3_ifq,finally,1
+es_wr_b1_21_18_3_lrh,after,1
+es_wr_b1_21_18_3_mgn,after,1
+es_wr_b1_21_18_3_mjlt,after,1
+es_wr_b1_21_18_3_mjlt,in the end,1
+es_wr_b1_21_4_14_jimm,so,1
+es_wr_b1_21_4_14_jimm,then,4
+es_wr_b1_21_5_13_mg,although,1
+es_wr_b1_21_5_14_cmj,before,1
+es_wr_b1_21_5_14_cmj,but,1
+es_wr_b1_21_5_14_cmj,then,1
+es_wr_b1_21_6_13_fae,after,1
+es_wr_b1_21_6_13_fae,but,1
+es_wr_b1_21_6_13_fae,then,1
+es_wr_b1_21_6_14_imhg,then,1
+es_wr_b1_21_6_14_imhg,therefore,1
+es_wr_b1_21_6_3_arr,after,1
+es_wr_b1_21_6_3_arr,but,1
+es_wr_b1_21_6_3_lgr,before,1
+es_wr_b1_21_6_3_lgr,in the end,1
+es_wr_b1_21_6_3_lgr,meanwhile,1
+es_wr_b1_21_6_3_lgr,on the other hand,1
+es_wr_b1_21_7_3_mgg,then,1
+es_wr_b1_21_9_14_ars,after,1
+es_wr_b1_21_9_14_ars,then,1
+es_wr_b1_21_9_14_pml,finally,1
+es_wr_b1_21_9_3_dgm,for example,1
+es_wr_b1_21_9_3_klb,also,1
+es_wr_b1_22_10_14_cfo,then,1
+es_wr_b1_22_10_3_man,if,1
+es_wr_b1_22_11_3_mml,so,1
+es_wr_b1_22_11_3_njj,in fact,1
+es_wr_b1_22_11_3_njj,to sum up,1
+es_wr_b1_22_12_14_lsr,once,1
+es_wr_b1_22_12_14_lsr,then,1
+es_wr_b1_22_12_3_pgv,although,1
+es_wr_b1_22_12_3_pgv,however,1
+es_wr_b1_22_12_3_pgv,moreover,1
+es_wr_b1_22_13_3_aar,actually,1
+es_wr_b1_22_13_3_ctm,maybe,1
+es_wr_b1_22_13_3_tjl,but,1
+es_wr_b1_22_14_14_gg,at the same time,1
+es_wr_b1_22_14_14_gg,then,1
+es_wr_b1_22_14_14_mn,after,1
+es_wr_b1_22_14_14_mn,finally,1
+es_wr_b1_22_14_14_mn,in that,1
+es_wr_b1_22_14_3_ist,finally,1
+es_wr_b1_22_14_3_mcat,nevertheless,1
+es_wr_b1_22_15_13_lfm,that evening,1
+es_wr_b1_22_15_13_lfm,then,1
+es_wr_b1_22_15_3_aae,also,1
+es_wr_b1_22_15_3_ctn,finally,1
+es_wr_b1_22_15_3_ctn,however,1
+es_wr_b1_22_15_3_mdpc,in addition,1
+es_wr_b1_22_15_3_mdpc,moreover,1
+es_wr_b1_22_16_14_agg,however,1
+es_wr_b1_22_16_14_agg,later,1
+es_wr_b1_22_16_14_fda,after,2
+es_wr_b1_22_16_14_fda,finally,1
+es_wr_b1_22_16_14_fda,then,2
+es_wr_b1_22_16_14_fda,to sum up,1
+es_wr_b1_22_16_14_irl,however,1
+es_wr_b1_22_16_14_irl,in fact,1
+es_wr_b1_22_16_14_irl,nevertheless,1
+es_wr_b1_22_16_14_irl,then,1
+es_wr_b1_22_16_14_irl,unfortunately,1
+es_wr_b1_22_16_3_amml,moreover,1
+es_wr_b1_22_16_3_jaa,finally,1
+es_wr_b1_22_16_3_jaa,on the other hand,1
+es_wr_b1_22_16_3_vpj,finally,1
+es_wr_b1_22_16_3_vpj,however,1
+es_wr_b1_22_16_3_vpj,later,1
+es_wr_b1_22_17_13_jla,finally,1
+es_wr_b1_22_17_14_cfr,as a result,1
+es_wr_b1_22_17_14_cfr,despite,1
+es_wr_b1_22_17_14_cfr,for example,1
+es_wr_b1_22_19_14_ima,after,1
+es_wr_b1_22_19_3_aca,in the end,1
+es_wr_b1_22_19_3_aca,plus,1
+es_wr_b1_22_19_3_mis,first,1
+es_wr_b1_22_4_3_fgr,nevertheless,1
+es_wr_b1_22_5_3_jmrg,unfortunately,1
+es_wr_b1_22_8_14_mrh,again,1
+es_wr_b1_22_8_14_mrh,finally,1
+es_wr_b1_22_8_3_arr,however,1
+es_wr_b1_22_8_3_nfc,meanwhile,1
+es_wr_b1_22_8_3_oqh,but,1
+es_wr_b1_22_8_3_oqh,so,1
+es_wr_b1_23_11_13_elc,finally,1
+es_wr_b1_23_11_13_elc,furthermore,1
+es_wr_b1_23_11_13_elc,next,1
+es_wr_b1_23_11_13_mlm,due to,1
+es_wr_b1_23_11_13_mlm,thus,1
+es_wr_b1_23_11_14_igg,after,1
+es_wr_b1_23_11_14_igg,finally,1
+es_wr_b1_23_11_3_plt,while,1
+es_wr_b1_23_13_3_arp,moreover,1
+es_wr_b1_23_14_14_lra,however,1
+es_wr_b1_23_14_14_lra,then,4
+es_wr_b1_23_15_14_rm,finally,1
+es_wr_b1_23_15_14_rm,thereupon,1
+es_wr_b1_23_15_3_lll,but,1
+es_wr_b1_23_15_3_lll,so,1
+es_wr_b1_23_16_14_anc,finally,1
+es_wr_b1_23_16_14_anc,then,1
+es_wr_b1_23_16_14_mml,so,1
+es_wr_b1_23_16_14_mml,while,1
+es_wr_b1_23_17_13_ap,because,1
+es_wr_b1_23_17_13_ap,however,1
+es_wr_b1_23_17_13_ap,in the end,1
+es_wr_b1_23_17_13_ap,next,1
+es_wr_b1_23_17_14_pamg,afterwards,1
+es_wr_b1_23_17_14_pamg,finally,1
+es_wr_b1_23_17_14_pamg,nevertheless,1
+es_wr_b1_23_17_3_cip,afterwards,1
+es_wr_b1_23_17_3_cip,due to,1
+es_wr_b1_23_17_3_cip,in the end,1
+es_wr_b1_23_17_3_ma,nevertheless,1
+es_wr_b1_23_17_3_sge,mainly,1
+es_wr_b1_23_20_3_mdl,thus,1
+es_wr_b1_23_7_3_amp,actually,1
+es_wr_b1_23_7_3_amp,finally,1
+es_wr_b1_23_8_3_meum,actually,1
+es_wr_b1_23_8_3_meum,after,1
+es_wr_b1_23_8_3_meum,thanks to,1
+es_wr_b1_24_10_3_cjcj,so,1
+es_wr_b1_24_12_3_pgsh,so,1
+es_wr_b1_24_14_13_llr,while,1
+es_wr_b1_24_15_3_jrc,after,1
+es_wr_b1_24_16_14_jco,finally,1
+es_wr_b1_24_16_14_lcu,finally,1
+es_wr_b1_24_16_14_lcu,later,1
+es_wr_b1_24_16_14_lcu,then,1
+es_wr_b1_24_17_3_rzt,after,1
+es_wr_b1_24_18_14_gb,first,1
+es_wr_b1_24_18_14_gb,then,1
+es_wr_b1_24_18_14_rmv,so,2
+es_wr_b1_24_18_3_mdmt,through,1
+es_wr_b1_24_18_3_psr,before that,1
+es_wr_b1_24_18_3_psr,finally,1
+es_wr_b1_24_19_3_rtb,however,1
+es_wr_b1_24_19_3_rtb,that is,1
+es_wr_b1_24_19_3_rtb,that is to say,1
+es_wr_b1_24_19_3_rtb,therefore,1
+es_wr_b1_24_1_3_eh,by the way,1
+es_wr_b1_24_1_3_eh,in the end,1
+es_wr_b1_25_10_3_amrh,while,1
+es_wr_b1_25_11_14_arm,finally,1
+es_wr_b1_25_11_14_arm,however,1
+es_wr_b1_25_11_14_arm,while,1
+es_wr_b1_25_12_3_cbcg,but,1
+es_wr_b1_25_12_3_cbcg,finally,1
+es_wr_b1_25_12_3_cbcg,so,1
+es_wr_b1_25_13_3_amm,finally,1
+es_wr_b1_25_13_3_jmc,after all,1
+es_wr_b1_25_13_3_jmc,so,2
+es_wr_b1_25_16_3_pb,after,1
+es_wr_b1_25_16_3_pb,but,1
+es_wr_b1_25_16_3_pb,finally,1
+es_wr_b1_25_16_3_pb,then,1
+es_wr_b1_25_18_3_ldd,after,1
+es_wr_b1_25_18_3_ldd,because of,1
+es_wr_b1_25_18_3_ldd,however,1
+es_wr_b1_25_20_3_me,while,1
+es_wr_b1_26_14_13_dkdr,however,1
+es_wr_b1_26_14_13_dkdr,in that,1
+es_wr_b1_26_14_13_dkdr,the next day,1
+es_wr_b1_26_20_3_bpsc,moreover,1
+es_wr_b1_26_20_3_dcm,finally,1
+es_wr_b1_26_20_3_dcm,however,1
+es_wr_b1_26_2_3_cme,but,1
+es_wr_b1_26_2_3_cme,so,1
+es_wr_b1_27_10_3_gus,finally,1
+es_wr_b1_27_21_14_nra,finally,1
+es_wr_b1_27_21_14_nra,so,1
+es_wr_b1_27_21_14_nra,then,1
+es_wr_b1_27_8_13_mhj,finally,1
+es_wr_b1_27_8_13_mhj,however,1
+es_wr_b1_27_8_3_ajrp,also,1
+es_wr_b1_27_8_3_ajrp,although,1
+es_wr_b1_27_unknown_13_esh,then,1
+es_wr_b1_27_unknown_13_esh,while,1
+es_wr_b1_28_10_3_mnmj,finally,1
+es_wr_b1_28_12_14_jahb,while,1
+es_wr_b1_28_15_3_epm,at the same time,1
+es_wr_b1_28_15_3_epm,despite,1
+es_wr_b1_28_15_3_epm,finally,1
+es_wr_b1_28_20_14_loc,after,1
+es_wr_b1_28_20_14_loc,but,1
+es_wr_b1_28_20_14_loc,finally,1
+es_wr_b1_28_20_14_loc,then,1
+es_wr_b1_28_20_3_mip,also,1
+es_wr_b1_28_20_3_mip,however,1
+es_wr_b1_28_25_14_emgs,in fact,1
+es_wr_b1_28_25_14_emgs,then,1
+es_wr_b1_29_10_13_mrs,finally,1
+es_wr_b1_29_10_13_mrs,the next day,1
+es_wr_b1_29_10_3_pfcd,for example,1
+es_wr_b1_29_11_14_thc,after,1
+es_wr_b1_29_11_14_thc,finally,1
+es_wr_b1_29_11_14_thc,since,1
+es_wr_b1_29_15_3_pmj,for example,1
+es_wr_b1_29_4_14_nnm,finally,1
+es_wr_b1_29_4_14_nnm,later,1
+es_wr_b1_30_8_3_ztl,once,1
+es_wr_b1_31_11_13_mvg,after,1
+es_wr_b1_31_11_13_mvg,at the same time,1
+es_wr_b1_31_11_13_mvg,despite,1
+es_wr_b1_31_11_13_mvg,therefore,1
+es_wr_b1_31_12_3_ple,after,1
+es_wr_b1_31_12_3_ple,finally,1
+es_wr_b1_31_12_3_ple,then,1
+es_wr_b1_31_23_3_cms,although,1
+es_wr_b1_31_26_3_emsh,after,1
+es_wr_b1_31_26_3_emsh,however,1
+es_wr_b1_31_3_3_geer,at least,1
+es_wr_b1_32_17_14_icm,after,1
+es_wr_b1_32_17_14_icm,at the same time,1
+es_wr_b1_32_17_14_icm,however,1
+es_wr_b1_32_17_14_icm,thus,1
+es_wr_b1_32_26_3_ferm,then,1
+es_wr_b1_32_26_3_ymm,finally,1
+es_wr_b1_32_9_3_cmm,however,1
+es_wr_b1_34_20_3_rgg,finally,1
+es_wr_b1_34_20_3_rgg,unfortunately,1
+es_wr_b1_38_26_3_egf,then,1
+es_wr_b1_40_25_3_ml,finally,1
+es_wr_b1_40_25_3_ml,for example,1
+es_wr_b1_40_29_3_pbs,however,1
+es_wr_b1_41_1_14_saa,so,1
+es_wr_b1_41_1_14_saa,then,2
+es_wr_b1_42_3_3_fs,but,1
+es_wr_b1_42_3_3_fs,later,1
+es_wr_b1_42_3_3_fs,so,1
+es_wr_b1_42_3_3_fs,the next day,1
+es_wr_b1_42_3_3_fs,then,1
+es_wr_b1_44_15_13_ljnv,in the morning,1
+es_wr_b1_45_26_3_eab,finally,1
+es_wr_b1_45_35_13_er,after,1
+es_wr_b1_45_35_13_er,but,1
+es_wr_b1_45_9_3_mgm,then,1
+es_wr_b1_46_2_3_mj,but,1
+es_wr_b1_46_2_3_mj,so,1
+es_wr_b1_46_4_3_ja,but,1
+es_wr_b1_46_4_3_ja,finally,1
+es_wr_b1_48_6_13_etb,finally,1
+es_wr_b1_51_10_14_jdmr,then,2
+es_wr_b1_52_3_14_mlvg,after,1
+es_wr_b1_52_3_14_mlvg,finally,1
+es_wr_b1_53_5_14_apa,after,1
+es_wr_b1_55_10_13_cgg,while,1
+es_wr_b1_56_1_14_cfo,after,1
+es_wr_b1_56_1_14_cfo,afterwards,1
+es_wr_b1_56_1_14_cfo,then,2
+es_wr_b1_57_10_3_rpg,although,1
+es_wr_b1_57_10_3_rpg,but,1
+es_wr_b1_57_10_3_rpg,finally,1
+es_wr_b1_57_5_14_cmv,at the same time,1
+es_wr_b1_57_5_14_cmv,then,2
+es_wr_b1_58_20_3_lrr,so,1
+es_wr_b1_65_50_3_smg,finally,1
+es_wr_b2_13_8_13_gpa,after,1
+es_wr_b2_13_8_13_gpa,next,1
+es_wr_b2_13_8_13_gpa,then,2
+es_wr_b2_14_8_13_jlm,in that,1
+es_wr_b2_14_8_13_jlm,while,1
+es_wr_b2_14_8_13_pmc,so,1
+es_wr_b2_15_11_13_pfg,after,1
+es_wr_b2_15_11_13_pfg,so,1
+es_wr_b2_15_8_13_jjj,after,1
+es_wr_b2_15_8_13_jjj,but,1
+es_wr_b2_15_8_13_jjj,later,1
+es_wr_b2_15_8_13_jvg,after,1
+es_wr_b2_15_8_13_jvg,but,2
+es_wr_b2_15_8_13_jvg,next,2
+es_wr_b2_15_9_13_amgf,in the morning,1
+es_wr_b2_15_9_13_amgf,then,2
+es_wr_b2_15_9_13_cmr,however,1
+es_wr_b2_15_9_13_emr,then,1
+es_wr_b2_15_9_13_iac,after,1
+es_wr_b2_15_9_13_iac,next,1
+es_wr_b2_15_9_13_iac,then,1
+es_wr_b2_15_9_13_lrr,at the same time,1
+es_wr_b2_15_9_13_lrr,later,1
+es_wr_b2_15_9_13_lrr,next,1
+es_wr_b2_15_9_13_lrr,then,1
+es_wr_b2_15_9_13_pmg,in the end,1
+es_wr_b2_15_9_13_pmg,next,1
+es_wr_b2_15_9_13_pmg,then,1
+es_wr_b2_15_9_13_pmg,while,1
+es_wr_b2_16_10_13_ccc,after,1
+es_wr_b2_16_10_13_ccc,the next day,1
+es_wr_b2_16_10_13_ccc,unfortunately,1
+es_wr_b2_16_10_13_cnl,due to,1
+es_wr_b2_16_10_13_cnl,so,1
+es_wr_b2_16_10_13_cnl,while,1
+es_wr_b2_16_10_13_epb,then,1
+es_wr_b2_16_10_13_epb,while,1
+es_wr_b2_16_10_13_gcm,next,1
+es_wr_b2_16_10_13_ggs,after,1
+es_wr_b2_16_10_13_ggs,so,1
+es_wr_b2_16_10_13_ggs,while,1
+es_wr_b2_16_10_13_gva,instead,1
+es_wr_b2_16_10_13_gva,then,1
+es_wr_b2_16_10_13_jar,but,3
+es_wr_b2_16_10_13_jar,due to,1
+es_wr_b2_16_11_13_lmv,before,1
+es_wr_b2_16_11_13_lmv,while,1
+es_wr_b2_16_11_13_rop,then,1
+es_wr_b2_16_11_13_rop,while,1
+es_wr_b2_16_7_13_adm,after,1
+es_wr_b2_16_7_13_adm,the next day,1
+es_wr_b2_16_8_13_rpf,although,1
+es_wr_b2_16_8_13_rpf,but,1
+es_wr_b2_17_11_13_aao,the next day,1
+es_wr_b2_17_13_3_ect,so,1
+es_wr_b2_17_13_3_ihc,so,1
+es_wr_b2_17_13_3_jsr,but,2
+es_wr_b2_17_13_3_jsr,due to,1
+es_wr_b2_17_7_13_lcq,after,1
+es_wr_b2_17_7_13_lcq,due to,1
+es_wr_b2_17_7_13_lcq,finally,1
+es_wr_b2_17_7_13_lcq,first,1
+es_wr_b2_17_7_13_lcq,second,1
+es_wr_b2_17_7_13_lcq,while,1
+es_wr_b2_17_9_13_ccg,but,1
+es_wr_b2_17_9_13_ccg,while,1
+es_wr_b2_18_10_14_lcf,after,1
+es_wr_b2_18_10_14_lcf,finally,1
+es_wr_b2_18_10_14_lcf,first,1
+es_wr_b2_18_11_13_agl,after,1
+es_wr_b2_18_11_13_agl,immediately,1
+es_wr_b2_18_11_14_aivr,finally,1
+es_wr_b2_18_11_3_aom,therefore,1
+es_wr_b2_18_11_3_aom,throughout,1
+es_wr_b2_18_11_3_cfa,in other words,1
+es_wr_b2_18_12_14_ajc,after,2
+es_wr_b2_18_12_14_ajc,however,1
+es_wr_b2_18_12_14_ajc,since,1
+es_wr_b2_18_12_14_dss,finally,1
+es_wr_b2_18_12_14_dss,then,1
+es_wr_b2_18_12_14_ky,but,1
+es_wr_b2_18_12_14_lha,meanwhile,1
+es_wr_b2_18_12_14_phr,after,1
+es_wr_b2_18_12_14_phr,then,2
+es_wr_b2_18_12_14_psr,finally,1
+es_wr_b2_18_12_14_psr,so,1
+es_wr_b2_18_12_14_psr,then,1
+es_wr_b2_18_12_3_crg,then,1
+es_wr_b2_18_12_3_emp,after,1
+es_wr_b2_18_12_3_emp,even though,1
+es_wr_b2_18_12_3_emp,in the end,1
+es_wr_b2_18_12_3_emp,then,1
+es_wr_b2_18_12_3_jmo,after,1
+es_wr_b2_18_12_3_jmo,but,1
+es_wr_b2_18_12_3_jmo,maybe,1
+es_wr_b2_18_12_3_par,moreover,1
+es_wr_b2_18_12_3_pcp,on the other hand,1
+es_wr_b2_18_12_3_rrg,despite,1
+es_wr_b2_18_12_3_rrg,in fact,1
+es_wr_b2_18_13_13_cm,while,1
+es_wr_b2_18_13_13_mam,after,1
+es_wr_b2_18_13_13_mam,but,1
+es_wr_b2_18_13_13_map,if,1
+es_wr_b2_18_13_14_aigf,finally,1
+es_wr_b2_18_13_14_aigf,then,1
+es_wr_b2_18_13_14_mjg,after,1
+es_wr_b2_18_13_14_mjg,but,1
+es_wr_b2_18_13_14_mjg,finally,1
+es_wr_b2_18_13_14_mjg,so,1
+es_wr_b2_18_13_14_mjg,that is,1
+es_wr_b2_18_13_14_mjg,while,1
+es_wr_b2_18_13_14_sjh,after,1
+es_wr_b2_18_13_14_sjh,finally,1
+es_wr_b2_18_13_14_sjh,later,1
+es_wr_b2_18_13_3_amgc,at the same time,1
+es_wr_b2_18_13_3_arv,after,1
+es_wr_b2_18_13_3_arv,so,1
+es_wr_b2_18_13_3_arv,while,1
+es_wr_b2_18_13_3_mhe,even though,1
+es_wr_b2_18_13_3_mhe,then,1
+es_wr_b2_18_13_3_mlp,consequently,1
+es_wr_b2_18_13_3_mlp,for this reason,1
+es_wr_b2_18_13_3_mlp,however,1
+es_wr_b2_18_13_3_prc,although,1
+es_wr_b2_18_14_14_lam,even though,1
+es_wr_b2_18_14_14_lam,finally,1
+es_wr_b2_18_14_3_dma,although,1
+es_wr_b2_18_15_14_csgob,afterwards,1
+es_wr_b2_18_15_14_csgob,finally,1
+es_wr_b2_18_15_14_csgob,then,1
+es_wr_b2_18_15_14_jcl,afterwards,1
+es_wr_b2_18_15_14_jcl,apart from that,1
+es_wr_b2_18_15_14_jcl,besides,1
+es_wr_b2_18_15_14_jcl,furthermore,1
+es_wr_b2_18_15_14_jcl,in the end,1
+es_wr_b2_18_15_14_jcl,moreover,1
+es_wr_b2_18_15_14_jcl,on the other hand,1
+es_wr_b2_18_15_14_jcl,to sum up,1
+es_wr_b2_18_15_3_agm,after,1
+es_wr_b2_18_15_3_agm,after a while,1
+es_wr_b2_18_15_3_grg,furthermore,1
+es_wr_b2_18_15_3_jcgq,because of,1
+es_wr_b2_18_15_3_jcma,at the same time,1
+es_wr_b2_18_15_3_jcma,so,1
+es_wr_b2_18_15_3_lmg,furthermore,1
+es_wr_b2_18_15_3_lmg,however,1
+es_wr_b2_18_15_3_lmg,since,1
+es_wr_b2_18_15_3_msro,afterwards,1
+es_wr_b2_18_15_3_msro,in the end,1
+es_wr_b2_18_15_3_msro,later,1
+es_wr_b2_18_15_3_pch,after,2
+es_wr_b2_18_15_3_pch,but,1
+es_wr_b2_18_15_3_pch,however,1
+es_wr_b2_18_15_3_pch,or,1
+es_wr_b2_18_15_3_smo,finally,1
+es_wr_b2_18_16_3_cbl,after,1
+es_wr_b2_18_16_3_cbl,then,1
+es_wr_b2_18_18_3_pjpc,once,1
+es_wr_b2_18_9_14_ahg,after,1
+es_wr_b2_18_9_3_gp,apart from that,1
+es_wr_b2_18_9_3_gp,since,1
+es_wr_b2_19_10_13_jgc,but,1
+es_wr_b2_19_10_13_jgc,however,1
+es_wr_b2_19_10_13_jgc,next,1
+es_wr_b2_19_11_13_rnl,after,1
+es_wr_b2_19_11_13_rnl,then,1
+es_wr_b2_19_11_13_scn,finally,1
+es_wr_b2_19_11_13_scn,once,1
+es_wr_b2_19_11_13_scn,so,1
+es_wr_b2_19_11_14_aca,finally,1
+es_wr_b2_19_11_14_aca,then,1
+es_wr_b2_19_11_14_mqr,then,1
+es_wr_b2_19_11_3_pge,finally,1
+es_wr_b2_19_11_3_pge,later,1
+es_wr_b2_19_11_3_pge,nevertheless,1
+es_wr_b2_19_11_3_pge,until,1
+es_wr_b2_19_12_13_mcl,after,1
+es_wr_b2_19_12_14_nsc,then,1
+es_wr_b2_19_12_14_nsc,while,1
+es_wr_b2_19_12_14_sr,finally,1
+es_wr_b2_19_12_14_sr,meanwhile,1
+es_wr_b2_19_12_14_sr,then,2
+es_wr_b2_19_12_3_drr,shortly,1
+es_wr_b2_19_12_3_drr,then,3
+es_wr_b2_19_12_3_drr,yet,1
+es_wr_b2_19_12_3_gsm,but,2
+es_wr_b2_19_12_3_gsm,however,1
+es_wr_b2_19_12_3_gsm,maybe,1
+es_wr_b2_19_12_3_mc,however,1
+es_wr_b2_19_12_3_pvd,after,1
+es_wr_b2_19_12_3_pvd,at the same time,1
+es_wr_b2_19_13_13_flb,however,1
+es_wr_b2_19_13_13_mbr,finally,1
+es_wr_b2_19_13_13_mbr,once,1
+es_wr_b2_19_13_13_mbr,then,1
+es_wr_b2_19_13_13_milf,but,1
+es_wr_b2_19_13_13_milf,in that,1
+es_wr_b2_19_13_13_milf,then,1
+es_wr_b2_19_13_13_mpc,after,1
+es_wr_b2_19_13_13_mpc,although,1
+es_wr_b2_19_13_13_mpc,but,2
+es_wr_b2_19_13_13_mpc,first,1
+es_wr_b2_19_13_13_mpc,next,1
+es_wr_b2_19_13_13_mpc,so,1
+es_wr_b2_19_13_13_mpc,while,2
+es_wr_b2_19_13_14_amp,afterwards,1
+es_wr_b2_19_13_14_amp,then,2
+es_wr_b2_19_13_14_amp,unfortunately,1
+es_wr_b2_19_13_14_amrg,finally,1
+es_wr_b2_19_13_14_amrg,however,1
+es_wr_b2_19_13_14_amrg,then,1
+es_wr_b2_19_13_14_avv,after,2
+es_wr_b2_19_13_14_hga,while,1
+es_wr_b2_19_13_3_aah,also,1
+es_wr_b2_19_13_3_af,but,1
+es_wr_b2_19_13_3_af,without,1
+es_wr_b2_19_13_3_jmpg,so,1
+es_wr_b2_19_13_3_jmpg,therefore,1
+es_wr_b2_19_13_3_lca,due to,1
+es_wr_b2_19_13_3_lca,however,1
+es_wr_b2_19_13_3_mbs,after,1
+es_wr_b2_19_13_3_mcr,even though,1
+es_wr_b2_19_13_3_mcr,however,1
+es_wr_b2_19_13_3_mcr,nevertheless,1
+es_wr_b2_19_13_3_mgg,later,1
+es_wr_b2_19_13_3_mgg,so,1
+es_wr_b2_19_13_3_vgp,after,1
+es_wr_b2_19_13_3_vgp,finally,1
+es_wr_b2_19_13_3_xa,but,1
+es_wr_b2_19_14_13_cgs,after,1
+es_wr_b2_19_14_13_cgs,next,1
+es_wr_b2_19_14_13_cgs,then,1
+es_wr_b2_19_14_13_mgc,fortunately,1
+es_wr_b2_19_14_13_mgc,then,1
+es_wr_b2_19_14_14_ass,finally,1
+es_wr_b2_19_14_14_ass,however,1
+es_wr_b2_19_14_14_ass,nevertheless,1
+es_wr_b2_19_14_14_ass,then,2
+es_wr_b2_19_14_14_rgc,after,2
+es_wr_b2_19_14_14_rgc,finally,1
+es_wr_b2_19_14_3_agm,despite,1
+es_wr_b2_19_14_3_ajdc,afterwards,1
+es_wr_b2_19_14_3_ajdc,however,1
+es_wr_b2_19_14_3_ajdc,while,1
+es_wr_b2_19_14_3_cgm,after,1
+es_wr_b2_19_14_3_fjpm,also,1
+es_wr_b2_19_14_3_fjpm,but,1
+es_wr_b2_19_14_3_fjpm,once,1
+es_wr_b2_19_14_3_fjpm,so,1
+es_wr_b2_19_14_3_hrr,even though,1
+es_wr_b2_19_14_3_iga,but,1
+es_wr_b2_19_14_3_lcm,finally,1
+es_wr_b2_19_14_3_lcm,however,1
+es_wr_b2_19_14_3_mrn,nevertheless,1
+es_wr_b2_19_14_3_msj,finally,1
+es_wr_b2_19_15_13_iap,after,1
+es_wr_b2_19_15_13_iap,finally,1
+es_wr_b2_19_15_13_nbs,finally,1
+es_wr_b2_19_15_13_nbs,later,1
+es_wr_b2_19_15_13_nbs,while,1
+es_wr_b2_19_15_14_adhr,finally,1
+es_wr_b2_19_15_14_cpe,but,1
+es_wr_b2_19_15_14_cpe,however,1
+es_wr_b2_19_15_3_gsl,after,1
+es_wr_b2_19_15_3_gsl,finally,1
+es_wr_b2_19_15_3_gsl,however,1
+es_wr_b2_19_15_3_ycmm,after,1
+es_wr_b2_19_15_3_ycmm,meanwhile,1
+es_wr_b2_19_16_14_agp,after,1
+es_wr_b2_19_16_14_agp,finally,1
+es_wr_b2_19_16_14_agp,however,1
+es_wr_b2_19_16_14_agp,then,1
+es_wr_b2_19_16_14_amo,later,1
+es_wr_b2_19_16_3_cbl,after,1
+es_wr_b2_19_16_3_cnh,finally,1
+es_wr_b2_19_16_3_cnh,meanwhile,1
+es_wr_b2_19_16_3_mcl,furthermore,1
+es_wr_b2_19_16_3_mcl,unfortunately,1
+es_wr_b2_19_16_3_mrm,finally,1
+es_wr_b2_19_16_3_mrm,if,1
+es_wr_b2_19_16_3_spr,after,1
+es_wr_b2_19_16_3_spr,at the same time,1
+es_wr_b2_19_17_3_imc,however,1
+es_wr_b2_19_17_3_imc,moreover,1
+es_wr_b2_19_17_3_imc,to conclude,1
+es_wr_b2_19_7_3_lci,finally,1
+es_wr_b2_19_7_3_lci,next,1
+es_wr_b2_19_7_3_mmr,even so,1
+es_wr_b2_19_7_3_mmr,if,1
+es_wr_b2_19_9_3_kgca,finally,1
+es_wr_b2_19_unknown_13_pgv,after a while,1
+es_wr_b2_19_unknown_13_pgv,while,1
+es_wr_b2_19_unknown_13_rgc,but,2
+es_wr_b2_19_unknown_13_rgc,later,1
+es_wr_b2_19_unknown_13_rgc,while,1
+es_wr_b2_20_10_14_jcm,after,1
+es_wr_b2_20_10_14_rbg,but,1
+es_wr_b2_20_10_14_rbg,finally,1
+es_wr_b2_20_10_14_rbg,first,1
+es_wr_b2_20_10_3_cfg,if,1
+es_wr_b2_20_10_3_cfg,instead,1
+es_wr_b2_20_10_3_jl,besides,1
+es_wr_b2_20_10_3_jl,however,1
+es_wr_b2_20_10_3_jl,unfortunately,1
+es_wr_b2_20_11_13_mms,also,1
+es_wr_b2_20_11_13_mms,apart from this,1
+es_wr_b2_20_11_13_mms,despite,1
+es_wr_b2_20_11_13_mms,finally,1
+es_wr_b2_20_11_13_mms,next,1
+es_wr_b2_20_11_13_mms,so,1
+es_wr_b2_20_11_13_mms,then,1
+es_wr_b2_20_11_13_mms,unfortunately,1
+es_wr_b2_20_11_13_spd,finally,1
+es_wr_b2_20_11_13_spd,nevertheless,1
+es_wr_b2_20_11_13_spd,then,1
+es_wr_b2_20_11_3_jma,despite,1
+es_wr_b2_20_11_3_jmr,but,2
+es_wr_b2_20_11_3_shg,but,1
+es_wr_b2_20_11_3_shg,so,2
+es_wr_b2_20_12_14_acg,after,1
+es_wr_b2_20_12_14_acg,finally,1
+es_wr_b2_20_12_14_acg,next,1
+es_wr_b2_20_12_14_acg,then,1
+es_wr_b2_20_12_14_arm,after,1
+es_wr_b2_20_12_14_arm,afterwards,1
+es_wr_b2_20_12_14_arm,then,1
+es_wr_b2_20_12_14_jmvc,after,1
+es_wr_b2_20_12_14_jmvc,finally,1
+es_wr_b2_20_12_14_jmvc,first,1
+es_wr_b2_20_12_14_jmvc,then,1
+es_wr_b2_20_12_3_mrg,after,1
+es_wr_b2_20_12_3_mrg,while,1
+es_wr_b2_20_12_3_nllb,actually,1
+es_wr_b2_20_12_3_nllb,but,1
+es_wr_b2_20_12_3_pr,however,1
+es_wr_b2_20_12_3_pr,in that,1
+es_wr_b2_20_13_13_cpm,however,1
+es_wr_b2_20_13_3_cpm,due to,1
+es_wr_b2_20_13_3_pgg,but,1
+es_wr_b2_20_13_3_pgg,however,1
+es_wr_b2_20_13_3_pgg,nevertheless,1
+es_wr_b2_20_13_3_pgg,whereas,1
+es_wr_b2_20_13_3_scem,in the end,1
+es_wr_b2_20_14_13_lmc,later,1
+es_wr_b2_20_14_13_mmt,fortunately,1
+es_wr_b2_20_14_14_csl,afterwards,1
+es_wr_b2_20_14_14_csl,finally,1
+es_wr_b2_20_14_14_csl,however,1
+es_wr_b2_20_14_14_efl,in that,1
+es_wr_b2_20_14_14_efl,so that,1
+es_wr_b2_20_14_14_efl,then,1
+es_wr_b2_20_14_14_efl,therefore,1
+es_wr_b2_20_14_14_ipg,after,1
+es_wr_b2_20_14_14_ipg,soon,1
+es_wr_b2_20_14_14_mjd,after,1
+es_wr_b2_20_14_3_epg,after,1
+es_wr_b2_20_14_3_fmg,but,1
+es_wr_b2_20_14_3_hatv,nevertheless,1
+es_wr_b2_20_14_3_irp,after,1
+es_wr_b2_20_14_3_irp,consequently,2
+es_wr_b2_20_14_3_irp,finally,1
+es_wr_b2_20_14_3_irp,once,1
+es_wr_b2_20_14_3_irp,regardless,1
+es_wr_b2_20_14_3_irp,while,1
+es_wr_b2_20_14_3_lmc,finally,1
+es_wr_b2_20_14_3_mjlpe,also,1
+es_wr_b2_20_14_3_mjlpe,in addition,1
+es_wr_b2_20_14_3_ml,however,1
+es_wr_b2_20_14_3_mlc,for this reason,1
+es_wr_b2_20_14_3_mpc,after,1
+es_wr_b2_20_15_3_err,but,1
+es_wr_b2_20_15_3_err,however,1
+es_wr_b2_20_15_3_lvl,if,1
+es_wr_b2_20_15_3_lvl,since,1
+es_wr_b2_20_15_3_mmp,finally,1
+es_wr_b2_20_15_3_mmp,then,1
+es_wr_b2_20_16_14_lce,after,1
+es_wr_b2_20_16_14_lce,then,1
+es_wr_b2_20_16_3_aba,hence,1
+es_wr_b2_20_16_3_ap,finally,1
+es_wr_b2_20_16_3_ap,however,1
+es_wr_b2_20_16_3_ap,in that,1
+es_wr_b2_20_17_13_igr,after,1
+es_wr_b2_20_17_13_igr,despite,1
+es_wr_b2_20_17_13_igr,the next day,1
+es_wr_b2_20_17_13_mca,before,1
+es_wr_b2_20_17_13_mca,finally,1
+es_wr_b2_20_17_13_mca,in the morning,1
+es_wr_b2_20_17_13_mca,later,1
+es_wr_b2_20_17_13_mca,so,1
+es_wr_b2_20_17_13_mca,while,2
+es_wr_b2_20_17_3_acj,finally,1
+es_wr_b2_20_17_3_adlg,finally,1
+es_wr_b2_20_17_3_adlg,first,1
+es_wr_b2_20_17_3_bp,however,1
+es_wr_b2_20_17_3_bp,in fact,1
+es_wr_b2_20_17_3_bp,nevertheless,1
+es_wr_b2_20_17_3_bp,to conclude,1
+es_wr_b2_20_17_3_cbl,after,1
+es_wr_b2_20_17_3_cbl,because of,1
+es_wr_b2_20_17_3_cbl,however,1
+es_wr_b2_20_17_3_cbl,nonetheless,1
+es_wr_b2_20_17_3_cmmj,finally,1
+es_wr_b2_20_17_3_dmf,however,1
+es_wr_b2_20_17_3_lcm,because,1
+es_wr_b2_20_17_3_lcm,in fact,1
+es_wr_b2_20_17_3_lcm,so,1
+es_wr_b2_20_6_3_ght,however,1
+es_wr_b2_20_7_3_jcc,so,1
+es_wr_b2_20_7_3_jcc,without,1
+es_wr_b2_20_8_3_eop,after,1
+es_wr_b2_20_8_3_nfb2,however,1
+es_wr_b2_20_9_3_sc,fortunately,1
+es_wr_b2_20_9_3_sc,later,1
+es_wr_b2_21_10_13_lrc,first,1
+es_wr_b2_21_10_13_lrc,the next day,1
+es_wr_b2_21_10_13_lrc,then,1
+es_wr_b2_21_10_13_lrc,unfortunately,1
+es_wr_b2_21_10_14_rjg,after,1
+es_wr_b2_21_10_14_rjg,finally,1
+es_wr_b2_21_10_14_rjg,however,1
+es_wr_b2_21_10_14_rjg,then,1
+es_wr_b2_21_10_3_cac,throughout,1
+es_wr_b2_21_10_3_chs,however,1
+es_wr_b2_21_10_3_cr,then,1
+es_wr_b2_21_10_3_fer,later,1
+es_wr_b2_21_10_3_fer,so far,1
+es_wr_b2_21_10_3_sd,on the other hand,1
+es_wr_b2_21_10_3_sue,however,1
+es_wr_b2_21_10_3_sue,in addition,1
+es_wr_b2_21_10_3_sue,moreover,1
+es_wr_b2_21_11_13_efa,however,1
+es_wr_b2_21_11_13_mnldh,however,1
+es_wr_b2_21_11_14_i,then,1
+es_wr_b2_21_11_14_smpm,after,1
+es_wr_b2_21_11_14_smpm,assuming that,1
+es_wr_b2_21_11_14_smpm,but,1
+es_wr_b2_21_11_14_smpm,once,1
+es_wr_b2_21_11_14_smpm,then,2
+es_wr_b2_21_11_14_zgm,finally,1
+es_wr_b2_21_11_14_zgm,then,1
+es_wr_b2_21_11_3_amv,but,1
+es_wr_b2_21_11_3_cbs,however,1
+es_wr_b2_21_11_3_cbs,in the end,1
+es_wr_b2_21_11_3_nvg,after,2
+es_wr_b2_21_11_3_nvg,but,1
+es_wr_b2_21_11_3_nvg,if,1
+es_wr_b2_21_11_3_shm,while,1
+es_wr_b2_21_12_14_aegu,after,1
+es_wr_b2_21_12_14_aegu,finally,1
+es_wr_b2_21_12_14_aegu,for that reason,1
+es_wr_b2_21_12_14_aegu,however,1
+es_wr_b2_21_12_14_aegu,so,1
+es_wr_b2_21_12_14_aegu,then,3
+es_wr_b2_21_12_14_jcm,after,1
+es_wr_b2_21_12_14_jcm,but,1
+es_wr_b2_21_12_3_admq,or,1
+es_wr_b2_21_12_3_admq,thus,1
+es_wr_b2_21_12_3_imj,however,1
+es_wr_b2_21_12_3_imj,in addition,1
+es_wr_b2_21_12_3_imj,in the end,1
+es_wr_b2_21_13_14_csl,after,1
+es_wr_b2_21_13_14_csl,also,1
+es_wr_b2_21_13_14_csl,finally,1
+es_wr_b2_21_13_14_csl,for this reason,1
+es_wr_b2_21_13_14_csl,however,1
+es_wr_b2_21_13_14_csl,nevertheless,1
+es_wr_b2_21_13_14_csl,next,2
+es_wr_b2_21_13_14_csl,then,1
+es_wr_b2_21_13_14_csl,unfortunately,1
+es_wr_b2_21_13_14_irt,however,1
+es_wr_b2_21_13_14_jfs,after,1
+es_wr_b2_21_13_14_jfs,although,1
+es_wr_b2_21_13_14_jfs,then,1
+es_wr_b2_21_13_14_mjg,but,1
+es_wr_b2_21_13_14_mjg,so,1
+es_wr_b2_21_13_14_rmc,finally,1
+es_wr_b2_21_13_14_rmc,then,2
+es_wr_b2_21_13_14_scl,at the same time,1
+es_wr_b2_21_13_14_scl,finally,1
+es_wr_b2_21_13_3_csl,finally,1
+es_wr_b2_21_13_3_csl,however,1
+es_wr_b2_21_13_3_dll,however,1
+es_wr_b2_21_13_3_dll,nevertheless,1
+es_wr_b2_21_13_3_dll,therefore,1
+es_wr_b2_21_13_3_dn,actually,1
+es_wr_b2_21_13_3_dn,however,1
+es_wr_b2_21_13_3_mgl,also,1
+es_wr_b2_21_13_3_mgl,to sum up,1
+es_wr_b2_21_13_3_mgp,because of,1
+es_wr_b2_21_14_13_pgp,finally,1
+es_wr_b2_21_14_13_pgp,then,1
+es_wr_b2_21_14_14_ars,finally,1
+es_wr_b2_21_14_14_ars,however,1
+es_wr_b2_21_14_14_ars,then,1
+es_wr_b2_21_14_14_ars,unfortunately,1
+es_wr_b2_21_14_14_dm,however,1
+es_wr_b2_21_14_14_dm,once,1
+es_wr_b2_21_14_14_dm,unfortunately,1
+es_wr_b2_21_14_3_aga,after,1
+es_wr_b2_21_14_3_agg,moreover,1
+es_wr_b2_21_14_3_agg,therefore,1
+es_wr_b2_21_14_3_aiu,but,1
+es_wr_b2_21_14_3_pga,but,1
+es_wr_b2_21_14_3_pga,due to,1
+es_wr_b2_21_14_3_pga,instead,1
+es_wr_b2_21_14_3_scp,however,1
+es_wr_b2_21_14_3_tge,but,1
+es_wr_b2_21_15_13_csj,however,1
+es_wr_b2_21_15_13_csj,then,1
+es_wr_b2_21_15_13_los,although,1
+es_wr_b2_21_15_13_los,however,1
+es_wr_b2_21_15_13_los,next,1
+es_wr_b2_21_15_13_los,therefore,1
+es_wr_b2_21_15_13_loss,while,1
+es_wr_b2_21_15_14_ams,then,1
+es_wr_b2_21_15_14_as,after,1
+es_wr_b2_21_15_14_as,even though,1
+es_wr_b2_21_15_14_as,finally,1
+es_wr_b2_21_15_14_as,soon,1
+es_wr_b2_21_15_14_avv,finally,1
+es_wr_b2_21_15_14_avv,in that,1
+es_wr_b2_21_15_14_avv,then,1
+es_wr_b2_21_15_14_egg,however,1
+es_wr_b2_21_15_14_egg,in that,2
+es_wr_b2_21_15_14_egg,later,1
+es_wr_b2_21_15_14_egg,then,1
+es_wr_b2_21_15_14_egg,therefore,1
+es_wr_b2_21_15_14_hqs,but,1
+es_wr_b2_21_15_14_hqs,finally,1
+es_wr_b2_21_15_14_hqs,in that,2
+es_wr_b2_21_15_14_hqs,so,2
+es_wr_b2_21_15_14_imj,but,1
+es_wr_b2_21_15_14_imj,finally,1
+es_wr_b2_21_15_14_imj,however,1
+es_wr_b2_21_15_14_imj,moreover,1
+es_wr_b2_21_15_14_imj,next,1
+es_wr_b2_21_15_14_imj,notwithstanding,1
+es_wr_b2_21_15_14_imj,then,1
+es_wr_b2_21_15_14_imj,therefore,1
+es_wr_b2_21_15_14_imj,while,1
+es_wr_b2_21_15_14_lge,later,1
+es_wr_b2_21_15_14_lge,next,1
+es_wr_b2_21_15_14_lge,then,1
+es_wr_b2_21_15_14_lrv,after,4
+es_wr_b2_21_15_14_mlv,after,1
+es_wr_b2_21_15_14_mlv,in that,1
+es_wr_b2_21_15_14_mlv,therefore,1
+es_wr_b2_21_15_14_mmm,once,1
+es_wr_b2_21_15_14_mmm,then,1
+es_wr_b2_21_15_14_mvmq,after,1
+es_wr_b2_21_15_14_rcc,consequently,1
+es_wr_b2_21_15_14_rcc,then,1
+es_wr_b2_21_15_3_agg,moreover,1
+es_wr_b2_21_15_3_agg,therefore,1
+es_wr_b2_21_15_3_agm,lastly,1
+es_wr_b2_21_15_3_agm,perhaps,1
+es_wr_b2_21_15_3_ajpm,after,1
+es_wr_b2_21_15_3_ajpm,then,1
+es_wr_b2_21_15_3_ajpm,therefore,1
+es_wr_b2_21_15_3_aomm,because of,1
+es_wr_b2_21_15_3_aomm,later,1
+es_wr_b2_21_15_3_aomm,so,1
+es_wr_b2_21_15_3_cmp,but,1
+es_wr_b2_21_15_3_cmp,indeed,1
+es_wr_b2_21_15_3_cmp,then,1
+es_wr_b2_21_15_3_ebg,however,1
+es_wr_b2_21_15_3_ggg,after,1
+es_wr_b2_21_15_3_igm,furthermore,1
+es_wr_b2_21_15_3_ilm,but,1
+es_wr_b2_21_15_3_iml,however,1
+es_wr_b2_21_15_3_iml,moreover,1
+es_wr_b2_21_15_3_lfb,finally,1
+es_wr_b2_21_15_3_lfb,however,1
+es_wr_b2_21_15_3_mmv,once,1
+es_wr_b2_21_15_3_mmv,so,1
+es_wr_b2_21_15_3_mrr,while,1
+es_wr_b2_21_15_3_nrl,as a result,1
+es_wr_b2_21_15_3_nrl,for this reason,1
+es_wr_b2_21_15_3_nrl,however,1
+es_wr_b2_21_15_3_vhm,finally,1
+es_wr_b2_21_15_3_vhm,once,1
+es_wr_b2_21_16_13_chc,finally,1
+es_wr_b2_21_16_13_chc,however,1
+es_wr_b2_21_16_13_chc,next,1
+es_wr_b2_21_16_13_npfm,finally,1
+es_wr_b2_21_16_13_npfm,however,2
+es_wr_b2_21_16_13_npfm,nevertheless,1
+es_wr_b2_21_16_13_npfm,yet,1
+es_wr_b2_21_16_14_fpr,however,1
+es_wr_b2_21_16_14_fpr,unfortunately,1
+es_wr_b2_21_16_14_fpr,without,1
+es_wr_b2_21_16_14_hmgm,as a consequence,1
+es_wr_b2_21_16_14_hmgm,because of,1
+es_wr_b2_21_16_14_hmgm,however,1
+es_wr_b2_21_16_14_ifm,after,1
+es_wr_b2_21_16_14_ifm,finally,1
+es_wr_b2_21_16_14_ifm,then,1
+es_wr_b2_21_16_14_ifm,while,2
+es_wr_b2_21_16_14_vbm,hence,1
+es_wr_b2_21_16_14_vbm,then,1
+es_wr_b2_21_16_14_vbm,unfortunately,1
+es_wr_b2_21_16_3_aog,in the end,1
+es_wr_b2_21_16_3_aog,later,1
+es_wr_b2_21_16_3_dpg,after,1
+es_wr_b2_21_16_3_dpg,to summarize,1
+es_wr_b2_21_16_3_imm,after,1
+es_wr_b2_21_16_3_imm,because of,1
+es_wr_b2_21_16_3_imm,finally,1
+es_wr_b2_21_16_3_imm,the next day,1
+es_wr_b2_21_16_3_imm,while,1
+es_wr_b2_21_16_3_ird,but,1
+es_wr_b2_21_16_3_ird,therefore,1
+es_wr_b2_21_16_3_lch,however,1
+es_wr_b2_21_16_3_lgt,after,1
+es_wr_b2_21_16_3_lm,in the end,1
+es_wr_b2_21_16_3_psm,through,1
+es_wr_b2_21_17_13_mrb,then,1
+es_wr_b2_21_17_13_mrb,unfortunately,1
+es_wr_b2_21_17_14_vcr,then,1
+es_wr_b2_21_17_3_avrl,after,1
+es_wr_b2_21_17_3_gfn,after,2
+es_wr_b2_21_17_3_gfn,besides,1
+es_wr_b2_21_17_3_gfn,despite,1
+es_wr_b2_21_17_3_gfn,however,2
+es_wr_b2_21_17_3_ggb,so,1
+es_wr_b2_21_17_3_por,once,1
+es_wr_b2_21_18_13_apd,but,1
+es_wr_b2_21_18_13_apd,fortunately,1
+es_wr_b2_21_18_13_apd,so,1
+es_wr_b2_21_18_13_apd,while,1
+es_wr_b2_21_18_14_imsb,in that,1
+es_wr_b2_21_18_14_iop,after,2
+es_wr_b2_21_18_14_iop,finally,1
+es_wr_b2_21_18_14_jsg,after,1
+es_wr_b2_21_18_14_jsg,in the end,1
+es_wr_b2_21_18_3_ajpm,throughout,1
+es_wr_b2_21_18_3_cmmj,apart from,1
+es_wr_b2_21_18_3_cmmj,if,1
+es_wr_b2_21_18_3_epm,moreover,1
+es_wr_b2_21_18_3_epm,while,1
+es_wr_b2_21_18_3_jmmj,due to,1
+es_wr_b2_21_18_3_jmmj,nevertheless,1
+es_wr_b2_21_18_3_jmmj,therefore,1
+es_wr_b2_21_18_3_lsp,after,1
+es_wr_b2_21_18_3_nais,while,1
+es_wr_b2_21_18_3_rct,after,1
+es_wr_b2_21_19_14_egr,finally,1
+es_wr_b2_21_19_14_egr,later,1
+es_wr_b2_21_19_14_egr,while,1
+es_wr_b2_21_2_3_ta,so,1
+es_wr_b2_21_4_14_jcm,meanwhile,1
+es_wr_b2_21_6.5_13_nnr,next,1
+es_wr_b2_21_6_13_ifm,finally,1
+es_wr_b2_21_6_13_ifm,meanwhile,1
+es_wr_b2_21_7_13_aca,meanwhile,1
+es_wr_b2_21_7_13_aca,so,1
+es_wr_b2_21_7_13_aca,while,1
+es_wr_b2_21_8_3_cm,as a result,1
+es_wr_b2_21_8_3_cm,finally,1
+es_wr_b2_21_8_3_gcp,however,1
+es_wr_b2_21_8_3_mpf,however,1
+es_wr_b2_21_9_3_miga,so,1
+es_wr_b2_22_10_14_asmr,but,1
+es_wr_b2_22_10_14_asmr,finally,1
+es_wr_b2_22_10_14_asmr,later,1
+es_wr_b2_22_10_14_asmr,then,2
+es_wr_b2_22_10_14_msg,finally,1
+es_wr_b2_22_10_3_ifj,in reality,1
+es_wr_b2_22_10_3_migb,however,1
+es_wr_b2_22_10_3_migb,while,1
+es_wr_b2_22_10_3_pgm,so,1
+es_wr_b2_22_11_14_drg,after,1
+es_wr_b2_22_11_14_drg,afterwards,1
+es_wr_b2_22_11_14_drg,later,1
+es_wr_b2_22_11_14_drg,then,1
+es_wr_b2_22_11_14_drg,thus,1
+es_wr_b2_22_12_13_jmcl,after,1
+es_wr_b2_22_12_13_jmcl,while,1
+es_wr_b2_22_12_14_ahp,but,1
+es_wr_b2_22_12_14_ahp,finally,1
+es_wr_b2_22_12_14_ahp,then,1
+es_wr_b2_22_12_14_mcmm,finally,1
+es_wr_b2_22_12_14_mcmm,once,1
+es_wr_b2_22_12_14_mcmm,so,1
+es_wr_b2_22_12_14_mcmm,then,1
+es_wr_b2_22_12_14_mcmm,while,1
+es_wr_b2_22_12_14_saa,once,1
+es_wr_b2_22_12_14_saa,then,1
+es_wr_b2_22_12_14_saa,thus,1
+es_wr_b2_22_12_14_umg,after,2
+es_wr_b2_22_12_14_umg,finally,1
+es_wr_b2_22_12_14_umg,therefore,1
+es_wr_b2_22_12_3_aar,but,1
+es_wr_b2_22_12_3_aar,for example,1
+es_wr_b2_22_12_3_aar,nevertheless,1
+es_wr_b2_22_12_3_mer,after,1
+es_wr_b2_22_13_3_osc,then,1
+es_wr_b2_22_14_14_cut,after,1
+es_wr_b2_22_14_14_cut,finally,1
+es_wr_b2_22_14_14_cut,then,1
+es_wr_b2_22_14_14_sjgc,so,1
+es_wr_b2_22_14_14_sjgc,unfortunately,1
+es_wr_b2_22_14_3_arp,thus,1
+es_wr_b2_22_14_3_arp,to sum up,1
+es_wr_b2_22_14_3_asm,after,1
+es_wr_b2_22_14_3_bng,despite,1
+es_wr_b2_22_14_3_bng,since,1
+es_wr_b2_22_14_3_mvf,finally,1
+es_wr_b2_22_14_3_mvf,then,1
+es_wr_b2_22_14_3_slr,however,1
+es_wr_b2_22_15_13_az,after,2
+es_wr_b2_22_15_14_crf,finally,1
+es_wr_b2_22_15_14_crf,immediately,1
+es_wr_b2_22_15_14_ep,finally,1
+es_wr_b2_22_15_14_ep,then,2
+es_wr_b2_22_15_14_jaa,finally,1
+es_wr_b2_22_15_14_jaa,straightaway,1
+es_wr_b2_22_15_14_mcds,after,1
+es_wr_b2_22_15_14_mcds,then,1
+es_wr_b2_22_15_3_cgn,finally,1
+es_wr_b2_22_15_3_cgn,however,1
+es_wr_b2_22_15_3_jrm,due to,1
+es_wr_b2_22_16_13_afl,next,1
+es_wr_b2_22_16_13_afl,then,2
+es_wr_b2_22_16_13_jrrm,after,1
+es_wr_b2_22_16_13_jrrm,later,1
+es_wr_b2_22_16_14_aisp,next,1
+es_wr_b2_22_16_14_aisp,then,1
+es_wr_b2_22_16_14_amc,as a result,1
+es_wr_b2_22_16_14_amc,finally,1
+es_wr_b2_22_16_14_amc,later,2
+es_wr_b2_22_16_14_amc,meanwhile,1
+es_wr_b2_22_16_14_amc,nevertheless,1
+es_wr_b2_22_16_14_amc,then,2
+es_wr_b2_22_16_14_cim,although,1
+es_wr_b2_22_16_14_cim,on the other hand,1
+es_wr_b2_22_16_14_cim,so,1
+es_wr_b2_22_16_14_cim,then,1
+es_wr_b2_22_16_14_cmsg,but,1
+es_wr_b2_22_16_14_lb,but,1
+es_wr_b2_22_16_14_lb,then,1
+es_wr_b2_22_16_14_lps,later,1
+es_wr_b2_22_16_14_mbc,as a result,1
+es_wr_b2_22_16_14_mbc,however,2
+es_wr_b2_22_16_14_mbc,nevertheless,1
+es_wr_b2_22_16_14_mbc,then,1
+es_wr_b2_22_16_14_mcm,but,1
+es_wr_b2_22_16_14_mcm,so,1
+es_wr_b2_22_16_14_plp,due to,1
+es_wr_b2_22_16_14_plp,later,1
+es_wr_b2_22_16_3_acm,unfortunately,1
+es_wr_b2_22_16_3_brv,in particular,1
+es_wr_b2_22_16_3_lcv,nonetheless,1
+es_wr_b2_22_16_3_mal,nevertheless,1
+es_wr_b2_22_16_3_mjcm,after,1
+es_wr_b2_22_16_3_mjcm,from then on,1
+es_wr_b2_22_16_3_mjcm,however,2
+es_wr_b2_22_16_3_mjcm,until,1
+es_wr_b2_22_16_3_mmb,to sum up,1
+es_wr_b2_22_16_3_mmi,even though,1
+es_wr_b2_22_16_3_mmi,in the end,1
+es_wr_b2_22_16_3_ntp,apart from,1
+es_wr_b2_22_16_3_oc,actually,1
+es_wr_b2_22_16_3_oc,after,2
+es_wr_b2_22_16_3_oc,finally,1
+es_wr_b2_22_17_14_pll,after,1
+es_wr_b2_22_17_14_pll,at the same time,1
+es_wr_b2_22_17_14_pll,finally,1
+es_wr_b2_22_17_14_pll,however,1
+es_wr_b2_22_17_14_pll,next,1
+es_wr_b2_22_17_14_pll,then,2
+es_wr_b2_22_17_3_cpj,before,1
+es_wr_b2_22_17_3_nvg,in the end,1
+es_wr_b2_22_18_13_rmzm,later,1
+es_wr_b2_22_18_14_ajo,after,3
+es_wr_b2_22_18_14_ajo,finally,1
+es_wr_b2_22_18_14_ajo,then,2
+es_wr_b2_22_18_14_ajo,therefore,1
+es_wr_b2_22_18_14_ama,finally,1
+es_wr_b2_22_18_14_ama,however,1
+es_wr_b2_22_18_14_ama,next,1
+es_wr_b2_22_18_14_matr,first,1
+es_wr_b2_22_18_14_matr,however,1
+es_wr_b2_22_18_14_matr,later,1
+es_wr_b2_22_18_14_matr,nevertheless,1
+es_wr_b2_22_18_14_matr,then,1
+es_wr_b2_22_18_3_ag,despite,1
+es_wr_b2_22_18_3_padlt,so,1
+es_wr_b2_22_19_3_aoa,although,1
+es_wr_b2_22_19_3_aoa,before,1
+es_wr_b2_22_19_3_aoa,finally,1
+es_wr_b2_22_19_3_aoa,first,1
+es_wr_b2_22_19_3_aoa,however,2
+es_wr_b2_22_19_3_aoa,second,1
+es_wr_b2_22_19_3_aoa,that is,2
+es_wr_b2_22_19_3_aoa,throughout,1
+es_wr_b2_22_19_3_cel,finally,1
+es_wr_b2_22_19_3_cel,on the other hand,1
+es_wr_b2_22_19_3_cel,then,1
+es_wr_b2_22_19_3_pcc,although,1
+es_wr_b2_22_19_3_pcc,however,1
+es_wr_b2_22_19_3_pcc,on the other hand,1
+es_wr_b2_22_19_3_pcc,since,1
+es_wr_b2_22_19_3_srr,later,1
+es_wr_b2_22_3_3_ypmg,first,1
+es_wr_b2_22_8_14_nee,finally,1
+es_wr_b2_22_8_14_nee,in that,1
+es_wr_b2_22_8_14_nee,so,1
+es_wr_b2_22_8_14_nee,then,1
+es_wr_b2_23_12_14_rs,after,2
+es_wr_b2_23_13_3_mme,besides,1
+es_wr_b2_23_14_3_imo,but,1
+es_wr_b2_23_14_3_imo,so,1
+es_wr_b2_23_15_13_lm,finally,1
+es_wr_b2_23_15_13_lm,so,1
+es_wr_b2_23_15_14_epf,finally,1
+es_wr_b2_23_15_14_gpe,however,1
+es_wr_b2_23_15_14_gpe,in that,1
+es_wr_b2_23_15_14_gpe,therefore,1
+es_wr_b2_23_15_14_gpe,unfortunately,1
+es_wr_b2_23_15_14_lfc,again,1
+es_wr_b2_23_15_14_lfc,finally,1
+es_wr_b2_23_15_14_lfc,however,1
+es_wr_b2_23_15_14_lfc,in that,1
+es_wr_b2_23_15_14_rrt,after,2
+es_wr_b2_23_15_14_rrt,after a while,1
+es_wr_b2_23_15_14_rrt,however,1
+es_wr_b2_23_15_3_mp,however,1
+es_wr_b2_23_15_3_mp,once,1
+es_wr_b2_23_16_3_icc,but,2
+es_wr_b2_23_16_3_icc,however,1
+es_wr_b2_23_16_3_icc,in that,1
+es_wr_b2_23_16_3_icc,nevertheless,1
+es_wr_b2_23_17_14_ifm,however,1
+es_wr_b2_23_17_14_ifm,once,1
+es_wr_b2_23_17_14_ifm,then,1
+es_wr_b2_23_17_14_ifm,while,1
+es_wr_b2_23_17_14_lgc,after,2
+es_wr_b2_23_17_14_rgm,after all,1
+es_wr_b2_23_17_14_rgm,finally,1
+es_wr_b2_23_17_14_rgm,however,1
+es_wr_b2_23_17_14_rgm,immediately,1
+es_wr_b2_23_17_14_rgm,then,2
+es_wr_b2_23_17_3_alls,additionally,1
+es_wr_b2_23_17_3_nap,but,1
+es_wr_b2_23_17_3_nap,in the end,1
+es_wr_b2_23_17_3_phm,however,1
+es_wr_b2_23_17_3_smsr,thanks to,1
+es_wr_b2_23_17_3_yml,after,1
+es_wr_b2_23_17_3_yml,finally,2
+es_wr_b2_23_18_13_imj,after,1
+es_wr_b2_23_18_13_imj,as a result,1
+es_wr_b2_23_18_13_imj,finally,1
+es_wr_b2_23_18_13_imj,first,1
+es_wr_b2_23_18_13_imj,however,1
+es_wr_b2_23_18_13_imj,so,1
+es_wr_b2_23_18_3_ajc,moreover,1
+es_wr_b2_23_18_3_ajc,since,1
+es_wr_b2_23_18_3_ajc,therefore,1
+es_wr_b2_23_18_3_arj,finally,1
+es_wr_b2_23_18_3_cer,however,1
+es_wr_b2_23_18_3_evs,thus,1
+es_wr_b2_23_18_3_lng,unfortunately,1
+es_wr_b2_23_19_3_jtc,however,1
+es_wr_b2_23_19_3_jtc,nevertheless,1
+es_wr_b2_23_19_3_jtc,so that,1
+es_wr_b2_23_19_3_jtc,therefore,1
+es_wr_b2_23_1_13_acd,after,1
+es_wr_b2_23_1_13_acd,in that,1
+es_wr_b2_23_20_13_alr,finally,1
+es_wr_b2_23_20_13_alr,while,1
+es_wr_b2_23_20_13_alr2,however,1
+es_wr_b2_23_20_13_alr2,so,1
+es_wr_b2_23_20_3_mecb,in addition,1
+es_wr_b2_23_20_3_mecb,on the other hand,1
+es_wr_b2_23_20_3_rm,while,1
+es_wr_b2_23_20_3_rmrm,but,1
+es_wr_b2_23_21_14_nnt,after,1
+es_wr_b2_23_21_14_nnt,so,1
+es_wr_b2_23_21_3_cmg,once,1
+es_wr_b2_23_6_13_mcms,after,1
+es_wr_b2_23_6_13_mcms,because of,1
+es_wr_b2_23_6_13_mcms,finally,1
+es_wr_b2_23_6_13_mcms,first,1
+es_wr_b2_23_6_3_lrm,also,1
+es_wr_b2_23_7_3_bsj,then,1
+es_wr_b2_23_9_3_jarc,so,1
+es_wr_b2_24_11_3_lrm,in addition,1
+es_wr_b2_24_12_3_aa,although,1
+es_wr_b2_24_12_3_egl,also,1
+es_wr_b2_24_12_3_egl,but,1
+es_wr_b2_24_12_3_jff,finally,1
+es_wr_b2_24_12_3_jff,then,1
+es_wr_b2_24_13_3_arv,so,1
+es_wr_b2_24_13_3_vgs,however,1
+es_wr_b2_24_13_3_vgs,since,1
+es_wr_b2_24_13_3_vgs,thanks to,1
+es_wr_b2_24_14_14_rgg,then,2
+es_wr_b2_24_14_3_apr,on the other hand,1
+es_wr_b2_24_14_3_apr,soon,1
+es_wr_b2_24_14_3_apr,thus,1
+es_wr_b2_24_15_14_ctt,after,1
+es_wr_b2_24_15_14_ctt,finally,1
+es_wr_b2_24_15_14_ctt,however,1
+es_wr_b2_24_15_14_ctt,just then,1
+es_wr_b2_24_15_14_ctt,later,1
+es_wr_b2_24_15_14_ctt,once,3
+es_wr_b2_24_15_3_jrc,after,1
+es_wr_b2_24_15_3_jrc,despite,1
+es_wr_b2_24_15_3_jrc,throughout,1
+es_wr_b2_24_15_3_ygn,but,1
+es_wr_b2_24_19_14_mabg,after,1
+es_wr_b2_24_19_14_mabg,however,1
+es_wr_b2_24_19_14_mabg,next,1
+es_wr_b2_24_20_3_ntp,although,1
+es_wr_b2_24_20_3_ntp,but,1
+es_wr_b2_24_20_3_ntp,still,1
+es_wr_b2_24_20_3_ntp,thanks to,1
+es_wr_b2_24_21_3_cdlp,meanwhile,1
+es_wr_b2_24_21_3_psa,moreover,1
+es_wr_b2_24_21_3_ssa,meanwhile,1
+es_wr_b2_24_4_3_jaap,so,1
+es_wr_b2_24_7_14_cgs,finally,1
+es_wr_b2_24_7_14_cgs,then,1
+es_wr_b2_24_8_3_cldlh,however,1
+es_wr_b2_24_9_3_rl,after,1
+es_wr_b2_24_9_3_rl,then,1
+es_wr_b2_25_10_13_mpt,after,1
+es_wr_b2_25_10_13_mpt,finally,1
+es_wr_b2_25_10_3_cv,after,1
+es_wr_b2_25_10_3_cv,but,1
+es_wr_b2_25_10_3_jv,but,1
+es_wr_b2_25_13_3_blc,but,1
+es_wr_b2_25_13_3_blc,finally,1
+es_wr_b2_25_13_3_rmm,however,1
+es_wr_b2_25_13_3_rmm,while,1
+es_wr_b2_25_15_13_lpa,but,1
+es_wr_b2_25_15_13_lpa,in fact,1
+es_wr_b2_25_15_13_lpa,in the morning,1
+es_wr_b2_25_15_13_lpa,so,1
+es_wr_b2_25_15_14_aba,but,1
+es_wr_b2_25_15_14_aba,for this reason,1
+es_wr_b2_25_15_14_aba,however,1
+es_wr_b2_25_15_14_aba,in that,3
+es_wr_b2_25_15_14_aba,so,1
+es_wr_b2_25_15_14_mcb,finally,1
+es_wr_b2_25_15_14_mcb,then,2
+es_wr_b2_25_15_3_mpu,at least,1
+es_wr_b2_25_15_3_pmb,finally,1
+es_wr_b2_25_19_14_amc,in that,1
+es_wr_b2_25_19_14_amc,in the end,1
+es_wr_b2_25_19_14_mbg,once,1
+es_wr_b2_25_19_3_icc,in that,1
+es_wr_b2_25_7_14_aoa,meanwhile,1
+es_wr_b2_25_7_14_aoa,then,2
+es_wr_b2_25_7_3_ar,after,2
+es_wr_b2_25_7_3_ar,however,1
+es_wr_b2_26_11_3_jjec,maybe,1
+es_wr_b2_26_18_14_mrm,incidentally,1
+es_wr_b2_26_19_3_yga,after,1
+es_wr_b2_26_19_3_yga,however,1
+es_wr_b2_26_20_13_brv,in the morning,1
+es_wr_b2_26_20_13_brv,then,1
+es_wr_b2_26_20_3_alm,nevertheless,1
+es_wr_b2_27_20_3_lfm,consequently,1
+es_wr_b2_27_20_3_lfm,however,1
+es_wr_b2_27_22_3_tjr,but,1
+es_wr_b2_27_4_3_hch,finally,1
+es_wr_b2_28_14_3_pcm,actually,1
+es_wr_b2_28_14_3_pcm,although,1
+es_wr_b2_28_18_14_mmi,finally,1
+es_wr_b2_28_18_14_mmi,so,1
+es_wr_b2_28_18_14_mmi,then,1
+es_wr_b2_28_19_14_mst,but,1
+es_wr_b2_29_10_3_aam,however,1
+es_wr_b2_29_12_3_arm,then,1
+es_wr_b2_30_15_3_dhr,after,1
+es_wr_b2_30_15_3_dhr,finally,1
+es_wr_b2_30_15_3_dhr,in the end,1
+es_wr_b2_30_15_3_dhr,so,2
+es_wr_b2_30_22_3_cms,although,1
+es_wr_b2_30_7_3_foc,unfortunately,1
+es_wr_b2_31_12_3_maps,however,1
+es_wr_b2_31_13_3_jf,anyway,1
+es_wr_b2_31_20_3_lvg,maybe,1
+es_wr_b2_31_23_3_cms,thanks to,1
+es_wr_b2_31_8_14_mrm,finally,1
+es_wr_b2_31_9_3_ssc,after,1
+es_wr_b2_32_7_3_dmc,moreover,1
+es_wr_b2_35_22_14_imbu,after,1
+es_wr_b2_35_22_14_imbu,later,1
+es_wr_b2_35_22_14_imbu,so,1
+es_wr_b2_36_12_13_mdrp,despite,1
+es_wr_b2_36_12_13_mdrp,finally,1
+es_wr_b2_36_12_13_mdrp,however,1
+es_wr_b2_36_12_13_mdrp,so,1
+es_wr_b2_36_12_3_lsn,as in,1
+es_wr_b2_36_25_3_ssgv,alongside,1
+es_wr_b2_37_15_3_rrg,although,1
+es_wr_b2_37_30_3_cmog,fortunately,1
+es_wr_b2_39_10_3_ap,after,1
+es_wr_b2_39_10_3_ap,so,1
+es_wr_b2_39_27_14_rsp,after a while,1
+es_wr_b2_39_27_14_rsp,finally,1
+es_wr_b2_40_14_14_mjlr,again,1
+es_wr_b2_40_14_14_mjlr,then,2
+es_wr_b2_40_17_14_edl,afterwards,2
+es_wr_b2_40_17_14_edl,finally,1
+es_wr_b2_40_17_14_edl,so,1
+es_wr_b2_40_17_14_edl,then,3
+es_wr_b2_40_20_3_agg,however,1
+es_wr_b2_40_20_3_agg,so,1
+es_wr_b2_41_14_2_msv,in fact,1
+es_wr_b2_42_10_3_fs,in the end,1
+es_wr_b2_42_10_3_fs,while,1
+es_wr_b2_43_10_3_jlg,despite,1
+es_wr_b2_43_10_3_jlg,for example,1
+es_wr_b2_43_32_3_am,in the meantime,1
+es_wr_b2_45_20_3_igf,finally,1
+es_wr_b2_45_30_14_mcs,but,1
+es_wr_b2_45_30_14_mcs,first,1
+es_wr_b2_45_33_14_clm,in the end,1
+es_wr_b2_45_33_14_clm,so,1
+es_wr_b2_47_35_3_jmps,finally,1
+es_wr_b2_48_8_13_bap,next,1
+es_wr_b2_55_20_14_any,finally,1
+es_wr_c1_17_14_13_mvj,after,1
+es_wr_c1_17_14_13_mvj,while,1
+es_wr_c1_17_15_13_afm,after,1
+es_wr_c1_17_7_3_pvm,moreover,1
+es_wr_c1_18_10_3_mdl,in the end,1
+es_wr_c1_18_10_3_mg,additionally,1
+es_wr_c1_18_10_3_mg,in conclusion,1
+es_wr_c1_18_10_3_nba,while,1
+es_wr_c1_18_12_13_ams,while,2
+es_wr_c1_18_12_13_mfu,after,1
+es_wr_c1_18_12_13_mfu,but,1
+es_wr_c1_18_12_13_mfu,then,1
+es_wr_c1_18_12_14_cbg,due to,1
+es_wr_c1_18_12_14_cbg,finally,1
+es_wr_c1_18_12_14_cml,after,1
+es_wr_c1_18_12_14_cml,consequently,1
+es_wr_c1_18_12_14_cml,however,1
+es_wr_c1_18_12_14_cml,therefore,1
+es_wr_c1_18_12_14_lbt,afterwards,1
+es_wr_c1_18_12_14_lbt,however,1
+es_wr_c1_18_12_14_lbt,nevertheless,1
+es_wr_c1_18_12_14_lbt,then,1
+es_wr_c1_18_12_14_pmj,however,1
+es_wr_c1_18_12_14_pmj,later,1
+es_wr_c1_18_12_14_pmj,then,1
+es_wr_c1_18_12_3_anr,after,1
+es_wr_c1_18_12_3_anr,then,2
+es_wr_c1_18_12_3_eno,although,1
+es_wr_c1_18_12_3_eno,besides,1
+es_wr_c1_18_12_3_eno,furthermore,1
+es_wr_c1_18_12_3_eno,in fact,1
+es_wr_c1_18_12_3_eno,while,1
+es_wr_c1_18_12_3_vrz,after,1
+es_wr_c1_18_12_3_vrz,but,1
+es_wr_c1_18_12_3_vrz,nevertheless,1
+es_wr_c1_18_13_14_agl,as a result,1
+es_wr_c1_18_13_14_agl,consequently,1
+es_wr_c1_18_13_14_agl,despite,1
+es_wr_c1_18_13_14_agl,finally,1
+es_wr_c1_18_13_14_agl,however,1
+es_wr_c1_18_13_14_agl,in the end,1
+es_wr_c1_18_13_14_agl,nevertheless,2
+es_wr_c1_18_13_14_agl,since,1
+es_wr_c1_18_13_14_agl,therefore,1
+es_wr_c1_18_13_14_mpc,in that,1
+es_wr_c1_18_13_14_mpc,then,3
+es_wr_c1_18_13_14_mscm,after,2
+es_wr_c1_18_13_14_mscm,at this moment,1
+es_wr_c1_18_13_14_mscm,however,1
+es_wr_c1_18_13_14_mscm,then,2
+es_wr_c1_18_13_14_rlr,afterwards,1
+es_wr_c1_18_13_14_rlr,finally,1
+es_wr_c1_18_13_3_amr,for instance,1
+es_wr_c1_18_13_3_amr,in a nutshell,1
+es_wr_c1_18_13_3_amr,nevertheless,1
+es_wr_c1_18_13_3_amr,unless,1
+es_wr_c1_18_13_3_amr,yet,1
+es_wr_c1_18_13_3_arc,after,1
+es_wr_c1_18_13_3_ca,in the end,1
+es_wr_c1_18_13_3_ecc,even though,1
+es_wr_c1_18_13_3_ecc,yet,1
+es_wr_c1_18_13_3_fog,after,3
+es_wr_c1_18_13_3_fog,but,1
+es_wr_c1_18_13_3_mgp,after,1
+es_wr_c1_18_13_3_mgp,finally,1
+es_wr_c1_18_13_3_nmmb,after,1
+es_wr_c1_18_13_3_nmmb,despite,1
+es_wr_c1_18_13_3_nmmb,however,1
+es_wr_c1_18_13_3_nmmb,then,1
+es_wr_c1_18_13_3_nsbb,although,1
+es_wr_c1_18_13_3_nsbb,but,2
+es_wr_c1_18_13_3_nsbb,later,3
+es_wr_c1_18_14_2_msr,although,1
+es_wr_c1_18_14_2_msr,but,1
+es_wr_c1_18_14_2_msr,however,1
+es_wr_c1_18_14_2_msr,that is,1
+es_wr_c1_18_14_3_gh,due to,1
+es_wr_c1_18_14_3_jme,in reality,1
+es_wr_c1_18_14_3_rpg,but,1
+es_wr_c1_18_14_3_rpg,however,1
+es_wr_c1_18_14_3_rpg,then,1
+es_wr_c1_18_14_3_rpg,thereby,1
+es_wr_c1_18_15_13_apd,after,1
+es_wr_c1_18_15_13_apd,so,1
+es_wr_c1_18_15_13_apd,unfortunately,1
+es_wr_c1_18_15_3_cgr,after,3
+es_wr_c1_18_15_3_cgr,because of,1
+es_wr_c1_18_15_3_cgr,however,2
+es_wr_c1_18_15_3_cgr,in the end,1
+es_wr_c1_18_15_3_iqt,however,1
+es_wr_c1_18_15_3_mbd,but,1
+es_wr_c1_18_15_3_mgg,then,1
+es_wr_c1_18_15_3_muj,finally,3
+es_wr_c1_18_15_3_muj,later,1
+es_wr_c1_18_7_13_mmm,even though,1
+es_wr_c1_18_8_2_sgb,unfortunately,1
+es_wr_c1_18_8_3_aav,however,1
+es_wr_c1_18_8_3_aav,since,1
+es_wr_c1_18_9_3_brg,but,1
+es_wr_c1_18_9_3_brg,in addition,1
+es_wr_c1_19_10_3_mdno,after,1
+es_wr_c1_19_10_3_mor,after,1
+es_wr_c1_19_10_3_mor,although,1
+es_wr_c1_19_10_3_mor,however,1
+es_wr_c1_19_10_3_mrs,after,2
+es_wr_c1_19_10_3_mrs,if,1
+es_wr_c1_19_10_3_mrs,to sum up,1
+es_wr_c1_19_11_13_bes,unfortunately,1
+es_wr_c1_19_11_13_jrj,after,1
+es_wr_c1_19_11_13_jrj,at last,1
+es_wr_c1_19_11_13_jrj,first,1
+es_wr_c1_19_11_13_jrj,fortunately,1
+es_wr_c1_19_11_13_jrj,however,1
+es_wr_c1_19_11_13_jrj,so,1
+es_wr_c1_19_11_14_mor,after,3
+es_wr_c1_19_11_14_mor,however,1
+es_wr_c1_19_11_14_mor,in spite of,1
+es_wr_c1_19_11_14_mor,next,1
+es_wr_c1_19_11_14_mor,then,2
+es_wr_c1_19_11_3_aod,shortly,1
+es_wr_c1_19_11_3_cra,since,1
+es_wr_c1_19_11_3_pmh,in a nutshell,1
+es_wr_c1_19_11_3_pmh,nevertheless,1
+es_wr_c1_19_11_3_pmh,once,1
+es_wr_c1_19_11_3_pmh,so,1
+es_wr_c1_19_12_3_ara,although,1
+es_wr_c1_19_12_3_jcf,due to,1
+es_wr_c1_19_12_3_jcf,furthermore,1
+es_wr_c1_19_12_3_jcf,however,1
+es_wr_c1_19_12_3_jcf,in addition,1
+es_wr_c1_19_12_3_jcf,in conclusion,1
+es_wr_c1_19_12_3_jcf,in fact,1
+es_wr_c1_19_12_3_jcf,so,1
+es_wr_c1_19_12_3_jcf,therefore,2
+es_wr_c1_19_12_3_plt,in spite of,1
+es_wr_c1_19_13_13_aga,despite,1
+es_wr_c1_19_13_13_aga,for this reason,1
+es_wr_c1_19_13_13_aga,however,1
+es_wr_c1_19_13_13_aga,nevertheless,2
+es_wr_c1_19_13_13_eoj,but,1
+es_wr_c1_19_13_14_igt,finally,1
+es_wr_c1_19_13_14_impa,after all,1
+es_wr_c1_19_13_14_impa,but,1
+es_wr_c1_19_13_14_impa,then,1
+es_wr_c1_19_13_14_mhf,finally,1
+es_wr_c1_19_13_14_mhf,however,1
+es_wr_c1_19_13_14_mhm,however,1
+es_wr_c1_19_13_14_mhm,then,1
+es_wr_c1_19_13_3_avwm,while,1
+es_wr_c1_19_13_3_eap,however,2
+es_wr_c1_19_13_3_eap,in the end,1
+es_wr_c1_19_13_3_eap,shortly,1
+es_wr_c1_19_13_3_eap,that is,1
+es_wr_c1_19_13_3_eap,then,3
+es_wr_c1_19_13_3_emtl,after all,1
+es_wr_c1_19_13_3_emtl,despite,1
+es_wr_c1_19_13_3_emtl,however,1
+es_wr_c1_19_13_3_emtl,in the end,1
+es_wr_c1_19_14_3_cmc,after,1
+es_wr_c1_19_14_3_cmc,however,1
+es_wr_c1_19_14_3_cml,after,1
+es_wr_c1_19_14_3_glr,for this reason,1
+es_wr_c1_19_14_3_glr,however,1
+es_wr_c1_19_14_3_ims,if,1
+es_wr_c1_19_14_3_ls,however,1
+es_wr_c1_19_14_3_mamo,after,1
+es_wr_c1_19_14_3_mamo,in the end,1
+es_wr_c1_19_14_3_ptg,but,1
+es_wr_c1_19_14_3_ptg,in the end,1
+es_wr_c1_19_15_14_app,finally,1
+es_wr_c1_19_15_14_app,nevertheless,1
+es_wr_c1_19_15_14_app,then,2
+es_wr_c1_19_15_14_app,therefore,1
+es_wr_c1_19_15_3_emg,meanwhile,1
+es_wr_c1_19_15_3_if,in addition,1
+es_wr_c1_19_15_3_lcl,although,1
+es_wr_c1_19_15_3_lcl,but,1
+es_wr_c1_19_15_3_lcl,so,1
+es_wr_c1_19_15_3_lcl,therefore,1
+es_wr_c1_19_16_3_ajf,in fact,1
+es_wr_c1_19_16_3_arm,but,1
+es_wr_c1_19_16_3_esg,throughout,1
+es_wr_c1_19_16_3_jdc,then,1
+es_wr_c1_19_16_3_lcf,however,1
+es_wr_c1_19_16_3_lsl,in the end,1
+es_wr_c1_19_16_3_lsl,using,1
+es_wr_c1_19_16_3_mc,besides,1
+es_wr_c1_19_16_3_mmv,because of,1
+es_wr_c1_19_16_3_mmv,due to,1
+es_wr_c1_19_16_3_mmv,finally,1
+es_wr_c1_19_16_3_mom,after,1
+es_wr_c1_19_16_3_mom,as a result,2
+es_wr_c1_19_16_3_mom,however,2
+es_wr_c1_19_16_3_mom,in the end,1
+es_wr_c1_19_16_3_mpf,throughout,1
+es_wr_c1_19_16_3_nba,after,1
+es_wr_c1_19_16_3_nba,however,1
+es_wr_c1_19_16_3_pah,furthermore,1
+es_wr_c1_19_16_3_pah,that is,1
+es_wr_c1_19_16_3_pah,therefore,1
+es_wr_c1_19_17_3_mgb,after,1
+es_wr_c1_19_9_14_vmfv,after,1
+es_wr_c1_19_9_3_vgm,although,1
+es_wr_c1_19_9_3_vgm,but,2
+es_wr_c1_19_9_3_vgm,following this,1
+es_wr_c1_19_9_3_vgm,for that reason,1
+es_wr_c1_19_9_3_vgm,however,2
+es_wr_c1_19_9_3_vgm,thus,1
+es_wr_c1_20_10_13_sjm,after,1
+es_wr_c1_20_10_13_sjm,however,1
+es_wr_c1_20_10_13_sjm,next,1
+es_wr_c1_20_10_13_sjm,then,1
+es_wr_c1_20_10_3_az,after,1
+es_wr_c1_20_11_3_cba,then,1
+es_wr_c1_20_11_3_csf,after a while,1
+es_wr_c1_20_11_3_jrj,however,1
+es_wr_c1_20_12_14_cag,after a while,1
+es_wr_c1_20_12_14_cag,besides,1
+es_wr_c1_20_12_14_cag,first,1
+es_wr_c1_20_12_14_cag,then,1
+es_wr_c1_20_12_14_cag,through,1
+es_wr_c1_20_12_3_erv,throughout,1
+es_wr_c1_20_12_3_lls,due to,1
+es_wr_c1_20_12_3_mym,besides,1
+es_wr_c1_20_12_3_mym,but,1
+es_wr_c1_20_13_14_mrtm,after all,1
+es_wr_c1_20_13_14_mrtm,however,1
+es_wr_c1_20_14_2_eae,besides,1
+es_wr_c1_20_14_2_eae,in fact,1
+es_wr_c1_20_14_3_crs,finally,1
+es_wr_c1_20_14_3_lss,meanwhile,1
+es_wr_c1_20_14_3_mdgbb,after,1
+es_wr_c1_20_14_3_mdgbb,but,1
+es_wr_c1_20_14_3_mdgbb,even though,1
+es_wr_c1_20_14_3_mgf,nevertheless,1
+es_wr_c1_20_14_3_mts,however,5
+es_wr_c1_20_15_13_lt,once,1
+es_wr_c1_20_15_14_rgf,after,1
+es_wr_c1_20_15_14_rgf,because,1
+es_wr_c1_20_15_14_rgf,however,1
+es_wr_c1_20_15_14_rgf,in the end,1
+es_wr_c1_20_15_3_ecc,however,1
+es_wr_c1_20_15_3_ecc,in the end,2
+es_wr_c1_20_15_3_fjpm,also,1
+es_wr_c1_20_15_3_fjpm,although,1
+es_wr_c1_20_15_3_fjpm,but,1
+es_wr_c1_20_15_3_fjpm,in that,1
+es_wr_c1_20_15_3_mpf,although,1
+es_wr_c1_20_15_3_mpf,in addition,1
+es_wr_c1_20_15_3_mvmi,if,1
+es_wr_c1_20_16_3_mcg,in the end,1
+es_wr_c1_20_16_3_mpc,finally,1
+es_wr_c1_20_17_13_npg,until,1
+es_wr_c1_20_17_14_lsv,due to,1
+es_wr_c1_20_17_14_lsv,however,1
+es_wr_c1_20_17_14_lsv,next,1
+es_wr_c1_20_17_14_lsv,then,1
+es_wr_c1_20_17_3_blg,after,1
+es_wr_c1_20_17_3_bmr,through,2
+es_wr_c1_20_17_3_cna,however,1
+es_wr_c1_20_17_3_cna,thanks to,1
+es_wr_c1_20_17_3_jmmj,nonetheless,1
+es_wr_c1_20_17_3_jmmj,throughout,1
+es_wr_c1_20_17_3_kmb,however,1
+es_wr_c1_20_17_3_lcm,because,1
+es_wr_c1_20_17_3_lcm,in fact,1
+es_wr_c1_20_17_3_lcm,so,1
+es_wr_c1_20_18_14_mrs,finally,1
+es_wr_c1_20_8_14_ngr,after,2
+es_wr_c1_21_10_14_plh,after,1
+es_wr_c1_21_10_14_plh,finally,1
+es_wr_c1_21_10_14_plh,then,5
+es_wr_c1_21_11_13_ak,however,1
+es_wr_c1_21_11_13_ak,in the morning,1
+es_wr_c1_21_11_13_ak,perhaps,1
+es_wr_c1_21_11_13_ak,while,1
+es_wr_c1_21_11_14_ma,after,1
+es_wr_c1_21_11_14_ma,in the end,1
+es_wr_c1_21_11_14_ma,then,1
+es_wr_c1_21_11_3_bmce,after,2
+es_wr_c1_21_11_3_bmce,finally,1
+es_wr_c1_21_11_3_cing,in fact,1
+es_wr_c1_21_11_3_dnv,although,1
+es_wr_c1_21_11_3_mvc,however,1
+es_wr_c1_21_12_3_emo,once,1
+es_wr_c1_21_12_3_emo,unfortunately,1
+es_wr_c1_21_12_3_pot,finally,1
+es_wr_c1_21_12_3_pot,instead,1
+es_wr_c1_21_12_3_rfsc,after,2
+es_wr_c1_21_12_3_vg,finally,1
+es_wr_c1_21_13_13_ngs,but,1
+es_wr_c1_21_13_13_ngs,finally,1
+es_wr_c1_21_13_13_ngs,the next day,1
+es_wr_c1_21_13_14_aov,after,1
+es_wr_c1_21_13_14_aov,at the same time,1
+es_wr_c1_21_13_14_aov,but,1
+es_wr_c1_21_13_14_aov,in that,1
+es_wr_c1_21_13_14_arp,after,1
+es_wr_c1_21_13_14_arp,but,1
+es_wr_c1_21_13_14_arp,then,1
+es_wr_c1_21_13_14_arp,while,1
+es_wr_c1_21_13_14_mirp,again,1
+es_wr_c1_21_13_14_mirp,immediately,1
+es_wr_c1_21_13_14_mirp,soon,1
+es_wr_c1_21_13_14_mirp,then,1
+es_wr_c1_21_13_3_crs,however,1
+es_wr_c1_21_13_3_egh,finally,1
+es_wr_c1_21_13_3_emca,in conclusion,1
+es_wr_c1_21_13_3_emca,moreover,1
+es_wr_c1_21_13_3_msl,so,1
+es_wr_c1_21_14_14_eag,after,1
+es_wr_c1_21_14_14_eag,hence,1
+es_wr_c1_21_14_14_eag,however,1
+es_wr_c1_21_14_14_eag,later,1
+es_wr_c1_21_14_14_eag,so,1
+es_wr_c1_21_14_14_eag,then,1
+es_wr_c1_21_14_14_sc,even though,1
+es_wr_c1_21_14_14_sc,later,1
+es_wr_c1_21_14_14_sc,nevertheless,1
+es_wr_c1_21_14_3_ali,after,1
+es_wr_c1_21_14_3_ali,finally,1
+es_wr_c1_21_14_3_ali,meanwhile,1
+es_wr_c1_21_14_3_ali,on the other hand,1
+es_wr_c1_21_14_3_ali,the next day,1
+es_wr_c1_21_14_3_amnp,after,1
+es_wr_c1_21_14_3_amnp,finally,2
+es_wr_c1_21_14_3_amnp,hence,1
+es_wr_c1_21_14_3_amnp,on the other hand,1
+es_wr_c1_21_14_3_amnp,therefore,1
+es_wr_c1_21_14_3_amnp,while,1
+es_wr_c1_21_14_3_cor,although,1
+es_wr_c1_21_14_3_cor,despite,1
+es_wr_c1_21_14_3_cor,furthermore,1
+es_wr_c1_21_14_3_cor,however,1
+es_wr_c1_21_14_3_cor,while,1
+es_wr_c1_21_14_3_igu,but,1
+es_wr_c1_21_14_3_mhm,finally,1
+es_wr_c1_21_14_3_mhm,moreover,1
+es_wr_c1_21_14_3_mhm,nevertheless,1
+es_wr_c1_21_14_3_mhm,so,1
+es_wr_c1_21_14_3_mhm,while,1
+es_wr_c1_21_14_3_nbs,because of,1
+es_wr_c1_21_14_3_nbs,before,1
+es_wr_c1_21_14_3_nbs,in addition,1
+es_wr_c1_21_14_3_nbs,once,1
+es_wr_c1_21_14_3_nbs,then,1
+es_wr_c1_21_15.5_3_vah,finally,1
+es_wr_c1_21_15.5_3_vah,in fact,1
+es_wr_c1_21_15.5_3_vah,meanwhile,1
+es_wr_c1_21_15.5_3_vah,that is,1
+es_wr_c1_21_15_13_aml,finally,1
+es_wr_c1_21_15_13_aml,thanks to,1
+es_wr_c1_21_15_13_emg,however,1
+es_wr_c1_21_15_13_emg,while,1
+es_wr_c1_21_15_13_nhd,after a while,1
+es_wr_c1_21_15_13_nhd,finally,1
+es_wr_c1_21_15_13_nhd,while,2
+es_wr_c1_21_15_14_aam,after,1
+es_wr_c1_21_15_14_aam,finally,1
+es_wr_c1_21_15_14_aam,later,1
+es_wr_c1_21_15_14_avs,after,1
+es_wr_c1_21_15_14_lmc,then,1
+es_wr_c1_21_15_14_mbr,then,1
+es_wr_c1_21_15_14_pgm,unfortunately,1
+es_wr_c1_21_15_3_amqr,after,1
+es_wr_c1_21_15_3_ast,due to,1
+es_wr_c1_21_15_3_ast,finally,1
+es_wr_c1_21_15_3_az,throughout,1
+es_wr_c1_21_15_3_az,to sum up,1
+es_wr_c1_21_15_3_az,until,1
+es_wr_c1_21_15_3_etc,after,1
+es_wr_c1_21_15_3_fram,first,1
+es_wr_c1_21_15_3_fram,however,1
+es_wr_c1_21_15_3_fram,in addition,1
+es_wr_c1_21_15_3_iccr,after,1
+es_wr_c1_21_15_3_iccr,likewise,1
+es_wr_c1_21_15_3_iccr,therefore,1
+es_wr_c1_21_15_3_kjmo,besides,1
+es_wr_c1_21_15_3_kjmo,however,1
+es_wr_c1_21_15_3_kjmo,in addition,1
+es_wr_c1_21_15_3_mbc,however,1
+es_wr_c1_21_15_3_mbc,while,1
+es_wr_c1_21_15_3_mdbn,after a while,1
+es_wr_c1_21_15_3_mdbn,however,1
+es_wr_c1_21_15_3_mdbn,meanwhile,1
+es_wr_c1_21_15_3_mdbn,on the other hand,1
+es_wr_c1_21_15_3_mm,moreover,1
+es_wr_c1_21_15_3_mm,to sum up,1
+es_wr_c1_21_15_3_pmr,at the same time,1
+es_wr_c1_21_16_13_rsg,but,1
+es_wr_c1_21_16_13_rsg,however,1
+es_wr_c1_21_16_14_eolm,after all,1
+es_wr_c1_21_16_14_eolm,afterwards,1
+es_wr_c1_21_16_14_eolm,later,1
+es_wr_c1_21_16_14_lnn,however,1
+es_wr_c1_21_16_14_lnn,in that,1
+es_wr_c1_21_16_14_mebq,finally,1
+es_wr_c1_21_16_14_mebq,then,2
+es_wr_c1_21_16_14_mebq,yet,1
+es_wr_c1_21_16_14_mgp,after,1
+es_wr_c1_21_16_14_mgp,finally,1
+es_wr_c1_21_16_3_cbh,however,1
+es_wr_c1_21_16_3_ecv,after,1
+es_wr_c1_21_16_3_ggp,after,1
+es_wr_c1_21_16_3_ggp,however,1
+es_wr_c1_21_16_3_ggp,later,1
+es_wr_c1_21_16_3_ilpm,although,2
+es_wr_c1_21_16_3_ilpm,in conclusion,1
+es_wr_c1_21_16_3_mcp,at the same time,1
+es_wr_c1_21_16_3_mmg,apart from,1
+es_wr_c1_21_16_3_mrs,however,1
+es_wr_c1_21_16_3_pcg,after,1
+es_wr_c1_21_16_3_pcg,once,1
+es_wr_c1_21_16_3_pgm,in the end,1
+es_wr_c1_21_16_3_pmf,that is,1
+es_wr_c1_21_16_3_pva,after,1
+es_wr_c1_21_16_3_pva,at the same time,1
+es_wr_c1_21_16_3_pva,however,1
+es_wr_c1_21_16_3_pva,nonetheless,1
+es_wr_c1_21_16_3_pva,though,1
+es_wr_c1_21_17_13_ia,because of,1
+es_wr_c1_21_17_13_ia,despite this,1
+es_wr_c1_21_17_13_ia,however,1
+es_wr_c1_21_17_13_ia,nonetheless,1
+es_wr_c1_21_17_3_acd,but,1
+es_wr_c1_21_17_3_acd,however,1
+es_wr_c1_21_17_3_acd,through,1
+es_wr_c1_21_17_3_npe,ultimately,1
+es_wr_c1_21_18_13_mcs,in the end,1
+es_wr_c1_21_18_13_mcs,the next day,1
+es_wr_c1_21_18_3_asd,through,1
+es_wr_c1_21_18_3_mchh,meanwhile,1
+es_wr_c1_21_18_3_mgs,at the same time,1
+es_wr_c1_21_18_3_mgs,finally,1
+es_wr_c1_21_18_3_rvb,after,1
+es_wr_c1_21_21_14_bbp,so,1
+es_wr_c1_21_21_14_bbp,while,1
+es_wr_c1_21_5_3_nnr,nonetheless,1
+es_wr_c1_21_5_3_nnr,so,1
+es_wr_c1_21_6_3_jv,despite,1
+es_wr_c1_21_6_3_omr,after,1
+es_wr_c1_21_6_3_omr,but,1
+es_wr_c1_21_6_3_omr,finally,3
+es_wr_c1_21_6_3_omr,on the other hand,1
+es_wr_c1_21_6_3_omr,once,1
+es_wr_c1_21_8_14_mrpf,although,1
+es_wr_c1_21_8_14_mrpf,finally,1
+es_wr_c1_21_8_14_mrpf,later,1
+es_wr_c1_21_8_3_vm,however,1
+es_wr_c1_21_8_3_vm,so,1
+es_wr_c1_21_9_3_ppg,conversely,1
+es_wr_c1_21_9_3_ppg,finally,1
+es_wr_c1_21_9_3_ppg,nevertheless,1
+es_wr_c1_21_9_3_ppg,nonetheless,1
+es_wr_c1_21_9_3_ppg,so,1
+es_wr_c1_21_9_3_ppg,to sum up,1
+es_wr_c1_22_11_3_rhg,once,1
+es_wr_c1_22_12_14_mvp,after,2
+es_wr_c1_22_12_14_mvp,then,1
+es_wr_c1_22_12_3_ao,furthermore,1
+es_wr_c1_22_12_3_dff,besides,1
+es_wr_c1_22_13_14_cl,finally,1
+es_wr_c1_22_13_14_cl,in that,1
+es_wr_c1_22_13_14_cl,then,1
+es_wr_c1_22_13_14_cl,while,1
+es_wr_c1_22_13_3_pcb,besides,1
+es_wr_c1_22_13_3_pcb,however,1
+es_wr_c1_22_13_3_pcb,if,1
+es_wr_c1_22_13_3_pcb,maybe,1
+es_wr_c1_22_14_3_aaa,however,1
+es_wr_c1_22_14_3_aaa,in the end,1
+es_wr_c1_22_14_3_aaa,nevertheless,1
+es_wr_c1_22_14_3_clb,finally,1
+es_wr_c1_22_14_3_clb,moreover,1
+es_wr_c1_22_14_3_clb,therefore,1
+es_wr_c1_22_14_3_izg,after,1
+es_wr_c1_22_14_3_izg,afterwards,1
+es_wr_c1_22_15_14_acg,nevertheless,1
+es_wr_c1_22_15_14_acg,then,1
+es_wr_c1_22_15_14_ecp,after,3
+es_wr_c1_22_15_3_avc,after,2
+es_wr_c1_22_15_3_avc,despite,1
+es_wr_c1_22_15_3_avc,however,1
+es_wr_c1_22_15_3_avc,later,1
+es_wr_c1_22_15_3_avc,thus,1
+es_wr_c1_22_15_3_mcl,similarly,1
+es_wr_c1_22_15_3_mcl,thanks to,1
+es_wr_c1_22_16_13_vg,then,1
+es_wr_c1_22_16_14_jgg,finally,1
+es_wr_c1_22_16_3_egg,after,2
+es_wr_c1_22_16_3_egg,but,1
+es_wr_c1_22_16_3_egg,however,2
+es_wr_c1_22_16_3_egg,in that,1
+es_wr_c1_22_16_3_egg,that is,1
+es_wr_c1_22_16_3_egg,then,1
+es_wr_c1_22_17_13_jbmc,finally,1
+es_wr_c1_22_17_13_jbmc,nevertheless,1
+es_wr_c1_22_17_14_mcb,then,1
+es_wr_c1_22_17_3_amv,after,1
+es_wr_c1_22_17_3_amv,for the purpose of,1
+es_wr_c1_22_17_3_amv,moreover,1
+es_wr_c1_22_17_3_mcat,nonetheless,1
+es_wr_c1_22_17_3_mlcj,therefore,1
+es_wr_c1_22_17_3_mrcc,all in all,1
+es_wr_c1_22_18_14_ijs,after,1
+es_wr_c1_22_18_14_ijs,afterwards,1
+es_wr_c1_22_18_14_ijs,following this,1
+es_wr_c1_22_18_14_ijs,however,1
+es_wr_c1_22_18_14_ijs,then,2
+es_wr_c1_22_18_14_ijs,while,1
+es_wr_c1_22_18_3_apa,also,1
+es_wr_c1_22_18_3_apa,finally,1
+es_wr_c1_22_18_3_apa,for instance,1
+es_wr_c1_22_18_3_apa,however,1
+es_wr_c1_22_18_3_apa,nonetheless,1
+es_wr_c1_22_18_3_app,soon,1
+es_wr_c1_22_18_3_imms,if,1
+es_wr_c1_22_19_14_ig,after,1
+es_wr_c1_22_19_14_ig,afterwards,1
+es_wr_c1_22_19_14_ig,in that,1
+es_wr_c1_22_19_14_ig,then,1
+es_wr_c1_22_19_14_ig,while,1
+es_wr_c1_22_19_14_jmmb,then,1
+es_wr_c1_22_19_14_jmmb,therefore,1
+es_wr_c1_22_19_3_acr,apart from,1
+es_wr_c1_22_19_3_acr,however,1
+es_wr_c1_22_19_3_agf,once,1
+es_wr_c1_22_19_3_ppc,additionally,1
+es_wr_c1_22_19_3_ppc,although,1
+es_wr_c1_22_19_3_ppc,first,1
+es_wr_c1_22_19_3_ppc,however,2
+es_wr_c1_22_19_3_ppc,if,1
+es_wr_c1_22_19_3_ppc,in conclusion,1
+es_wr_c1_22_19_3_ppc,in particular,1
+es_wr_c1_22_19_3_ppc,moreover,1
+es_wr_c1_22_7_14_bga,after,1
+es_wr_c1_22_7_14_bga,afterwards,1
+es_wr_c1_22_7_14_bga,then,2
+es_wr_c1_22_7_3_apd,after,1
+es_wr_c1_22_9_13_lfr,later,1
+es_wr_c1_23_10_14_pg,finally,1
+es_wr_c1_23_10_14_pg,however,1
+es_wr_c1_23_10_14_pg,then,2
+es_wr_c1_23_10_14_pg,unfortunately,1
+es_wr_c1_23_10_14_pg,while,1
+es_wr_c1_23_10_3_pfm,after,2
+es_wr_c1_23_10_3_pfm,shortly,1
+es_wr_c1_23_10_3_pfm,throughout,1
+es_wr_c1_23_12_13_cor,after,2
+es_wr_c1_23_12_13_cor,later,1
+es_wr_c1_23_12_13_cor,while,1
+es_wr_c1_23_13_13_lec,but,1
+es_wr_c1_23_13_3_npm,in the end,1
+es_wr_c1_23_15.5_14_ppm,after,2
+es_wr_c1_23_15.5_14_ppm,while,1
+es_wr_c1_23_15_14_amrp,however,1
+es_wr_c1_23_15_3_dgr,nevertheless,1
+es_wr_c1_23_15_3_dgr,thus,1
+es_wr_c1_23_15_3_ieop,finally,1
+es_wr_c1_23_15_3_ivr,although,1
+es_wr_c1_23_15_3_ivr,once,1
+es_wr_c1_23_15_3_jsfd,however,1
+es_wr_c1_23_15_3_jsfd,in the end,1
+es_wr_c1_23_15_3_jsfd,throughout,1
+es_wr_c1_23_15_3_prm,hence,1
+es_wr_c1_23_15_3_prm,however,1
+es_wr_c1_23_15_3_prm,in fact,1
+es_wr_c1_23_16_14_erg,in the end,2
+es_wr_c1_23_16_14_erg,then,1
+es_wr_c1_23_16_3_srs,after,1
+es_wr_c1_23_17_13_kc,but,1
+es_wr_c1_23_17_13_kc,in the morning,1
+es_wr_c1_23_17_13_kc,then,2
+es_wr_c1_23_17_14_cfgm,finally,1
+es_wr_c1_23_17_14_clc,after,1
+es_wr_c1_23_17_14_clc,then,1
+es_wr_c1_23_17_14_clc,while,1
+es_wr_c1_23_17_14_mtr,but,1
+es_wr_c1_23_17_14_mtr,immediately,1
+es_wr_c1_23_17_14_mtr,in that,1
+es_wr_c1_23_17_14_mtr,then,1
+es_wr_c1_23_17_3_maar,after,1
+es_wr_c1_23_17_3_maar,however,1
+es_wr_c1_23_17_3_maar,if,1
+es_wr_c1_23_17_3_ppp,anyhow,1
+es_wr_c1_23_17_3_ppp,but,1
+es_wr_c1_23_17_3_ppp,however,1
+es_wr_c1_23_18_13_bam,but,1
+es_wr_c1_23_18_14_jhs,after,1
+es_wr_c1_23_18_14_jhs,then,2
+es_wr_c1_23_18_3_aho,while,1
+es_wr_c1_23_18_3_ajdc,additionally,1
+es_wr_c1_23_18_3_ajdc,in a nutshell,1
+es_wr_c1_23_18_3_asb,after,1
+es_wr_c1_23_18_3_idz,however,1
+es_wr_c1_23_18_3_pmr,while,1
+es_wr_c1_23_18_3_pof,finally,1
+es_wr_c1_23_18_3_pof,however,1
+es_wr_c1_23_19_3_jfog,finally,1
+es_wr_c1_23_19_3_zrp,after,1
+es_wr_c1_23_19_3_zrp,finally,1
+es_wr_c1_23_19_3_zrp,however,1
+es_wr_c1_23_20_13_aj,fortunately,1
+es_wr_c1_23_20_13_aj,while,1
+es_wr_c1_23_20_14_ghm,at the same time,1
+es_wr_c1_23_20_14_ghm,then,1
+es_wr_c1_23_5_13_mdbs,however,1
+es_wr_c1_23_8_3_mn,meanwhile,1
+es_wr_c1_24_12_14_dgc,finally,1
+es_wr_c1_24_12_14_dgc,however,1
+es_wr_c1_24_14_14_ihm,however,1
+es_wr_c1_24_14_14_ihm,later,1
+es_wr_c1_24_14_14_ihm,then,1
+es_wr_c1_24_14_3_phb,after,1
+es_wr_c1_24_14_3_phb,finally,1
+es_wr_c1_24_14_3_phb,however,1
+es_wr_c1_24_15_3_iag,although,1
+es_wr_c1_24_15_3_iag,then,1
+es_wr_c1_24_15_3_iag,therefore,1
+es_wr_c1_24_16_14_dpd,after,1
+es_wr_c1_24_16_14_dpd,finally,1
+es_wr_c1_24_16_14_dpd,hence,1
+es_wr_c1_24_16_14_dpd,later,1
+es_wr_c1_24_16_14_dpd,thus,1
+es_wr_c1_24_16_14_dpd,unfortunately,1
+es_wr_c1_24_16_14_ilb,after,1
+es_wr_c1_24_16_14_ilb,finally,1
+es_wr_c1_24_16_14_ilb,however,1
+es_wr_c1_24_16_14_ilb,therefore,1
+es_wr_c1_24_16_14_ilb,thus,1
+es_wr_c1_24_16_3_aos,however,1
+es_wr_c1_24_17_3_bcy,since,1
+es_wr_c1_24_17_3_bcy,thus,1
+es_wr_c1_24_18_13_erh,after,1
+es_wr_c1_24_18_13_erh,however,1
+es_wr_c1_24_18_14_arm,after,1
+es_wr_c1_24_18_14_arm,finally,1
+es_wr_c1_24_18_14_arm,then,1
+es_wr_c1_24_18_14_crj,finally,1
+es_wr_c1_24_18_14_crj,then,1
+es_wr_c1_24_18_3_dss,after,1
+es_wr_c1_24_18_3_nab,because of,1
+es_wr_c1_24_18_3_vmlm,however,1
+es_wr_c1_24_18_3_vmlm,in the end,1
+es_wr_c1_24_19_3_dgr,because of,1
+es_wr_c1_24_19_3_dgr,despite this,1
+es_wr_c1_24_19_3_dgr,in the end,1
+es_wr_c1_24_19_3_srg,all in all,1
+es_wr_c1_24_19_3_srg,nevertheless,1
+es_wr_c1_24_21_3_mvc,then,1
+es_wr_c1_24_9_13_rtf,after a while,1
+es_wr_c1_24_9_13_rtf,but,2
+es_wr_c1_24_9_13_rtf,fortunately,1
+es_wr_c1_25_15_14_aem,however,1
+es_wr_c1_25_15_14_aem,then,1
+es_wr_c1_25_15_3_vdg,first,1
+es_wr_c1_25_15_3_vdg,once,1
+es_wr_c1_25_16_14_agb,after,1
+es_wr_c1_25_16_14_agb,finally,1
+es_wr_c1_25_17_13_alr,after,1
+es_wr_c1_25_17_13_alr,however,1
+es_wr_c1_25_18_13_jgg,also,1
+es_wr_c1_25_18_13_jgg,finally,1
+es_wr_c1_25_18_13_jgg,the next day,1
+es_wr_c1_25_18_14_fgr,after,1
+es_wr_c1_25_18_14_fgr,again,1
+es_wr_c1_25_18_14_fgr,however,1
+es_wr_c1_25_18_3_acdc,in the end,1
+es_wr_c1_25_18_3_acdc,on the other hand,1
+es_wr_c1_25_18_3_acdc,since,1
+es_wr_c1_25_19_13_jad,fortunately,1
+es_wr_c1_25_19_13_lp,however,1
+es_wr_c1_25_19_13_lp,then,1
+es_wr_c1_25_19_3_dm,but,1
+es_wr_c1_25_19_3_dm,in the end,1
+es_wr_c1_25_22_3_agt,after,1
+es_wr_c1_25_22_3_agt,however,1
+es_wr_c1_25_22_3_agt,throughout,1
+es_wr_c1_26_14_3_jmm,after,1
+es_wr_c1_26_14_3_jmm,even though,1
+es_wr_c1_26_14_3_jmm,however,1
+es_wr_c1_26_14_3_jmm,in fact,1
+es_wr_c1_26_14_3_jmm,instead,1
+es_wr_c1_26_14_3_jmm,nonetheless,1
+es_wr_c1_26_15_3_jmo,also,1
+es_wr_c1_26_15_3_jmo,throughout,1
+es_wr_c1_26_18_14_lc,first,1
+es_wr_c1_26_18_14_lc,then,1
+es_wr_c1_26_18_3_mvg,after,1
+es_wr_c1_26_18_3_mvg,despite,1
+es_wr_c1_26_18_3_mvg,meanwhile,1
+es_wr_c1_26_18_3_mvg,moreover,1
+es_wr_c1_26_18_3_mvg,nevertheless,1
+es_wr_c1_26_19_3_grt,however,1
+es_wr_c1_26_20_14_lat,after,2
+es_wr_c1_26_20_3_bmm,after,1
+es_wr_c1_26_20_3_bmm,since,1
+es_wr_c1_26_20_3_dcs,unfortunately,1
+es_wr_c1_26_20_3_rrr2,however,1
+es_wr_c1_27_15_3_lemg,before,1
+es_wr_c1_27_15_3_lemg,however,1
+es_wr_c1_27_15_3_lemg,since,1
+es_wr_c1_27_16_13_npm,after,1
+es_wr_c1_27_16_13_npm,but,1
+es_wr_c1_27_17_14_lsc,in the end,1
+es_wr_c1_28_16_3_mrj,in the end,1
+es_wr_c1_28_16_3_mrj,while,1
+es_wr_c1_29_21_3_vmb,moreover,1
+es_wr_c1_29_9_3_jahd,therefore,1
+es_wr_c1_30_18_3_ll,nevertheless,1
+es_wr_c1_30_22_3_va,meanwhile,1
+es_wr_c1_31_17_14_pmm,after,1
+es_wr_c1_31_17_14_pmm,again,1
+es_wr_c1_31_17_14_pmm,unfortunately,1
+es_wr_c1_32_12_3_chc,after,1
+es_wr_c1_32_12_3_chc,once,1
+es_wr_c1_32_24_3_jdj,although,1
+es_wr_c1_33_28_3_mlr,but,1
+es_wr_c1_33_29_3_lfr,in the end,1
+es_wr_c1_34_12_3_phc,after a while,1
+es_wr_c1_34_25_3_ams,however,1
+es_wr_c1_34_25_3_ams,in consequence,1
+es_wr_c1_34_25_3_ams,nevertheless,1
+es_wr_c1_36_15_14_rdb,however,1
+es_wr_c1_36_15_14_rdb,since,1
+es_wr_c1_36_15_14_rdb,then,2
+es_wr_c1_38_30_3_crgl,then,1
+es_wr_c1_39_15_3_mpm,then,2
+es_wr_c1_39_28.4_13_lmt,endlessly,1
+es_wr_c1_39_28.4_13_lmt,finally,1
+es_wr_c1_40_35_13_ps,after a while,1
+es_wr_c1_40_35_13_ps,then,1
+es_wr_c1_41_11_3_rmme,after,1
+es_wr_c1_44_34_3_jlbm,nonetheless,1
+es_wr_c1_45_8_3_rcrz,however,1
+es_wr_c1_47_15_3_mss,finally,1
+es_wr_c1_47_15_3_mss,however,1
+es_wr_c1_47_15_3_mss,thanks to,1
+es_wr_c1_48_16_3_mj,also,1
+es_wr_c1_48_16_3_mj,while,1
+es_wr_c1_50_40_3_cfg,finally,1
+es_wr_c1_50_40_3_cfg,meanwhile,1
+es_wr_c1_51_18_13_mcg,still,1
+es_wr_c1_51_37_13_flr,so,1
+es_wr_c1_51_37_13_flr,while,1
+es_wr_c1_51_38_3_jdjg,due to,1
+es_wr_c1_53_25_13_pr,after a while,1
+es_wr_c1_53_25_13_pr,but,1
+es_wr_c1_57_4_3_cmc,since,1
+es_wr_c1_60_2.5_14_fh,after,2
+es_wr_c1_60_2.5_14_fh,so,2
+es_wr_c1_60_2.5_14_fh,then,4
+es_wr_c1_61_15_13_ta,after,1
+es_wr_c1_61_30_3_mr,finally,1
+es_wr_c2_18_10_2_ahc,for example,1
+es_wr_c2_18_12.5_3_mhv,however,1
+es_wr_c2_18_12.5_3_mhv,thanks to,1
+es_wr_c2_18_12_13_slh,in the end,1
+es_wr_c2_18_12_13_slh,then,1
+es_wr_c2_18_12_3_cma,meanwhile,1
+es_wr_c2_18_12_3_ece,however,1
+es_wr_c2_18_13_3_mmf,however,1
+es_wr_c2_18_13_3_mmf,moreover,1
+es_wr_c2_19_13_13_psr,then,1
+es_wr_c2_19_13_14_psr,again,1
+es_wr_c2_19_13_14_psr,finally,1
+es_wr_c2_19_13_14_psr,then,2
+es_wr_c2_19_13_3_aln,since,1
+es_wr_c2_19_13_3_ccg,although,1
+es_wr_c2_19_13_3_gmg,if,1
+es_wr_c2_19_14_3_acd,but,1
+es_wr_c2_19_14_3_jrm,after,2
+es_wr_c2_19_14_3_jrm,to conclude,1
+es_wr_c2_19_14_3_mmp,however,1
+es_wr_c2_19_14_3_mmp,in addition,1
+es_wr_c2_19_15_14_lpi,however,1
+es_wr_c2_19_15_3_ecc,although,1
+es_wr_c2_19_15_3_ecc,even though,1
+es_wr_c2_19_15_3_lmds,despite,1
+es_wr_c2_19_15_3_lmds,however,1
+es_wr_c2_19_16_13_agc,then,1
+es_wr_c2_19_16_3_tmr,after,1
+es_wr_c2_19_16_3_tmr,apart from,1
+es_wr_c2_19_16_3_tmr,at least,1
+es_wr_c2_19_16_3_tmr,however,1
+es_wr_c2_19_16_3_tmr,in a nutshell,1
+es_wr_c2_19_17_3_iaa,after,1
+es_wr_c2_19_17_3_iaa,without,1
+es_wr_c2_19_6_3_mmg,after,1
+es_wr_c2_19_8_3_gp,still,1
+es_wr_c2_19_8_3_jmlg,while,1
+es_wr_c2_20_10_3_cra,even though,1
+es_wr_c2_20_12_3_cml,at the same time,1
+es_wr_c2_20_12_3_cml,because of,1
+es_wr_c2_20_14_13_psr,finally,1
+es_wr_c2_20_14_13_psr,so,1
+es_wr_c2_20_14_13_psr,then,2
+es_wr_c2_20_14_3_as,since,1
+es_wr_c2_20_14_3_cjg,after,1
+es_wr_c2_20_14_3_io,but,1
+es_wr_c2_20_14_3_psr,because of,1
+es_wr_c2_20_14_3_psr,later,1
+es_wr_c2_20_14_3_psr,then,2
+es_wr_c2_20_14_3_vsdo,although,1
+es_wr_c2_20_15_3_acd,but,1
+es_wr_c2_20_15_3_iaa,after,3
+es_wr_c2_20_15_3_mlcr,in the end,1
+es_wr_c2_20_16_13_alc,after,1
+es_wr_c2_20_16_14_alc,after,1
+es_wr_c2_20_16_3_rtpg,however,1
+es_wr_c2_20_16_3_rtpg,therefore,1
+es_wr_c2_20_17_13_rmv,finally,1
+es_wr_c2_20_17_13_rmv,so,1
+es_wr_c2_20_17_13_sfp,in spite of,1
+es_wr_c2_20_17_13_sfp,later,1
+es_wr_c2_20_17_3_jml,while,1
+es_wr_c2_20_18_13_jifm,but,1
+es_wr_c2_20_18_13_jifm,finally,1
+es_wr_c2_20_18_13_jifm,in the end,1
+es_wr_c2_20_18_13_jifm,instead,1
+es_wr_c2_20_18_3_snog,if,1
+es_wr_c2_20_8_14_vt,next,1
+es_wr_c2_21_10_3_ajvr,after,1
+es_wr_c2_21_10_3_ajvr,consequently,1
+es_wr_c2_21_10_3_ajvr,nonetheless,1
+es_wr_c2_21_11_3_sb,due to,1
+es_wr_c2_21_11_3_sb,finally,1
+es_wr_c2_21_11_3_sb,furthermore,1
+es_wr_c2_21_11_3_sb,thus,1
+es_wr_c2_21_11_3_vfv,through,1
+es_wr_c2_21_12_3_lt,however,1
+es_wr_c2_21_12_3_lt,that is,1
+es_wr_c2_21_13.5_14_pmcd,after all,1
+es_wr_c2_21_13.5_14_pmcd,in the end,1
+es_wr_c2_21_13.5_14_pmcd,so,1
+es_wr_c2_21_13.5_14_pmcd,thanks to,1
+es_wr_c2_21_13.5_14_pmcd,then,1
+es_wr_c2_21_13.5_14_pmcd,thus,1
+es_wr_c2_21_13.5_14_pmcd,while,1
+es_wr_c2_21_13_14_clg,next,1
+es_wr_c2_21_13_14_clg,while,1
+es_wr_c2_21_13_14_msg,after,1
+es_wr_c2_21_14_14_cgt,finally,1
+es_wr_c2_21_14_14_cgt,first,1
+es_wr_c2_21_14_14_cgt,however,1
+es_wr_c2_21_14_14_etc,after,1
+es_wr_c2_21_14_14_etc,however,1
+es_wr_c2_21_14_14_etc,once,1
+es_wr_c2_21_15_13_mgs,even though,1
+es_wr_c2_21_15_13_mgs,finally,1
+es_wr_c2_21_15_13_mgs,nevertheless,1
+es_wr_c2_21_15_13_mgs,once,2
+es_wr_c2_21_15_13_mgs,thus,1
+es_wr_c2_21_15_13_smu,however,1
+es_wr_c2_21_15_13_smu,so,2
+es_wr_c2_21_15_13_smu,therefore,1
+es_wr_c2_21_15_3_agg,finally,1
+es_wr_c2_21_15_3_agg,furthermore,1
+es_wr_c2_21_15_3_agg,however,1
+es_wr_c2_21_15_3_agg,meanwhile,1
+es_wr_c2_21_15_3_agl,however,1
+es_wr_c2_21_15_3_fjcg,in the end,1
+es_wr_c2_21_15_3_jlg,after,1
+es_wr_c2_21_15_3_rdr,in the end,1
+es_wr_c2_21_15_3_scr,furthermore,1
+es_wr_c2_21_15_3_scr,in addition,1
+es_wr_c2_21_16_3_nmmb,although,1
+es_wr_c2_21_16_3_pmoj,however,1
+es_wr_c2_21_16_3_pmoj,nonetheless,1
+es_wr_c2_21_16_3_sbr,after,1
+es_wr_c2_21_16_3_sbr,but,1
+es_wr_c2_21_16_3_sbr,once,1
+es_wr_c2_21_17_3_acd,but,1
+es_wr_c2_21_17_3_acd,however,1
+es_wr_c2_21_17_3_acd,through,1
+es_wr_c2_21_17_3_alc,but,1
+es_wr_c2_21_18_13_amd,next,1
+es_wr_c2_21_18_13_amd,while,2
+es_wr_c2_21_18_3_ach,using,1
+es_wr_c2_22_12_3_mjgm,due to,1
+es_wr_c2_22_12_3_mjgm,in the end,1
+es_wr_c2_22_12_3_mm,after,1
+es_wr_c2_22_13_3_cms,after,1
+es_wr_c2_22_15_3_mcl,yet,1
+es_wr_c2_22_16_3_ihm,however,1
+es_wr_c2_22_16_3_mcr,in the end,1
+es_wr_c2_22_16_3_mcr,nonetheless,1
+es_wr_c2_22_16_3_mcr,that is,1
+es_wr_c2_22_16_3_mcr,then,1
+es_wr_c2_22_16_3_mcr,unfortunately,1
+es_wr_c2_22_16_3_mmc,although,1
+es_wr_c2_22_18_3_acg,however,1
+es_wr_c2_22_18_3_alc,throughout,1
+es_wr_c2_22_18_3_ccm,after,1
+es_wr_c2_22_18_3_ccm,even though,1
+es_wr_c2_22_18_3_ccm,however,1
+es_wr_c2_22_18_3_ccm,throughout,1
+es_wr_c2_22_19_3_man,due to,2
+es_wr_c2_22_19_3_man,in the end,1
+es_wr_c2_23_12_3_peaf,although,1
+es_wr_c2_23_16_13_mmv,but,1
+es_wr_c2_23_16_13_mmv,however,1
+es_wr_c2_23_17_3_db,after,1
+es_wr_c2_23_17_3_rgf,after,1
+es_wr_c2_23_17_3_rgf,in the end,1
+es_wr_c2_23_17_3_sma,in the end,1
+es_wr_c2_23_17_3_sma,later,1
+es_wr_c2_23_17_3_sma,meanwhile,1
+es_wr_c2_23_17_3_zi,after,1
+es_wr_c2_23_17_3_zi,later,1
+es_wr_c2_23_17_3_zi,once,1
+es_wr_c2_23_18_14_ct,but,1
+es_wr_c2_23_18_14_ct,however,1
+es_wr_c2_23_18_14_lam,finally,1
+es_wr_c2_23_18_14_totti,finally,1
+es_wr_c2_23_18_14_totti,unfortunately,1
+es_wr_c2_23_18_3_imms,after,2
+es_wr_c2_23_18_3_imms,instead,2
+es_wr_c2_24_10_3_iag,although,1
+es_wr_c2_24_10_3_iag,for that reason,1
+es_wr_c2_24_10_3_iag,thanks to,1
+es_wr_c2_24_18_14_eb,afterwards,1
+es_wr_c2_24_18_14_eb,however,2
+es_wr_c2_24_18_14_eb,then,2
+es_wr_c2_24_19_3_imms,although,1
+es_wr_c2_24_19_3_imms,but,1
+es_wr_c2_24_19_3_imms,in reality,1
+es_wr_c2_24_19_3_imms,on the other hand,1
+es_wr_c2_24_19_3_imms,or,1
+es_wr_c2_24_8_14_mmr,after,1
+es_wr_c2_25_15_3_imms,although,1
+es_wr_c2_25_15_3_imms,but,1
+es_wr_c2_25_15_3_imms,on the other hand,1
+es_wr_c2_25_15_3_imms,or,1
+es_wr_c2_26_10_14_jma,finally,1
+es_wr_c2_26_20_3_gjgm,after,1
+es_wr_c2_26_21_3_eh,then,1
+es_wr_c2_27_13_14_jacc,after all,1
+es_wr_c2_27_13_14_jacc,at the same time,1
+es_wr_c2_27_13_14_jacc,however,1
+es_wr_c2_27_15_3_alr,at least,1
+es_wr_c2_27_15_3_alr,however,1
+es_wr_c2_27_15_3_alr,in spite of,1
+es_wr_c2_27_15_3_alr,nevertheless,1
+es_wr_c2_27_15_3_alr,that is,1
+es_wr_c2_27_15_3_alr,whereas,1
+es_wr_c2_27_16_13_jm,while,1
+es_wr_c2_28_16_14_el,first,1
+es_wr_c2_28_16_14_el,then,1
+es_wr_c2_28_16_3_ap,so,1
+es_wr_c2_28_18_3_jgf,however,1
+es_wr_c2_28_18_3_jgf,indeed,1
+es_wr_c2_29_20_14_mcms,after,1
+es_wr_c2_29_20_14_mcms,if,1
+es_wr_c2_29_20_14_mcms,thus,1
+es_wr_c2_29_9_3_lkcb,but,1
+es_wr_c2_29_9_3_lkcb,finally,1
+es_wr_c2_30_24_14_rsr,after,2
+es_wr_c2_30_24_14_rsr,finally,2
+es_wr_c2_30_24_14_rsr,however,1
+es_wr_c2_30_24_14_rsr,in fact,1
+es_wr_c2_30_24_14_rsr,nevertheless,1
+es_wr_c2_30_24_14_rsr,once,1
+es_wr_c2_30_24_14_rsr,since,1
+es_wr_c2_30_24_14_rsr,so,3
+es_wr_c2_30_24_14_rsr,then,4
+es_wr_c2_30_24_14_rsr,while,3
+es_wr_c2_30_27_3_rclr,however,1
+es_wr_c2_30_27_3_rclr,in the end,1
+es_wr_c2_30_27_3_rclr,nevertheless,1
+es_wr_c2_30_27_3_rclr,while,1
+es_wr_c2_32_15_13_iamt,however,1
+es_wr_c2_32_15_13_iamt,so,1
+es_wr_c2_32_15_13_iamt,while,1
+es_wr_c2_33_15_3_dlr,next,1
+es_wr_c2_33_15_3_dlr,once,1
+es_wr_c2_33_15_3_dlr,without,1
+es_wr_c2_33_23_3_rcm,on the other hand,1
+es_wr_c2_33_23_3_rcm,specifically,1
+es_wr_c2_33_27_3_er,after,1
+es_wr_c2_33_27_3_er,if,1
+es_wr_c2_33_27_3_er,while,1
+es_wr_c2_38_15_13_mi,except for,1
+es_wr_c2_45_41_3_rrb,but,1
+es_wr_c2_46_34_3_sfop,after,1
+es_wr_c2_46_3_13_amda,fortunately,1
+es_wr_c2_47_39_3_cgl,finally,1
+es_wr_c2_48_8_3_rjsg,after,1
+es_wr_c2_48_8_3_rjsg,in any case,1
+es_wr_c2_48_8_3_rjsg,so,1
+es_wr_c2_57_49_14_mamc,after,1
+es_wr_c2_57_49_14_mamc,while,1
+es_wr_c2_59_48_3_jrm,fortunately,1
+es_wr_c2_59_48_3_jrm,in the end,1
+et_wr_b2_20_14_14_pkk,afterwards,1
+et_wr_b2_20_14_14_pkk,but,1
+et_wr_c1_41_8_14_ji,finally,1
+et_wr_c1_41_8_14_ji,next,1
+et_wr_c2_20_9_14_kak,in the end,1
+et_wr_c2_20_9_14_kak,then,1
+et_wr_c2_29_12_14_dt,at this moment,1
+et_wr_c2_29_12_14_dt,therefore,1
+et_wr_c2_32_10_14_mlk,finally,1
+et_wr_c2_32_10_14_mlk,first,1
+et_wr_c2_32_10_14_mlk,then,1
+et_wr_c2_40_6_14_ls,using,1
+et_wr_c2_44_30_14_lt,however,1
+et_wr_c2_44_30_14_lt,still,1
+et_wr_c2_44_30_14_lt,then,4
+fr_wr_a2_19_7_14_rd,first,1
+fr_wr_a2_19_7_14_rd,then,1
+fr_wr_a2_20_9.5_14_dt,after,2
+fr_wr_a2_20_9.5_14_dt,but,1
+fr_wr_a2_20_9.5_14_dt,first,1
+fr_wr_a2_20_9.5_14_dt,second,1
+fr_wr_a2_20_9.5_14_dt,so,1
+fr_wr_b1_19_8.5_14_nd,after,1
+fr_wr_b1_19_8.5_14_nd,but,3
+fr_wr_b1_19_8.5_14_nd,first,1
+fr_wr_b1_19_8.5_14_nd,so,4
+fr_wr_b1_19_8.5_14_nd,then,2
+fr_wr_b2_19_11.5_14_js,after,3
+fr_wr_b2_19_11.5_14_js,because of,1
+fr_wr_b2_19_11.5_14_js,finally,1
+fr_wr_b2_19_11.5_14_js,first,1
+fr_wr_b2_19_11.5_14_js,shortly,1
+fr_wr_b2_19_11.5_14_js,so,1
+fr_wr_b2_22_9_14_ed,finally,1
+fr_wr_b2_22_9_14_ed,while,2
+fr_wr_b2_23_13_3_cv,anyway,1
+fr_wr_c1_21_13_14_ar,but,1
+fr_wr_c1_21_13_14_ar,so,1
+fr_wr_c1_21_13_14_ar,unfortunately,1
+gr_wr_a2_45_8_14_εμ,then,1
+gr_wr_b1_18_5_14_μκ,but,1
+gr_wr_b1_18_5_14_μκ,so,2
+gr_wr_b1_18_5_14_μκ,then,2
+gr_wr_b1_18_6_14_εν,however,1
+gr_wr_b1_18_6_14_εν,later,1
+gr_wr_b1_18_6_14_εν,ultimately,1
+gr_wr_b1_18_7_14_ομ,in the end,1
+gr_wr_b1_19_8_14_mfp,after,1
+gr_wr_b1_19_8_14_mfp,after all,1
+gr_wr_b1_19_8_14_εν,also,1
+gr_wr_b1_19_8_14_εν,at last,1
+gr_wr_b1_19_8_14_εν,so,1
+gr_wr_b1_19_8_14_εν,then,1
+gr_wr_b1_19_9_14_ατ,in essence,1
+gr_wr_b1_19_9_14_ατ,then,1
+gr_wr_b2_18_6_14_chk,after a while,1
+gr_wr_b2_18_6_14_chk,in the end,1
+gr_wr_b2_18_6_14_μτ,at the same time,1
+gr_wr_b2_18_6_14_μτ,later,1
+gr_wr_b2_18_6_14_μτ,while,1
+gr_wr_b2_18_7_14_εκ,finally,1
+gr_wr_b2_18_7_14_εν,after all,1
+gr_wr_b2_18_8_14_gk,after,1
+gr_wr_b2_18_8_14_gk,later,1
+gr_wr_b2_18_8_14_gk,unfortunately,1
+gr_wr_b2_18_8_14_st,after,2
+gr_wr_b2_18_8_14_st,for that reason,1
+gr_wr_b2_18_8_14_st,however,1
+gr_wr_b2_18_8_14_st,since,2
+gr_wr_b2_18_8_14_st,then,3
+gr_wr_b2_18_8_14_st,unfortunately,1
+gr_wr_b2_18_8_14_st,while,1
+gr_wr_b2_19_10_14_vn,finally,1
+gr_wr_b2_19_7_14_βα,but,1
+gr_wr_b2_19_7_14_βα,however,1
+gr_wr_b2_19_7_14_βα,so,1
+gr_wr_b2_19_7_14_βα,then,1
+gr_wr_b2_20_5_14_dm,after,1
+gr_wr_b2_20_5_14_dm,but,2
+gr_wr_b2_20_5_14_dm,in the end,1
+gr_wr_b2_20_5_14_dm,while,1
+gr_wr_b2_20_8_14_εν,so,1
+gr_wr_b2_20_8_14_εν,then,3
+gr_wr_b2_23_11_14_αι,after all,1
+gr_wr_b2_23_11_14_αι,but,1
+gr_wr_b2_23_11_14_αι,finally,1
+gr_wr_b2_23_11_14_αι,fortunately,1
+gr_wr_b2_33_2_14_es,finally,1
+gr_wr_b2_33_2_14_es,then,1
+gr_wr_b2_47_7_14_km,at last,1
+gr_wr_b2_47_7_14_km,on the contrary,1
+gr_wr_c1_18_8_14_er,after,1
+gr_wr_c1_18_8_14_er,afterwards,1
+gr_wr_c1_18_8_14_er,shortly,1
+gr_wr_c1_18_8_14_mp,however,1
+gr_wr_c1_21_13_14_ετ,after a while,1
+gr_wr_c1_21_13_14_ετ,however,1
+gr_wr_c1_21_13_14_ετ,so,1
+gr_wr_c1_21_15_14_με,after,1
+gr_wr_c1_21_15_14_με,then,1
+gr_wr_c1_22_10_14_μζ,later,1
+gr_wr_c1_22_10_14_μζ,then,1
+gr_wr_c1_22_10_14_μζ,while,2
+gr_wr_c1_30_9_14_mn,after,1
+gr_wr_c1_30_9_14_mn,first,1
+gr_wr_c1_36_26_14_xg,then,1
+gr_wr_c1_36_26_14_xg,while,1
+gr_wr_c1_43_8_14_is,after,1
+gr_wr_c1_43_8_14_is,after a while,1
+gr_wr_c1_43_8_14_is,meanwhile,1
+gr_wr_c1_43_8_14_is,next,1
+gr_wr_c1_43_8_14_is,that is,1
+gr_wr_c1_43_8_14_is,then,1
+gr_wr_c2_25_19_14_gz,but,1
+gr_wr_c2_25_19_14_gz,however,1
+gr_wr_c2_25_19_14_gz,so,2
+gr_wr_c2_25_19_14_gz,then,1
+gr_wr_c2_27_12_14_ep,after,1
+gr_wr_c2_27_12_14_ep,but,1
+gr_wr_c2_27_12_14_ep,meanwhile,1
+gr_wr_c2_27_12_14_ep,then,1
+gr_wr_c2_32_27_14_μκ,once,1
+gr_wr_c2_32_27_14_μκ,then,1
+gr_wr_c2_32_27_14_μκ,while,1
+it_wr_a2_19_12_14_ap,in the end,1
+it_wr_a2_19_12_14_ap,unfortunately,1
+it_wr_a2_19_14_14_ls,in the end,1
+it_wr_a2_19_14_14_ls,next,1
+it_wr_a2_19_14_14_ls,then,1
+it_wr_a2_19_14_14_xxxq,after,1
+it_wr_a2_19_14_14_xxxq,finally,1
+it_wr_a2_20_12_14_gk,while,1
+it_wr_a2_20_12_14_xxxc,after,2
+it_wr_a2_49_5_14_lk,so,1
+it_wr_b1_19_13_14_ad,after,1
+it_wr_b1_19_13_14_ad,while,1
+it_wr_b1_19_13_14_as,in the end,1
+it_wr_b1_19_13_14_au,at the same time,1
+it_wr_b1_19_13_14_au,but,1
+it_wr_b1_19_13_14_au,immediately,1
+it_wr_b1_19_13_14_au,so,1
+it_wr_b1_19_13_14_au,then,2
+it_wr_b1_19_13_14_eb,assuming that,1
+it_wr_b1_19_13_14_eb,finally,1
+it_wr_b1_19_13_14_ec,after,1
+it_wr_b1_19_13_14_ec,however,1
+it_wr_b1_19_13_14_ec,then,1
+it_wr_b1_19_13_14_ec,unfortunately,1
+it_wr_b1_19_13_14_gg,after,1
+it_wr_b1_19_13_14_gg,as a matter of fact,1
+it_wr_b1_19_13_14_gg,so,1
+it_wr_b1_19_13_14_gs,after,1
+it_wr_b1_19_13_14_lb,so,1
+it_wr_b1_19_13_14_lc,after,1
+it_wr_b1_19_13_14_lc,as a consequence,1
+it_wr_b1_19_13_14_lc,while,1
+it_wr_b1_19_13_14_lnt,in the end,1
+it_wr_b1_19_13_14_mb,after,1
+it_wr_b1_19_13_14_mb,before,1
+it_wr_b1_19_13_14_mp,later,1
+it_wr_b1_19_13_14_mp,so,1
+it_wr_b1_19_13_14_rc,as a result,1
+it_wr_b1_19_13_14_rc,indeed,1
+it_wr_b1_19_13_14_rc,then,1
+it_wr_b1_19_13_14_rcc,therefore,1
+it_wr_b1_19_13_14_rcc,unfortunately,1
+it_wr_b1_19_13_14_xxxf,however,1
+it_wr_b1_19_14_14_ac,after,1
+it_wr_b1_19_14_14_ac,after all,1
+it_wr_b1_19_14_14_ac,due to,1
+it_wr_b1_19_14_14_ac,then,1
+it_wr_b1_19_14_14_fb,anyway,1
+it_wr_b1_19_14_14_fb,fortunately,1
+it_wr_b1_19_14_14_fb,so,1
+it_wr_b1_19_14_14_gb,after a while,1
+it_wr_b1_19_14_14_gc,anyway,2
+it_wr_b1_19_14_14_gc,for this reason,1
+it_wr_b1_19_14_14_gd,finally,1
+it_wr_b1_19_14_14_gd,however,1
+it_wr_b1_19_14_14_gd,while,1
+it_wr_b1_19_14_14_gp,consequently,1
+it_wr_b1_19_14_14_gp,in conclusion,1
+it_wr_b1_19_14_14_ip,indeed,1
+it_wr_b1_19_14_14_ip,shortly,1
+it_wr_b1_19_14_14_ip,while,1
+it_wr_b1_19_14_14_mc,in the end,1
+it_wr_b1_19_14_14_sa,once,1
+it_wr_b1_19_14_14_sf,then,1
+it_wr_b1_19_14_14_sf,unfortunately,1
+it_wr_b1_19_14_14_ts,later,1
+it_wr_b1_19_14_14_ts,so,1
+it_wr_b1_19_14_14_vp,as a consequence,1
+it_wr_b1_19_14_14_vp,in the end,2
+it_wr_b1_19_14_14_xxxad,but,1
+it_wr_b1_19_14_14_xxxad,however,1
+it_wr_b1_19_14_14_xxxad,so,1
+it_wr_b1_19_14_14_xxxad,then,2
+it_wr_b1_19_14_14_xxxad,while,1
+it_wr_b1_19_14_14_xxxw,finally,2
+it_wr_b1_19_14_14_xxxw,so,2
+it_wr_b1_19_15_14_et,then,1
+it_wr_b1_19_7_14_xxxi,after,3
+it_wr_b1_19_7_14_xxxi,then,2
+it_wr_b1_19_8_14_am,after,1
+it_wr_b1_19_8_14_am,immediately,2
+it_wr_b1_19_8_14_am,in the end,1
+it_wr_b1_19_8_14_am,in the meantime,1
+it_wr_b1_20_13_14_am,after,1
+it_wr_b1_20_13_14_am,in the end,1
+it_wr_b1_20_13_14_am,meanwhile,1
+it_wr_b1_20_13_14_ec,but,1
+it_wr_b1_20_13_14_ec,in addition,1
+it_wr_b1_20_13_14_ec,then,1
+it_wr_b1_20_13_14_ev,in the end,1
+it_wr_b1_20_13_14_ig,after,1
+it_wr_b1_20_13_14_ig,for example,1
+it_wr_b1_20_13_14_mb,finally,1
+it_wr_b1_20_13_14_mb,however,1
+it_wr_b1_20_13_14_mb,unfortunately,1
+it_wr_b1_20_13_14_mk,in that,1
+it_wr_b1_20_14_14_as,in the end,1
+it_wr_b1_20_14_14_cp,after,1
+it_wr_b1_20_14_14_cp,but,1
+it_wr_b1_20_14_14_ea,at the same time,1
+it_wr_b1_20_14_14_ea,in the end,1
+it_wr_b1_20_14_14_fn,so,1
+it_wr_b1_20_14_14_gs,however,1
+it_wr_b1_20_14_14_gs,while,1
+it_wr_b1_20_14_14_ii,but,1
+it_wr_b1_20_14_14_ii,so,1
+it_wr_b1_20_14_14_ii,then,1
+it_wr_b1_20_14_14_ii,unfortunately,1
+it_wr_b1_20_14_14_mc,after,2
+it_wr_b1_20_14_14_mc,so,1
+it_wr_b1_20_14_14_mc,then,1
+it_wr_b1_20_14_14_mc,while,1
+it_wr_b1_20_14_14_mmp,after,1
+it_wr_b1_20_14_14_ms,so,2
+it_wr_b1_20_14_14_nm,but,1
+it_wr_b1_20_14_14_nm,then,1
+it_wr_b1_20_14_14_xxxg,later,1
+it_wr_b1_20_14_14_xxxg,unfortunately,1
+it_wr_b1_20_14_14_xxxg,while,1
+it_wr_b1_20_15_14_ma,after,1
+it_wr_b1_20_15_14_ma,while,1
+it_wr_b1_20_9_14_ir,moreover,1
+it_wr_b1_20_9_14_ir,unfortunately,1
+it_wr_b1_21_10_14_xxxy,after,2
+it_wr_b1_21_11_14_xxxs,then,1
+it_wr_b1_21_14_14_et,but,1
+it_wr_b1_21_15_14_av,then,1
+it_wr_b1_21_15_14_eb,however,1
+it_wr_b1_21_15_14_eb,in the end,1
+it_wr_b1_21_15_14_eb,in the meantime,1
+it_wr_b1_22_17_14_xxxag,after,1
+it_wr_b1_22_17_14_xxxag,so,1
+it_wr_b1_23_12_14_ad,in the end,1
+it_wr_b1_23_12_14_ad,so,2
+it_wr_b1_24_4_14_ms,afterwards,1
+it_wr_b1_24_4_14_ms,so,1
+it_wr_b1_24_4_14_ms,while,1
+it_wr_b1_26_13_14_cf,after,1
+it_wr_b1_27_13_14_gg,meanwhile,1
+it_wr_b1_54_9_14_cb,afterwards,1
+it_wr_b1_54_9_14_cb,so,1
+it_wr_b2_19_12_14_cs,finally,1
+it_wr_b2_19_13_14_ab,but,1
+it_wr_b2_19_13_14_ab,finally,1
+it_wr_b2_19_13_14_ab,so,4
+it_wr_b2_19_13_14_ab,then,1
+it_wr_b2_19_13_14_ab,while,1
+it_wr_b2_19_13_14_ag,however,1
+it_wr_b2_19_13_14_as,then,2
+it_wr_b2_19_13_14_bs,but,1
+it_wr_b2_19_13_14_bs,later,1
+it_wr_b2_19_13_14_cb,after,1
+it_wr_b2_19_13_14_db,then,2
+it_wr_b2_19_13_14_dc,after,1
+it_wr_b2_19_13_14_dc,in the end,1
+it_wr_b2_19_13_14_dc,then,1
+it_wr_b2_19_13_14_eb,however,1
+it_wr_b2_19_13_14_en,in that,1
+it_wr_b2_19_13_14_en,then,1
+it_wr_b2_19_13_14_es,in fact,1
+it_wr_b2_19_13_14_es,so,1
+it_wr_b2_19_13_14_es,then,1
+it_wr_b2_19_13_14_fr,furthermore,1
+it_wr_b2_19_13_14_fr,however,1
+it_wr_b2_19_13_14_fr,in the end,1
+it_wr_b2_19_13_14_fr,nevertheless,1
+it_wr_b2_19_13_14_fr,therefore,1
+it_wr_b2_19_13_14_fr,while,1
+it_wr_b2_19_13_14_ga,in that,2
+it_wr_b2_19_13_14_ga,then,1
+it_wr_b2_19_13_14_gp,then,1
+it_wr_b2_19_13_14_gs,unfortunately,1
+it_wr_b2_19_13_14_ll,then,1
+it_wr_b2_19_13_14_ll,therefore,1
+it_wr_b2_19_13_14_ll,while,1
+it_wr_b2_19_13_14_mm,then,1
+it_wr_b2_19_13_14_ni,so,1
+it_wr_b2_19_13_14_sc,after,1
+it_wr_b2_19_13_14_sc,for this reason,2
+it_wr_b2_19_13_14_sc,in the end,1
+it_wr_b2_19_13_14_sc,while,1
+it_wr_b2_19_13_14_sg,then,1
+it_wr_b2_19_13_14_xxxn,after,1
+it_wr_b2_19_13_14_yc,really,1
+it_wr_b2_19_13_14_yc,unfortunately,1
+it_wr_b2_19_14_14_ab,after,2
+it_wr_b2_19_14_14_ab,however,1
+it_wr_b2_19_14_14_ab,in fact,1
+it_wr_b2_19_14_14_ab,meanwhile,1
+it_wr_b2_19_14_14_ab,since,1
+it_wr_b2_19_14_14_acc,consequently,1
+it_wr_b2_19_14_14_acc,finally,1
+it_wr_b2_19_14_14_acc,so,1
+it_wr_b2_19_14_14_ad,in the end,1
+it_wr_b2_19_14_14_bb,however,1
+it_wr_b2_19_14_14_bb,moreover,1
+it_wr_b2_19_14_14_bb,thanks to,1
+it_wr_b2_19_14_14_bc,however,1
+it_wr_b2_19_14_14_bc,unfortunately,1
+it_wr_b2_19_14_14_bgg,in the end,1
+it_wr_b2_19_14_14_bm,however,1
+it_wr_b2_19_14_14_bm,later,1
+it_wr_b2_19_14_14_bm,once,1
+it_wr_b2_19_14_14_cv,soon,2
+it_wr_b2_19_14_14_db,after,1
+it_wr_b2_19_14_14_eg,after,1
+it_wr_b2_19_14_14_eg,in that,1
+it_wr_b2_19_14_14_fa,so,3
+it_wr_b2_19_14_14_gp,because of,1
+it_wr_b2_19_14_14_gp,then,1
+it_wr_b2_19_14_14_jc,but,1
+it_wr_b2_19_14_14_jc,so,1
+it_wr_b2_19_14_14_jc,the whole time,1
+it_wr_b2_19_14_14_jc,then,1
+it_wr_b2_19_14_14_lc,once,1
+it_wr_b2_19_14_14_lc,then,1
+it_wr_b2_19_14_14_meb,in the end,1
+it_wr_b2_19_14_14_ml,then,1
+it_wr_b2_19_14_14_mp,afterwards,1
+it_wr_b2_19_14_14_mp,as a consequence,1
+it_wr_b2_19_14_14_mp,finally,1
+it_wr_b2_19_14_14_mp,fortunately,1
+it_wr_b2_19_14_14_mp,furthermore,1
+it_wr_b2_19_14_14_mp,however,1
+it_wr_b2_19_14_14_mp,in conclusion,1
+it_wr_b2_19_14_14_mp,soon,1
+it_wr_b2_19_14_14_mp,therefore,1
+it_wr_b2_19_14_14_mp,while,1
+it_wr_b2_19_14_14_ms,after,1
+it_wr_b2_19_14_14_ms,in that,1
+it_wr_b2_19_14_14_ms,then,1
+it_wr_b2_19_14_14_nb,in that,1
+it_wr_b2_19_14_14_nb,once,1
+it_wr_b2_19_14_14_sc,in the meantime,1
+it_wr_b2_19_14_14_sc,while,1
+it_wr_b2_19_14_14_sg,for this reason,2
+it_wr_b2_19_14_14_sg,however,1
+it_wr_b2_19_14_14_sg,so,1
+it_wr_b2_19_14_14_va,after,2
+it_wr_b2_19_14_14_va,while,1
+it_wr_b2_19_14_14_vt,after,1
+it_wr_b2_19_14_14_xxxa,after,1
+it_wr_b2_19_14_14_xxxa,again,1
+it_wr_b2_19_14_14_xxxa,therefore,1
+it_wr_b2_19_14_14_xxxa,while,1
+it_wr_b2_19_14_14_xxxab,after,2
+it_wr_b2_19_14_14_xxxab,although,1
+it_wr_b2_19_14_14_xxxab,but,2
+it_wr_b2_19_14_14_xxxab,while,1
+it_wr_b2_19_15_14_am,finally,1
+it_wr_b2_19_15_14_am,however,1
+it_wr_b2_19_15_14_am,therefore,1
+it_wr_b2_19_15_14_am,while,1
+it_wr_b2_19_15_14_vb,at this moment,1
+it_wr_b2_19_15_14_vb,so,1
+it_wr_b2_19_15_14_vb,while,1
+it_wr_b2_19_6_14_mz,but,2
+it_wr_b2_19_6_14_mz,so,1
+it_wr_b2_19_8_14_ff,finally,1
+it_wr_b2_19_8_14_ff,lastly,1
+it_wr_b2_19_8_14_ff,while,1
+it_wr_b2_19_9_14_ag,unfortunately,1
+it_wr_b2_19_9_14_bm,lastly,1
+it_wr_b2_19_9_14_bm,meanwhile,1
+it_wr_b2_19_9_14_bm,unfortunately,1
+it_wr_b2_20_11_14_cv,throughout,1
+it_wr_b2_20_12_14_mm,in the end,1
+it_wr_b2_20_12_14_mm,while,1
+it_wr_b2_20_12_14_nc,after,1
+it_wr_b2_20_13_14_ap,again,1
+it_wr_b2_20_13_14_ap,but,1
+it_wr_b2_20_13_14_ap,however,1
+it_wr_b2_20_13_14_bb,next,1
+it_wr_b2_20_13_14_rdc,but,1
+it_wr_b2_20_13_14_ss,after,1
+it_wr_b2_20_14_14_aa,after,1
+it_wr_b2_20_14_14_aa,finally,1
+it_wr_b2_20_14_14_aa,in fact,1
+it_wr_b2_20_14_14_aa,so,1
+it_wr_b2_20_14_14_ab,after,1
+it_wr_b2_20_14_14_ab,soon,1
+it_wr_b2_20_14_14_atw,so,2
+it_wr_b2_20_14_14_cg,after,1
+it_wr_b2_20_14_14_cg,in the end,1
+it_wr_b2_20_14_14_cg,second,1
+it_wr_b2_20_14_14_cg,then,1
+it_wr_b2_20_14_14_er,while,1
+it_wr_b2_20_14_14_es,after,1
+it_wr_b2_20_14_14_es,finally,1
+it_wr_b2_20_14_14_es,so,1
+it_wr_b2_20_14_14_fp,in the end,1
+it_wr_b2_20_14_14_gb,after,1
+it_wr_b2_20_14_14_gbb,anyway,1
+it_wr_b2_20_14_14_gbb,without,1
+it_wr_b2_20_14_14_gl,after,1
+it_wr_b2_20_14_14_if,finally,1
+it_wr_b2_20_14_14_mj,after,1
+it_wr_b2_20_14_14_mj,in the end,1
+it_wr_b2_20_14_14_mr,in the end,1
+it_wr_b2_20_14_14_sl,however,1
+it_wr_b2_20_14_14_sl,in the end,1
+it_wr_b2_20_14_14_sl,since,1
+it_wr_b2_20_14_14_sl,that is,1
+it_wr_b2_20_14_14_vd,afterwards,1
+it_wr_b2_20_14_14_vd,however,1
+it_wr_b2_20_14_14_xxxu,but,1
+it_wr_b2_20_15_14_gb,then,1
+it_wr_b2_20_15_14_gbb,due to,1
+it_wr_b2_20_15_14_gbb,finally,1
+it_wr_b2_20_15_14_sz,in conclusion,1
+it_wr_b2_20_15_14_vf,finally,1
+it_wr_b2_20_15_14_vf,instead,1
+it_wr_b2_20_15_14_vf,unfortunately,1
+it_wr_b2_20_15_14_vf,while,1
+it_wr_b2_20_15_14_vf,without,1
+it_wr_b2_20_17_14_cmm,after a while,2
+it_wr_b2_20_17_14_cmm,while,1
+it_wr_b2_20_8_14_mm,then,1
+it_wr_b2_20_8_14_vm,but,1
+it_wr_b2_21_13_14_aiz,also,1
+it_wr_b2_21_13_14_aiz,in the end,1
+it_wr_b2_21_13_14_aiz,then,1
+it_wr_b2_21_14_14_sr,however,1
+it_wr_b2_21_14_14_sr,meanwhile,1
+it_wr_b2_21_14_14_sr,moreover,1
+it_wr_b2_21_14_14_sr,therefore,1
+it_wr_b2_21_14_14_sr,unfortunately,1
+it_wr_b2_21_15_14_db,then,1
+it_wr_b2_21_15_14_fm,in the end,1
+it_wr_b2_21_16_14_ab,finally,1
+it_wr_b2_21_16_14_ab,however,1
+it_wr_b2_21_16_14_ab,while,1
+it_wr_b2_21_16_14_td,after,1
+it_wr_b2_22_15_14_xxxae,then,1
+it_wr_b2_22_15_14_xxxv,so,1
+it_wr_b2_22_16_14_am,in that,1
+it_wr_b2_22_16_14_am,in the end,1
+it_wr_b2_22_16_14_am,then,1
+it_wr_b2_22_17_14_np,later,1
+it_wr_b2_23_15_14_xxxj,after,1
+it_wr_b2_23_15_14_xxxj,then,1
+it_wr_b2_23_15_14_xxxj,therefore,1
+it_wr_b2_23_15_14_xxxt,after,1
+it_wr_b2_23_15_14_xxxt,then,1
+it_wr_b2_23_17_14_fc,after,1
+it_wr_b2_23_17_14_fc,however,1
+it_wr_b2_23_17_14_fc,in the end,1
+it_wr_b2_23_17_14_fc,in the meantime,1
+it_wr_b2_23_17_14_fc,while,2
+it_wr_b2_26_12_14_mf,also,1
+it_wr_b2_27_20_14_sl,however,1
+it_wr_b2_27_20_14_sl,unfortunately,1
+it_wr_b2_31_26_14_el,finally,1
+it_wr_b2_31_26_14_el,so,1
+it_wr_b2_31_26_14_el,while,2
+it_wr_b2_34_17_14_es,after,1
+it_wr_b2_34_17_14_es,finally,1
+it_wr_b2_34_17_14_es,first,1
+it_wr_b2_34_17_14_es,then,2
+it_wr_b2_34_17_14_es,while,1
+it_wr_c1_19_12_14_af,while,1
+it_wr_c1_19_12_14_am,then,2
+it_wr_c1_19_12_14_am,while,2
+it_wr_c1_19_12_14_ef,after,1
+it_wr_c1_19_12_14_gb,meanwhile,1
+it_wr_c1_19_12_14_gb,since,1
+it_wr_c1_19_12_14_gd,at the same time,1
+it_wr_c1_19_12_14_gd,meanwhile,1
+it_wr_c1_19_12_14_gd,then,2
+it_wr_c1_19_12_14_gd,while,1
+it_wr_c1_19_13_14_al,after,2
+it_wr_c1_19_13_14_al,after a while,1
+it_wr_c1_19_13_14_al,meanwhile,1
+it_wr_c1_19_13_14_al,so,2
+it_wr_c1_19_13_14_gc,while,1
+it_wr_c1_19_13_14_gcc,however,1
+it_wr_c1_19_13_14_im,later,1
+it_wr_c1_19_13_14_mb,consequently,1
+it_wr_c1_19_13_14_mb,finally,1
+it_wr_c1_19_13_14_mb,however,1
+it_wr_c1_19_13_14_mb,then,1
+it_wr_c1_19_13_14_mb,while,1
+it_wr_c1_19_14_14_ab,finally,1
+it_wr_c1_19_14_14_ab,however,1
+it_wr_c1_19_14_14_ab,in the end,1
+it_wr_c1_19_14_14_ac,after,1
+it_wr_c1_19_14_14_ac,then,1
+it_wr_c1_19_14_14_acc,then,1
+it_wr_c1_19_14_14_acc,while,1
+it_wr_c1_19_14_14_cd,after,2
+it_wr_c1_19_14_14_fb,as a consequence,1
+it_wr_c1_19_14_14_fb,however,1
+it_wr_c1_19_14_14_fb,immediately,1
+it_wr_c1_19_14_14_fb,instead,1
+it_wr_c1_19_14_14_fb,while,1
+it_wr_c1_19_14_14_fl,while,1
+it_wr_c1_19_14_14_ibn,then,1
+it_wr_c1_19_14_14_xxxe,after,1
+it_wr_c1_19_14_14_xxxe,in fact,1
+it_wr_c1_19_14_14_xxxe,that is,1
+it_wr_c1_19_14_14_xxxe,while,1
+it_wr_c1_19_15_14_fm,afterwards,1
+it_wr_c1_19_15_14_fm,however,1
+it_wr_c1_19_15_14_fm,in the end,1
+it_wr_c1_19_15_14_fm,moreover,1
+it_wr_c1_19_15_14_fm,then,2
+it_wr_c1_19_15_14_fm,therefore,1
+it_wr_c1_19_16_14_sd,however,1
+it_wr_c1_19_16_14_sd,in reality,1
+it_wr_c1_19_16_14_sd,meanwhile,1
+it_wr_c1_19_16_14_sd,while,1
+it_wr_c1_19_16_14_ssz,then,1
+it_wr_c1_20_13_14_gp,in the end,1
+it_wr_c1_20_13_14_gp,once,1
+it_wr_c1_20_13_14_gp,therefore,1
+it_wr_c1_20_13_14_mb,finally,1
+it_wr_c1_20_13_14_mb,first,1
+it_wr_c1_20_13_14_mb,then,1
+it_wr_c1_20_13_14_mb,while,1
+it_wr_c1_20_14_14_adc,in the end,1
+it_wr_c1_20_14_14_ag,after,1
+it_wr_c1_20_14_14_ag,while,1
+it_wr_c1_20_14_14_al,after,1
+it_wr_c1_20_14_14_al,however,2
+it_wr_c1_20_14_14_al,soon,1
+it_wr_c1_20_14_14_bn,since,1
+it_wr_c1_20_14_14_bn,that is,1
+it_wr_c1_20_14_14_bn,then,1
+it_wr_c1_20_14_14_dc,then,1
+it_wr_c1_20_14_14_gl,in the end,1
+it_wr_c1_20_14_14_gl,then,1
+it_wr_c1_20_14_14_id,after,1
+it_wr_c1_20_14_14_id,while,1
+it_wr_c1_20_14_14_mb,after,2
+it_wr_c1_20_14_14_mb,however,1
+it_wr_c1_20_14_14_mb,then,1
+it_wr_c1_20_14_14_mm,finally,1
+it_wr_c1_20_14_14_pa,but,1
+it_wr_c1_20_14_14_pa,in particular,1
+it_wr_c1_20_14_14_pa,indeed,1
+it_wr_c1_20_14_14_pa,so,1
+it_wr_c1_20_14_14_pa,then,1
+it_wr_c1_20_14_14_pa,therefore,2
+it_wr_c1_20_14_14_pa,while,1
+it_wr_c1_20_14_14_sc,after,1
+it_wr_c1_20_14_14_sc,so,1
+it_wr_c1_20_14_14_xxxb,after,1
+it_wr_c1_20_14_14_xxxb,in the end,1
+it_wr_c1_20_14_14_xxxd,but,1
+it_wr_c1_20_14_14_xxxm,after,1
+it_wr_c1_20_14_14_xxxm,then,1
+it_wr_c1_20_15_14_am,in the end,1
+it_wr_c1_20_15_14_am,shortly,1
+it_wr_c1_20_15_14_am,unfortunately,1
+it_wr_c1_20_15_14_ef,using,1
+it_wr_c1_20_15_14_ef,while,1
+it_wr_c1_20_15_14_fv,in that,1
+it_wr_c1_20_15_14_fv,so,1
+it_wr_c1_20_15_14_fv,then,2
+it_wr_c1_20_15_14_mr,in the end,1
+it_wr_c1_20_15_14_mr,then,1
+it_wr_c1_20_9_14_vm,after,1
+it_wr_c1_20_9_14_vm,but,1
+it_wr_c1_20_9_14_vm,however,1
+it_wr_c1_20_9_14_vm,in conclusion,1
+it_wr_c1_20_9_14_vm,soon,1
+it_wr_c1_21_10_14_eg,while,1
+it_wr_c1_21_10_14_eg,without,1
+it_wr_c1_21_15_14_fc,in that,1
+it_wr_c1_21_15_14_fc,therefore,1
+it_wr_c1_21_15_14_fm,however,1
+it_wr_c1_21_15_14_gm,so,1
+it_wr_c1_21_15_14_hoa,but,1
+it_wr_c1_21_15_14_hoa,so,1
+it_wr_c1_21_16_14_mr,but,1
+it_wr_c1_21_16_14_mr,that is,1
+it_wr_c1_21_16_14_vv,so,1
+it_wr_c1_21_19_14_fc,in the end,1
+it_wr_c1_21_8_14_fm,after,1
+it_wr_c1_21_8_14_fm,because of,1
+it_wr_c1_21_8_14_fm,however,1
+it_wr_c1_22_15_14_ed,after,1
+it_wr_c1_22_15_14_ed,in the end,1
+it_wr_c1_22_16_14_lm,after,1
+it_wr_c1_22_16_14_lm,in conclusion,1
+it_wr_c1_22_16_14_lm,in the end,1
+it_wr_c1_22_16_14_lm,nevertheless,1
+it_wr_c1_22_16_14_lm,that is,1
+it_wr_c1_22_16_14_lm,while,1
+it_wr_c1_22_16_14_tr,after,3
+it_wr_c1_22_16_14_tr,while,2
+it_wr_c1_22_18_14_ab,after,1
+it_wr_c1_22_19_14_gm,then,1
+it_wr_c1_22_19_14_gm,while,1
+it_wr_c1_23_14_14_rcf,in the end,1
+it_wr_c1_35_10_14_nb,after,1
+it_wr_c1_35_10_14_nb,once,1
+it_wr_c1_35_10_14_nb,so,2
+it_wr_c1_35_10_14_nb,while,1
+it_wr_c2_19_13_14_lp,however,1
+it_wr_c2_19_13_14_lp,nevertheless,1
+it_wr_c2_20_13_14_gc,but,1
+it_wr_c2_20_13_14_gc,in the end,1
+it_wr_c2_20_14_14_lgc,however,1
+it_wr_c2_20_14_14_lgc,while,1
+it_wr_c2_20_15_14_ao,in the end,1
+it_wr_c2_21_15_14_gl,after,1
+it_wr_c2_21_15_14_gl,in the end,1
+it_wr_c2_21_15_14_gl,while,1
+it_wr_c2_23_18_14_xxxaf,in the end,1
+it_wr_c2_23_18_14_xxxaf,meanwhile,1
+it_wr_c2_23_18_14_xxxaf,while,1
+tr_wr_a1_24_4_14_do,but,1
+tr_wr_a1_27_2_14_sh,anyway,1
+tr_wr_a1_27_2_14_sh,finally,1
+tr_wr_a1_32_1_14_de,but,1
+tr_wr_a1_42_5_14_dd,while,1
+tr_wr_a2_18_0.5_14_sk,after,1
+tr_wr_a2_18_0.5_14_sk,then,1
+tr_wr_a2_18_2_14_ib,but,1
+tr_wr_a2_18_2_14_ib,therefore,1
+tr_wr_a2_19_1_14_bo,thus,1
+tr_wr_a2_19_7_14_uhy,after,2
+tr_wr_a2_19_7_14_uhy,then,1
+tr_wr_a2_19_7_14_uhy,while,2
+tr_wr_a2_20_13_14_md,after,1
+tr_wr_a2_20_13_14_md,at least,1
+tr_wr_a2_20_13_14_md,finally,2
+tr_wr_a2_20_13_14_md,then,2
+tr_wr_a2_20_13_14_md,thus,1
+tr_wr_a2_20_1_14_bo,after all,1
+tr_wr_a2_22_10_14_sk,but,1
+tr_wr_a2_22_10_14_sk,so,1
+tr_wr_a2_22_2_14_aa,after,2
+tr_wr_a2_22_2_14_aa,but,1
+tr_wr_a2_23_11_14_meg,however,1
+tr_wr_a2_23_11_14_meg,meanwhile,2
+tr_wr_a2_23_11_14_meg,while,1
+tr_wr_a2_24_10_14_gaa,but,1
+tr_wr_a2_24_10_14_gaa,finally,1
+tr_wr_a2_24_10_14_gaa,then,1
+tr_wr_a2_24_10_14_rc,after,3
+tr_wr_a2_24_10_14_rc,first,1
+tr_wr_a2_24_10_14_rc,in the end,1
+tr_wr_a2_24_10_14_rc,so,1
+tr_wr_a2_24_4_14_sd,after,2
+tr_wr_a2_24_4_14_sd,but,2
+tr_wr_a2_24_4_14_sd,first,1
+tr_wr_a2_25_13_14_at,so,1
+tr_wr_a2_25_15_14_mb,after,1
+tr_wr_a2_25_15_14_mb,but,1
+tr_wr_a2_25_15_14_mb,however,1
+tr_wr_a2_25_15_14_mb,then,1
+tr_wr_a2_25_15_14_mb,while,2
+tr_wr_a2_26_8_14_bk,for this reason,1
+tr_wr_a2_26_8_14_bk,then,1
+tr_wr_a2_27_8_14_dib,after,1
+tr_wr_a2_27_8_14_dib,meanwhile,1
+tr_wr_a2_27_8_14_dib,while,1
+tr_wr_a2_32_20_14_fpb,after,2
+tr_wr_a2_49_16_14_gk,after,2
+tr_wr_a2_49_16_14_gk,but,1
+tr_wr_a2_49_16_14_gk,first,2
+tr_wr_a2_49_16_14_gk,then,2
+tr_wr_a2_52_5_14_yc,because,1
+tr_wr_a2_52_5_14_yc,but,1
+tr_wr_a2_52_5_14_yc,then,1
+tr_wr_a2_56_11_14_tk,after,1
+tr_wr_b1_18_9_14_zdk,at the same time,1
+tr_wr_b1_18_9_14_zdk,but,1
+tr_wr_b1_18_9_14_zdk,so,1
+tr_wr_b1_18_9_14_zdk,then,1
+tr_wr_b1_18_9_14_zdk,while,1
+tr_wr_b1_20_1_14_sm,after,1
+tr_wr_b1_20_1_14_sm,because,1
+tr_wr_b1_20_1_14_sm,however,1
+tr_wr_b1_20_1_14_sm,just then,1
+tr_wr_b1_20_1_14_sm,since,1
+tr_wr_b1_20_1_14_sm,then,2
+tr_wr_b1_20_1_14_sm,while,1
+tr_wr_b1_20_5_14_ro,first,1
+tr_wr_b1_20_5_14_ro,in the end,1
+tr_wr_b1_20_5_14_ro,then,1
+tr_wr_b1_21_14_14_foa,so,1
+tr_wr_b1_21_14_14_foa,though,1
+tr_wr_b1_21_14_14_foa,thus,1
+tr_wr_b1_21_2_14_ybs,but,1
+tr_wr_b1_21_2_14_ybs,then,1
+tr_wr_b1_21_6_14_ya,after,1
+tr_wr_b1_21_6_14_ya,then,2
+tr_wr_b1_21_6_14_ya,while,1
+tr_wr_b1_23_7_14_zs,after,1
+tr_wr_b1_23_7_14_zs,assuming that,1
+tr_wr_b1_23_7_14_zs,while,1
+tr_wr_b1_25_16_14_aa,but,1
+tr_wr_b1_25_16_14_aa,first,1
+tr_wr_b1_25_16_14_aa,second,1
+tr_wr_b1_25_16_14_aa,then,1
+tr_wr_b1_26_12_14_inu,after,1
+tr_wr_b1_26_12_14_inu,afterwards,1
+tr_wr_b1_26_12_14_inu,however,1
+tr_wr_b1_26_12_14_inu,lastly,1
+tr_wr_b1_26_12_14_inu,while,1
+tr_wr_b1_28_18_14_dd,but,1
+tr_wr_b1_28_18_14_dd,while,1
+tr_wr_b1_29_15_14_bc,after a while,1
+tr_wr_b1_29_15_14_bc,however,1
+tr_wr_b1_29_15_14_bc,nevertheless,1
+tr_wr_b1_29_15_14_bc,then,1
+tr_wr_b1_29_15_14_bc,while,1
+tr_wr_b1_38_7_14_ok,but,2
+tr_wr_b1_38_7_14_ok,while,1
+tr_wr_b2_19_7_14_mt,but,1
+tr_wr_b2_19_7_14_mt,so,2
+tr_wr_b2_19_7_14_mt,then,2
+tr_wr_b2_19_8_14_sc,after,2
+tr_wr_b2_19_8_14_sc,in the end,1
+tr_wr_b2_19_8_14_sc,then,2
+tr_wr_b2_20_10_14_cc,afterwards,1
+tr_wr_b2_20_10_14_cc,later,1
+tr_wr_b2_20_10_14_cc,nevertheless,1
+tr_wr_b2_20_10_14_cc,then,1
+tr_wr_b2_20_10_14_cc,while,1
+tr_wr_b2_20_11_14_ga,after,1
+tr_wr_b2_20_11_14_ga,before,2
+tr_wr_b2_20_11_14_ga,immediately,1
+tr_wr_b2_20_11_14_ga,nevertheless,1
+tr_wr_b2_20_11_14_ga,so,2
+tr_wr_b2_20_11_14_ga,then,1
+tr_wr_b2_20_11_14_ga,thus,1
+tr_wr_b2_22_12_14_sy,after,1
+tr_wr_b2_22_12_14_sy,at the same time,1
+tr_wr_b2_22_12_14_sy,however,1
+tr_wr_b2_22_12_14_sy,later,2
+tr_wr_b2_22_12_14_sy,so,1
+tr_wr_b2_22_12_14_sy,then,1
+tr_wr_b2_24_13_14_yb,after,1
+tr_wr_b2_24_13_14_yb,but,1
+tr_wr_b2_24_13_14_yb,in the end,1
+tr_wr_b2_24_13_14_yb,then,1
+tr_wr_b2_24_13_14_yb,while,2
+tr_wr_b2_24_14_14_eg,then,2
+tr_wr_b2_24_14_14_öa,after,1
+tr_wr_b2_24_14_14_öa,but,2
+tr_wr_b2_24_14_14_öa,then,2
+tr_wr_b2_24_14_14_öa,while,1
+tr_wr_b2_24_8_14_mf,after,1
+tr_wr_b2_24_8_14_mf,then,2
+tr_wr_b2_24_9_14_hs,but,2
+tr_wr_b2_25_15_14_ns,after,1
+tr_wr_b2_25_15_14_ns,then,1
+tr_wr_b2_25_18_14_st,after,1
+tr_wr_b2_25_18_14_st,then,1
+tr_wr_b2_25_22_14_mo,after,2
+tr_wr_b2_25_22_14_mo,then,1
+tr_wr_b2_29_19_14_hd,then,1
+tr_wr_b2_29_9_14_ea,finally,1
+tr_wr_b2_29_9_14_ea,first,1
+tr_wr_b2_29_9_14_ea,then,1
+tr_wr_b2_31_8_14_bo,at the same time,1
+tr_wr_b2_31_8_14_bo,however,1
+tr_wr_b2_31_8_14_bo,whilst,1
+tr_wr_b2_31_8_14_bo,without,2
+tr_wr_b2_38_19_14_de,finally,1
+tr_wr_b2_38_19_14_de,first,1
+tr_wr_b2_38_19_14_de,then,2
+tr_wr_b2_42_7_14_sa,but,1
+tr_wr_b2_42_7_14_sa,by the way,1
+tr_wr_b2_42_7_14_sa,then,1
+tr_wr_b2_42_7_14_sa,unfortunately,1
+tr_wr_b2_42_7_14_sa,while,1
+tr_wr_c1_19_8_14_mg,after,3
+tr_wr_c1_19_8_14_mg,instantly,1
+tr_wr_c1_19_8_14_mg,once,1
+tr_wr_c1_19_8_14_mg,then,5
+tr_wr_c1_20_10_14_mt,after,1
+tr_wr_c1_20_10_14_mt,but,1
+tr_wr_c1_20_10_14_mt,despite,1
+tr_wr_c1_20_10_14_mt,so,2
+tr_wr_c1_20_7_14_ny,even though,1
+tr_wr_c1_20_7_14_ny,however,1
+tr_wr_c1_20_7_14_ny,since,1
+tr_wr_c1_23_13_14_ns,however,1
+tr_wr_c1_23_13_14_ns,later,1
+tr_wr_c1_23_16_14_md,after,1
+tr_wr_c1_23_16_14_md,then,1
+tr_wr_c1_24_12_14_ms,after,1
+tr_wr_c1_24_12_14_ms,then,1
+tr_wr_c1_24_12_14_pe,but,1
+tr_wr_c1_24_12_14_pe,so,2
+tr_wr_c1_24_14_14_bd,after,1
+tr_wr_c1_24_14_14_bd,then,2
+tr_wr_c1_24_14_14_bd,therefore,1
+tr_wr_c1_24_14_14_ns,after,1
+tr_wr_c1_24_14_14_ns,however,1
+tr_wr_c1_24_14_14_ns,later,2
+tr_wr_c1_24_14_14_ns,then,1
+tr_wr_c1_24_18_14_iy,because,1
+tr_wr_c1_24_18_14_iy,however,1
+tr_wr_c1_24_18_14_iy,whereas,1
+tr_wr_c1_24_18_14_iy,while,1
+tr_wr_c1_26_8_14_sg,after,1
+tr_wr_c1_26_8_14_sg,considering that,1
+tr_wr_c1_26_8_14_sg,however,1
+tr_wr_c1_26_8_14_sg,while,1
+tr_wr_c1_27_20_14_huc,then,2
+tr_wr_c1_27_8_14_azo,first,1
+tr_wr_c1_33_10_14_fuo,later,1
+tr_wr_c1_33_10_14_fuo,next,1
+tr_wr_c1_33_10_14_fuo,then,1
+tr_wr_c1_52_12_14_nr,however,1
+tr_wr_c1_52_12_14_nr,meanwhile,1
+tr_wr_c1_52_12_14_nr,nevertheless,1
+tr_wr_c2_21_12_14_ahy,then,4
+tr_wr_c2_21_12_14_ahy,thus,1
+tr_wr_c2_23_9_14_mt,after,1
+tr_wr_c2_24_17_14_shz,in the meantime,1
+tr_wr_c2_24_17_14_shz,regardless,1
+tr_wr_c2_24_17_14_shz,soon,1
+tr_wr_c2_24_17_14_shz,thereupon,1
+tr_wr_c2_24_17_14_shz,thus,1
+tr_wr_c2_24_19_14_dg,at least,1
+tr_wr_c2_24_19_14_dg,however,1
+tr_wr_c2_24_19_14_dg,then,1
+tr_wr_c2_24_19_14_dg,throughout,1

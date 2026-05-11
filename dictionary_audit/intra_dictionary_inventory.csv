@@ -1,0 +1,143 @@
+level,macro_category,subcategory,relation,taxis,connector
+intra_sentential,Enhancement,Temporal,Simultaneous,paratactic,and
+intra_sentential,Enhancement,Temporal,Simultaneous,paratactic,meanwhile
+intra_sentential,Enhancement,Temporal,Simultaneous,paratactic,at the same time
+intra_sentential,Enhancement,Temporal,Simultaneous,paratactic,simultaneously
+intra_sentential,Enhancement,Temporal,Simultaneous,hypotactic,while
+intra_sentential,Enhancement,Temporal,Simultaneous,hypotactic,as
+intra_sentential,Enhancement,Temporal,Simultaneous,hypotactic,when
+intra_sentential,Enhancement,Temporal,Simultaneous,hypotactic,whilst
+intra_sentential,Enhancement,Temporal,Simultaneous,hypotactic,just as
+intra_sentential,Enhancement,Temporal,Later,paratactic,then
+intra_sentential,Enhancement,Temporal,Later,paratactic,afterwards
+intra_sentential,Enhancement,Temporal,Later,paratactic,subsequently
+intra_sentential,Enhancement,Temporal,Later,paratactic,later on
+intra_sentential,Enhancement,Temporal,Later,hypotactic,after
+intra_sentential,Enhancement,Temporal,Later,hypotactic,since
+intra_sentential,Enhancement,Temporal,Later,hypotactic,once
+intra_sentential,Enhancement,Temporal,Later,hypotactic,when
+intra_sentential,Enhancement,Temporal,Later,hypotactic,as soon as
+intra_sentential,Enhancement,Temporal,Earlier,paratactic,before that
+intra_sentential,Enhancement,Temporal,Earlier,paratactic,previously
+intra_sentential,Enhancement,Temporal,Earlier,paratactic,earlier
+intra_sentential,Enhancement,Temporal,Earlier,paratactic,until then
+intra_sentential,Enhancement,Temporal,Earlier,hypotactic,before
+intra_sentential,Enhancement,Temporal,Earlier,hypotactic,until
+intra_sentential,Enhancement,Temporal,Earlier,hypotactic,till
+intra_sentential,Enhancement,Temporal,Earlier,hypotactic,prior to
+intra_sentential,Enhancement,Temporal,Earlier,hypotactic,by the time
+intra_sentential,Enhancement,Causal-Conditional,Reason,paratactic,so
+intra_sentential,Enhancement,Causal-Conditional,Reason,paratactic,and so
+intra_sentential,Enhancement,Causal-Conditional,Reason,paratactic,therefore
+intra_sentential,Enhancement,Causal-Conditional,Reason,paratactic,thus
+intra_sentential,Enhancement,Causal-Conditional,Reason,paratactic,hence
+intra_sentential,Enhancement,Causal-Conditional,Reason,paratactic,consequently
+intra_sentential,Enhancement,Causal-Conditional,Reason,hypotactic,because
+intra_sentential,Enhancement,Causal-Conditional,Reason,hypotactic,as
+intra_sentential,Enhancement,Causal-Conditional,Reason,hypotactic,since
+intra_sentential,Enhancement,Causal-Conditional,Reason,hypotactic,given that
+intra_sentential,Enhancement,Causal-Conditional,Reason,hypotactic,due to the fact that
+intra_sentential,Enhancement,Causal-Conditional,Purpose,hypotactic,so that
+intra_sentential,Enhancement,Causal-Conditional,Purpose,hypotactic,in order that
+intra_sentential,Enhancement,Causal-Conditional,Purpose,hypotactic,that
+intra_sentential,Enhancement,Causal-Conditional,Purpose,hypotactic,lest
+intra_sentential,Enhancement,Causal-Conditional,Purpose,hypotactic,for fear that
+intra_sentential,Enhancement,Causal-Conditional,Conditional,hypotactic,if
+intra_sentential,Enhancement,Causal-Conditional,Conditional,hypotactic,unless
+intra_sentential,Enhancement,Causal-Conditional,Conditional,hypotactic,provided that
+intra_sentential,Enhancement,Causal-Conditional,Conditional,hypotactic,assuming that
+intra_sentential,Enhancement,Causal-Conditional,Conditional,hypotactic,in case
+intra_sentential,Enhancement,Causal-Conditional,Conditional,hypotactic,only if
+intra_sentential,Enhancement,Causal-Conditional,Concessive,paratactic,but
+intra_sentential,Enhancement,Causal-Conditional,Concessive,paratactic,yet
+intra_sentential,Enhancement,Causal-Conditional,Concessive,paratactic,still
+intra_sentential,Enhancement,Causal-Conditional,Concessive,paratactic,nevertheless
+intra_sentential,Enhancement,Causal-Conditional,Concessive,paratactic,however
+intra_sentential,Enhancement,Causal-Conditional,Concessive,paratactic,even so
+intra_sentential,Enhancement,Causal-Conditional,Concessive,hypotactic,although
+intra_sentential,Enhancement,Causal-Conditional,Concessive,hypotactic,even though
+intra_sentential,Enhancement,Causal-Conditional,Concessive,hypotactic,while
+intra_sentential,Enhancement,Causal-Conditional,Concessive,hypotactic,though
+intra_sentential,Enhancement,Causal-Conditional,Concessive,hypotactic,despite the fact that
+intra_sentential,Enhancement,Manner,Means,hypotactic,by
+intra_sentential,Enhancement,Manner,Means,hypotactic,through
+intra_sentential,Enhancement,Manner,Means,hypotactic,by means of
+intra_sentential,Enhancement,Manner,Means,hypotactic,via
+intra_sentential,Enhancement,Manner,Means,hypotactic,using
+intra_sentential,Enhancement,Manner,Comparison,paratactic,and similarly
+intra_sentential,Enhancement,Manner,Comparison,paratactic,so
+intra_sentential,Enhancement,Manner,Comparison,paratactic,thus
+intra_sentential,Enhancement,Manner,Comparison,paratactic,likewise
+intra_sentential,Enhancement,Manner,Comparison,paratactic,in the same way
+intra_sentential,Enhancement,Manner,Comparison,hypotactic,as if
+intra_sentential,Enhancement,Manner,Comparison,hypotactic,like
+intra_sentential,Enhancement,Manner,Comparison,hypotactic,the way
+intra_sentential,Enhancement,Manner,Comparison,hypotactic,as though
+intra_sentential,Enhancement,Manner,Comparison,hypotactic,in a way that
+intra_sentential,Enhancement,Spatial,Same Place,paratactic,and there
+intra_sentential,Enhancement,Spatial,Same Place,paratactic,here
+intra_sentential,Enhancement,Spatial,Same Place,paratactic,in that place
+intra_sentential,Enhancement,Spatial,Same Place,hypotactic,where
+intra_sentential,Enhancement,Spatial,Same Place,hypotactic,wherever
+intra_sentential,Enhancement,Spatial,Same Place,hypotactic,in which
+intra_sentential,Enhancement,Spatial,Same Place,hypotactic,at which
+intra_sentential,Enhancement,Spatial,Different Place,paratactic,elsewhere
+intra_sentential,Enhancement,Spatial,Different Place,paratactic,in another place
+intra_sentential,Enhancement,Spatial,Different Place,hypotactic,away from
+intra_sentential,Enhancement,Spatial,Different Place,hypotactic,beyond
+intra_sentential,Enhancement,Spatial,Different Place,hypotactic,outside of
+intra_sentential,Extension,Addition,paratactic,,and
+intra_sentential,Extension,Addition,paratactic,,also
+intra_sentential,Extension,Addition,paratactic,,too
+intra_sentential,Extension,Addition,paratactic,,besides
+intra_sentential,Extension,Addition,paratactic,,furthermore
+intra_sentential,Extension,Addition,paratactic,,moreover
+intra_sentential,Extension,Addition,hypotactic,,while
+intra_sentential,Extension,Addition,hypotactic,,whereas
+intra_sentential,Extension,Addition,hypotactic,,along with
+intra_sentential,Extension,Addition,hypotactic,,in addition to
+intra_sentential,Extension,Variation,Replacive,paratactic,but not
+intra_sentential,Extension,Variation,Replacive,paratactic,instead
+intra_sentential,Extension,Variation,Replacive,paratactic,rather
+intra_sentential,Extension,Variation,Replacive,paratactic,on the contrary
+intra_sentential,Extension,Variation,Replacive,hypotactic,rather than
+intra_sentential,Extension,Variation,Replacive,hypotactic,instead of
+intra_sentential,Extension,Variation,Replacive,hypotactic,as opposed to
+intra_sentential,Extension,Variation,Subtractive,paratactic,but
+intra_sentential,Extension,Variation,Subtractive,paratactic,except
+intra_sentential,Extension,Variation,Subtractive,paratactic,excluding
+intra_sentential,Extension,Variation,Subtractive,paratactic,save for
+intra_sentential,Extension,Variation,Subtractive,hypotactic,except that
+intra_sentential,Extension,Variation,Subtractive,hypotactic,but that
+intra_sentential,Extension,Variation,Subtractive,hypotactic,other than
+intra_sentential,Extension,Alternation,paratactic,,or
+intra_sentential,Extension,Alternation,paratactic,,either ... or
+intra_sentential,Extension,Alternation,paratactic,,alternatively
+intra_sentential,Extension,Alternation,paratactic,,or else
+intra_sentential,Extension,Alternation,hypotactic,,if not ... then
+intra_sentential,Extension,Alternation,hypotactic,,whether
+intra_sentential,Extension,Alternation,hypotactic,,whether ... or not
+intra_sentential,Elaboration,Clarifying,paratactic,,that is
+intra_sentential,Elaboration,Clarifying,paratactic,,in other words
+intra_sentential,Elaboration,Clarifying,paratactic,,namely
+intra_sentential,Elaboration,Clarifying,paratactic,,i.e.
+intra_sentential,Elaboration,Clarifying,paratactic,,to put it differently
+intra_sentential,Elaboration,Clarifying,hypotactic,,as
+intra_sentential,Elaboration,Clarifying,hypotactic,,because
+intra_sentential,Elaboration,Clarifying,hypotactic,,meaning that
+intra_sentential,Elaboration,Clarifying,hypotactic,,which implies
+intra_sentential,Elaboration,Exemplifying,paratactic,,for example
+intra_sentential,Elaboration,Exemplifying,paratactic,,such as
+intra_sentential,Elaboration,Exemplifying,paratactic,,e.g.
+intra_sentential,Elaboration,Exemplifying,paratactic,,for instance
+intra_sentential,Elaboration,Exemplifying,paratactic,,to illustrate
+intra_sentential,Elaboration,Exemplifying,hypotactic,,as if
+intra_sentential,Elaboration,Exemplifying,hypotactic,,as though
+intra_sentential,Elaboration,Exemplifying,hypotactic,,in a manner similar to
+intra_sentential,Elaboration,Amplification,paratactic,,indeed
+intra_sentential,Elaboration,Amplification,paratactic,,in fact
+intra_sentential,Elaboration,Amplification,paratactic,,actually
+intra_sentential,Elaboration,Amplification,paratactic,,specifically
+intra_sentential,Elaboration,Amplification,hypotactic,,particularly
+intra_sentential,Elaboration,Amplification,hypotactic,,notably
+intra_sentential,Elaboration,Amplification,hypotactic,,especially

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Large/private corpus data
+data/
+raw_data/
+corpora/
+private_data/
+*_raw.csv
+*_clean.csv
+*text_raw*
+*text_clean*
+*learner_id*
+*sentence_results_full*
+*paragraph_results_full*
+
+# App/build artefacts
+dist/
+build/
+*.spec
+
+# Temporary files
+*.tmp
+*.bak

@@ -1,0 +1,4162 @@
+text_id,detected_item,n_cases
+gig_1,but,1
+gig_1,even though,1
+gig_1,furthermore,1
+gig_1,in fact,1
+gig_1,perhaps,1
+gig_1000d,after,1
+gig_1000d,however,2
+gig_1000e,although,1
+gig_1001c,due to,1
+gig_1001d,after,1
+gig_1001d,because,1
+gig_1001e,although,1
+gig_1001e,however,1
+gig_1002a,if,5
+gig_1002a,or,1
+gig_1002b,then,1
+gig_1004,if,1
+gig_1004,once,1
+gig_1005b,if,1
+gig_1005b,then,1
+gig_1005c,first,1
+gig_1005c,if,5
+gig_1005c,then,1
+gig_1006b,after,1
+gig_1006b,for example,1
+gig_1007a,if,1
+gig_1007a,if not,1
+gig_1007b,if,1
+gig_1007b,therefore,1
+gig_1009,however,1
+gig_1009,meaning,1
+gig_1009,therefore,1
+gig_100a,also,1
+gig_100a,but,3
+gig_100b,just then,1
+gig_1010a,although,1
+gig_1010a,finally,2
+gig_1010a,for example,1
+gig_1010a,however,2
+gig_1010a,next,2
+gig_1010a,thus,2
+gig_1010b,for example,1
+gig_1010b,however,1
+gig_1010b,if,2
+gig_1010b,on the other hand,1
+gig_1010b,using,1
+gig_1010c,after,1
+gig_1010c,thus,1
+gig_1011,after,1
+gig_1011,however,1
+gig_1011,next,1
+gig_1011,results,1
+gig_1011,then,2
+gig_1012,after,1
+gig_1012,if,6
+gig_1012,then,1
+gig_1012,using,1
+gig_1013,after,1
+gig_1013,however,1
+gig_1014a,but,1
+gig_1014a,further,1
+gig_1014b,if,3
+gig_1014b,the next day,1
+gig_1014b,then,2
+gig_1014c,or,1
+gig_1015a,although,1
+gig_1015a,finally,1
+gig_1015a,for example,1
+gig_1015a,furthermore,2
+gig_1015a,however,1
+gig_1015a,in addition,1
+gig_1015a,in conclusion,1
+gig_1015a,instead,1
+gig_1015b,furthermore,1
+gig_1015b,however,2
+gig_1015b,on the other hand,1
+gig_1015c,finally,1
+gig_1015c,however,1
+gig_1015c,throughout,1
+gig_1015d,furthermore,2
+gig_1015d,however,2
+gig_1015d,throughout,1
+gig_1015e,finally,1
+gig_1015e,furthermore,1
+gig_1015e,in addition,2
+gig_1015f,however,1
+gig_1015f,on the other hand,1
+gig_1015g,however,1
+gig_1015g,that is,1
+gig_1015g,therefore,1
+gig_1015h,finally,1
+gig_1015h,for example,1
+gig_1015h,later,1
+gig_1015i,however,2
+gig_1015j,furthermore,1
+gig_1015k,after all,1
+gig_1015k,although,2
+gig_1015k,however,1
+gig_1015k,meanwhile,1
+gig_1015l,in addition,1
+gig_1015m,for example,1
+gig_1015m,furthermore,1
+gig_1015m,however,1
+gig_1015m,in addition,1
+gig_1015m,on the other hand,1
+gig_1015m,whilst,1
+gig_1015n,after,1
+gig_1015n,finally,1
+gig_1015n,throughout,1
+gig_1015o,although,1
+gig_1015o,finally,1
+gig_1015o,for example,1
+gig_1015o,furthermore,1
+gig_1015o,in addition,1
+gig_1015o,in conclusion,1
+gig_1015o,on the other hand,1
+gig_1015p,for example,1
+gig_1015p,later,1
+gig_1015p,throughout,1
+gig_1015q,later,1
+gig_1015q,on the other hand,1
+gig_1016a,after all,1
+gig_1016a,however,1
+gig_1016b,due to,1
+gig_1016c,whatever,1
+gig_1016d,however,1
+gig_1016d,whereas,1
+gig_1017a,even though,1
+gig_1017a,however,1
+gig_1017b,but,1
+gig_1017b,later,1
+gig_1017b,through,1
+gig_1017c,but,1
+gig_1017f,because,1
+gig_1017f,nevertheless,1
+gig_1017f,so,1
+gig_1017f,that is,1
+gig_1017f,then,1
+gig_1017g,ultimately,1
+gig_1017h,despite,1
+gig_1017h,for example,1
+gig_1017h,moreover,1
+gig_1017h,not once,1
+gig_1017h,through,1
+gig_1017i,on the other hand,1
+gig_1017j,but,2
+gig_1017j,furthermore,1
+gig_1017k,because,1
+gig_1017k,earlier,1
+gig_1017k,however,1
+gig_1017m,again,1
+gig_1017n,but,1
+gig_1017n,however,1
+gig_1017n,in other words,1
+gig_1017o,consequently,1
+gig_1017o,for example,1
+gig_1017o,therefore,1
+gig_1017p,ultimately,1
+gig_1017q,furthermore,1
+gig_1017q,lastly,1
+gig_1017t,but,1
+gig_1017u,however,1
+gig_1018a,also,2
+gig_1018a,for example,1
+gig_1018b,instead,1
+gig_1018c,all in all,1
+gig_1018c,if,1
+gig_1018c,in reality,1
+gig_1018c,so,1
+gig_1018d,after,1
+gig_1018d,then,1
+gig_1018e,also,3
+gig_1018e,due to,1
+gig_1018e,however,3
+gig_1018e,in conclusion,1
+gig_1019a,also,3
+gig_1019a,due to,1
+gig_1019a,instead,1
+gig_1019a,moreover,1
+gig_1019a,so,1
+gig_1019b,also,1
+gig_1019b,however,1
+gig_1019b,in addition,1
+gig_1019b,yet,1
+gig_1019d,again,1
+gig_1019d,however,1
+gig_1019d,later,1
+gig_1019d,throughout,2
+gig_1019d,to conclude,1
+gig_1019e,also,1
+gig_1019e,but,1
+gig_1019e,later,1
+gig_1019e,or,1
+gig_1019e,throughout,1
+gig_1019e,to conclude,1
+gig_1019g,but,2
+gig_1019h,again,1
+gig_1019i,first,1
+gig_1019k,however,1
+gig_1019l,also,1
+gig_1019l,however,1
+gig_1019m,also,1
+gig_1019m,however,2
+gig_101b,then,1
+gig_101c,so,1
+gig_1020a,but,2
+gig_1020a,however,1
+gig_1020a,on the other hand,1
+gig_1020b,if,1
+gig_1020c,also,1
+gig_1020c,using,1
+gig_1020e,however,1
+gig_1020f,but,1
+gig_1020f,using,1
+gig_1020g,consider,1
+gig_1020i,whatever,1
+gig_1020l,also,1
+gig_1021a,also,1
+gig_1021c,but,2
+gig_1021c,further,1
+gig_1021c,later,1
+gig_1021d,however,2
+gig_1021d,later,1
+gig_1021e,also,1
+gig_1022a,also,1
+gig_1022b,an hour later,1
+gig_1022b,but,1
+gig_1022b,if,1
+gig_1022c,in the end,1
+gig_1022c,once,1
+gig_1022c,throughout,1
+gig_1022d,after,3
+gig_1022d,despite,1
+gig_1022d,however,1
+gig_1022d,if,1
+gig_1022d,later,1
+gig_1022d,technically,1
+gig_1022d,thus,1
+gig_1022e,also,1
+gig_1022e,so,1
+gig_1022f,if,1
+gig_1022f,nor,1
+gig_1022f,so that,1
+gig_1022g,also,2
+gig_1022h,however,1
+gig_1022h,if,1
+gig_1022j,instead,1
+gig_1022l,although,1
+gig_1023a,also,1
+gig_1023b,soon,1
+gig_1023c,finally,1
+gig_1023d,also,2
+gig_1023e,also,3
+gig_1023e,however,1
+gig_1023f,also,1
+gig_1023f,however,1
+gig_1023g,also,2
+gig_1023h,however,1
+gig_1023i,if,3
+gig_1023k,however,1
+gig_1023k,if,2
+gig_1023k,once,1
+gig_1023l,finally,1
+gig_1023m,in contrast,1
+gig_1023n,also,2
+gig_1023n,since,1
+gig_1023o,also,2
+gig_1023o,however,1
+gig_1023p,also,1
+gig_1023q,also,1
+gig_1024a,therefore,1
+gig_1024a,throughout,1
+gig_1024b,throughout,1
+gig_1027a,however,1
+gig_1027a,to conclude,1
+gig_1027b,also,1
+gig_1027b,although,1
+gig_1027d,once,1
+gig_1027d,to conclude,1
+gig_1027e,if,1
+gig_1028a,although,1
+gig_1028a,even though,1
+gig_1028a,however,1
+gig_1028a,therefore,1
+gig_1028b,therefore,1
+gig_1029a,also,1
+gig_1029a,even though,1
+gig_1029a,however,2
+gig_1029a,in conclusion,1
+gig_1029b,however,2
+gig_1029b,in conclusion,1
+gig_1029b,whereas,1
+gig_1029c,before,1
+gig_1029c,however,3
+gig_1029d,however,1
+gig_1029e,however,1
+gig_1029e,if,1
+gig_1029f,however,2
+gig_1029f,in conclusion,1
+gig_102a,also,1
+gig_102a,because,1
+gig_102a,finally,1
+gig_102b,finally,1
+gig_102b,then,1
+gig_1031a,also,1
+gig_1031a,although,1
+gig_1031a,for example,1
+gig_1031a,since,1
+gig_1031a,to conclude,1
+gig_1031b,also,1
+gig_1031b,for example,5
+gig_1031b,furthermore,2
+gig_1031b,however,1
+gig_1031b,in fact,1
+gig_1031b,lastly,1
+gig_1031b,then,1
+gig_1031b,therefore,1
+gig_1031b,to conclude,1
+gig_1031c,after,3
+gig_1031c,but,1
+gig_1031c,however,2
+gig_1031c,lastly,1
+gig_1031c,next,1
+gig_1031c,then,1
+gig_1031c,therefore,1
+gig_1031c,to conclude,1
+gig_1031d,if,1
+gig_1031d,specifically,1
+gig_1032a,if,1
+gig_1032a,in conclusion,1
+gig_1032b,even though,1
+gig_1032b,however,1
+gig_1032b,therefore,1
+gig_1032c,however,1
+gig_1032c,in conclusion,1
+gig_1033,although,1
+gig_1033,however,1
+gig_1033,in conclusion,1
+gig_1034,also,1
+gig_1034,before,1
+gig_1034,for example,1
+gig_1034,in conclusion,1
+gig_1034,on the other hand,1
+gig_1034,therefore,3
+gig_1035,for example,3
+gig_1035,however,1
+gig_1035,instead,1
+gig_1035,so,1
+gig_1036,also,1
+gig_1036,before,1
+gig_1036,for example,1
+gig_1036,in conclusion,1
+gig_1036,on the other hand,1
+gig_1036,therefore,3
+gig_1037a,also,1
+gig_1037a,although,1
+gig_1037a,however,2
+gig_1037a,in conclusion,1
+gig_1037a,so,1
+gig_1037b,after,1
+gig_1037b,for example,1
+gig_1037b,however,2
+gig_1037b,in conclusion,1
+gig_1038a,however,1
+gig_1038a,to conclude,1
+gig_1039a,also,1
+gig_1039a,for example,1
+gig_1039a,however,1
+gig_1039a,in conclusion,1
+gig_1039a,moreover,1
+gig_1039a,on the contrary,1
+gig_1039b,however,1
+gig_1039c,as a result,1
+gig_1039c,however,1
+gig_1039c,in conclusion,1
+gig_103a,also,1
+gig_103b,because,1
+gig_103b,but,2
+gig_103b,so,1
+gig_1040,also,1
+gig_1040,for example,2
+gig_1040,however,1
+gig_1040,if,1
+gig_1041a,also,1
+gig_1041a,so far,1
+gig_1041b,also,1
+gig_1041b,further,1
+gig_1041c,also,1
+gig_1041d,furthermore,1
+gig_1042a,also,1
+gig_1042c,also,1
+gig_1042c,in conclusion,1
+gig_1043a,once,1
+gig_1043b,since,1
+gig_1044a,also,4
+gig_1044a,for example,3
+gig_1044a,however,3
+gig_1044a,in conclusion,1
+gig_1044b,for example,1
+gig_1044b,without,1
+gig_1044c,also,1
+gig_1044c,if,1
+gig_1045a,but,1
+gig_1045a,for this reason,1
+gig_1045a,however,2
+gig_1045a,so,1
+gig_1045b,but,1
+gig_1045b,however,1
+gig_1045c,however,1
+gig_1046c,if,1
+gig_1047a,although,1
+gig_1047a,for example,2
+gig_1047a,however,1
+gig_1047a,so,1
+gig_1047a,therefore,1
+gig_1047b,however,1
+gig_1047d,also,1
+gig_1047e,also,1
+gig_1048d,also,1
+gig_1049b,for example,1
+gig_1049c,also,1
+gig_104a,also,1
+gig_104a,however,1
+gig_104b,again,1
+gig_104b,maybe,1
+gig_1050a,if,1
+gig_1051a,also,1
+gig_1051b,then,1
+gig_1051e,in conclusion,1
+gig_1051f,on the other hand,1
+gig_1052a,on the other hand,1
+gig_1052b,however,1
+gig_1053a,immediately,1
+gig_1053b,for example,1
+gig_1053b,immediately,1
+gig_1053b,through,1
+gig_1053c,furthermore,2
+gig_1053c,through,2
+gig_1053c,throughout,1
+gig_1053d,instead,1
+gig_1053d,throughout,1
+gig_1053e,while,1
+gig_1054a,if,1
+gig_1054a,in fact,1
+gig_1054a,moreover,1
+gig_1054a,thus,1
+gig_1054b,also,2
+gig_1054b,contrastingly,1
+gig_1054b,furthermore,1
+gig_1054b,however,1
+gig_1054c,also,4
+gig_1054c,following this,1
+gig_1054c,further,1
+gig_1054c,furthermore,1
+gig_1054c,in addition,1
+gig_1054c,lastly,2
+gig_1054d,however,3
+gig_1054d,in fact,1
+gig_1054d,moreover,1
+gig_1054e,however,1
+gig_1054e,in fact,1
+gig_1054e,instead,1
+gig_1055a,though,1
+gig_1055b,but,1
+gig_1055b,first,1
+gig_1055b,furthermore,1
+gig_1055b,however,1
+gig_1055b,moreover,1
+gig_1055b,then,1
+gig_1055b,thus,1
+gig_1055c,after,1
+gig_1055c,despite,1
+gig_1055c,finally,1
+gig_1055c,furthermore,1
+gig_1055c,hence,2
+gig_1055c,however,1
+gig_1055c,moreover,2
+gig_1055c,nevertheless,1
+gig_1055c,perhaps,1
+gig_1055c,therefore,1
+gig_1055c,thus,1
+gig_1055c,yet,1
+gig_1055d,first,1
+gig_1055d,furthermore,2
+gig_1055d,hence,1
+gig_1055d,thus,1
+gig_1055e,furthermore,1
+gig_1055e,however,3
+gig_1055f,but,1
+gig_1055f,so,1
+gig_1056a,after,1
+gig_1056a,so,1
+gig_1056b,to conclude,1
+gig_1056d,despite,1
+gig_1057a,however,1
+gig_1057a,so,1
+gig_1057b,for example,1
+gig_1057c,however,1
+gig_1057c,throughout,2
+gig_1057d,however,1
+gig_1057e,again,1
+gig_1057f,but,2
+gig_1057f,yet,1
+gig_1058a,however,1
+gig_1058a,if,1
+gig_1058a,through,1
+gig_1058b,however,2
+gig_1058b,in the same way,1
+gig_1058b,once,1
+gig_1058b,thus,1
+gig_1058b,to conclude,1
+gig_1058c,after,3
+gig_1058c,finally,2
+gig_1058c,however,1
+gig_1058c,in short,1
+gig_1058c,since,1
+gig_1058c,then,1
+gig_1058c,yet,1
+gig_1058d,yet,1
+gig_1058e,instead,1
+gig_1058f,after,2
+gig_1058f,yet,1
+gig_1059a,then,1
+gig_1059c,again,1
+gig_1059d,however,1
+gig_1059e,then,1
+gig_105a,also,1
+gig_105a,but,1
+gig_105b,after,1
+gig_105b,so,6
+gig_1060b,on the other hand,1
+gig_1060c,but,1
+gig_1060c,even though,1
+gig_1060c,finally,1
+gig_1060c,then,1
+gig_1060d,yet,1
+gig_1060e,again,1
+gig_1060e,yet,1
+gig_1060f,but,1
+gig_1060f,yet,1
+gig_1061a,once,1
+gig_1061b,finally,1
+gig_1061b,however,2
+gig_1061b,not yet,1
+gig_1061c,all in all,1
+gig_1061c,furthermore,1
+gig_1061c,however,1
+gig_1061c,though,1
+gig_1061d,furthermore,1
+gig_1061d,once,1
+gig_1061d,though,1
+gig_1061d,using,1
+gig_1061e,whatever,1
+gig_1061f,however,1
+gig_1061f,instead,1
+gig_1061f,still,1
+gig_1062a,instead,1
+gig_1062a,still,1
+gig_1062b,finally,1
+gig_1062b,in conclusion,1
+gig_1062c,furthermore,1
+gig_1062c,in addition,1
+gig_1062c,in conclusion,1
+gig_1062c,moreover,1
+gig_1062c,since,1
+gig_1062d,until,1
+gig_1062e,however,1
+gig_1062e,moreover,1
+gig_1062e,while,1
+gig_1063a,but,2
+gig_1063a,instead,1
+gig_1063b,throughout,1
+gig_1063c,after,1
+gig_1063c,also,2
+gig_1063c,but,1
+gig_1063c,however,2
+gig_1063d,also,1
+gig_1063d,although,1
+gig_1063d,therefore,1
+gig_1063e,although,1
+gig_1063e,if,1
+gig_1063f,although,1
+gig_1063f,but,2
+gig_1063f,however,1
+gig_1063f,in fact,1
+gig_1064b,furthermore,2
+gig_1064b,however,1
+gig_1064b,in conclusion,1
+gig_1064c,after,1
+gig_1064c,furthermore,5
+gig_1064c,in conclusion,1
+gig_1064c,in the end,1
+gig_1064c,so,1
+gig_1064c,throughout,1
+gig_1064c,whilst,1
+gig_1064c,yet,2
+gig_1064d,again,2
+gig_1064d,even though,1
+gig_1064d,furthermore,1
+gig_1064d,however,1
+gig_1064e,furthermore,3
+gig_1064e,however,1
+gig_1065a,then,2
+gig_1065b,yet,2
+gig_1065c,although,1
+gig_1066a,although,2
+gig_1066a,but,1
+gig_1066a,instead,1
+gig_1066a,then,1
+gig_1066b,furthermore,1
+gig_1066b,however,1
+gig_1066b,in conclusion,1
+gig_1066c,finally,1
+gig_1066c,furthermore,5
+gig_1066c,lastly,1
+gig_1066c,next,1
+gig_1066c,to conclude,1
+gig_1066e,finally,1
+gig_1066e,for example,1
+gig_1066e,furthermore,1
+gig_1066e,in fact,1
+gig_1066e,so,1
+gig_1066f,however,1
+gig_1066f,soon,1
+gig_1067a,finally,1
+gig_1067a,next,1
+gig_1067b,finally,1
+gig_1067b,in conclusion,1
+gig_1067c,finally,1
+gig_1067c,furthermore,1
+gig_1067c,however,2
+gig_1067c,next,1
+gig_1067c,yet,1
+gig_1067d,also,1
+gig_1067d,although,2
+gig_1067d,however,1
+gig_1067d,once,1
+gig_1067d,perhaps,1
+gig_1067e,after,1
+gig_1067e,but,3
+gig_1067e,that is,1
+gig_1068a,after,1
+gig_1068a,due to,1
+gig_1068a,however,1
+gig_1068a,in conclusion,1
+gig_1068a,once,1
+gig_1068a,throughout,1
+gig_1068b,also,1
+gig_1068b,although,2
+gig_1068b,but,1
+gig_1069a,so,1
+gig_1069a,whereas,1
+gig_1069b,after,1
+gig_1069b,also,3
+gig_1069b,before,1
+gig_1069b,however,1
+gig_106a,actually,1
+gig_106a,but,3
+gig_106a,until,1
+gig_1070,earlier,1
+gig_1071,also,1
+gig_1071,for example,2
+gig_1071,however,1
+gig_1071,unfortunately,1
+gig_1071,whereas,1
+gig_1072a,after,2
+gig_1072a,but,2
+gig_1072a,so,1
+gig_1072b,but,2
+gig_1072b,throughout,2
+gig_1073,although,1
+gig_1073,before that,1
+gig_1073,but,1
+gig_1073,even though,1
+gig_1073,however,1
+gig_1073,later,1
+gig_1073,so,2
+gig_1073,so far,1
+gig_1074a,after,1
+gig_1074a,also,4
+gig_1074a,for example,2
+gig_1074a,for instance,1
+gig_1074a,later,1
+gig_1074a,never,1
+gig_1074a,throughout,1
+gig_1074a,to conclude,1
+gig_1074b,also,1
+gig_1074b,for instance,1
+gig_1074b,however,1
+gig_1074b,in conclusion,1
+gig_1074b,throughout,1
+gig_1075a,however,1
+gig_1075a,in conclusion,1
+gig_1075a,whilst,2
+gig_1075b,however,1
+gig_1075b,if,1
+gig_1075b,immediately,1
+gig_1075b,perhaps,2
+gig_1076a,also,1
+gig_1076a,immediately,1
+gig_1076b,also,1
+gig_1076b,earlier,1
+gig_1077a,even though,1
+gig_1077a,however,1
+gig_1077b,after,1
+gig_1077b,also,1
+gig_1077b,but,1
+gig_1077b,in conclusion,1
+gig_1078a,also,1
+gig_1078a,for example,3
+gig_1078a,for instance,1
+gig_1078a,however,2
+gig_1078a,in summary,1
+gig_1078a,so,1
+gig_1078b,also,1
+gig_1078b,for example,1
+gig_1078b,furthermore,1
+gig_1078b,however,4
+gig_1078b,moreover,1
+gig_1078b,whilst,1
+gig_1079,alternatively,1
+gig_1079,if,1
+gig_1079,immediately,1
+gig_1079,to conclude,1
+gig_1079,while,1
+gig_107a,so,1
+gig_107b,the next day,1
+gig_1080a,additionally,2
+gig_1080a,also,1
+gig_1080a,throughout,1
+gig_1080b,additionally,1
+gig_1080b,earlier,1
+gig_1080b,for example,2
+gig_1080b,however,2
+gig_1080b,later,1
+gig_1081,again,1
+gig_1081,furthermore,1
+gig_1081,in conclusion,1
+gig_1081,instead,1
+gig_1081,once,1
+gig_1081,unlike,1
+gig_1082a,however,1
+gig_1082a,in conclusion,1
+gig_1082a,in contrast,1
+gig_1082a,on the other hand,1
+gig_1082a,once,1
+gig_1082a,therefore,2
+gig_1082a,throughout,1
+gig_1082b,also,2
+gig_1082b,because of,1
+gig_1082b,but,1
+gig_1082b,however,1
+gig_1082b,instantly,1
+gig_1082b,later,1
+gig_1083a,mainly,1
+gig_1083b,furthermore,1
+gig_1084a,also,1
+gig_1084a,but,1
+gig_1084a,however,2
+gig_1084a,later,1
+gig_1084b,also,3
+gig_1084b,but,1
+gig_1084b,however,1
+gig_1084b,later,1
+gig_1084b,so,1
+gig_1085a,after,2
+gig_1085a,also,1
+gig_1085a,earlier,1
+gig_1085a,however,1
+gig_1085a,in conclusion,1
+gig_1085b,for example,1
+gig_1085b,however,1
+gig_1085b,in conclusion,1
+gig_1086,throughout,1
+gig_1087a,in conclusion,1
+gig_1087a,throughout,1
+gig_1087b,also,1
+gig_1087b,despite,1
+gig_1087b,however,1
+gig_1087b,in conclusion,1
+gig_1087b,through,1
+gig_1087b,throughout,2
+gig_1088a,additionally,1
+gig_1088a,also,1
+gig_1088a,however,1
+gig_1088a,therefore,1
+gig_1088b,additionally,2
+gig_1088b,also,2
+gig_1088b,although,1
+gig_1088b,however,2
+gig_1088b,if,2
+gig_1088b,so,1
+gig_1088b,ultimately,1
+gig_1089a,after,1
+gig_1089a,in conclusion,1
+gig_1089a,later,1
+gig_1089b,again,1
+gig_1089b,despite,1
+gig_1089b,in conclusion,1
+gig_1089b,yet,1
+gig_108b,while,1
+gig_1090,also,1
+gig_1090,for example,3
+gig_1090,however,1
+gig_1090,plus,1
+gig_1090,so,2
+gig_1091a,if not,1
+gig_1091a,instead,1
+gig_1091b,in contrast,1
+gig_1091d,for example,2
+gig_1091d,in contrast,1
+gig_1091d,whereas,1
+gig_1091e,however,1
+gig_1091e,if,2
+gig_1091e,so,1
+gig_1091f,next,1
+gig_1091f,repeatedly,1
+gig_1092a,although,1
+gig_1092a,furthermore,1
+gig_1092a,so,1
+gig_1092b,however,2
+gig_1092d,despite,1
+gig_1092d,however,1
+gig_1092e,also,1
+gig_1093d,however,1
+gig_1093e,although,1
+gig_1094d,if,1
+gig_1095a,furthermore,1
+gig_1095b,also,1
+gig_1095b,although,1
+gig_1095b,furthermore,1
+gig_1095b,however,1
+gig_1095b,moreover,1
+gig_1095b,on the other hand,1
+gig_1095b,whereas,1
+gig_1095c,also,1
+gig_1095c,furthermore,1
+gig_1095c,in addition,1
+gig_1095c,later,1
+gig_1095d,also,1
+gig_1095d,however,5
+gig_1095d,later,1
+gig_1095d,moreover,2
+gig_1095e,because,1
+gig_1095e,furthermore,1
+gig_1095e,however,2
+gig_1095e,if,1
+gig_1095e,in addition,1
+gig_1095f,too,1
+gig_1096b,but,2
+gig_1096d,although,1
+gig_1096d,on the other hand,1
+gig_1096e,but,1
+gig_1097b,for example,1
+gig_1097b,however,2
+gig_1097b,in addition,1
+gig_1097b,on the other hand,1
+gig_1097c,also,1
+gig_1097c,for example,1
+gig_1097c,in addition,1
+gig_1097d,also,1
+gig_1097d,for example,2
+gig_1097d,however,2
+gig_1097d,in contrast,1
+gig_1097d,then,1
+gig_1097e,because,1
+gig_1097e,but,2
+gig_1097e,in reality,1
+gig_1097e,unfortunately,3
+gig_1097f,although,1
+gig_1097f,however,1
+gig_1097f,instantly,1
+gig_1097f,then,3
+gig_1098b,also,1
+gig_1098c,also,1
+gig_1098d,also,1
+gig_1098d,even though,1
+gig_1098e,also,1
+gig_1098f,then,1
+gig_1098f,until,1
+gig_1098f,while,1
+gig_1099a,on the other hand,1
+gig_1099b,on the other hand,1
+gig_1099b,whereas,1
+gig_1099c,lastly,1
+gig_1099e,but,1
+gig_1099f,but,1
+gig_109a,also,1
+gig_109a,thanks to,1
+gig_109b,so,1
+gig_1100a,however,1
+gig_1100c,then,1
+gig_1100d,whereas,1
+gig_1100e,because,1
+gig_1100e,but,1
+gig_1100e,if,1
+gig_1100e,or,1
+gig_1101b,because,1
+gig_1101b,so,2
+gig_1101e,because,1
+gig_1101e,but,2
+gig_1101e,however,2
+gig_1101e,so,1
+gig_1102a,after,1
+gig_1102b,but,1
+gig_1102b,whereas,1
+gig_1102d,as in,1
+gig_1102d,throughout,1
+gig_1102d,yet,1
+gig_1102e,however,1
+gig_1102e,therefore,1
+gig_1102f,although,1
+gig_1102f,using,1
+gig_1103a,even though,1
+gig_1103b,however,1
+gig_1103f,then,1
+gig_1104,if,1
+gig_1104,so,1
+gig_1104,therefore,1
+gig_1105a,but,1
+gig_1105a,moreover,1
+gig_1105a,so,1
+gig_1105b,in contrast,1
+gig_1105c,additionally,1
+gig_1105c,furthermore,1
+gig_1105d,however,2
+gig_1105e,that is,1
+gig_1105f,in the end,1
+gig_1105f,never,1
+gig_1105f,so,1
+gig_1106a,additionally,1
+gig_1106a,also,1
+gig_1106a,but,1
+gig_1106b,furthermore,1
+gig_1106b,on the other hand,1
+gig_1106b,whereas,1
+gig_1106c,also,1
+gig_1106d,on the other hand,1
+gig_1106d,whereas,1
+gig_1106e,also,1
+gig_1106e,but,2
+gig_1106e,for example,1
+gig_1106e,furthermore,1
+gig_1106e,in addition,1
+gig_1106e,in conclusion,1
+gig_1106e,on the other hand,1
+gig_1106e,so,1
+gig_1106f,then,1
+gig_1107b,then,1
+gig_1108a,first,1
+gig_1108a,so,1
+gig_1108b,however,1
+gig_1108d,but,1
+gig_1108e,but,1
+gig_1108e,however,1
+gig_1108f,then,1
+gig_1108f,until,1
+gig_1109b,however,1
+gig_1109b,on the other hand,1
+gig_1109d,but,1
+gig_1109d,on the other hand,1
+gig_1109d,such as,1
+gig_1109d,whereas,1
+gig_1109e,however,1
+gig_110a,but,1
+gig_110a,if,3
+gig_110b,apart from,1
+gig_110b,even though,1
+gig_110b,in fact,1
+gig_110b,or,1
+gig_1110,after,1
+gig_1110,also,1
+gig_1110,due to,1
+gig_1110,furthermore,1
+gig_1110,however,1
+gig_1110,in conclusion,1
+gig_1110,through,1
+gig_1110,throughout,1
+gig_1110,ultimately,1
+gig_1111a,but,2
+gig_1111a,for example,1
+gig_1111a,otherwise,1
+gig_1111a,through,2
+gig_1111a,using,1
+gig_1111b,again,1
+gig_1111b,but,1
+gig_1111b,for example,1
+gig_1111b,instead,1
+gig_1111b,so,1
+gig_1111b,therefore,1
+gig_1111b,throughout,1
+gig_1112a,but,1
+gig_1113,in conclusion,1
+gig_1115c,whereas,1
+gig_1115d,if,3
+gig_1115d,so,1
+gig_1115d,without,1
+gig_1116a,but,1
+gig_1116b,later,2
+gig_1116c,but,1
+gig_1116c,the next day,1
+gig_1118a,also,1
+gig_1118a,however,1
+gig_1118a,whereas,1
+gig_1118b,also,1
+gig_1118b,furthermore,1
+gig_1118c,however,1
+gig_1118d,as an example,1
+gig_1118d,however,1
+gig_1118d,that is,1
+gig_1118e,then,1
+gig_1119c,however,1
+gig_111a,however,1
+gig_111b,at least,1
+gig_111b,but,2
+gig_111b,until,1
+gig_111b,yet,1
+gig_1121a,first,2
+gig_1121b,but,1
+gig_1121c,before long,1
+gig_1121c,soon,1
+gig_1121f,on the other hand,1
+gig_1124e,if,1
+gig_1125c,in conclusion,1
+gig_1126a,but,1
+gig_1126c,but,1
+gig_1127a,in conclusion,1
+gig_1128c,in conclusion,1
+gig_1128c,on the other hand,1
+gig_1129e,then,1
+gig_1129f,because,1
+gig_1129f,but,1
+gig_113,also,1
+gig_113,but,1
+gig_113,on the other hand,1
+gig_1130e,if,1
+gig_1131c,but,1
+gig_1131c,on the other hand,1
+gig_1132c,lastly,1
+gig_1132f,lastly,1
+gig_1132g,if,1
+gig_1134d,because,2
+gig_1135g,after,1
+gig_1135h,because,1
+gig_1135h,in conclusion,1
+gig_1135h,on the other hand,1
+gig_1136a,but,2
+gig_1136a,on the other hand,1
+gig_1137e,in conclusion,1
+gig_1138a,lastly,1
+gig_1138a,on the other hand,1
+gig_1138b,after,1
+gig_1138b,then,1
+gig_1138c,if,1
+gig_1138d,on the other hand,1
+gig_1139b,but,1
+gig_1139b,first,1
+gig_1139d,so,1
+gig_114,also,2
+gig_114,to conclude,1
+gig_1140a,then,1
+gig_1140b,second,1
+gig_1140c,also,3
+gig_1140c,in conclusion,1
+gig_115,but,4
+gig_115,however,1
+gig_115,so,3
+gig_116,although,2
+gig_116,but,1
+gig_116,however,1
+gig_117,but,1
+gig_117,if,1
+gig_117,in conclusion,1
+gig_119,however,1
+gig_119,if,1
+gig_119,in fact,1
+gig_119,so,1
+gig_119,too,1
+gig_11b,finally,1
+gig_11c,but,1
+gig_11c,then,2
+gig_11d,so,1
+gig_11d,soon,1
+gig_11d,then,1
+gig_120,if,1
+gig_120,in conclusion,1
+gig_121,furthermore,1
+gig_121,however,1
+gig_121,on the other hand,1
+gig_122,also,1
+gig_122,if,2
+gig_122,to conclude,1
+gig_123,however,2
+gig_123,if,1
+gig_123,in addition,1
+gig_123,since,1
+gig_123,that is,1
+gig_125,but,1
+gig_125,however,1
+gig_125,so,1
+gig_126,also,1
+gig_126,furthermore,1
+gig_126,in addition,1
+gig_126,instead,1
+gig_128,if,1
+gig_128,so,2
+gig_128,whereas,1
+gig_129,instead,1
+gig_130,so,1
+gig_130,unless,1
+gig_131,but,2
+gig_131,even though,1
+gig_131,however,2
+gig_131,if,1
+gig_131,or,1
+gig_131,so,2
+gig_132,alternatively,1
+gig_133,also,1
+gig_133,but,1
+gig_133,finally,1
+gig_133,in addition,1
+gig_133,on the other hand,1
+gig_133,to conclude,1
+gig_134,additionally,2
+gig_134,also,1
+gig_134,that is,1
+gig_135,but,2
+gig_135,finally,1
+gig_135,further,1
+gig_135,furthermore,1
+gig_135,however,1
+gig_135,if,1
+gig_135,never,1
+gig_135,so,1
+gig_136,however,1
+gig_136,if,1
+gig_137,if,1
+gig_137,so,1
+gig_137,therefore,1
+gig_137,too,1
+gig_139,although,1
+gig_139,because,1
+gig_13b,finally,1
+gig_13b,next,1
+gig_13d,but,1
+gig_140,before,1
+gig_140,too,1
+gig_141,maybe,1
+gig_142,although,1
+gig_142,however,1
+gig_142,if,1
+gig_142,the next day,1
+gig_142,then,1
+gig_142,without,1
+gig_143,before,1
+gig_143,until,1
+gig_144,because,1
+gig_144,but,1
+gig_144,immediately,1
+gig_145,at least,1
+gig_145,but,1
+gig_145,from then on,1
+gig_145,in the end,1
+gig_145,so,2
+gig_146,but,2
+gig_146,maybe,1
+gig_146,perhaps,1
+gig_146,so,1
+gig_146,though,1
+gig_148,after,1
+gig_148,because,1
+gig_148,but,6
+gig_148,yet,1
+gig_149,after,1
+gig_149,still,1
+gig_150,apart from,1
+gig_150,but,3
+gig_150,but for,1
+gig_150,despite,1
+gig_150,so,3
+gig_150,too,1
+gig_151,after,1
+gig_151,so,1
+gig_151,then,1
+gig_152,so,3
+gig_154,but,1
+gig_154,then,1
+gig_155,however,2
+gig_155,so,1
+gig_155,then,1
+gig_156,but,2
+gig_156,if,1
+gig_156,never,1
+gig_156,whilst,1
+gig_157,but,3
+gig_157,once,1
+gig_157,or,1
+gig_157,then,2
+gig_158,although,1
+gig_158,but,1
+gig_158,so,1
+gig_159,but,1
+gig_159,never,2
+gig_15d,next,1
+gig_160,before,2
+gig_160,but,1
+gig_160,never,1
+gig_160,or,2
+gig_160,whilst,1
+gig_162,after,1
+gig_162,but,2
+gig_163,again,1
+gig_163,but,1
+gig_163,never,1
+gig_163,until,1
+gig_164,but,1
+gig_164,so,1
+gig_165,anyway,1
+gig_165,but,3
+gig_165,then,1
+gig_165,unfortunately,1
+gig_165,whilst,1
+gig_166,however,2
+gig_166,then,1
+gig_166,until,1
+gig_167,before,1
+gig_167,if,1
+gig_167,then,2
+gig_168,so,2
+gig_169,because,2
+gig_169,finally,1
+gig_169,then,1
+gig_16a,but,1
+gig_16c,later,1
+gig_16d,then,2
+gig_170,instead,1
+gig_170,then,1
+gig_171,but,4
+gig_171,first,1
+gig_171,if,1
+gig_171,then,1
+gig_172,although,1
+gig_173,but,1
+gig_173,however,1
+gig_173,yet,1
+gig_174,although,1
+gig_174,until,1
+gig_175,however,1
+gig_176,then,2
+gig_176,without,1
+gig_177,although,1
+gig_177,but,1
+gig_177,then,1
+gig_178,but,1
+gig_178,fortunately,1
+gig_178,in fact,1
+gig_178,or,1
+gig_178,then,1
+gig_179,although,1
+gig_179,so,1
+gig_182,but,2
+gig_182,however,2
+gig_183,then,1
+gig_184,after,3
+gig_185,but,1
+gig_185,no more,2
+gig_186,still,1
+gig_186,then,1
+gig_187,however,1
+gig_187,so,1
+gig_188,next,1
+gig_189,before,1
+gig_189,but,4
+gig_189,then,1
+gig_189,unfortunately,1
+gig_18d,if,1
+gig_18d,next,1
+gig_190,but,1
+gig_190,so,2
+gig_190,then,1
+gig_191,also,1
+gig_191,but,2
+gig_191,however,1
+gig_191,later,1
+gig_193,however,1
+gig_193,next,1
+gig_193,then,1
+gig_194,maybe,1
+gig_195,once,1
+gig_196,after all,1
+gig_196,finally,1
+gig_196,so,1
+gig_199,after,1
+gig_199,but,1
+gig_199,such as,1
+gig_19a,next,1
+gig_2,moreover,1
+gig_200,although,1
+gig_200,for this reason,1
+gig_200,unfortunately,1
+gig_201,then,3
+gig_202,but,1
+gig_203,but,1
+gig_203,the next day,1
+gig_204,after,1
+gig_204,once,2
+gig_205,but,2
+gig_205,however,1
+gig_205,if,1
+gig_205,so,1
+gig_205,then,1
+gig_206,but,2
+gig_206,still,1
+gig_207,because,1
+gig_207,but,2
+gig_207,so,1
+gig_208,but,1
+gig_208,so,1
+gig_209,while,1
+gig_211,after,1
+gig_211,maybe,1
+gig_211,then,1
+gig_211,until,1
+gig_212,but,1
+gig_212,soon,1
+gig_213,but,1
+gig_213,still,1
+gig_214,after,2
+gig_214,then,1
+gig_215,however,1
+gig_215,so,2
+gig_215,then,1
+gig_216,but,2
+gig_216,if,1
+gig_217,after,1
+gig_218,if,1
+gig_218,that is,1
+gig_218,then,1
+gig_219,because,1
+gig_219,but,2
+gig_219,finally,1
+gig_219,then,6
+gig_21a,then,1
+gig_220,first,1
+gig_220,if,1
+gig_220,until,1
+gig_223,once,1
+gig_224,if,1
+gig_224,then,1
+gig_225,then,1
+gig_226,then,1
+gig_227,as i was saying,1
+gig_227,but,1
+gig_228,after,1
+gig_228,without,1
+gig_229,apart from,1
+gig_229,but,1
+gig_229,if,1
+gig_229,then,4
+gig_230,after,1
+gig_230,then,1
+gig_231,because,1
+gig_231,but,1
+gig_231,or,1
+gig_231,then,1
+gig_231,until,1
+gig_232,also,1
+gig_232,so far,1
+gig_232,then,1
+gig_233,after,2
+gig_234,next,1
+gig_236,also,1
+gig_236,but,1
+gig_236,then,1
+gig_238,although,1
+gig_238,even though,1
+gig_239,if,1
+gig_239,no more,3
+gig_239,then,1
+gig_240,at least,1
+gig_240,but,3
+gig_241,while,1
+gig_242,but,2
+gig_243,so,1
+gig_244,but,4
+gig_244,that is,1
+gig_244,then,1
+gig_246,but,2
+gig_246,so,1
+gig_247,before,1
+gig_247,but,5
+gig_247,once,1
+gig_248,after,1
+gig_248,or,1
+gig_249,but,1
+gig_251,no more,1
+gig_251,soon,1
+gig_251,therefore,1
+gig_254,also,1
+gig_254,then,1
+gig_256,or,1
+gig_258,but,3
+gig_259,the next day,1
+gig_25a,but,1
+gig_25a,then,1
+gig_25c,then,1
+gig_25d,after,2
+gig_25d,later,1
+gig_25d,next,1
+gig_25d,soon,1
+gig_260,but,1
+gig_262,while,1
+gig_264,but,1
+gig_264,once,1
+gig_264,the next day,1
+gig_264,while,1
+gig_269,after,1
+gig_269,first,1
+gig_269,so,1
+gig_270,although,1
+gig_270,though,1
+gig_271,after,1
+gig_271,but,1
+gig_272,once,1
+gig_272,then,1
+gig_272,until,2
+gig_272,while,1
+gig_273,before,2
+gig_275,including,1
+gig_278,then,1
+gig_279,if,1
+gig_27c,but,2
+gig_282,but,1
+gig_282,if,1
+gig_283,because,1
+gig_283,so,1
+gig_284,the next day,1
+gig_285,so,1
+gig_285,then,1
+gig_286,but,1
+gig_289,after,1
+gig_28d,next,1
+gig_290,if,1
+gig_291,if,1
+gig_293,also,1
+gig_294,anyway,1
+gig_294,however,1
+gig_294,or,1
+gig_294,so,2
+gig_297,once,1
+gig_299,but,1
+gig_3,although,1
+gig_3,finally,1
+gig_3,furthermore,1
+gig_3,moreover,1
+gig_300,but,2
+gig_300,so,1
+gig_301,but,2
+gig_301,so,1
+gig_304,after,2
+gig_304,after all,1
+gig_304,maybe,1
+gig_307,but,1
+gig_307,or,1
+gig_307,so,2
+gig_308,if,1
+gig_309,then,2
+gig_310,in the end,1
+gig_312,so,2
+gig_314,while,1
+gig_316c,first,1
+gig_316e,because,2
+gig_317c,next,2
+gig_317c,then,1
+gig_317e,because,1
+gig_317f,so,1
+gig_317g,but,1
+gig_317j,next,1
+gig_318a,finally,1
+gig_318a,first,1
+gig_318a,next,2
+gig_318b,but,4
+gig_319c,finally,1
+gig_31b,first,1
+gig_31b,second,1
+gig_31c,after,1
+gig_31d,first,1
+gig_31d,soon,1
+gig_320a,finally,1
+gig_320a,first,1
+gig_320a,then,1
+gig_321a,but,2
+gig_321a,even though,1
+gig_321a,later,1
+gig_321a,so,2
+gig_321c,also,2
+gig_321c,but,5
+gig_321c,later,1
+gig_321c,then,3
+gig_321d,next,1
+gig_321d,then,1
+gig_322a,also,1
+gig_322c,after,2
+gig_322c,first,1
+gig_322c,then,1
+gig_323a,later,1
+gig_323c,first,1
+gig_323c,then,2
+gig_324a,after,1
+gig_324c,after,3
+gig_324c,finally,1
+gig_324c,first,1
+gig_324c,meanwhile,1
+gig_324c,next,2
+gig_324c,then,1
+gig_324d,also,1
+gig_324e,after,2
+gig_324e,in the morning,1
+gig_324e,then,1
+gig_325b,at once,1
+gig_325b,but,2
+gig_325c,if,1
+gig_325c,in the morning,1
+gig_325c,then,4
+gig_326d,after,1
+gig_326d,then,1
+gig_327a,after,1
+gig_327a,finally,1
+gig_327a,next,1
+gig_327d,next,1
+gig_328b,also,1
+gig_328c,after,1
+gig_328c,but,1
+gig_328d,also,1
+gig_328d,for example,1
+gig_328d,in conclusion,1
+gig_328e,after a while,1
+gig_328e,but,1
+gig_328e,so,1
+gig_328e,while,2
+gig_329c,also,1
+gig_329c,next,1
+gig_329c,so,1
+gig_329e,then,1
+gig_32d,but,1
+gig_32d,so,1
+gig_330a,but,1
+gig_330a,if,1
+gig_330a,whereas,1
+gig_330b,so,1
+gig_330c,no more,1
+gig_330d,next,1
+gig_330e,finally,1
+gig_330e,for example,1
+gig_330f,also,1
+gig_330f,finally,1
+gig_330f,next,2
+gig_330f,then,1
+gig_330g,because,1
+gig_330g,still,1
+gig_331c,after,2
+gig_331c,finally,1
+gig_331c,first,1
+gig_331c,next,1
+gig_331c,then,1
+gig_331d,finally,1
+gig_331d,then,2
+gig_331e,so,1
+gig_332b,then,1
+gig_332c,after,1
+gig_332c,but,1
+gig_332d,so,2
+gig_332e,but,1
+gig_332e,if,1
+gig_332g,but,1
+gig_333a,after,1
+gig_333a,meanwhile,1
+gig_333a,then,1
+gig_333b,after,1
+gig_333b,meanwhile,1
+gig_333e,if,1
+gig_333f,also,1
+gig_333f,once,1
+gig_333g,also,1
+gig_333g,but,1
+gig_333g,once,1
+gig_334a,whilst,1
+gig_334b,but,1
+gig_334b,the next day,1
+gig_334c,later,1
+gig_334d,also,2
+gig_334e,then,1
+gig_334f,after,1
+gig_334f,at last,1
+gig_334f,so,1
+gig_334f,soon,1
+gig_334h,so,1
+gig_335a,later,1
+gig_335a,whilst,1
+gig_335b,since,1
+gig_335d,after,1
+gig_335d,but,1
+gig_335d,so,1
+gig_335d,then,1
+gig_335d,therefore,1
+gig_335f,if,1
+gig_335f,so,1
+gig_335g,if,2
+gig_336a,if,1
+gig_336b,then,1
+gig_336d,then,4
+gig_337a,after,1
+gig_339a,after,1
+gig_339a,although,1
+gig_339a,but,4
+gig_339a,finally,1
+gig_339a,never,1
+gig_339a,since,2
+gig_339a,so,1
+gig_339b,but,2
+gig_339b,so,1
+gig_339b,through,1
+gig_339e,because,1
+gig_339e,whilst,1
+gig_339f,including,1
+gig_339g,but,2
+gig_339g,first,1
+gig_339g,results,1
+gig_339g,then,1
+gig_339g,while,1
+gig_339h,but,1
+gig_339h,first,1
+gig_339i,but,1
+gig_339i,if,1
+gig_33a,so,1
+gig_33b,finally,1
+gig_33b,next,1
+gig_33b,soon,1
+gig_33c,after a while,1
+gig_33c,meanwhile,1
+gig_33c,so,1
+gig_33d,first,1
+gig_33d,so,1
+gig_37a,next,1
+gig_37c,after a while,1
+gig_37c,finally,1
+gig_37c,next,1
+gig_37c,without,1
+gig_37d,after,1
+gig_38a,so,1
+gig_38b,finally,1
+gig_38c,but,2
+gig_38d,first,1
+gig_38d,then,1
+gig_4,although,1
+gig_4,despite,1
+gig_4,throughout,1
+gig_40a,then,1
+gig_41a,also,1
+gig_42a,then,1
+gig_42b,next,1
+gig_42c,finally,1
+gig_42c,then,2
+gig_42d,first,1
+gig_43a,so,1
+gig_43a,then,1
+gig_43b,after,1
+gig_43b,then,1
+gig_43d,but,1
+gig_43d,if,1
+gig_43d,next,1
+gig_440a,before,1
+gig_440a,once,1
+gig_440a,then,1
+gig_440a,while,1
+gig_440c,then,2
+gig_440e,later,1
+gig_440f,but,1
+gig_440g,then,1
+gig_440i,but,1
+gig_440i,finally,1
+gig_440i,next,2
+gig_440i,results,1
+gig_440i,then,2
+gig_440j,next,1
+gig_440j,results,1
+gig_441a,but,2
+gig_441a,so,1
+gig_441a,through,1
+gig_441c,after,1
+gig_441c,after a while,1
+gig_441c,finally,1
+gig_441c,first,1
+gig_441c,once,2
+gig_441e,but,1
+gig_441e,through,1
+gig_441g,before,1
+gig_441g,but,1
+gig_441g,once,1
+gig_441h,because,1
+gig_441j,without,1
+gig_441k,before,1
+gig_441k,finally,1
+gig_441k,next,1
+gig_441k,results,1
+gig_441k,then,1
+gig_441l,next,1
+gig_441l,results,1
+gig_442d,after,1
+gig_442d,in conclusion,1
+gig_442d,then,2
+gig_442e,first,1
+gig_442e,results,1
+gig_442e,then,1
+gig_442e,while,1
+gig_442f,also,1
+gig_443a,anyway,1
+gig_443a,at this moment,1
+gig_443a,before,1
+gig_443b,but,2
+gig_443b,so,1
+gig_443d,additionally,2
+gig_443e,so far,1
+gig_443e,then,1
+gig_443e,whilst,1
+gig_443f,but,3
+gig_443f,without,1
+gig_443g,even though,1
+gig_443g,first,1
+gig_443g,next,1
+gig_443g,whilst,1
+gig_443h,but,1
+gig_443h,next,1
+gig_443h,then,1
+gig_444a,if,1
+gig_444a,once,1
+gig_444a,then,3
+gig_444b,all the while,1
+gig_444b,however,1
+gig_444b,second,1
+gig_444b,so,1
+gig_444b,still,1
+gig_444b,through,1
+gig_444c,all the while,1
+gig_444c,however,1
+gig_444c,second,1
+gig_444c,so,1
+gig_444c,still,1
+gig_444c,through,1
+gig_444e,later,1
+gig_444e,so far,1
+gig_444f,additionally,1
+gig_444g,also,1
+gig_444g,meanwhile,1
+gig_444h,the whole time,1
+gig_444i,next,1
+gig_444k,next,1
+gig_444k,results,1
+gig_444k,then,2
+gig_444l,without,1
+gig_445a,after,1
+gig_445a,once,2
+gig_445a,so,1
+gig_445a,until then,1
+gig_445b,so,2
+gig_445b,while,2
+gig_445c,however,1
+gig_445d,if,1
+gig_445d,so,1
+gig_445e,even though,2
+gig_445g,then,1
+gig_445g,while,1
+gig_445i,first,1
+gig_445i,if,1
+gig_446c,while,2
+gig_446d,so,1
+gig_446e,but,1
+gig_446e,so,1
+gig_446g,but,1
+gig_446g,results,1
+gig_446g,then,1
+gig_446g,while,1
+gig_446h,so,1
+gig_446i,so,1
+gig_447a,because,1
+gig_447a,but,2
+gig_447a,so,1
+gig_447a,through,1
+gig_447e,because,1
+gig_447e,but,1
+gig_447e,so,1
+gig_447e,through,1
+gig_447f,because,1
+gig_447g,because,2
+gig_447g,because of,1
+gig_447h,without,1
+gig_447j,then,1
+gig_447k,if,1
+gig_447k,so,1
+gig_448a,before,1
+gig_448a,first,1
+gig_448a,if,1
+gig_448b,but,2
+gig_448b,meanwhile,1
+gig_448b,so,1
+gig_448b,through,1
+gig_448c,after,2
+gig_448c,but,3
+gig_448c,meanwhile,1
+gig_448c,so,1
+gig_448c,through,1
+gig_448c,yet,1
+gig_448e,also,1
+gig_448e,furthermore,1
+gig_448e,moreover,1
+gig_448e,shortly,1
+gig_448f,additionally,2
+gig_448f,also,2
+gig_448f,finally,1
+gig_448f,furthermore,1
+gig_448f,moreover,1
+gig_448g,after,1
+gig_448g,still,1
+gig_448g,though,1
+gig_448h,but,1
+gig_448h,finally,1
+gig_448h,however,1
+gig_448h,next,1
+gig_448h,then,1
+gig_448i,but,1
+gig_448i,however,1
+gig_448i,if,1
+gig_448i,without,2
+gig_448j,after,1
+gig_448j,finally,1
+gig_448j,next,1
+gig_448j,results,1
+gig_448j,then,1
+gig_448k,if,1
+gig_448l,next,1
+gig_448l,results,1
+gig_449c,after,1
+gig_449c,if,1
+gig_449c,then,1
+gig_449d,so,1
+gig_449e,after,1
+gig_449e,finally,1
+gig_449e,results,1
+gig_449e,then,2
+gig_449f,also,1
+gig_449g,also,1
+gig_449g,finally,1
+gig_449g,next,1
+gig_449g,then,1
+gig_44a,also,1
+gig_44b,after a while,1
+gig_44b,next,1
+gig_44b,then,1
+gig_44d,after,2
+gig_44d,before that,1
+gig_450a,after,1
+gig_450a,but,1
+gig_450a,or,1
+gig_450b,maybe,1
+gig_450b,while,1
+gig_450c,while,1
+gig_450f,also,1
+gig_450f,if,1
+gig_450h,so that,1
+gig_450h,that is,1
+gig_450i,also,1
+gig_450i,because,1
+gig_450k,then,1
+gig_450k,while,1
+gig_450l,without,1
+gig_451a,earlier,1
+gig_451b,but,1
+gig_451b,since,2
+gig_451b,while,1
+gig_451c,but,1
+gig_451c,since,2
+gig_451e,additionally,1
+gig_451e,also,1
+gig_452a,before,1
+gig_452a,through,1
+gig_452b,but,2
+gig_452b,so,1
+gig_452b,still,1
+gig_452b,through,1
+gig_452c,but,2
+gig_452c,so,1
+gig_452c,still,1
+gig_452c,through,1
+gig_452e,after,2
+gig_452f,additionally,3
+gig_452f,furthermore,2
+gig_452g,next,1
+gig_452g,results,1
+gig_452g,then,1
+gig_452h,also,2
+gig_452i,also,1
+gig_453a,also,2
+gig_453a,first,1
+gig_453a,so,1
+gig_453a,while,2
+gig_453b,although,1
+gig_453b,while,1
+gig_453c,also,2
+gig_453d,next,1
+gig_453d,then,1
+gig_453f,first,1
+gig_453h,after,1
+gig_453h,so,1
+gig_454a,after,1
+gig_454a,in the end,1
+gig_454a,then,2
+gig_454b,but,2
+gig_454b,through,1
+gig_454b,throughout,1
+gig_454c,but,2
+gig_454c,through,1
+gig_454c,throughout,1
+gig_454e,additionally,2
+gig_454e,also,1
+gig_454f,also,1
+gig_454h,although,1
+gig_454h,if,1
+gig_454j,results,1
+gig_454j,while,1
+gig_454k,such as,1
+gig_454k,without,1
+gig_455b,but,1
+gig_455b,so,1
+gig_455e,later,1
+gig_455g,after,1
+gig_455g,also,1
+gig_455g,next,2
+gig_455g,then,2
+gig_455h,next,1
+gig_456g,first,1
+gig_456g,results,1
+gig_456g,then,2
+gig_456i,then,2
+gig_457a,but,1
+gig_457d,if,1
+gig_457e,after,1
+gig_457e,that is,1
+gig_457g,results,1
+gig_457g,that is,1
+gig_457g,then,2
+gig_457h,then,1
+gig_457i,after,1
+gig_457i,finally,1
+gig_457i,next,1
+gig_457i,so,1
+gig_457i,then,1
+gig_457j,if,1
+gig_458a,after,2
+gig_458a,although,2
+gig_458a,just then,2
+gig_458a,once,1
+gig_458a,so,1
+gig_458a,that is,1
+gig_458b,but,2
+gig_458b,however,1
+gig_458b,through,2
+gig_458b,while,1
+gig_458c,but,2
+gig_458c,however,1
+gig_458c,through,2
+gig_458e,in conclusion,1
+gig_458e,shortly,1
+gig_458h,but,1
+gig_458h,then,1
+gig_458j,after,3
+gig_458j,again,1
+gig_458j,results,1
+gig_458j,then,2
+gig_458k,so,1
+gig_458k,so that,1
+gig_458l,after,1
+gig_458l,immediately,1
+gig_458l,once,1
+gig_458l,shortly,1
+gig_458m,also,1
+gig_458m,however,1
+gig_458m,the next day,1
+gig_459a,but,2
+gig_459c,at dawn,1
+gig_459c,once,1
+gig_459f,but,1
+gig_459f,so,1
+gig_459g,but,1
+gig_459g,then,1
+gig_459i,results,1
+gig_459i,so,1
+gig_459j,next,1
+gig_459k,so far,1
+gig_460a,so,1
+gig_460h,but,1
+gig_460h,without,1
+gig_460i,results,1
+gig_460j,next,2
+gig_460j,results,1
+gig_461a,after,1
+gig_461a,however,3
+gig_461b,but,1
+gig_461b,however,1
+gig_461b,so,1
+gig_461b,through,1
+gig_461c,but,1
+gig_461c,however,1
+gig_461c,so,1
+gig_461c,through,1
+gig_461f,even though,1
+gig_461h,however,1
+gig_461h,so,1
+gig_461i,results,1
+gig_461i,then,1
+gig_461i,while,1
+gig_461j,if,1
+gig_461j,so,1
+gig_462a,so,2
+gig_462e,as a result,1
+gig_462f,also,1
+gig_462f,because,1
+gig_462g,after,1
+gig_462h,first,2
+gig_462h,results,1
+gig_462h,then,2
+gig_462h,while,1
+gig_462i,in conclusion,1
+gig_462j,although,1
+gig_462j,if,1
+gig_463a,but,2
+gig_463a,so,1
+gig_463c,finally,1
+gig_463c,however,1
+gig_463c,then,2
+gig_463f,but,1
+gig_463f,so,1
+gig_463k,finally,2
+gig_463k,next,2
+gig_463k,result,1
+gig_463k,then,3
+gig_463l,finally,1
+gig_463l,result,1
+gig_463l,then,1
+gig_463m,after,1
+gig_463m,immediately,1
+gig_464a,after,1
+gig_464a,once,1
+gig_464a,therefore,1
+gig_464b,once,1
+gig_464b,then,1
+gig_464b,while,1
+gig_464c,also,1
+gig_464d,also,1
+gig_464d,so that,1
+gig_464e,so,1
+gig_464f,by the way,1
+gig_464f,once,1
+gig_464g,finally,2
+gig_464g,next,2
+gig_464g,results,1
+gig_464g,then,3
+gig_464g,without,1
+gig_464i,finally,1
+gig_464i,results,1
+gig_464i,then,1
+gig_464j,so,1
+gig_465a,after,1
+gig_465a,once,1
+gig_465b,once,1
+gig_465b,then,1
+gig_465c,because,1
+gig_465d,once,1
+gig_465f,if,1
+gig_465g,after,1
+gig_465g,next,1
+gig_465g,results,1
+gig_465h,next,1
+gig_465h,results,1
+gig_465h,so,1
+gig_466b,but,1
+gig_466e,although,1
+gig_466g,in the morning,1
+gig_466g,once,1
+gig_466g,so,1
+gig_466g,then,1
+gig_466h,finally,1
+gig_466h,results,2
+gig_466h,then,4
+gig_466j,finally,1
+gig_466j,next,1
+gig_466j,results,1
+gig_466j,then,1
+gig_466k,shortly,1
+gig_467a,after,1
+gig_467a,while,1
+gig_467b,then,1
+gig_467b,while,1
+gig_467c,then,1
+gig_467f,after,1
+gig_467f,results,1
+gig_467i,after,1
+gig_467i,also,1
+gig_467i,first,1
+gig_467i,so,1
+gig_467i,then,1
+gig_468b,unfortunately,1
+gig_468d,also,2
+gig_468e,also,1
+gig_468e,so,1
+gig_468g,after,1
+gig_468g,also,1
+gig_468g,but,1
+gig_468g,results,1
+gig_468g,then,3
+gig_468h,but,1
+gig_468i,results,1
+gig_468i,then,1
+gig_468j,after,2
+gig_468j,once,1
+gig_468j,then,2
+gig_470b,but,1
+gig_470b,if,1
+gig_470c,however,2
+gig_470c,so,1
+gig_471b,apart from,1
+gig_471b,however,1
+gig_471b,to conclude,1
+gig_471c,however,2
+gig_471c,whereas,1
+gig_473b,that is,1
+gig_474c,however,2
+gig_475a,also,1
+gig_475b,additionally,1
+gig_475b,however,1
+gig_475b,in addition,1
+gig_475b,in conclusion,1
+gig_475b,maybe,1
+gig_475c,however,3
+gig_475c,on the other hand,1
+gig_476a,maybe,1
+gig_476a,to conclude,1
+gig_476b,although,1
+gig_476b,but,1
+gig_476b,despite,2
+gig_476b,furthermore,1
+gig_476b,however,1
+gig_476b,in conclusion,1
+gig_476b,therefore,1
+gig_476c,additionally,1
+gig_476c,even though,1
+gig_476c,for example,1
+gig_476c,however,1
+gig_477b,to conclude,1
+gig_477c,all in all,1
+gig_478b,also,1
+gig_478b,because,1
+gig_478b,but,1
+gig_478b,or,2
+gig_478b,so,3
+gig_478c,in conclusion,1
+gig_479a,also,1
+gig_479a,then,1
+gig_479b,also,1
+gig_479b,although,1
+gig_479b,but,1
+gig_479b,even though,1
+gig_479b,if,3
+gig_479b,in conclusion,1
+gig_479b,never,1
+gig_479b,plus,1
+gig_479b,then,1
+gig_479c,also,1
+gig_479c,however,3
+gig_479c,so,1
+gig_479d,also,1
+gig_47b,then,1
+gig_47c,but,1
+gig_47d,then,1
+gig_480a,for example,1
+gig_480a,however,1
+gig_480c,additionally,1
+gig_480c,despite this,1
+gig_480c,however,1
+gig_480c,in conclusion,1
+gig_480c,in fact,1
+gig_480d,throughout,1
+gig_481b,if,1
+gig_481b,so,1
+gig_481c,although,1
+gig_482a,however,1
+gig_482b,furthermore,1
+gig_482b,in addition,1
+gig_482b,to conclude,1
+gig_482c,however,2
+gig_482d,also,1
+gig_483b,in conclusion,1
+gig_483b,on the other hand,1
+gig_483c,however,1
+gig_483d,so,1
+gig_484b,although,1
+gig_484b,in conclusion,1
+gig_484c,also,1
+gig_484c,however,1
+gig_485a,after,1
+gig_485a,furthermore,1
+gig_485a,in addition,1
+gig_485a,to conclude,1
+gig_485b,even though,1
+gig_485c,on the other hand,1
+gig_485c,to conclude,1
+gig_485d,throughout,1
+gig_486c,although,1
+gig_486c,however,1
+gig_486c,in conclusion,1
+gig_486d,however,1
+gig_486d,in conclusion,1
+gig_486d,so,1
+gig_487b,also,1
+gig_487b,further,1
+gig_487b,in addition,2
+gig_487c,but,1
+gig_487c,however,1
+gig_488a,also,1
+gig_488b,also,1
+gig_488c,however,1
+gig_488c,in conclusion,1
+gig_488c,instead,1
+gig_488c,nevertheless,1
+gig_489,then,1
+gig_491,although,1
+gig_491,neither,1
+gig_492,but,1
+gig_493,that is,1
+gig_494,first,1
+gig_496,after,1
+gig_496,but,2
+gig_496,however,2
+gig_497,again,1
+gig_497,at least,1
+gig_497,because of,1
+gig_497,later,1
+gig_497,then,1
+gig_498,so,1
+gig_499,anyway,1
+gig_499,by the way,1
+gig_499,if,1
+gig_499,in conclusion,1
+gig_499,then,1
+gig_49a,so,2
+gig_49a,then,1
+gig_49b,later,1
+gig_49b,next,1
+gig_49b,then,1
+gig_49c,then,1
+gig_49d,after,1
+gig_5,however,1
+gig_5,if,1
+gig_5,in conclusion,1
+gig_5,later,1
+gig_5,moreover,1
+gig_5,throughout,1
+gig_500,neither,1
+gig_500,never,1
+gig_501,if,1
+gig_501,next,1
+gig_502,finally,1
+gig_502,however,1
+gig_502,in that,1
+gig_503,even though,1
+gig_503,first,1
+gig_503,next,1
+gig_504,despite this,1
+gig_504,then,2
+gig_504,therefore,1
+gig_504,yet,1
+gig_505,on the other hand,1
+gig_505,so,1
+gig_506,after all,1
+gig_506,but,1
+gig_506,then,1
+gig_506,until,1
+gig_507,also,2
+gig_507,however,1
+gig_508,then,1
+gig_509,but,2
+gig_509,however,1
+gig_509,if,1
+gig_50d,after,1
+gig_50d,first,1
+gig_510,but,2
+gig_513,also,1
+gig_513,if,1
+gig_514,but,1
+gig_514,if,3
+gig_516,also,4
+gig_516,but,1
+gig_516,lastly,1
+gig_516,then,1
+gig_517a,once,1
+gig_517a,so,1
+gig_517c,but,1
+gig_517c,then,1
+gig_518a,so,1
+gig_518b,after,1
+gig_518b,meanwhile,1
+gig_518d,finally,1
+gig_518d,still,1
+gig_519a,after,1
+gig_519a,later,1
+gig_519a,next,1
+gig_519a,then,3
+gig_519b,finally,1
+gig_519b,then,1
+gig_519d,if,2
+gig_51a,after a while,1
+gig_51a,so,1
+gig_51a,then,1
+gig_51b,after,1
+gig_51b,finally,1
+gig_51b,soon,1
+gig_51c,after a while,1
+gig_51c,but,2
+gig_51c,next,1
+gig_51c,so,1
+gig_51d,but,1
+gig_51d,maybe,1
+gig_520a,after,1
+gig_520a,so,1
+gig_520b,after,1
+gig_520b,afterwards,1
+gig_520b,next,1
+gig_520c,after,4
+gig_520c,finally,1
+gig_520c,soon,1
+gig_521b,after,1
+gig_521b,to sum up,1
+gig_521c,or,1
+gig_521d,if,3
+gig_521e,also,1
+gig_521f,but,1
+gig_521f,then,1
+gig_522a,consequently,1
+gig_522a,without,1
+gig_522b,also,1
+gig_522b,anyway,1
+gig_522b,but,1
+gig_522b,then,1
+gig_522c,but,1
+gig_522c,rather,1
+gig_522c,then,1
+gig_522d,then,2
+gig_522e,although,1
+gig_522e,however,1
+gig_522e,then,1
+gig_522f,but,1
+gig_522f,just then,1
+gig_522f,then,1
+gig_523a,after,1
+gig_523b,before,1
+gig_523b,but,1
+gig_523c,after,1
+gig_523c,to sum up,1
+gig_523d,before,1
+gig_523d,then,1
+gig_523e,although,1
+gig_523e,because of,1
+gig_523e,except for,1
+gig_523e,if,1
+gig_523f,also,1
+gig_523g,but,2
+gig_523g,or,1
+gig_523g,then,1
+gig_524a,but,1
+gig_524a,soon,3
+gig_524b,so,1
+gig_524c,then,1
+gig_524d,after,1
+gig_525a,or,1
+gig_525a,so,1
+gig_525b,after a while,1
+gig_525b,but,1
+gig_525b,later,1
+gig_525c,if,1
+gig_525d,if,2
+gig_525d,so,2
+gig_525e,mainly,1
+gig_525f,after a while,1
+gig_525f,if,1
+gig_525f,or,1
+gig_526,anyway,1
+gig_526,so,2
+gig_526,until then,1
+gig_527,however,1
+gig_527,the next day,1
+gig_528,next,1
+gig_529,after,1
+gig_530,then,2
+gig_531,because,1
+gig_531,but,2
+gig_532,after,1
+gig_532,in the end,1
+gig_532,instantly,1
+gig_532,so,1
+gig_532,then,3
+gig_533,before,1
+gig_533,however,2
+gig_535,then,1
+gig_537,if,1
+gig_540,but,1
+gig_542,then,1
+gig_543,after,1
+gig_543,however,1
+gig_545,after,2
+gig_545,however,1
+gig_545,once,2
+gig_545,soon,1
+gig_545,then,1
+gig_546,but,1
+gig_546,instantly,1
+gig_547,although,1
+gig_547,but,3
+gig_547,however,3
+gig_547,or,1
+gig_548,perhaps,1
+gig_549,but,4
+gig_550,but,1
+gig_551,but,1
+gig_552,after,2
+gig_552,still,1
+gig_552,then,1
+gig_553,actually,1
+gig_553,but,2
+gig_553,in fact,1
+gig_553,whenever,1
+gig_554,although,1
+gig_554,but,3
+gig_554,once,2
+gig_555,anyway,1
+gig_555,but,5
+gig_555,never,1
+gig_555,that is,1
+gig_555,then,1
+gig_556,before,1
+gig_556,so,1
+gig_557,after,1
+gig_557,but,5
+gig_557,despite,1
+gig_557,never,1
+gig_557,perhaps,1
+gig_557,then,1
+gig_557,unless,1
+gig_558,after,1
+gig_558,but,2
+gig_559,first,1
+gig_559,however,1
+gig_559,if,1
+gig_559,then,1
+gig_559,yet,1
+gig_561,also,1
+gig_561,before,1
+gig_561,therefore,1
+gig_561,throughout,1
+gig_561,using,1
+gig_562,in conclusion,1
+gig_562,so,1
+gig_563,alternatively,1
+gig_563,throughout,1
+gig_565,for example,1
+gig_565,further,1
+gig_565,however,2
+gig_566,for example,1
+gig_566,or,1
+gig_566,that is,1
+gig_567,due to,2
+gig_567,earlier,1
+gig_567,however,4
+gig_567,in that,1
+gig_567,throughout,1
+gig_568,because,1
+gig_568,for example,1
+gig_568,however,1
+gig_569,additionally,1
+gig_569,furthermore,1
+gig_569,however,3
+gig_569,so,1
+gig_56a,also,1
+gig_56a,because,1
+gig_56a,because of,1
+gig_56a,but,3
+gig_56a,frankly,1
+gig_56a,if,1
+gig_56a,so,1
+gig_56a,that is,1
+gig_56b,but,1
+gig_570,after,1
+gig_570,also,1
+gig_570,however,1
+gig_571,consequently,1
+gig_571,finally,1
+gig_571,for example,2
+gig_571,furthermore,1
+gig_571,however,2
+gig_572,finally,1
+gig_572,for example,3
+gig_572,for instance,1
+gig_572,furthermore,1
+gig_572,however,1
+gig_572,later,1
+gig_572,since,2
+gig_572,so,1
+gig_573,also,2
+gig_573,for example,2
+gig_573,however,2
+gig_573,throughout,1
+gig_574,for example,1
+gig_574,however,1
+gig_574,once,1
+gig_575,additionally,1
+gig_575,as a result,2
+gig_575,despite this,1
+gig_576,indeed,1
+gig_576,through,1
+gig_577,after,1
+gig_577,consequently,1
+gig_577,for example,1
+gig_577,furthermore,1
+gig_577,on the other hand,2
+gig_578,also,1
+gig_578,before,1
+gig_578,once,1
+gig_578,so,1
+gig_579,later,1
+gig_57a,then,1
+gig_580,also,1
+gig_580,however,1
+gig_580,later,2
+gig_580,throughout,1
+gig_581,unfortunately,1
+gig_582,also,1
+gig_582,for example,1
+gig_582,for instance,3
+gig_582,however,2
+gig_582,if,1
+gig_582,in reality,1
+gig_582,indeed,2
+gig_582,so,1
+gig_582,then,1
+gig_582,throughout,1
+gig_583,consequently,1
+gig_583,however,1
+gig_584,also,1
+gig_584,alternatively,1
+gig_584,however,2
+gig_584,if,1
+gig_585,however,1
+gig_585,in addition,1
+gig_586,but,1
+gig_586,furthermore,1
+gig_586,on the other hand,1
+gig_586,yet,1
+gig_587,again,1
+gig_587,because,1
+gig_587,because of,1
+gig_587,finally,1
+gig_587,for example,2
+gig_587,furthermore,1
+gig_587,moreover,2
+gig_587,throughout,1
+gig_587,too,1
+gig_588,lastly,1
+gig_588,previously,1
+gig_588,throughout,1
+gig_589,finally,1
+gig_589,furthermore,1
+gig_589,in conclusion,1
+gig_58a,if,1
+gig_58b,but,2
+gig_58b,then,1
+gig_591,finally,1
+gig_592,despite,2
+gig_592,furthermore,3
+gig_592,however,2
+gig_592,indeed,1
+gig_592,therefore,5
+gig_593,furthermore,2
+gig_593,indeed,1
+gig_593,thus,1
+gig_594,in addition,1
+gig_594,to conclude,1
+gig_595,for example,1
+gig_595,furthermore,2
+gig_595,however,1
+gig_595,indeed,2
+gig_595,therefore,1
+gig_595,to conclude,1
+gig_596,but,1
+gig_596,finally,1
+gig_596,furthermore,1
+gig_596,then,1
+gig_597,unfortunately,1
+gig_597,yet,1
+gig_598,after,2
+gig_598,however,3
+gig_598,in conclusion,1
+gig_598,later,1
+gig_598,then,1
+gig_598,therefore,1
+gig_599,indeed,4
+gig_599,moreover,1
+gig_599,ultimately,1
+gig_59a,so,2
+gig_600,also,1
+gig_600,due to,1
+gig_600,moreover,1
+gig_601,additionally,1
+gig_601,also,1
+gig_601,furthermore,1
+gig_601,in conclusion,1
+gig_601,therefore,3
+gig_602,also,1
+gig_602,despite,1
+gig_602,finally,1
+gig_602,in conclusion,1
+gig_603,also,1
+gig_603,furthermore,2
+gig_603,however,3
+gig_604,because,1
+gig_604,however,3
+gig_604,while,1
+gig_605,also,1
+gig_605,because,1
+gig_605,even though,1
+gig_605,finally,1
+gig_605,however,1
+gig_605,so,1
+gig_606,after,1
+gig_606,despite,1
+gig_606,despite this,1
+gig_606,due to,1
+gig_606,furthermore,1
+gig_606,if,1
+gig_607,before,1
+gig_607,therefore,1
+gig_608,unlike,1
+gig_609,finally,1
+gig_609,if,1
+gig_609,in summary,1
+gig_60a,finally,1
+gig_60a,then,2
+gig_610,although,1
+gig_610,due to,1
+gig_610,lastly,1
+gig_610,whereas,1
+gig_611,after,1
+gig_611,furthermore,1
+gig_611,however,2
+gig_611,moreover,1
+gig_611,therefore,2
+gig_612,also,1
+gig_612,furthermore,1
+gig_612,however,1
+gig_612,in addition,1
+gig_612,in conclusion,1
+gig_613e,but,2
+gig_613e,next,1
+gig_614e,if,3
+gig_614g,if,3
+gig_616d,if,2
+gig_616e,next,1
+gig_616e,so,1
+gig_617f,in the morning,1
+gig_618f,the next day,1
+gig_619b,next,1
+gig_619f,but,1
+gig_619f,next,1
+gig_619f,so,2
+gig_619h,but,1
+gig_61a,also,1
+gig_61b,after,1
+gig_61b,but,1
+gig_61b,soon,1
+gig_620d,if,4
+gig_620f,but,1
+gig_620f,in the morning,1
+gig_620f,next,1
+gig_620f,so,1
+gig_621c,if,2
+gig_621g,next,4
+gig_621h,after,1
+gig_621j,next,1
+gig_622d,if,2
+gig_622e,if,3
+gig_622f,next,1
+gig_622g,next,1
+gig_623c,then,1
+gig_623d,if,3
+gig_623e,if,7
+gig_623f,so,1
+gig_623i,also,1
+gig_625a,but,3
+gig_625a,so,3
+gig_625a,the next day,1
+gig_625a,then,3
+gig_625b,if,3
+gig_625c,also,1
+gig_625c,then,1
+gig_626b,if,1
+gig_626c,after,1
+gig_626d,but,1
+gig_627a,but,1
+gig_627a,the next day,1
+gig_627a,then,1
+gig_627b,if,1
+gig_627e,if,1
+gig_628a,so,1
+gig_628b,if,3
+gig_628b,so,1
+gig_628c,but,1
+gig_628c,the next day,1
+gig_629b,if,3
+gig_629c,after,1
+gig_62b,then,3
+gig_630a,but,1
+gig_630a,so,2
+gig_630c,if,2
+gig_630h,after,1
+gig_634c,so,1
+gig_634d,if,2
+gig_634h,if,1
+gig_634i,so,1
+gig_634i,then,1
+gig_635d,if,3
+gig_635f,so,2
+gig_635g,because,1
+gig_636c,if,3
+gig_636e,so,1
+gig_637e,if,1
+gig_638d,but,1
+gig_638f,but,1
+gig_638g,but,1
+gig_638i,after,1
+gig_638i,next,1
+gig_638i,then,1
+gig_640b,if,2
+gig_641a,so,2
+gig_641b,if,2
+gig_641c,so,1
+gig_642,after,1
+gig_642,also,1
+gig_642,if,1
+gig_644,after,1
+gig_644,also,2
+gig_644,however,1
+gig_644,lastly,1
+gig_644,results,1
+gig_645,for example,2
+gig_646,also,1
+gig_646,because,1
+gig_646,for example,1
+gig_646,if,1
+gig_648,after,2
+gig_648,also,1
+gig_648,however,2
+gig_648,lastly,1
+gig_648,once,1
+gig_648,then,1
+gig_649,however,1
+gig_649,then,1
+gig_64b,the next day,1
+gig_64b,then,1
+gig_650,also,1
+gig_650,if,2
+gig_650,lastly,1
+gig_650,then,1
+gig_650,whereas,1
+gig_651,finally,1
+gig_651,once,1
+gig_651,whereas,1
+gig_652,also,1
+gig_652,lastly,2
+gig_653,also,1
+gig_653,for example,2
+gig_653,therefore,1
+gig_654,whereas,1
+gig_656,also,1
+gig_658,also,1
+gig_659,for example,2
+gig_65b,but,2
+gig_65b,then,1
+gig_65c,also,1
+gig_661,for example,1
+gig_662,for example,4
+gig_663,since,1
+gig_664,also,2
+gig_664,finally,2
+gig_664,for example,1
+gig_666,also,1
+gig_666,if,2
+gig_666,so,1
+gig_668,once,1
+gig_668,then,2
+gig_669,therefore,1
+gig_66a,after,1
+gig_66a,also,1
+gig_66a,in fact,1
+gig_66a,whilst,1
+gig_675,although,1
+gig_675,for example,2
+gig_675,however,1
+gig_676,because,5
+gig_677,so,2
+gig_678a,because,2
+gig_678b,for example,1
+gig_678b,to conclude,1
+gig_678c,for example,1
+gig_679,because,2
+gig_679,so,1
+gig_67a,but,2
+gig_67a,if,1
+gig_67b,after,2
+gig_67b,but,1
+gig_67b,finally,1
+gig_67b,then,1
+gig_67c,even though,1
+gig_680,because,1
+gig_681,because,2
+gig_683,because,1
+gig_683,so,1
+gig_685,because,4
+gig_686a,because,4
+gig_687a,because,5
+gig_687b,however,1
+gig_68a,but,2
+gig_68b,instead,1
+gig_692a,because,1
+gig_693,because,3
+gig_693,maybe,1
+gig_693,so,1
+gig_694a,because,2
+gig_694a,so,1
+gig_694b,if,1
+gig_696a,because,3
+gig_696a,if,1
+gig_696a,so,1
+gig_69a,but,1
+gig_69a,however,2
+gig_69b,after,2
+gig_69b,then,1
+gig_6b,after,1
+gig_6b,first,1
+gig_6b,next,1
+gig_6c,next,1
+gig_707a,that is,1
+gig_707e,therefore,1
+gig_707f,therefore,1
+gig_708a,however,1
+gig_709,but,1
+gig_70a,if,1
+gig_70b,only if,1
+gig_70b,so,1
+gig_70b,then,1
+gig_710a,however,3
+gig_710b,also,1
+gig_710b,so,1
+gig_710d,however,1
+gig_710d,so,1
+gig_711c,once,1
+gig_711c,so,1
+gig_711c,whilst,1
+gig_712a,although,1
+gig_712a,consequently,4
+gig_712a,however,2
+gig_712a,in conclusion,1
+gig_712a,so,1
+gig_712a,such as,1
+gig_712b,consequently,4
+gig_712b,however,2
+gig_712b,so,2
+gig_712b,therefore,1
+gig_712b,throughout,1
+gig_712c,but,2
+gig_712c,for example,1
+gig_712c,so,6
+gig_712c,without,1
+gig_713a,but,1
+gig_713a,if,4
+gig_713a,so,1
+gig_713a,that is,1
+gig_713b,also,1
+gig_713b,finally,2
+gig_713b,that is,2
+gig_713b,therefore,1
+gig_713c,after,1
+gig_713c,also,3
+gig_713c,finally,1
+gig_713c,if,1
+gig_713c,in conclusion,1
+gig_713c,so,1
+gig_713c,so that,1
+gig_713c,soon,1
+gig_713c,that is,2
+gig_714b,after,1
+gig_715a,before,1
+gig_715b,because of,1
+gig_715b,however,1
+gig_715b,if,1
+gig_715b,in conclusion,1
+gig_715b,so,1
+gig_715c,however,1
+gig_715c,if,1
+gig_715c,so,2
+gig_715c,therefore,1
+gig_716a,therefore,1
+gig_716a,unlike,1
+gig_716b,before,1
+gig_716c,however,1
+gig_716c,whereas,1
+gig_716d,although,1
+gig_716d,if,1
+gig_716d,or,2
+gig_716d,perhaps,2
+gig_716d,throughout,1
+gig_716e,however,1
+gig_716g,however,1
+gig_716g,unlike,1
+gig_716g,whereas,1
+gig_717a,although,1
+gig_717b,whilst,1
+gig_718a,in conclusion,1
+gig_718b,so,1
+gig_718c,for example,1
+gig_719a,after,1
+gig_719a,but,1
+gig_719a,once,1
+gig_719b,however,1
+gig_719b,if,2
+gig_719b,once,1
+gig_719c,because,2
+gig_719c,hence,2
+gig_719c,however,1
+gig_720a,but,1
+gig_720a,so,1
+gig_720b,also,1
+gig_720b,so that,1
+gig_720e,however,1
+gig_720e,whereas,1
+gig_720f,also,1
+gig_720f,but,1
+gig_720f,so,1
+gig_720h,whereas,1
+gig_721,however,1
+gig_721,therefore,1
+gig_722a,but,1
+gig_722a,however,2
+gig_722b,despite,1
+gig_722c,therefore,1
+gig_722d,however,1
+gig_722d,if,3
+gig_722d,so,1
+gig_722d,then,1
+gig_722d,therefore,1
+gig_722e,if,2
+gig_722e,plus,1
+gig_723a,for instance,1
+gig_723a,however,2
+gig_723b,because,1
+gig_723b,if,1
+gig_725a,because,2
+gig_725a,however,3
+gig_725b,because,1
+gig_725b,however,1
+gig_725c,also,1
+gig_725c,unless,1
+gig_726c,so,1
+gig_727a,because,1
+gig_727a,but,2
+gig_727a,however,2
+gig_727a,if,1
+gig_727a,meaning,1
+gig_727a,therefore,2
+gig_727b,after,1
+gig_727b,however,1
+gig_727b,if,4
+gig_727b,though,1
+gig_727b,whilst,1
+gig_727c,so,1
+gig_728b,in conclusion,1
+gig_72a,or,1
+gig_72b,again,1
+gig_730a,because,2
+gig_730e,but,1
+gig_731a,so,1
+gig_731b,if,1
+gig_731c,also,1
+gig_731c,but,1
+gig_731c,if,1
+gig_731d,although,1
+gig_731d,but,1
+gig_732a,but,1
+gig_732c,furthermore,2
+gig_732c,therefore,1
+gig_732c,thus,1
+gig_732d,even though,1
+gig_732d,finally,1
+gig_732d,furthermore,1
+gig_732e,furthermore,2
+gig_732e,however,1
+gig_732e,if,1
+gig_732e,once,1
+gig_732g,furthermore,1
+gig_732g,while,2
+gig_735b,if,1
+gig_735b,so,1
+gig_736a,however,1
+gig_736b,if,1
+gig_736b,that is,1
+gig_736e,so,1
+gig_736e,until,1
+gig_73b,after,1
+gig_73c,but,1
+gig_745,also,1
+gig_745,however,1
+gig_745,soon,1
+gig_748a,however,1
+gig_748b,but,3
+gig_748b,if,2
+gig_748c,so,1
+gig_748c,therefore,1
+gig_749b,however,1
+gig_749c,if,2
+gig_74a,although,1
+gig_74b,although,1
+gig_750a,but,1
+gig_750a,if,1
+gig_750a,on the other hand,1
+gig_750b,after,1
+gig_750b,however,1
+gig_750b,later,1
+gig_750b,so,1
+gig_750c,also,1
+gig_750c,consequently,1
+gig_750c,for example,1
+gig_750c,however,2
+gig_750c,whereas,1
+gig_750d,however,1
+gig_750e,although,1
+gig_750e,however,1
+gig_750e,if,1
+gig_750e,on the other hand,1
+gig_751a,also,1
+gig_751a,but,1
+gig_751c,also,1
+gig_751c,but,2
+gig_751c,or,1
+gig_751e,but,1
+gig_751e,whereas,1
+gig_752a,at once,1
+gig_752a,so,1
+gig_752b,but,1
+gig_754,but,1
+gig_755,however,3
+gig_755,whereas,1
+gig_756a,contrastingly,1
+gig_756a,however,1
+gig_756a,meaning,1
+gig_756a,similarly,1
+gig_756b,furthermore,1
+gig_756b,therefore,1
+gig_756c,furthermore,1
+gig_756f,however,2
+gig_756g,furthermore,1
+gig_756g,however,1
+gig_756g,if,1
+gig_757d,after a while,1
+gig_757d,once,1
+gig_757e,however,1
+gig_757e,so,1
+gig_757e,throughout,1
+gig_757f,before,1
+gig_757f,however,1
+gig_757f,so,1
+gig_757g,however,1
+gig_757h,similarly,1
+gig_757j,although,1
+gig_757j,however,1
+gig_757l,although,1
+gig_757l,however,2
+gig_758b,once,1
+gig_758b,yet,2
+gig_758c,however,1
+gig_758d,because,1
+gig_758d,but,1
+gig_758d,maybe,2
+gig_759a,but,1
+gig_759a,therefore,1
+gig_759b,so,1
+gig_759c,however,1
+gig_759d,but,2
+gig_759d,however,1
+gig_759e,therefore,1
+gig_759f,however,1
+gig_759f,therefore,2
+gig_759f,unlike,1
+gig_759g,furthermore,1
+gig_759g,however,2
+gig_759g,therefore,1
+gig_759h,however,1
+gig_759h,therefore,1
+gig_75a,meaning,1
+gig_75b,but,1
+gig_75b,still,1
+gig_760b,although,1
+gig_760d,however,1
+gig_760d,if,1
+gig_760d,once,1
+gig_760f,although,1
+gig_760f,however,1
+gig_761a,therefore,1
+gig_761b,after all,1
+gig_761b,never,3
+gig_761b,that is,1
+gig_761c,however,1
+gig_761c,so,1
+gig_761c,whereas,1
+gig_761d,but,2
+gig_761d,once,1
+gig_761d,so,3
+gig_761e,although,1
+gig_761e,however,2
+gig_761e,moreover,1
+gig_761f,however,2
+gig_761f,therefore,1
+gig_761g,therefore,1
+gig_761h,however,3
+gig_761h,similarly,1
+gig_762b,after,1
+gig_762b,then,1
+gig_762d,also,1
+gig_762d,but,1
+gig_762d,first,1
+gig_762d,then,1
+gig_762f,however,2
+gig_762g,however,1
+gig_762g,in the end,1
+gig_76a,because of,1
+gig_76a,so,1
+gig_76a,that is,1
+gig_76b,before,1
+gig_77a,but,2
+gig_77a,since,2
+gig_77b,after,2
+gig_77b,but,2
+gig_77b,finally,1
+gig_77b,once,1
+gig_782,after,2
+gig_782,an hour later,1
+gig_783a,but,1
+gig_783a,if,2
+gig_783a,maybe,1
+gig_783a,so,2
+gig_783b,but,1
+gig_783b,if,2
+gig_783b,maybe,1
+gig_783b,so,2
+gig_784a,but,1
+gig_784a,first,1
+gig_784a,however,1
+gig_784a,if,1
+gig_784a,maybe,2
+gig_784a,so,1
+gig_784b,also,1
+gig_784b,but,2
+gig_784b,however,1
+gig_784b,if,1
+gig_784b,maybe,2
+gig_784b,so,1
+gig_785,so,2
+gig_785,then,1
+gig_789a,if,1
+gig_78b,but,1
+gig_794b,if,1
+gig_799c,so,1
+gig_79a,although,1
+gig_79a,until,1
+gig_79b,but,1
+gig_79b,so,1
+gig_801c,also,1
+gig_801c,if,1
+gig_802b,the next day,1
+gig_804b,then,1
+gig_805c,then,4
+gig_809d,but,1
+gig_809d,so,1
+gig_80a,but,2
+gig_80b,before,1
+gig_80b,so,1
+gig_812a,but,1
+gig_813d,so,1
+gig_816a,but,1
+gig_817c,but,1
+gig_818a,so,2
+gig_81b,instead,1
+gig_81b,then,2
+gig_81c,also,1
+gig_81c,so that,1
+gig_823a,then,2
+gig_824a,then,4
+gig_824b,if,1
+gig_825a,then,1
+gig_826a,then,1
+gig_826b,after,1
+gig_828c,after,1
+gig_829a,so,1
+gig_829c,first,1
+gig_82a,but,2
+gig_82a,so,1
+gig_82b,but,2
+gig_82b,if,2
+gig_82b,perhaps,1
+gig_82b,really,1
+gig_82b,so,1
+gig_82b,then,3
+gig_82c,also,2
+gig_82c,assuming that,1
+gig_830a,so,1
+gig_830a,then,8
+gig_831a,first,1
+gig_831a,then,3
+gig_832c,but,2
+gig_835b,after,1
+gig_835b,in the morning,1
+gig_835c,so,1
+gig_836a,whilst,1
+gig_836b,after,1
+gig_836b,despite,1
+gig_836b,so,1
+gig_836b,then,1
+gig_836c,because of,1
+gig_836c,in the end,1
+gig_836c,later,1
+gig_836d,after,1
+gig_836d,despite,1
+gig_836d,finally,1
+gig_836d,once,1
+gig_836d,so,1
+gig_836d,without,1
+gig_838a,so,1
+gig_838c,after,1
+gig_838c,then,2
+gig_838d,after,1
+gig_838d,maybe,1
+gig_838d,once,1
+gig_839a,after,1
+gig_839b,then,1
+gig_840b,anyway,1
+gig_840c,after,1
+gig_840c,while,1
+gig_840d,maybe,1
+gig_841a,after,1
+gig_841c,so,2
+gig_842a,but,1
+gig_842c,after,1
+gig_843a,consequently,1
+gig_843a,so,1
+gig_843b,after,2
+gig_843b,so,2
+gig_843b,the next day,1
+gig_843c,however,1
+gig_843c,so,1
+gig_844a,despite,1
+gig_845a,if,1
+gig_845a,unfortunately,1
+gig_845b,after a while,1
+gig_845b,before,1
+gig_845b,but,1
+gig_845b,so,1
+gig_845b,then,1
+gig_845d,meanwhile,1
+gig_845d,soon,1
+gig_845d,then,1
+gig_846a,but,1
+gig_846c,so,1
+gig_847b,soon,1
+gig_847d,but,2
+gig_849b,then,1
+gig_849c,however,1
+gig_849c,that is,1
+gig_849c,the next day,1
+gig_84b,after,1
+gig_84b,so,1
+gig_84b,then,1
+gig_84c,if,2
+gig_850a,soon,1
+gig_850b,soon,1
+gig_850c,after,1
+gig_851a,also,1
+gig_851a,due to,1
+gig_851b,after,1
+gig_851b,then,1
+gig_851d,after,1
+gig_851d,immediately,1
+gig_851d,meanwhile,1
+gig_852b,however,1
+gig_852b,therefore,1
+gig_852b,whilst,1
+gig_852c,however,3
+gig_852d,although,1
+gig_852d,by the way,2
+gig_852d,despite,1
+gig_852d,however,1
+gig_852d,if,1
+gig_852d,so,1
+gig_852e,if,1
+gig_853a,but,1
+gig_853a,so,1
+gig_853b,although,1
+gig_853c,also,1
+gig_853c,but,2
+gig_853d,but,3
+gig_853e,then,2
+gig_854b,but,1
+gig_854b,so,1
+gig_854c,but,1
+gig_854d,but,1
+gig_854e,but,2
+gig_854e,so,1
+gig_855a,before,1
+gig_855b,however,1
+gig_855c,also,1
+gig_855c,however,1
+gig_855d,after a while,1
+gig_855e,also,1
+gig_855e,then,1
+gig_856a,but,2
+gig_856b,after,1
+gig_856d,if,1
+gig_856e,indeed,1
+gig_857a,so,1
+gig_857c,then,1
+gig_858a,but,2
+gig_858a,so,1
+gig_858c,because,1
+gig_858c,if,1
+gig_859a,without,1
+gig_859b,at the same time,1
+gig_859b,even though,1
+gig_859b,first,1
+gig_859c,so,1
+gig_859d,but,1
+gig_859e,so,2
+gig_85a,unlike,1
+gig_85b,so,1
+gig_85b,whilst,1
+gig_860a,however,1
+gig_860b,after,1
+gig_860b,the next day,1
+gig_860d,without,1
+gig_860e,but,1
+gig_860f,if,1
+gig_860f,unlike,1
+gig_861b,because,1
+gig_861c,also,1
+gig_861c,but,1
+gig_861d,so,2
+gig_861d,then,3
+gig_861e,meanwhile,1
+gig_862d,even though,1
+gig_862d,the next day,1
+gig_863a,then,1
+gig_863e,so,2
+gig_863e,the next day,1
+gig_863e,then,5
+gig_863f,then,1
+gig_864a,however,1
+gig_864b,later,1
+gig_864b,then,1
+gig_864c,for example,1
+gig_864e,so,1
+gig_865a,really,1
+gig_865b,after a while,1
+gig_865b,even though,1
+gig_865b,first,1
+gig_865b,then,1
+gig_865c,but,1
+gig_865c,due to,2
+gig_865c,in the end,1
+gig_865d,but,1
+gig_865d,so,2
+gig_865e,in the end,1
+gig_865e,so,1
+gig_866a,but,1
+gig_866d,also,1
+gig_867a,so,1
+gig_867b,even though,1
+gig_867d,meanwhile,1
+gig_867d,next,1
+gig_867e,after,1
+gig_867e,finally,1
+gig_868a,after,1
+gig_868a,however,1
+gig_868b,however,1
+gig_868c,even though,1
+gig_868d,before,1
+gig_868e,once,1
+gig_868e,plus,1
+gig_869a,then,1
+gig_869c,if,1
+gig_869c,later,1
+gig_869d,also,1
+gig_869d,even though,1
+gig_86a,after,1
+gig_86b,finally,1
+gig_86b,the next day,1
+gig_870d,in the end,1
+gig_870e,earlier,1
+gig_870e,while,1
+gig_870e,without,1
+gig_871a,but,1
+gig_871b,after,1
+gig_871b,but,1
+gig_871d,first,1
+gig_871d,if,1
+gig_871e,after,1
+gig_871e,but,1
+gig_871e,so,1
+gig_871e,then,1
+gig_872a,however,1
+gig_872d,even though,1
+gig_872e,but,1
+gig_872e,however,1
+gig_872e,without,1
+gig_873a,such as,1
+gig_873b,for example,1
+gig_873b,on the other hand,1
+gig_873c,alternatively,1
+gig_873c,due to,1
+gig_873d,after all,1
+gig_873e,for example,1
+gig_874a,unlike,1
+gig_874a,whereas,1
+gig_875a,also,1
+gig_875a,however,2
+gig_875b,also,1
+gig_875b,because,3
+gig_875b,because of,1
+gig_875b,even though,1
+gig_875b,for example,1
+gig_875b,if,1
+gig_875c,after,1
+gig_875c,also,2
+gig_875c,furthermore,1
+gig_875c,lastly,2
+gig_875d,but,1
+gig_875d,in the end,1
+gig_875e,because,1
+gig_875e,but,1
+gig_875e,so,1
+gig_875f,because,3
+gig_876a,again,1
+gig_876a,for example,1
+gig_876a,however,1
+gig_876b,because of,1
+gig_876c,else,1
+gig_876c,elsewhere,1
+gig_877a,for example,1
+gig_877a,on the other hand,1
+gig_877b,for example,1
+gig_877c,also,1
+gig_877c,although,1
+gig_877c,therefore,1
+gig_877c,to conclude,1
+gig_877d,whilst,1
+gig_877e,also,2
+gig_877e,maybe,1
+gig_877e,or,1
+gig_877e,to conclude,1
+gig_877f,also,1
+gig_877f,however,3
+gig_877f,if,1
+gig_878a,for example,1
+gig_878a,however,1
+gig_878d,as a consequence,1
+gig_878d,but,1
+gig_878d,if,1
+gig_878d,so,1
+gig_879a,again,1
+gig_879a,but,1
+gig_879a,for example,1
+gig_879a,however,1
+gig_879a,on the other hand,1
+gig_879b,if,1
+gig_879b,therefore,1
+gig_879c,therefore,1
+gig_879d,also,1
+gig_879f,also,1
+gig_87a,because,1
+gig_87a,because of,1
+gig_87a,but,1
+gig_87a,in that,1
+gig_87a,so,1
+gig_87a,unlike,1
+gig_87b,anyway,1
+gig_87b,but,1
+gig_87b,since,1
+gig_87b,then,1
+gig_880a,also,3
+gig_880a,for example,1
+gig_880b,after,1
+gig_880b,but,1
+gig_880b,if,1
+gig_880b,so,1
+gig_880b,until,1
+gig_880c,because of,1
+gig_880c,for example,1
+gig_880c,however,1
+gig_880e,however,1
+gig_881a,again,1
+gig_881a,for example,1
+gig_881a,however,1
+gig_881a,if,1
+gig_881b,before,1
+gig_881b,but,2
+gig_881b,if,1
+gig_881c,on the other hand,1
+gig_882a,however,1
+gig_882b,if,1
+gig_882c,again,1
+gig_882c,although,1
+gig_882c,however,2
+gig_882c,later,1
+gig_883a,but,1
+gig_883b,but,1
+gig_883b,for example,1
+gig_883d,but,1
+gig_883e,after,2
+gig_883e,anyway,1
+gig_883e,even though,1
+gig_883e,next,1
+gig_883f,on the other hand,1
+gig_884a,however,1
+gig_884a,if,1
+gig_884b,if,1
+gig_884b,later,1
+gig_884c,after,1
+gig_884c,finally,1
+gig_885a,but,2
+gig_885a,next,1
+gig_885a,so,1
+gig_885b,if,1
+gig_885c,also,1
+gig_886a,after all,1
+gig_886b,also,2
+gig_886b,so,2
+gig_886b,that is,1
+gig_887a,but,1
+gig_888a,although,1
+gig_888a,if,2
+gig_888a,so,4
+gig_888b,after,1
+gig_888b,so,1
+gig_888b,then,1
+gig_889a,for instance,1
+gig_889b,later,1
+gig_889b,so,3
+gig_88a,if,1
+gig_88a,so,1
+gig_890a,but,2
+gig_890a,so,1
+gig_890b,also,1
+gig_890b,but,4
+gig_890b,if,2
+gig_890c,later,1
+gig_891a,after,1
+gig_891a,but,1
+gig_891a,even though,1
+gig_891a,finally,1
+gig_891a,so,1
+gig_891b,after,1
+gig_891c,regardless,1
+gig_892b,at once,1
+gig_892b,earlier,1
+gig_892b,if,1
+gig_892b,later,1
+gig_892b,so,1
+gig_893,also,1
+gig_893,but,3
+gig_893,finally,1
+gig_893,so,2
+gig_894a,if,1
+gig_894a,in the morning,1
+gig_894b,if,1
+gig_894b,so,1
+gig_894b,that is,1
+gig_894c,lastly,1
+gig_894c,yet,1
+gig_895a,after,2
+gig_895a,neither,1
+gig_895b,finally,1
+gig_895b,first,1
+gig_895b,if,1
+gig_895c,however,1
+gig_896a,but,2
+gig_896a,then,1
+gig_896a,without,1
+gig_896b,although,1
+gig_896b,really,1
+gig_896c,so,1
+gig_897a,but,2
+gig_897a,but for,1
+gig_897a,if,1
+gig_897a,maybe,1
+gig_897b,for example,1
+gig_897b,to conclude,1
+gig_898a,before,1
+gig_898a,however,1
+gig_898b,because,1
+gig_898b,however,2
+gig_898c,but,1
+gig_898c,however,2
+gig_899b,however,1
+gig_899b,so far,1
+gig_89b,but,1
+gig_89b,so,1
+gig_89c,if,1
+gig_8a,then,1
+gig_8c,but,1
+gig_8c,so,2
+gig_8c,then,1
+gig_900,however,1
+gig_901a,after,1
+gig_901a,after a while,1
+gig_901a,although,1
+gig_901a,but,1
+gig_901a,despite,1
+gig_901a,however,1
+gig_901a,if,1
+gig_901a,in that,3
+gig_901a,perhaps,1
+gig_901a,so,1
+gig_901b,so,2
+gig_902a,after,5
+gig_902a,because,1
+gig_902a,but,3
+gig_902a,maybe,1
+gig_902a,since,1
+gig_902a,so,1
+gig_902a,then,2
+gig_902a,unfortunately,1
+gig_902b,after,1
+gig_902b,through,1
+gig_903a,after a while,1
+gig_903a,at least,1
+gig_903b,if,1
+gig_903b,therefore,1
+gig_904a,but,1
+gig_904a,however,1
+gig_904b,after,1
+gig_904b,later,1
+gig_904b,unfortunately,1
+gig_904c,earlier,1
+gig_905b,before,1
+gig_905b,later,1
+gig_905c,apart from,1
+gig_905c,earlier,1
+gig_906b,once,1
+gig_906d,if,1
+gig_906d,once,1
+gig_907a,because,1
+gig_907a,but,1
+gig_907b,however,1
+gig_907b,if,1
+gig_907c,if,1
+gig_908a,so,1
+gig_908b,after a while,1
+gig_908b,however,1
+gig_908b,later,1
+gig_908c,but,1
+gig_908c,earlier,1
+gig_908d,however,1
+gig_909a,if,1
+gig_909b,after,2
+gig_909b,once,1
+gig_909b,then,1
+gig_909c,but,1
+gig_909c,so,1
+gig_90b,but,2
+gig_910a,if,1
+gig_910a,maybe,1
+gig_910a,so,1
+gig_910b,after,1
+gig_910b,but,2
+gig_910c,but,1
+gig_910c,so,1
+gig_910c,then,1
+gig_910d,also,2
+gig_910d,due to,1
+gig_910d,for instance,1
+gig_910d,however,2
+gig_910d,if,1
+gig_910d,in particular,1
+gig_910d,so far,1
+gig_911a,because,1
+gig_911a,however,1
+gig_911a,if,1
+gig_911a,on the other hand,1
+gig_911a,then,1
+gig_911b,after,1
+gig_911b,unfortunately,1
+gig_911c,before,1
+gig_911c,but,1
+gig_911c,so,1
+gig_911c,then,1
+gig_912b,later,1
+gig_912b,though,1
+gig_912c,earlier,1
+gig_912c,meanwhile,1
+gig_912d,despite,1
+gig_913a,anyway,1
+gig_913a,if,1
+gig_913b,after,1
+gig_913b,later,1
+gig_913b,unfortunately,1
+gig_913c,after,1
+gig_913c,so,1
+gig_913c,too,1
+gig_914b,after,1
+gig_914b,later,1
+gig_914b,then,1
+gig_914d,after,1
+gig_914d,even though,1
+gig_915a,but,2
+gig_915b,later,1
+gig_915c,but,1
+gig_915c,if,1
+gig_915c,immediately,1
+gig_915c,so,1
+gig_915c,without,1
+gig_915d,due to,1
+gig_916a,if,1
+gig_916b,later,1
+gig_916c,at the same time,1
+gig_916c,but,1
+gig_916d,in addition,1
+gig_917b,after,2
+gig_917c,after,1
+gig_917c,but,1
+gig_917c,previously,1
+gig_917c,so,2
+gig_917c,then,2
+gig_917d,but,1
+gig_917d,even though,1
+gig_918a,if,1
+gig_918b,later,1
+gig_918c,earlier,1
+gig_918d,although,1
+gig_919b,then,1
+gig_919c,earlier,1
+gig_919c,later,1
+gig_919d,although,1
+gig_919d,however,1
+gig_920b,before,1
+gig_920b,later,1
+gig_920c,so,1
+gig_920c,then,1
+gig_920d,even though,1
+gig_920d,however,1
+gig_921a,but,1
+gig_921a,if,1
+gig_921b,however,1
+gig_921b,later,2
+gig_921b,on the other hand,1
+gig_921c,but,1
+gig_921c,despite,1
+gig_922b,but,1
+gig_922b,later,1
+gig_922c,earlier,1
+gig_922d,before,1
+gig_922d,however,1
+gig_922d,maybe,1
+gig_922d,perhaps,1
+gig_923a,also,1
+gig_923a,however,1
+gig_923b,after,1
+gig_923b,afterwards,1
+gig_923b,later,1
+gig_923c,but,1
+gig_923c,meanwhile,1
+gig_923c,once,1
+gig_923d,but,1
+gig_923d,despite,1
+gig_923d,though,1
+gig_924b,after,1
+gig_924b,even though,1
+gig_924c,earlier,1
+gig_925a,however,1
+gig_925a,nevertheless,1
+gig_925b,after,1
+gig_925b,later,1
+gig_925b,while,2
+gig_925c,after,1
+gig_925c,but,2
+gig_925d,because of,1
+gig_925d,fortunately,1
+gig_926b,after,2
+gig_926c,but,1
+gig_926c,so,2
+gig_926c,the next day,1
+gig_926c,then,1
+gig_927b,after,2
+gig_927b,afterwards,1
+gig_927b,then,1
+gig_927b,unfortunately,1
+gig_927c,without,1
+gig_928a,if,1
+gig_928b,then,1
+gig_928c,but,3
+gig_928c,so,1
+gig_928d,but,1
+gig_929a,first,1
+gig_929a,if,1
+gig_929a,second,1
+gig_929b,later,1
+gig_929c,but,2
+gig_929d,also,1
+gig_929d,never,1
+gig_929d,once,1
+gig_92a,after,1
+gig_92a,because,1
+gig_92a,if,1
+gig_92a,so,1
+gig_92b,after,2
+gig_92b,really,1
+gig_92b,soon,1
+gig_930a,as i was saying,1
+gig_930a,so,1
+gig_930b,after,1
+gig_930b,but,1
+gig_930b,later,1
+gig_930c,but,1
+gig_930c,just then,1
+gig_930c,then,1
+gig_930d,so,1
+gig_930d,then,1
+gig_931a,but,2
+gig_931b,after,1
+gig_931b,before,2
+gig_931b,since,1
+gig_931c,but,1
+gig_932a,also,1
+gig_932b,after,1
+gig_932b,if,1
+gig_932b,later,1
+gig_932b,so,1
+gig_932b,then,1
+gig_932c,but,1
+gig_932c,once,1
+gig_932c,so,1
+gig_932c,then,2
+gig_933a,also,1
+gig_933b,later,1
+gig_933c,but for,1
+gig_934a,if,1
+gig_934b,later,1
+gig_934c,but,1
+gig_934c,so,3
+gig_935b,later,1
+gig_935c,so,2
+gig_936a,anyway,1
+gig_936a,but,1
+gig_936b,but,1
+gig_936b,later,1
+gig_936b,since,1
+gig_936b,so,1
+gig_936c,but,1
+gig_936c,meanwhile,1
+gig_936c,so,2
+gig_936d,but,1
+gig_937b,after,1
+gig_937b,then,1
+gig_937c,after,2
+gig_937c,so,1
+gig_938a,if,1
+gig_938b,after,2
+gig_938b,so,1
+gig_938b,while,1
+gig_938c,after,1
+gig_938c,but,2
+gig_938d,after,1
+gig_938d,because of,1
+gig_938d,before,1
+gig_938d,that is,1
+gig_939b,after,1
+gig_939b,later,2
+gig_939c,finally,2
+gig_939c,once,1
+gig_939c,so,2
+gig_939c,then,6
+gig_93a,because,1
+gig_93a,because of,1
+gig_93b,but,1
+gig_93b,so,1
+gig_940a,however,1
+gig_940b,after,1
+gig_940b,instead,1
+gig_940b,soon,1
+gig_940b,while,1
+gig_940c,until,1
+gig_940d,if,1
+gig_940d,without,1
+gig_941a,if,1
+gig_941b,because,1
+gig_941b,later,1
+gig_941c,after,1
+gig_941c,so,2
+gig_941c,then,1
+gig_942b,after,1
+gig_942b,also,1
+gig_942b,so,1
+gig_942b,while,1
+gig_942c,but,1
+gig_942c,so that,1
+gig_942c,while,1
+gig_943a,also,1
+gig_943b,earlier,1
+gig_944a,then,1
+gig_944c,later,2
+gig_944c,then,1
+gig_944d,but,2
+gig_944d,finally,1
+gig_944e,although,1
+gig_945a,but,1
+gig_945b,again,1
+gig_945b,although,1
+gig_945b,however,1
+gig_945b,later,1
+gig_945b,plus,1
+gig_945c,while,1
+gig_946a,although,1
+gig_946a,anyway,1
+gig_946a,however,1
+gig_946c,but,1
+gig_946c,later,1
+gig_946c,so,1
+gig_946c,soon,1
+gig_946c,then,2
+gig_946d,as a result,1
+gig_946d,if,1
+gig_946d,soon,2
+gig_947a,also,1
+gig_947a,if,1
+gig_947b,after,3
+gig_947c,although,2
+gig_948a,because,1
+gig_948b,also,1
+gig_948b,because,1
+gig_948c,because,1
+gig_949a,also,1
+gig_949b,also,1
+gig_949b,but,1
+gig_949c,but,1
+gig_950b,because,1
+gig_950c,also,1
+gig_950c,but,1
+gig_952c,therefore,1
+gig_953a,also,1
+gig_954a,also,2
+gig_954a,first,1
+gig_954a,if,1
+gig_954a,in conclusion,1
+gig_954a,results,1
+gig_954c,also,1
+gig_954c,however,1
+gig_954c,if,1
+gig_954c,therefore,1
+gig_955a,however,1
+gig_955a,results,1
+gig_955b,also,1
+gig_955b,first,1
+gig_955b,however,1
+gig_955b,if,1
+gig_955b,in conclusion,1
+gig_955b,results,1
+gig_956b,to conclude,1
+gig_956c,but,1
+gig_956c,then,1
+gig_957,after,2
+gig_957,if,1
+gig_957,then,2
+gig_957,to conclude,1
+gig_958a,finally,1
+gig_958b,however,1
+gig_958b,results,1
+gig_958b,to conclude,1
+gig_959a,for example,1
+gig_959a,however,2
+gig_959a,therefore,2
+gig_959b,after,1
+gig_959b,also,1
+gig_959b,first,1
+gig_959b,if,3
+gig_959b,once,1
+gig_959b,then,1
+gig_959b,therefore,1
+gig_95a,because of,1
+gig_95b,next,1
+gig_95c,finally,1
+gig_960a,after,1
+gig_960a,first,1
+gig_961a,if,1
+gig_961a,results,1
+gig_961b,however,1
+gig_961c,although,1
+gig_961c,next,1
+gig_961c,results,1
+gig_962a,however,1
+gig_962b,after,1
+gig_962b,also,2
+gig_962b,finally,1
+gig_962b,first,1
+gig_962b,in conclusion,1
+gig_962b,then,1
+gig_963a,because,1
+gig_963a,if,1
+gig_964b,if,1
+gig_966a,although,1
+gig_966c,also,1
+gig_96a,so,1
+gig_96b,but,1
+gig_96b,never,1
+gig_96b,then,1
+gig_973b,however,1
+gig_974a,first,1
+gig_974b,for example,1
+gig_974b,on the contrary,1
+gig_975a,once,1
+gig_975a,results,1
+gig_975b,next,1
+gig_975b,then,1
+gig_975c,for example,1
+gig_975c,moreover,1
+gig_975c,therefore,1
+gig_976a,first,1
+gig_976a,next,2
+gig_976a,then,1
+gig_976b,then,1
+gig_977a,as a result,1
+gig_977a,despite,1
+gig_977a,despite this,1
+gig_977a,following this,1
+gig_977a,next,1
+gig_977a,then,1
+gig_977a,therefore,1
+gig_977b,as a result,2
+gig_977b,following this,1
+gig_977b,however,1
+gig_977b,results,1
+gig_977b,therefore,2
+gig_977b,to conclude,1
+gig_978a,additionally,1
+gig_978a,after,2
+gig_978a,also,1
+gig_978a,despite this,1
+gig_978a,even though,1
+gig_978a,finally,1
+gig_978a,following this,1
+gig_978a,for example,1
+gig_978a,however,1
+gig_978a,in addition,1
+gig_978a,moreover,1
+gig_978a,next,1
+gig_978a,prior to,1
+gig_978a,then,1
+gig_978b,also,1
+gig_978b,however,1
+gig_978b,results,1
+gig_978b,so,1
+gig_978b,then,1
+gig_978d,also,1
+gig_978d,for example,2
+gig_978d,for instance,1
+gig_979a,too,2
+gig_979b,if,1
+gig_97c,if,1
+gig_981c,before,1
+gig_982b,however,1
+gig_984a,so,1
+gig_984b,too,1
+gig_985,however,1
+gig_987,to conclude,1
+gig_988,for example,1
+gig_988,if,2
+gig_989,if,1
+gig_98b,just then,2
+gig_98b,then,1
+gig_990a1,if,5
+gig_990a1,therefore,1
+gig_990a1,using,1
+gig_990a2,additionally,1
+gig_990a2,again,1
+gig_990a2,also,2
+gig_990a2,because,1
+gig_990a2,however,3
+gig_990a2,if,1
+gig_990a2,so,1
+gig_990a2,therefore,2
+gig_990a2,thus,1
+gig_991a1,if,1
+gig_991a2,as in,1
+gig_991a2,for example,1
+gig_991a2,for this reason,1
+gig_991a2,however,1
+gig_991a2,if,2
+gig_992a1,as long as,1
+gig_992a1,due to,1
+gig_992a1,for example,1
+gig_992a1,if,8
+gig_992a1,once,1
+gig_992a1,using,2
+gig_992a2,alternatively,1
+gig_992a2,although,1
+gig_992a2,if,2
+gig_992a2,in relation to,1
+gig_992a2,using,2
+gig_993a1,because of,1
+gig_993a1,however,1
+gig_993a1,if,1
+gig_993a2,because,1
+gig_993a2,however,3
+gig_993a2,if,2
+gig_993a2,on the contrary,1
+gig_993a2,other than,1
+gig_994b,although,1
+gig_994b,on the other hand,1
+gig_994c,after,1
+gig_996a,after,1
+gig_996c,also,1
+gig_996c,although,1
+gig_996c,however,1
+gig_997a,after,1
+gig_997a,however,2
+gig_997a,then,1
+gig_997a,yet,1
+gig_997b,although,1
+gig_997b,however,2
+gig_997c,also,1
+gig_997c,however,1
+gig_998a,although,1
+gig_998b,after,1
+gig_999,also,1
+gig_999,although,1
+gig_999,however,6
+gig_999,if,2
+gig_999,therefore,1
+gig_999,whereas,1
+gig_99b,but,1
+gig_99b,then,1
