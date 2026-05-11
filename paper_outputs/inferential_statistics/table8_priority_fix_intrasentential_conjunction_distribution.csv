@@ -1,0 +1,4 @@
+Corpus,Texts,Conjunction tokens,"Density per 1,000 words",Parataxis %,Hypotaxis %,Total words
+COREFL,3448,24541,19.4,36.0,64.0,1265032
+EFCAMDAT,232565,382578,26.0,55.5,44.5,14713086
+GiG,2898,18888,25.42,40.6,59.4,742903
