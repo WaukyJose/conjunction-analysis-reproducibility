@@ -39,3 +39,7 @@ checkpoints/
 
 *.zip
 *.log
+
+data_clean/
+
+data_filtered/
