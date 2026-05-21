@@ -24,7 +24,7 @@ DATASETS = {
         "group_col": "cefr",
     },
     "COREFL": {
-        "file": BASE_DIR / "data_filtered" / "corefl_v2_filtered.csv",
+        "file": BASE_DIR / "data_filtered" / "corefl_v2_filtered_50.csv",
         "id_col": "text_id",
         "text_col": "text_clean_preserveCase",
         "group_col": "cefr",
@@ -446,17 +446,11 @@ def stream_count_index(eligible_texts, cases, variable_col, bases, path, sheet_n
 
         for base in bases:
             raw = broad_counts.get((corpus, text_id, base), 0)
-            if raw:
-                row_values.extend([raw, safe_rate(raw, word_count)])
-            else:
-                row_values.extend([None, None])
+            row_values.extend([raw, safe_rate(raw, word_count)])
 
         for base in bases:
             raw = supported_counts.get((corpus, text_id, base), 0)
-            if raw:
-                row_values.extend([raw, safe_rate(raw, word_count)])
-            else:
-                row_values.extend([None, None])
+            row_values.extend([raw, safe_rate(raw, word_count)])
 
         ws.append(row_values)
 

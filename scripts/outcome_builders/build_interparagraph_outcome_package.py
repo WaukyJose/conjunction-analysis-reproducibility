@@ -16,7 +16,7 @@ CASES_FILE = INPUT_DIR / "v2_interparagraph_full_cases.csv"
 TEXT_COUNTS_FILE = INPUT_DIR / "v2_interparagraph_full_text_counts.csv"
 DATASETS = {
     "COREFL": {
-        "file": BASE_DIR / "data_filtered" / "corefl_v2_filtered.csv",
+        "file": BASE_DIR / "data_filtered" / "corefl_v2_filtered_50.csv",
         "id_col": "text_id",
         "text_col": "text_clean_preserveCase",
         "group_col": "cefr",

@@ -10,7 +10,7 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 DATASETS = {
     "COREFL": {
-        "file": DATA_DIR / "corefl_v2_filtered.csv",
+        "file": DATA_DIR / "corefl_v2_filtered_50.csv",
         "id_col": "text_id",
         "text_col": "text_clean_preserveCase",
         "group_col": "cefr",
