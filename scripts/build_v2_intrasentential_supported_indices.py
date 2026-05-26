@@ -14,6 +14,33 @@ TEXT_COUNTS_FILE = IN_DIR / "v2_intrasentential_full_text_counts.csv"
 OUT_FILE = IN_DIR / "v2_intrasentential_full_supported_text_indices.csv"
 ITEM_OUT_FILE = IN_DIR / "v2_intrasentential_full_supported_item_indices.csv"
 
+SUPPORTED_COORDINATION_EXTENSION_OVERRIDES = {
+    "and": {
+        "macro_category": "Extension",
+        "path_2": "Addition",
+        "path_3": "paratactic",
+        "path_4": "",
+        "path_5": "",
+        "taxis": "paratactic",
+    },
+    "but": {
+        "macro_category": "Extension",
+        "path_2": "Adversative",
+        "path_3": "paratactic",
+        "path_4": "",
+        "path_5": "",
+        "taxis": "paratactic",
+    },
+    "or": {
+        "macro_category": "Extension",
+        "path_2": "Variation",
+        "path_3": "Alternative",
+        "path_4": "paratactic",
+        "path_5": "",
+        "taxis": "paratactic",
+    },
+}
+
 
 def add_feature_codes(df):
     df = df.copy()
@@ -24,6 +51,22 @@ def add_feature_codes(df):
     return df
 
 
+def apply_supported_coordination_precedence(supported):
+    supported = supported.copy()
+    for col in ["macro_category", "path_2", "path_3", "path_4", "path_5", "taxis"]:
+        supported[col] = supported[col].astype("object")
+    item = supported["detected_item"].astype(str).str.lower().str.strip()
+    for connector, values in SUPPORTED_COORDINATION_EXTENSION_OVERRIDES.items():
+        mask = (
+            item.eq(connector)
+            & supported["taxis"].astype(str).str.lower().eq("paratactic")
+            & supported["macro_category"].astype(str).eq("Enhancement")
+        )
+        for col, value in values.items():
+            supported.loc[mask, col] = value
+    return supported
+
+
 def main():
     cases = pd.read_csv(CASES_FILE, low_memory=False)
     texts = pd.read_csv(TEXT_COUNTS_FILE, low_memory=False)
@@ -32,6 +75,7 @@ def main():
         raise ValueError("Missing column: is_priming_supported")
 
     supported = cases[cases["is_priming_supported"] == 1].copy()
+    supported = apply_supported_coordination_precedence(supported)
     supported["analysis_level"] = "intra_sentential"
 
     counts = (

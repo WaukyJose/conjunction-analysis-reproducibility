@@ -27,6 +27,12 @@ PROBLEMATIC_MULTIFUNCTIONAL_FORMS = {
     "rather",
 }
 
+COORDINATION_PRECEDENCE = {
+    ("and", "Extension", "Addition"),
+    ("but", "Extension", "Adversative"),
+    ("or", "Extension", "Variation"),
+}
+
 DATASETS = {
     "EFCAMDAT": {
         "file": DATA_DIR / "efcamdat_v2_filtered.csv",
@@ -78,7 +84,22 @@ def load_intra_connectors():
     df = df[~df["connector_lower"].isin(risky_exact_exclusions)].copy()
 
     df["connector_len"] = df["connector_lower"].str.split().str.len()
-    df = df.sort_values(["connector_len", "connector_lower"], ascending=[False, True])
+    df["coordination_precedence"] = df.apply(
+        lambda row: 0
+        if (
+            row["connector_lower"],
+            row.get("path_1", ""),
+            row.get("path_2", ""),
+        )
+        in COORDINATION_PRECEDENCE
+        else 1,
+        axis=1,
+    )
+    df = df.sort_values(
+        ["connector_len", "connector_lower", "coordination_precedence"],
+        ascending=[False, True, True],
+        kind="mergesort",
+    )
 
     return df
 
