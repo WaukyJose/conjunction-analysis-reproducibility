@@ -44,3 +44,8 @@ data_clean/
 
 data_filtered/
 manuscript_review/
+# Local/manual validation working files
+validation/manual_precision_audit_annotated_cleaned.csv
+validation/manual_precision_audit_sample.csv
+validation/manual_precision_audit_sample_with_context.csv
+validation/manual_precision_audit_sample_with_context_ANNOTATED.csv
