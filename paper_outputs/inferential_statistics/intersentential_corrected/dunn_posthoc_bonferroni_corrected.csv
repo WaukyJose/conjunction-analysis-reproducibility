@@ -1,0 +1,7 @@
+variable,label,comparison,group_1,group_2,p_bonferroni,p_label
+inter_sentential_density,Inter-sentential density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,1.454291237086814e-150,< .001
+inter_sentential_density,Inter-sentential density,COREFL vs GiG,COREFL,GiG,5.5500695682017586e-21,< .001
+inter_sentential_density,Inter-sentential density,EFCAMDAT vs GiG,EFCAMDAT,GiG,8.954804074675923e-26,< .001
+inter_sentential_tokens,Inter-sentential tokens,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,0.0,< .001
+inter_sentential_tokens,Inter-sentential tokens,COREFL vs GiG,COREFL,GiG,0.023305721617175677,0.0233
+inter_sentential_tokens,Inter-sentential tokens,EFCAMDAT vs GiG,EFCAMDAT,GiG,0.0,< .001

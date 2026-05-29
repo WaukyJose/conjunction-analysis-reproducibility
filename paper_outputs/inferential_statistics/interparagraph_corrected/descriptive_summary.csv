@@ -1,0 +1,9 @@
+corpus,variable,label,n,mean,median,sd,min,max
+COREFL,interparagraph_density_per_1000,Inter-paragraph conjunction density,982,3.783774441514943,0.0,5.584690939558439,0.0,48.19277108433735
+COREFL,extension_percent,Extension relations (%),982,10.12050237610319,0.0,27.556605042675727,0.0,100.0
+COREFL,enhancement_percent,Enhancement relations (%),982,26.99253224711473,0.0,42.30477940262171,0.0,100.0
+COREFL,elaboration_percent,Elaboration relations (%),982,9.526476578411405,0.0,27.351765464321513,0.0,100.0
+GiG,interparagraph_density_per_1000,Inter-paragraph conjunction density,2371,2.711487083022707,0.0,6.236903642168378,0.0,81.63265306122449
+GiG,extension_percent,Extension relations (%),2371,14.495576942856571,0.0,32.95935005592648,0.0,100.0
+GiG,enhancement_percent,Enhancement relations (%),2371,20.608809392023222,0.0,38.78450052106352,0.0,100.0
+GiG,elaboration_percent,Elaboration relations (%),2371,5.216153521720793,0.0,19.69858638991514,0.0,100.0

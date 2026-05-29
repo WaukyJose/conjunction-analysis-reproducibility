@@ -1,0 +1,56 @@
+INTRA-SENTENTIAL INDEX VALIDATION STEP
+
+Purpose
+This step validated whether the intra-sentential indices were measuring the intended construct: within-sentence conjunctive relations, especially clause-linking relations associated with paratactic and hypotactic taxis.
+
+Validation design
+Two manually checked samples were used:
+
+1. Random text cases
+- 300 cases total.
+- 100 cases from COREFL.
+- 100 cases from EFCAMDAT.
+- 100 cases from GiG.
+- Purpose: estimate general validity of the intra-sentential parser across corpora.
+
+2. Risky item cases
+- 150 cases total.
+- Oversampled multifunctional/problematic connectors: and, as, but, or, since, so, then, when, while.
+- Purpose: test the most error-prone lexical items.
+
+Main findings
+Random text cases:
+- 300/300 rows annotated.
+- 69.0% of broad detections were valid.
+- Supported cases improved validity to 80.0%.
+- Supported cases improved clause-linking precision to 76.4% when clear and partially clause-like cases were combined.
+
+Risky item cases:
+- 150/150 rows annotated.
+- 62.7% of all risky detections were valid.
+- Supported risky cases showed very high validity: 96.9%.
+- Unsupported/broad risky cases showed much lower validity: 36.5%.
+
+Interpretation
+The validation confirms a clear distinction between the broad detection layer and the supported/primed layer.
+
+Broad layer:
+- Useful as exploratory evidence of general within-sentence connector presence.
+- Includes phrase-level coordination and other non-clause-linking cases.
+- Should be reported cautiously.
+
+Supported layer:
+- Much more reliable for clause-linking-oriented interpretation.
+- Should be used as the main inferential/statistical layer for intra-sentential analyses.
+
+Main false-positive types
+- and/or linking noun phrases, adjectives, names, or list items.
+- so used as an intensifier, e.g., “so cute”, “so much”, “so sorry”.
+- as in expressions such as “such as”, “as well”, “working as”, “considered as”.
+- then used in number sequences, sentence-final adverbials, or expressions such as “by then”.
+- while in noun phrases such as “a while”.
+- because of and after + noun phrase, where the connector does not introduce a finite clause.
+- token-boundary errors, e.g., and in “standing” or “husband”, or in “story/director/for”, as in “was/has”.
+
+Conclusion
+The intra-sentential validation supports using the supported/primed indices as the main validated indices for statistical interpretation. The broad indices may still be retained as exploratory descriptive measures, but they should not be interpreted as reliable clause-linking measures without the supported filter.

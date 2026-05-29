@@ -49,3 +49,6 @@ validation/manual_precision_audit_annotated_cleaned.csv
 validation/manual_precision_audit_sample.csv
 validation/manual_precision_audit_sample_with_context.csv
 validation/manual_precision_audit_sample_with_context_ANNOTATED.csv
+
+# Local stale backup from paper_outputs refresh
+paper_outputs_OLD_STALE_BACKUP/

@@ -1,0 +1,6 @@
+discourse_level,main_error_type,count
+inter_paragraph,wrong_function,4
+inter_paragraph,wrong_position,1
+inter_sentential,wrong_function,6
+intra_sentential,false_positive,19
+intra_sentential,wrong_position,3

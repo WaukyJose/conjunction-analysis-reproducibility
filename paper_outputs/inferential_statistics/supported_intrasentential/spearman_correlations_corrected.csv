@@ -1,0 +1,19 @@
+corpus,variable,label,rho,p,p_label,n,group_variable
+COREFL,conjunction_density,Conjunction density,-0.02698904391159166,0.11476638849532149,0.1148,3416,CEFR
+COREFL,parataxis_density,Parataxis density,-0.20742977490419157,1.6266641010256483e-34,< .001,3416,CEFR
+COREFL,hypotaxis_density,Hypotaxis density,0.21551881843916962,3.4657534448760676e-37,< .001,3416,CEFR
+COREFL,extension_density,Extension density,-0.24789681108965309,5.268127978407133e-49,< .001,3416,CEFR
+COREFL,enhancement_density,Enhancement density,0.12774441983341048,6.669869507982867e-14,< .001,3416,CEFR
+COREFL,elaboration_density,Elaboration density,0.2053283289555728,7.714348630079555e-34,< .001,3416,CEFR
+EFCAMDAT,conjunction_density,Conjunction density,0.10292337421092486,0.0,< .001,232565,CEFR
+EFCAMDAT,parataxis_density,Parataxis density,-0.048188782227330376,1.344549812619303e-119,< .001,232565,CEFR
+EFCAMDAT,hypotaxis_density,Hypotaxis density,0.25040635678358314,0.0,< .001,232565,CEFR
+EFCAMDAT,extension_density,Extension density,-0.0793903947183819,0.0,< .001,232565,CEFR
+EFCAMDAT,enhancement_density,Enhancement density,0.16988541263948037,0.0,< .001,232565,CEFR
+EFCAMDAT,elaboration_density,Elaboration density,0.32363569776332163,0.0,< .001,232565,CEFR
+GiG,conjunction_density,Conjunction density,0.016121623744522025,0.4037832728435665,0.4038,2684,school_year
+GiG,parataxis_density,Parataxis density,-0.15655316727181562,3.4296905305181383e-16,< .001,2684,school_year
+GiG,hypotaxis_density,Hypotaxis density,0.2478699705289576,7.292937014247661e-39,< .001,2684,school_year
+GiG,extension_density,Extension density,-0.04568717158784842,0.0179298297262616,0.0179,2684,school_year
+GiG,enhancement_density,Enhancement density,0.04247039996591213,0.02778944382628304,0.0278,2684,school_year
+GiG,elaboration_density,Elaboration density,0.3588028644044156,2.3454740164533943e-82,< .001,2684,school_year

@@ -1,0 +1,66 @@
+INTER-SENTENTIAL INDEX VALIDATION STEP
+
+Purpose
+This step validated whether the inter-sentential indices were measuring the intended construct: sentence-initial discourse markers that link the current sentence to the preceding discourse.
+
+Validation design
+A manually checked random sample was used:
+
+- 150 inter-sentential cases total.
+- 50 cases from COREFL.
+- 50 cases from EFCAMDAT.
+- 50 cases from GiG.
+
+The validation focused on four questions:
+
+1. Is the detected marker a valid inter-sentential marker?
+2. Does it link the current sentence to the previous discourse?
+3. Is the macro-category classification correct or at least acceptable?
+4. Are unsupported/broad detections still interpretable?
+
+Manual annotation columns
+The following manual columns were added to the validation workbook:
+
+- manual_valid_intersentential
+- manual_discourse_linking
+- manual_macro_correct
+- manual_notes
+
+Main findings
+Random inter-sentential sample:
+
+- 150/150 rows annotated.
+- Valid inter-sentential detections: 100%.
+- Valid discourse-linking cases: 100%.
+- Macro-category correct or acceptable: 100%.
+- Supported subset: 148/150 cases.
+- Unsupported/broad subset: 2/150 cases.
+
+Interpretation
+The inter-sentential parser is substantially more stable than the intra-sentential parser because detection is restricted to sentence-initial discourse-marker sequences.
+
+Sentence-initial position greatly reduces the main false-positive problems found in the intra-sentential layer, especially:
+
+- phrase-level coordination;
+- adjective/noun-list coordination;
+- token-boundary errors;
+- intensifier uses such as so + adjective;
+- non-clausal uses of multifunctional markers.
+
+The random sample also included several potentially risky or multifunctional markers, including:
+
+- but
+- so
+- then
+- while
+- if
+- however
+- also
+- finally
+
+These were judged valid when they occurred in sentence-initial discourse-linking position.
+
+Conclusion
+The inter-sentential validation supports using the inter-sentential indices as validated discourse-level cohesion measures. Unlike the intra-sentential indices, the inter-sentential indices do not require the same strong distinction between broad and supported layers for interpretation, because the position-sensitive sentence-initial filter already removes most low-level false positives.
+
+However, stance-like or low-confidence adverbials, such as perhaps, maybe, sadly, surprisingly, or similar items, should still be interpreted cautiously as broad discourse-organisational or evaluative markers rather than strong logical conjunctions.

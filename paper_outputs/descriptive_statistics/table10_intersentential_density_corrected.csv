@@ -1,0 +1,4 @@
+corpus,texts,conjunction_tokens,mean_density_per_1000_words,zero_density_rows_included,nonzero_rows,total_words,min_word_count,min_sentence_count,zero_sentence_rows
+COREFL,3416,6674,11.186707365240718,806,2610,579063,50,1,0
+EFCAMDAT,232565,175238,8.714498392916262,133352,99213,18824590,50,1,0
+GiG,2684,5763,7.907054185848437,774,1910,739334,50,1,0

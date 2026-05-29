@@ -1,0 +1,4 @@
+corpus,variable,label,rho,p,p_label,n,group_variable
+COREFL,inter_sentential_density,Inter-sentential density,0.05198354953046613,0.0023720544081300135,0.0024,3416,CEFR
+EFCAMDAT,inter_sentential_density,Inter-sentential density,0.2215457614068473,0.0,< .001,232565,CEFR
+GiG,inter_sentential_density,Inter-sentential density,0.05984158809167795,0.0019249816724403468,0.0019,2684,school_year

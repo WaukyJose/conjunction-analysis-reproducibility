@@ -1,9 +1,0 @@
-Corpus,Variable,rho,p,n
-COREFL,Conjunction density,-0.275,< .001,458
-COREFL,Extension relations (%),0.058,0.2147,458
-COREFL,Enhancement relations (%),0.087,0.0642,458
-COREFL,Elaboration relations (%),-0.161,< .001,458
-GiG,Conjunction density,-0.358,< .001,1153
-GiG,Extension relations (%),0.281,< .001,1153
-GiG,Enhancement relations (%),-0.353,< .001,1153
-GiG,Elaboration relations (%),0.183,< .001,1153

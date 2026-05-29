@@ -1,0 +1,19 @@
+variable,label,comparison,group_1,group_2,p_bonferroni,p_label
+conjunction_density,Conjunction density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,0.0,< .001
+conjunction_density,Conjunction density,COREFL vs GiG,COREFL,GiG,1.7903733947150633e-82,< .001
+conjunction_density,Conjunction density,EFCAMDAT vs GiG,EFCAMDAT,GiG,1.2666558076096034e-69,< .001
+parataxis_density,Parataxis density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,3.809820704957934e-134,< .001
+parataxis_density,Parataxis density,COREFL vs GiG,COREFL,GiG,1.7697517350051205e-77,< .001
+parataxis_density,Parataxis density,EFCAMDAT vs GiG,EFCAMDAT,GiG,0.01079233826636774,0.0108
+hypotaxis_density,Hypotaxis density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,0.0,< .001
+hypotaxis_density,Hypotaxis density,COREFL vs GiG,COREFL,GiG,6.877057068116095e-20,< .001
+hypotaxis_density,Hypotaxis density,EFCAMDAT vs GiG,EFCAMDAT,GiG,3.541090587885277e-262,< .001
+extension_density,Extension density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,5.811584099625615e-52,< .001
+extension_density,Extension density,COREFL vs GiG,COREFL,GiG,1.0997435379141916e-36,< .001
+extension_density,Extension density,EFCAMDAT vs GiG,EFCAMDAT,GiG,0.0020635327564204396,0.0021
+enhancement_density,Enhancement density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,0.0,< .001
+enhancement_density,Enhancement density,COREFL vs GiG,COREFL,GiG,1.1479279262154664e-09,< .001
+enhancement_density,Enhancement density,EFCAMDAT vs GiG,EFCAMDAT,GiG,2.901447611964058e-204,< .001
+elaboration_density,Elaboration density,COREFL vs EFCAMDAT,COREFL,EFCAMDAT,0.0,< .001
+elaboration_density,Elaboration density,COREFL vs GiG,COREFL,GiG,1.451686674535328e-52,< .001
+elaboration_density,Elaboration density,EFCAMDAT vs GiG,EFCAMDAT,GiG,0.0,< .001

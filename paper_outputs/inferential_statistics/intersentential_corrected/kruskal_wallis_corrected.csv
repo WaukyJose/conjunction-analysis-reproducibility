@@ -1,0 +1,3 @@
+variable,label,H,df,p,p_label,epsilon_squared,n
+inter_sentential_density,Inter-sentential density,790.5948311405681,2,2.1111238260794077e-172,< .001,0.003312585187294976,238665
+inter_sentential_tokens,Inter-sentential tokens,3715.3141176270033,2,0.0,< .001,0.015567132527850884,238665

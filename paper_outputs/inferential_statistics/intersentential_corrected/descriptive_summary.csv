@@ -1,0 +1,7 @@
+corpus,variable,label,n,mean,median,sd,zero_rows
+COREFL,inter_sentential_density,Inter-sentential density,3416,11.186707365240718,10.20408163265306,9.505599480376123,806
+COREFL,inter_sentential_tokens,Inter-sentential tokens,3416,1.9537470725995316,1.0,1.9668327459405064,806
+EFCAMDAT,inter_sentential_density,Inter-sentential density,232565,8.714498392916262,0.0,12.852339201137347,133352
+EFCAMDAT,inter_sentential_tokens,Inter-sentential tokens,232565,0.7535011717154344,0.0,1.1169738559581466,133352
+GiG,inter_sentential_density,Inter-sentential density,2684,7.907054185848437,6.024096385542169,9.007602072330204,774
+GiG,inter_sentential_tokens,Inter-sentential tokens,2684,2.1471684053651265,1.0,2.4359762010610773,774

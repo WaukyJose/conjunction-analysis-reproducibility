@@ -1,0 +1,2 @@
+status,reason
+not_applicable,"Only two corpora remain after excluding EFCAMDAT; Kruskal-Wallis has a single COREFL-GiG contrast, so Dunn posthoc tests are unnecessary."

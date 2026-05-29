@@ -1,0 +1,70 @@
+INTER-PARAGRAPH INDEX VALIDATION STEP
+
+Purpose
+This step validated whether the inter-paragraph indices were measuring the intended construct: paragraph-initial discourse markers that link the current paragraph to the preceding paragraph or wider discourse context.
+
+Validation design
+A manually checked random sample was used:
+
+- 100 inter-paragraph cases total.
+- 50 cases from COREFL.
+- 50 cases from GiG.
+- EFCAMDAT was excluded because paragraph boundaries are not preserved in the filtered source data.
+
+The validation focused on four questions:
+
+1. Is the detected marker a valid paragraph-initial discourse marker?
+2. Does it link the current paragraph to the previous paragraph or wider discourse?
+3. Is the macro-category classification correct or at least acceptable?
+4. Are the detected cases suitable for interpretation as paragraph-level cohesion markers?
+
+Manual annotation columns
+The following manual columns were added to the validation workbook:
+
+- manual_valid_interparagraph
+- manual_paragraph_linking
+- manual_macro_correct
+- manual_notes
+
+Main findings
+Random inter-paragraph sample:
+
+- 100/100 rows annotated.
+- Valid inter-paragraph detections: 100%.
+- Valid paragraph-linking cases: 100%.
+- Macro-category correct or acceptable: 100%.
+- Supported subset: 100/100 cases.
+- Unsupported/broad subset: 0/100 cases.
+
+By corpus:
+
+- COREFL: 50/50 valid detections; 100% paragraph-linking; 100% macro-category correct or acceptable.
+- GiG: 50/50 valid detections; 100% paragraph-linking; 100% macro-category correct or acceptable.
+
+Interpretation
+The inter-paragraph parser is the most constrained and stable of the three discourse-level layers because detection is restricted to paragraph-initial discourse-marker sequences in texts with preserved paragraph boundaries.
+
+This position-sensitive design greatly reduces the main false-positive problems found in the intra-sentential layer, especially:
+
+- phrase-level coordination;
+- adjective/noun-list coordination;
+- token-boundary errors;
+- intensifier uses;
+- non-clausal uses of multifunctional markers.
+
+The validation sample included a range of paragraph-initial markers, including:
+
+- additive markers: also, furthermore, additionally, another, and
+- adversative/concessive markers: but, however, although, despite, on the other hand
+- temporal/sequential markers: first, then, finally, after that, later, later on, at first, in the end
+- causal/result markers: because of this, consequently, so
+- summative markers: overall, in conclusion, to conclude
+- conditional markers: if
+- broader temporal frames: earlier that day, later life, throughout, the next morning
+
+Some broad organisational cases, such as section-heading-like temporal phrases or paragraph-initial frames after headings, were judged acceptable rather than strongly discourse-linking. These cases remain interpretable as paragraph-level organisation markers, but they should be discussed cautiously.
+
+Conclusion
+The inter-paragraph validation supports using the inter-paragraph indices as validated paragraph-level cohesion measures for COREFL and GiG. EFCAMDAT should not be included in paragraph-level analyses because paragraph boundaries are not reliably preserved.
+
+The validation confirms high precision for detected paragraph-initial markers. However, it does not estimate recall, because undetected paragraph-level cohesive links were not manually searched.
